@@ -9,6 +9,7 @@ from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from app.config import settings
 from app.content_db import get_interpretation, SIGN_NAMES
+from app.advanced_content_db import get_advanced_module
 from app.stripe_router import router as stripe_router
 
 # --- RATE LIMITING ---
@@ -86,6 +87,14 @@ class SinastryRequest(BaseModel):
     p2_hour: float
     p2_lat: float
     p2_lon: float
+
+class ModuleRequest(BaseModel):
+    year: int
+    month: int
+    day: int
+    hour: float
+    lat: float
+    lon: float
 
 class TransitScoreRequest(BaseModel):
     user_year: int
@@ -589,6 +598,89 @@ def calculate_decision_windows(request: Request, req: DecisionWindowRequest, use
             "metadata": {"engine": "Decision Window Planner", "goal_evaluated": req.goal_type},
             "data": {
                 "top_recommended_dates": best_days[:5] # Devolver las mejores 5 ventanas
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/karmic-wound")
+@limiter.limit("5/minute")
+def calculate_karmic_wound(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """
+    MÓDULO 2 & 3: Decodificador de Heridas Kármicas y Propósito (Chiron & North Node).
+    """
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        
+        # Quirón (Usando epemérides de moshier para evitar dependencias de archivos externos en MVP)
+        pos_chiron, _ = swe.calc_ut(jd, swe.CHIRON, swe.FLG_MOSEPH)
+        sign_idx_chiron = int(pos_chiron[0] / 30)
+        
+        # Nodo Norte (True Node)
+        pos_node, _ = swe.calc_ut(jd, swe.TRUE_NODE, swe.FLG_MOSEPH)
+        sign_idx_node = int(pos_node[0] / 30)
+        
+        wound_text = get_advanced_module("Chiron_Wound", sign_idx_chiron)
+        healing_text = get_advanced_module("Chiron_Healing", sign_idx_chiron)
+        purpose_text = get_advanced_module("North_Node", sign_idx_node)
+        
+        return {
+            "status": "success",
+            "metadata": {"engine": "Karmic Wound & Soul Purpose (Módulos 2 & 3)"},
+            "data": {
+                "chiron": {
+                    "sign": SIGN_NAMES[sign_idx_chiron],
+                    "core_wound": wound_text,
+                    "healing_path": healing_text
+                },
+                "north_node": {
+                    "sign": SIGN_NAMES[sign_idx_node],
+                    "soul_evolution_path": purpose_text
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/wealth-blueprint")
+@limiter.limit("5/minute")
+def calculate_wealth_blueprint(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """
+    MÓDULO 7: Arquitectura de la Riqueza (Jupiter & Saturn mechanics).
+    """
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        
+        pos_jup, _ = swe.calc_ut(jd, swe.JUPITER, 258)
+        sign_idx_jup = int(pos_jup[0] / 30)
+        
+        pos_sat, _ = swe.calc_ut(jd, swe.SATURN, 258)
+        sign_idx_sat = int(pos_sat[0] / 30)
+        
+        wealth_text = get_advanced_module("Jupiter_Wealth", sign_idx_jup)
+        
+        # Saturn acts as the financial block or required discipline
+        saturn_blocks = [
+            "Miedo a emprender solo, dependencia emocional financiera.", "Apego a la pobreza, miedo a perder lo que se tiene.",
+            "Incapacidad de retener conocimiento, venta barata de ideas.", "Miedo irracional a no poder alimentar a la familia.",
+            "Miedo a apostar por uno mismo, síndrome del impostor creativo.", "Parálisis por análisis, perfeccionismo que evita el lanzamiento.",
+            "Incapacidad de asociarse, desconfianza crónica en socios.", "Miedo a la deuda, a inversiones riesgosas pero necesarias.",
+            "Falta de visión a largo plazo, limitación a mercados muy locales.", "Exceso de responsabilidad corporativa que ahoga el salto independiente.",
+            "Rebeldía contra el sistema del dinero, boicoteando el éxito por ideals.", "Evasión de la realidad material, victimismo financiero ilusorio."
+        ]
+        
+        return {
+            "status": "success",
+            "metadata": {"engine": "Wealth Blueprint (Módulo 7)"},
+            "data": {
+                "jupiter_expansion": {
+                    "sign": SIGN_NAMES[sign_idx_jup],
+                    "wealth_strategy": wealth_text
+                },
+                "saturn_blockage": {
+                    "sign": SIGN_NAMES[sign_idx_sat],
+                    "financial_sabotage_pattern": saturn_blocks[sign_idx_sat]
+                }
             }
         }
     except Exception as e:

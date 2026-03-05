@@ -188,3 +188,62 @@ Content-Type: application/json
 
 ---
 **CTO Note:** Cumplir esto = 10 landings de Lovable integradas en 1 hora.
+
+## 6. MÓDULO 2 & 3: Decodificador de Heridas Kármicas (Karmic Wound & Soul Purpose)
+**Descripción:** Calcula la posición de Quirón (Herida Central) y el Nodo Norte (Evolución del Alma) usando efemérides Moshier e inyecta la interpretación arquetípica avanzada.
+**Endpoint:** `/api/karmic-wound`
+**Método:** `POST`
+**Autorización:** Requerida (Bearer Token)
+**Rate Limit:** 5/minute
+
+**Request Payload:**
+```json
+{
+  "year": 1990,
+  "month": 5,
+  "day": 15,
+  "hour": 14.5,
+  "lat": 40.7128,
+  "lon": -74.0060
+}
+```
+
+**Response (Success - 200 OK):**
+```json
+{
+  "status": "success",
+  "metadata": {
+    "engine": "Karmic Wound & Soul Purpose (Módulos 2 & 3)"
+  },
+  "data": {
+    "chiron": {
+      "sign": "Cancer",
+      "core_wound": "La Herida del Abandono y el Hogar...",
+      "healing_path": "Sanas creando 'Hogares Sagrados'..."
+    },
+    "north_node": {
+      "sign": "Aquarius",
+      "soul_evolution_path": "Tu alma evolucionará cuando dejes la necesidad de aprobación aplaudida (Leo)..."
+    }
+  }
+}
+```
+
+## 7. MÓDULO 7: Arquitectura de la Riqueza (Wealth Blueprint)
+**Descripción:** Calcula la posición de Júpiter (Expansión) y Saturno (Bloqueos) para generar la estrategia financiera y el patrón de autosabotaje del usuario.
+**Endpoint:** `/api/wealth-blueprint`
+**Método:** `POST`
+**Autorización:** Requerida (Bearer Token)
+**Rate Limit:** 5/minute
+
+**Request Payload:**
+```json
+{
+  "year": 1990,
+  "month": 5,
+  "day": 15,
+  "hour": 14.5,
+  "lat": 40.7128,
+  "lon": -74.0060
+}
+```
