@@ -812,3 +812,76 @@ def calculate_shadow_talents(request: Request, req: ModuleRequest, user: dict = 
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/sun-purpose")
+@limiter.limit("5/minute")
+def calculate_sun_purpose(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 1: Propósito del Sol y Arquetipo Central (Sun-Sign Psychology)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_sun, _ = swe.calc_ut(jd, swe.SUN, swe.FLG_MOSEPH)
+        sign_idx = int(pos_sun[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {"engine": "Sun Purpose Archetype (Módulo 1)"},
+            "data": {
+                "sun": {
+                    "sign": SIGN_NAMES[sign_idx],
+                    "archetype": get_advanced_module("Sun_Archetype", sign_idx),
+                    "core_purpose": get_advanced_module("Sun_Purpose", sign_idx),
+                    "ego_shadow": get_advanced_module("Sun_Shadow", sign_idx)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/ascendant-mask")
+@limiter.limit("5/minute")
+def calculate_ascendant_mask(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 15: Máscara Social y Primera Impresión (Ascendant / Rising Sign)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        # Calculate houses using Placidus system to get the Ascendant
+        asc_result = swe.houses(jd, req.lat, req.lon, b'P')
+        asc_degree = asc_result[1][0]  # First element of cusps_asc is ASC
+        sign_idx = int(asc_degree / 30)
+        return {
+            "status": "success",
+            "metadata": {"engine": "Ascendant Social Mask (Módulo 15)"},
+            "data": {
+                "ascendant": {
+                    "sign": SIGN_NAMES[sign_idx],
+                    "degree": round(asc_degree % 30, 2),
+                    "social_mask": get_advanced_module("Ascendant_Mask", sign_idx),
+                    "natural_gift": get_advanced_module("Ascendant_Gift", sign_idx),
+                    "blind_spot": get_advanced_module("Ascendant_Blind_Spot", sign_idx)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/saturn-return")
+@limiter.limit("5/minute")
+def calculate_saturn_return(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 16: Guía del Retorno de Saturno (Los Años del Juicio)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_sat, _ = swe.calc_ut(jd, swe.SATURN, swe.FLG_MOSEPH)
+        sign_idx = int(pos_sat[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {"engine": "Saturn Return Guide (Módulo 16)"},
+            "data": {
+                "saturn": {
+                    "sign": SIGN_NAMES[sign_idx],
+                    "return_age_window": "28-31 años (1er Retorno) | 57-60 años (2do Retorno)",
+                    "core_challenge": get_advanced_module("Saturn_Return_Challenge", sign_idx),
+                    "growth_opportunity": get_advanced_module("Saturn_Return_Opportunity", sign_idx),
+                    "integration_mantra": get_advanced_module("Saturn_Return_Mantra", sign_idx)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

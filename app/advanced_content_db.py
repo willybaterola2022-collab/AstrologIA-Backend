@@ -157,3 +157,98 @@ def get_advanced_module(module_name: str, sign_index: int) -> str:
     elif module_name == "House12_Shadow_Talent":
         return HOUSE_12_SHADOW_TALENTS.get(sign_index, "")
     return ""
+
+# SUN (Arquetipo de Propósito y Esencia — El SO del Ego)
+SUN_PURPOSE = {
+    0: {"archetype": "El Guerrero Pionero", "purpose": "Tu existencia tiene sentido cuando inicias lo que otros temen comenzar. Eres el punto cero de la historia. Tu expresión vital más alta es el coraje de arrancar solo.", "shadow": "El ego que lucha por luchar, sin dirección real. El líder que se cansa de sus propios proyectos a la mitad."},
+    1: {"archetype": "El Constructor Paciente", "purpose": "Tu esencia brilla cuando construyes algo duradero y tangible. El tiempo es tu mejor aliado. No eres un sprinter, eres un maratonista que llega a la meta cuando todos se rindieron.", "shadow": "La obstinación que confunde lealtad con miedo al cambio. La acumulación material que llena el vacío espiritual."},
+    2: {"archetype": "El Mensajero del Universo", "purpose": "Tu propósito es conectar mundos, ideas y personas que de otra manera nunca se hubieran encontrado. Eres el puente. Tu don es la palabra, la síntesis y la curiosidad incansable.", "shadow": "La dispersión que inicia sin terminar. El manipulador de información que usa el conocimiento como poder."},
+    3: {"archetype": "El Guardián del Alma", "purpose": "Tu esencia se activa cuando proteges, nutres y construyes contenedores emocionales seguros para otros. Eres la madre y el padre del universo.", "shadow": "La dependencia emocional que sofoca. El cuidador que da tanto para no mirar su propio vacío interior."},
+    4: {"archetype": "El Rey/Reina Solar", "purpose": "Tu propósito es irradiar luz, creatividad y generosidad. Eres el Sol en persona: cuando brillas de forma auténtica, iluminas todo a tu alrededor. El escenario te pertenece.", "shadow": "La vanidad que ciega. El niño herido que necesita aplausos constantes para sentirse real."},
+    5: {"archetype": "El Alquimista del Orden", "purpose": "Tu esencia se activa cuando conviertes el caos en sistemas funcionales y bellos. Eres la inteligencia organizativa del universo. Tu servicio preciso es tu medicina para el mundo.", "shadow": "El perfeccionismo paralizante que critica sin construir. La neurosis que convierte el orden en jaula."},
+    6: {"archetype": "El Árbitro Divino", "purpose": "Tu propósito es encarnar la justicia, la belleza y el equilibrio. Eres el espejo en el que los otros se ven. Tu relación 1-a-1 es tu altar sagrado.", "shadow": "La indecisión crónica que evita tomar partido para no perder a nadie. La co-dependencia que se disfraza de amor."},
+    7: {"archetype": "El Fénix", "purpose": "Tu esencia más alta es la transformación radical. Naciste para morir y renacer de tus cenizas múltiples veces. Tu propósito es descender al inframundo humano para traer luz desde la oscuridad.", "shadow": "El controlador obsesivo que destruye lo que ama por miedo a perderlo. La manipulación inconsciente que se disfraza de intensidad."},
+    8: {"archetype": "El Filósofo Arquero", "purpose": "Tu propósito es expandir los límites de lo conocido. La verdad, la sabiduría y la aventura son tu combustible. Eres el maestro que enseña desde la experiencia vivida, no desde los libros.", "shadow": "El fanático que predica su verdad como si fuera la única. El eterno estudiante que nunca aplica lo que sabe."},
+    9: {"archetype": "El Arquitecto de Civilizaciones", "purpose": "Tu esencia se activa cuando construyes instituciones, legados y estructuras que sobreviven al tiempo. No viniste a vivir para ti; viniste a construir para los que vendrán después.", "shadow": "El controlador frío que confunde el logro con el amor. El escalador sin escrúpulos que justifica el daño colateral."},
+    10: {"archetype": "El Visionario Rebelde", "purpose": "Tu propósito es romper los sistemas que ya no sirven a la humanidad y diseñar los nuevos. Eres el hereje sagrado, el disruptor necesario, el pionero del futuro.", "shadow": "El rebelde sin causa que destruye por destruir. El que se diferencia tanto que acaba solo."},
+    11: {"archetype": "El Cristo Cósmico", "purpose": "Tu esencia más alta es la compasión sin fronteras. Eres el sanador y el soñador del colectivo. Tu propósito es disolcerte en el Todo y traer de vuelta la medicina que la humanidad necesita.", "shadow": "El mártir que se sacrifica sin discernimiento. La víctima que usa el dolor como moneda de poder."}
+}
+
+# ASCENDANT (Máscara Social y Primera Impresión — El Traje del Alma)
+ASCENDANT_MASK = {
+    0: {"social_mask": "Proyectas energía, asertividad y un aura de líder nato. La gente te ve como alguien directo, competitivo y que sabe lo que quiere.", "gift": "Abres puertas con sola tu presencia. Inspiras acción en los demás.", "blind_spot": "La gente a veces te percibe como impulsivo o agresivo antes de conocer tu corazón."},
+    1: {"social_mask": "Proyectas calma, fiabilidad y sensualidad terrenal. La gente te percibe como alguien sólido, estable y de confianza.", "gift": "Tu presencia transmite seguridad. Los demás se relajan cuando estás.", "blind_spot": "Pueden perciberte como lento, materialista o difícil de cambiar."},
+    2: {"social_mask": "Proyectas inteligencia, curiosidad y humor. La gente te percibe como brillante, comunicativo y versátil.", "gift": "Tu energía intelectual activa la mente de todos a tu alrededor.", "blind_spot": "Pueden perciberte como superficial o inconstante antes de verte la profundidad."},
+    3: {"social_mask": "Proyectas ternura, receptividad y una calidez hogareña. La gente te percibe como empático, seguro y nutritivo.", "gift": "Creas espacios emocionalmente seguros sin esfuerzo aparente.", "blind_spot": "Pueden perciberte como demasiado sensible, dependiente o con límites poco claros."},
+    4: {"social_mask": "Proyectas carisma, teatro y una confianza solar magnética. La gente te percibe como alguien especial, dramático y natural en el centro.", "gift": "Iluminas cualquier espacio con solo entrar. Tu presencia levanta el ánimo colectivo.", "blind_spot": "Pueden perciberte como arrogante, egocéntrico o necesitado de atención constante."},
+    5: {"social_mask": "Proyectas competencia, pulcritud y un aura de perfeccionista fiable. La gente te percibe como alguien analítico, organizado y útil.", "gift": "Tu atención al detalle inspira confianza en entornos profesionales y técnicos.", "blind_spot": "Pueden perciberte como frío, crítico o difícil de complacer."},
+    6: {"social_mask": "Proyectas elegancia, diplomacia y belleza natural. La gente te percibe como equilibrado, refinado y agradable de trato.", "gift": "Armonizas el ambiente sin intentarlo. Proyectas una sofisticación que atrae alianzas.", "blind_spot": "Pueden perciberte como indeciso, superficial o demasiado conciliador para tener posición propia."},
+    7: {"social_mask": "Proyectas misterio, intensidad y un magnetismo animal hispótico. La gente te percibe como profundo, peligroso (en el sentido atractivo) y con secretos.", "gift": "Tu presencia activa el inconsciente de los otros. Eres irresistible sin decir una palabra.", "blind_spot": "Pueden perciberte como manipulador, hermético o emocionalmente inaccesible."},
+    8: {"social_mask": "Proyectas aventura, filosofía y un optimismo expansivo. La gente te percibe como libre, inspirador y eternamente en movimiento.", "gift": "Tu energía abre horizontes y da esperanza en los espacios donde estás.", "blind_spot": "Pueden perciberte como irresponsable, exagerado o incapaz de comprometerte con algo."},
+    9: {"social_mask": "Proyectas autoridad, madurez y una seriedad que inspira respeto inmediato. La gente te percibe como alguien que ya 'llegó' al lugar donde otros quieren estar.", "gift": "Tu presencia transmite poder y resultado. Los demás te otorgan liderazgo sin que lo pidas.", "blind_spot": "Pueden perciberte como frío, distante o demasiado ambicioso para ser espontáneo."},
+    10: {"social_mask": "Proyectas originalidad, desapego y una energía de otro planeta. La gente te percibe como único, creativo e impredecible.", "gift": "Tu aura disrupta el status quo de cualquier grupo de forma magnética.", "blind_spot": "Pueden perciberte como excéntrico, inestable o emocionalmente frío."},
+    11: {"social_mask": "Proyectas suavidad, misticismo y una gentileza que desarma a los más duros. La gente te percibe como etéreo, compasivo y con algo difícil de definir.", "gift": "Tu presencia cura sin hablar. Las personas se confiesan contigo sin saber por qué.", "blind_spot": "Pueden perciberte como débil, evasivo o sin dirección clara."}
+}
+
+# SATURN RETURN (La Gran Purga de Madurez — Los Años del Juicio)
+SATURN_RETURN_GUIDE = {
+    0: {"age_window": "28-31 años", "challenge": "El universo te obliga a redefinir cómo lideras e inicias. Las decisiones impulsivas del pasado llegan con factura. Debes dejar de reaccionar y empezar a gobernar.", "opportunity": "Aries: tu Retorno de Saturno te convierte en el fundador maduro. Si superas la impulsividad, emerges como el emprendedor con fuego Y estrategia.", "mantra": "De guerrero a General."},
+    1: {"age_window": "28-31 años", "challenge": "El universo te forcejea a revisar tu relación con el dinero, la seguridad y el placer. Lo que acumulabas por miedo ahora se rearma o se pierde.", "opportunity": "Tauro: tu Retorno es una prueba de valores. Aprendes que la seguridad genuina viene de adentro, no del banco.", "mantra": "De acumulador a Creador de valor real."},
+    2: {"age_window": "28-31 años", "challenge": "El caos mental y la dispersión de tus 20s pasan factura. El universo te pide que elijas UNA dirección comunicativa y la profundices.", "opportunity": "Géminis: tu Retorno te convierte en el escritor, analista o comunicador de autoridad real. Dejas de saber todo superficialmente y empiezas a dominar un campo.", "mantra": "De saltador a Maestro del lenguaje."},
+    3: {"age_window": "28-31 años", "challenge": "Crisis en el hogar (físico o emocional). Revisión radical de los lazos familiares y el concepto de 'pertenencia'. Posible separación necesaria o fundación de un hogar propio.", "opportunity": "Cáncer: tu Retorno te convierte en el padre/madre consciente de ti mismo. Aprendes a nutrirte antes de nutrir.", "mantra": "De hijo dependiente a Guardián autónomo."},
+    4: {"age_window": "28-31 años", "challenge": "Crisis de identidad creativa. La máscara de 'exitoso' ante los demás se fisura. El universo te exige autenticidad brutal sobre tus verdaderos talentos.", "opportunity": "Leo: tu Retorno te quema el ego falso y revela al artista o líder genuino que hay debajo. El aplauso externo pierde importancia.", "mantra": "De actor a Autor de tu vida."},
+    5: {"age_window": "28-31 años", "challenge": "Colapso de sistemas de trabajo o salud que habías ignorado. La hiperproductividad insostenible llega a su límite estructural.", "opportunity": "Virgo: tu Retorno te impone ritmos sostenibles y una relación honesta con el cuerpo. Aprendes que la perfección es el enemigo del progreso.", "mantra": "De esclavo del sistema a Arquitecto del equilibrio."},
+    6: {"age_window": "28-31 años", "challenge": "Crisis en relaciones clave (pareja, socios). Las alianzas construidas por necesidad o miedo se desmoronan. El universo te exige aprender a negociar desde la plenitud.", "opportunity": "Libra: tu Retorno te enseña a relacionarte como un adulto interdependiente, no como un complementario dependiente.", "mantra": "De espejo roto a Árbitro soberano."},
+    7: {"age_window": "28-31 años", "challenge": "Crisis de poder, control e intimidad. Dinámicas de codependencia tóxica explotan. Posible quiebre de estructuras financieras compartidas o vínculos obsesivos.", "opportunity": "Escorpio: tu Retorno es una muerte inicitica. Sales del proceso como un fénix con poder real, no control miedo.", "mantra": "De manipulador a Alquimista del alma."},
+    8: {"age_window": "28-31 años", "challenge": "Crisis de sentido filosófico. El mapa de creencias con el que operabas ya no funciona. El universo te fuerza a actualizar tu paradigma de vida.", "opportunity": "Sagitario: tu Retorno te convierte en el maestro que ha vivido lo que enseña, no el teórico. La sabiduría real reemplaza al dogma.", "mantra": "De predicador a Sabio viajero."},
+    9: {"age_window": "28-31 años", "challenge": "El peso de las ambiciones prematuras aplasta. La estructura que construiste para los demás (no para ti) colapsa o revela sus grietas.", "opportunity": "Capricornio: tu Retorno natal es el más poderoso de todos. Saturno vuelve a casa. El universo te otorga máxima responsabilidad a cambio de que abandones el control compulsivo.", "mantra": "De ejecutor a Arquitecto de legados con alma."},
+    10: {"age_window": "28-31 años", "challenge": "Crisis de identidad en el colectivo. Los grupos y amistades que te definan ya no vibran en tu frecuencia. El universo te pide que dejes de pertenecer para empezar a liderar.", "opportunity": "Acuario: tu Retorno te activa como el visionario que crea sistemas nuevos en vez de criticar los viejos.", "mantra": "De rebelde reactivo a Arquitecto de futuros."},
+    11: {"age_window": "28-31 años", "challenge": "Crisis espiritual o de límites psicológicos. El sacrificio continuo sin discernimiento drena la energía vital. La fuga hacia mundos imaginarios ya no es suficiente.", "opportunity": "Piscis: tu Retorno te forza a encarnar. La compasión sin estructura se convierte en compasión con propósito.", "mantra": "De disuelto a Canal del cosmos con raíces."}
+}
+
+def get_advanced_module(module_name: str, sign_index: int) -> str:
+    if module_name == "Chiron_Wound":
+        return CHIRON_ADVANCED.get(sign_index, {}).get("wound", "")
+    elif module_name == "Chiron_Healing":
+        return CHIRON_ADVANCED.get(sign_index, {}).get("healing", "")
+    elif module_name == "North_Node":
+        return NORTH_NODE_ADVANCED.get(sign_index, "")
+    elif module_name == "Jupiter_Wealth":
+        return JUPITER_WEALTH.get(sign_index, "")
+    elif module_name == "Venus_Profile":
+        return VENUS_PROFILE.get(sign_index, "")
+    elif module_name == "Mars_Pluto_Friction":
+        return MARS_PLUTO_FRICTION.get(sign_index, "")
+    elif module_name == "Moon_Core_Emotion":
+        return MOON_CONDITIONING.get(sign_index, {}).get("core_emotion", "")
+    elif module_name == "Moon_Childhood":
+        return MOON_CONDITIONING.get(sign_index, {}).get("childhood_pattern", "")
+    elif module_name == "Moon_Healing":
+        return MOON_CONDITIONING.get(sign_index, {}).get("healing", "")
+    elif module_name == "Mercury_Thinking":
+        return MERCURY_OS.get(sign_index, {}).get("thinking_style", "")
+    elif module_name == "Mercury_Communication":
+        return MERCURY_OS.get(sign_index, {}).get("communication", "")
+    elif module_name == "Mercury_B2B":
+        return MERCURY_OS.get(sign_index, {}).get("b2b_hack", "")
+    elif module_name == "House12_Shadow_Talent":
+        return HOUSE_12_SHADOW_TALENTS.get(sign_index, "")
+    elif module_name == "Sun_Archetype":
+        return SUN_PURPOSE.get(sign_index, {}).get("archetype", "")
+    elif module_name == "Sun_Purpose":
+        return SUN_PURPOSE.get(sign_index, {}).get("purpose", "")
+    elif module_name == "Sun_Shadow":
+        return SUN_PURPOSE.get(sign_index, {}).get("shadow", "")
+    elif module_name == "Ascendant_Mask":
+        return ASCENDANT_MASK.get(sign_index, {}).get("social_mask", "")
+    elif module_name == "Ascendant_Gift":
+        return ASCENDANT_MASK.get(sign_index, {}).get("gift", "")
+    elif module_name == "Ascendant_Blind_Spot":
+        return ASCENDANT_MASK.get(sign_index, {}).get("blind_spot", "")
+    elif module_name == "Saturn_Return_Challenge":
+        return SATURN_RETURN_GUIDE.get(sign_index, {}).get("challenge", "")
+    elif module_name == "Saturn_Return_Opportunity":
+        return SATURN_RETURN_GUIDE.get(sign_index, {}).get("opportunity", "")
+    elif module_name == "Saturn_Return_Mantra":
+        return SATURN_RETURN_GUIDE.get(sign_index, {}).get("mantra", "")
+    return ""
