@@ -68,6 +68,32 @@ class TransitRequest(BaseModel):
     target_day: int
     target_hour: float
 
+class SinastryRequest(BaseModel):
+    p1_year: int
+    p1_month: int
+    p1_day: int
+    p1_hour: float
+    p1_lat: float
+    p1_lon: float
+    p2_year: int
+    p2_month: int
+    p2_day: int
+    p2_hour: float
+    p2_lat: float
+    p2_lon: float
+
+class TransitScoreRequest(BaseModel):
+    user_year: int
+    user_month: int
+    user_day: int
+    user_hour: float
+    user_lat: float
+    user_lon: float
+    start_year: int
+    start_month: int
+    start_day: int
+    days_to_check: int = 30
+
 # --- ENDPOINTS ---
 @app.get("/")
 def read_root():
@@ -221,6 +247,166 @@ def calculate_transits(request: Request, req: TransitRequest, user: dict = Depen
             "data": {
                 "active_transits": active_transits
             }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/sinastria")
+@limiter.limit("5/minute")
+def calculate_sinastry_matrix(request: Request, req: SinastryRequest, user: dict = Depends(verify_jwt)):
+    """
+    IMPORTANTE: Calcula matriz de Sinastría 100x100
+    """
+    try:
+        jd_p1 = swe.julday(req.p1_year, req.p1_month, req.p1_day, req.p1_hour)
+        jd_p2 = swe.julday(req.p2_year, req.p2_month, req.p2_day, req.p2_hour)
+        
+        planets = {
+            "Sun": swe.SUN, "Moon": swe.MOON, "Mercury": swe.MERCURY, 
+            "Venus": swe.VENUS, "Mars": swe.MARS, "Jupiter": swe.JUPITER, 
+            "Saturn": swe.SATURN, "Uranus": swe.URANUS, "Neptune": swe.NEPTUNE, 
+            "Pluto": swe.PLUTO, "Chiron": swe.CHIRON, "True_Node": swe.TRUE_NODE
+        }
+        
+        p1_pos = {}
+        p2_pos = {}
+        for name, p_id in planets.items():
+            pos1, _ = swe.calc_ut(jd_p1, p_id, 258)
+            pos2, _ = swe.calc_ut(jd_p2, p_id, 258)
+            p1_pos[name] = pos1[0]
+            p2_pos[name] = pos2[0]
+            
+        aspects_base = [
+            {"name": "Conjunction", "angle": 0, "orb": 5},
+            {"name": "Opposition", "angle": 180, "orb": 5},
+            {"name": "Trine", "angle": 120, "orb": 5},
+            {"name": "Square", "angle": 90, "orb": 5},
+            {"name": "Sextile", "angle": 60, "orb": 4}
+        ]
+        
+        # Scoring Weights (Simplified Version of the "Oro")
+        # Love/Attraction
+        love_points = [("Venus", "Mars"), ("Sun", "Moon"), ("Venus", "Sun")]
+        # Friction
+        friction_points = [("Mars", "Saturn"), ("Saturn", "Moon"), ("Pluto", "Moon")]
+        
+        matrix = []
+        total_score = 0
+        
+        for name1, lon1 in p1_pos.items():
+            for name2, lon2 in p2_pos.items():
+                dist = abs(lon1 - lon2)
+                if dist > 180: dist = 360 - dist
+                
+                for asp in aspects_base:
+                    if abs(dist - asp["angle"]) <= asp["orb"]:
+                        exactness = abs(dist - asp["angle"])
+                        power = (asp["orb"] - exactness) / asp["orb"] # 0 to 1 strength
+                        
+                        points = 1
+                        if asp["name"] in ["Trine", "Sextile", "Conjunction"]: points = 2 * power
+                        if asp["name"] in ["Square", "Opposition"]: points = -1 * power
+                        
+                        # Extra multiplier for specific karmic/love links
+                        if (name1, name2) in love_points or (name2, name1) in love_points:
+                            if points > 0: points *= 2
+                        if (name1, name2) in friction_points or (name2, name1) in friction_points:
+                            if points < 0: points *= 2
+                            
+                        total_score += points
+                        
+                        matrix.append({
+                            "p1_planet": name1,
+                            "p2_planet": name2,
+                            "aspect": asp["name"],
+                            "orb_degrees": round(exactness, 2),
+                            "energy_score": round(points, 2)
+                        })
+                        
+        # Normalize score 0-100 logically
+        base_compat = 50 + (total_score * 2) 
+        if base_compat > 100: base_compat = 100
+        if base_compat < 0: base_compat = 0
+                        
+        return {
+            "status": "success",
+            "metadata": {
+                "astrological_engine": "Sinastry Matrix 100x100 Engine"
+            },
+            "data": {
+                "global_compatibility_score": round(base_compat, 1),
+                "synastry_matrix": matrix
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/transit-scoring")
+@limiter.limit("5/minute")
+def calculate_transit_scoring(request: Request, req: TransitScoreRequest, user: dict = Depends(verify_jwt)):
+    """
+    IMPORTANTE: Calcula el nivel de impacto de los tránsitos a lo largo de los días.
+    Transit Impact Scoring v2
+    """
+    try:
+        jd_natal = swe.julday(req.user_year, req.user_month, req.user_day, req.user_hour)
+        
+        natal_planets = { "Sun": swe.SUN, "Moon": swe.MOON, "Mercury": swe.MERCURY, "Venus": swe.VENUS, "Mars": swe.MARS }
+        transit_planets = { "Jupiter": swe.JUPITER, "Saturn": swe.SATURN, "Uranus": swe.URANUS, "Neptune": swe.NEPTUNE, "Pluto": swe.PLUTO }
+        
+        natal_pos = {}
+        for n, pid in natal_planets.items():
+            pos, _ = swe.calc_ut(jd_natal, pid, 258)
+            natal_pos[n] = pos[0]
+            
+        aspects_base = [{"name": "Conjunction", "angle": 0, "orb": 2}, {"name": "Opposition", "angle": 180, "orb": 2}, {"name": "Square", "angle": 90, "orb": 2}]
+        
+        timeline = []
+        for i in range(req.days_to_check):
+            current_jd = swe.julday(req.start_year, req.start_month, req.start_day, 12.0) + i
+            daily_score = 0
+            daily_transits = []
+            
+            for t_name, t_pid in transit_planets.items():
+                t_pos, _ = swe.calc_ut(current_jd, t_pid, 258)
+                t_lon = t_pos[0]
+                
+                # Weight by slow planet
+                weight = 1
+                if t_name == "Pluto": weight = 5
+                elif t_name == "Uranus" or t_name == "Neptune": weight = 4
+                elif t_name == "Saturn": weight = 3
+                elif t_name == "Jupiter": weight = 2
+                
+                for n_name, n_lon in natal_pos.items():
+                    dist = abs(t_lon - n_lon)
+                    if dist > 180: dist = 360 - dist
+                    
+                    for asp in aspects_base:
+                        if abs(dist - asp["angle"]) <= asp["orb"]:
+                            exact = abs(dist - asp["angle"])
+                            power = (asp["orb"] - exact) / asp["orb"]
+                            impact = round(weight * power * 2, 2)
+                            daily_score += impact
+                            daily_transits.append({
+                                "transit": t_name, "natal": n_name, "aspect": asp["name"], "impact": impact
+                            })
+                            
+            # Convert Julian Day back to calendar date roughly for output
+            y, m, d, h = swe.revjul(current_jd, 1) # 1 = Gregorian
+            date_str = f"{y}-{m:02d}-{d:02d}"
+            
+            timeline.append({
+                "date": date_str,
+                "total_impact_score": round(daily_score, 2),
+                "key_activations": daily_transits
+            })
+            
+        # Sort or process
+        return {
+            "status": "success",
+            "metadata": {"engine": "Transit Impact Scoring v2", "days_analyzed": req.days_to_check},
+            "data": {"timeline": timeline}
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

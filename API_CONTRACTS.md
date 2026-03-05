@@ -59,12 +59,74 @@ Content-Type: application/json
 
 ---
 
-## 🚧 CONTRATOS FUTUROS (SPRINTS 03 y 04)
-*(Estos contratos los rellenará el CTO una vez apruebes el desarrollo de esos features).*
+## CONTRATO 3: MATRIZ DE SINASTRÍA 100x100 (`Módulo 11`)
+**Endpoint:** `POST /api/sinastria`
+**Propósito:** Cruza automáticamente los planetas de dos personas (Persona 1 y Persona 2) y devuelve los aspectos geométricos que impactan en su energía conjunta, junto con un Score Global de Compatibilidad (0 a 100).
 
-* **Contrato 3:** Stripe Checkout (Generación de Links de Pago).
-* **Contrato 4:** Stripe Webhooks (Desbloqueo Automático del Producto tras el pago).
-* **Contrato 5:** Hub Shadow (Traer contenido desencriptado de Supabase).
+### 📩 Request Body
+```json
+{
+  "p1_year": 1990, "p1_month": 6, "p1_day": 15, "p1_hour": 14.5, "p1_lat": 40.41, "p1_lon": -3.70,
+  "p2_year": 1992, "p2_month": 8, "p2_day": 2, "p2_hour": 9.0, "p2_lat": 41.38, "p2_lon": 2.15
+}
+```
+
+### 📤 Response Body
+```json
+{
+  "status": "success",
+  "data": {
+    "global_compatibility_score": 87.5,
+    "synastry_matrix": [
+      {
+        "p1_planet": "Venus",
+        "p2_planet": "Mars",
+        "aspect": "Trine",
+        "orb_degrees": 1.2,
+        "energy_score": 3.8
+      }
+    ]
+  }
+}
+```
+
+---
+
+## CONTRATO 4: TRANSIT IMPACT SCORING V2 (`Módulo 3`)
+**Endpoint:** `POST /api/transit-scoring`
+**Propósito:** Proyecta cómo los tránsitos lentos (Júpiter a Plutón) impactarán los planetas natales del usuario en los próximos X días. 
+
+### 📩 Request Body
+```json
+{
+  "user_year": 1990, "user_month": 6, "user_day": 15, "user_hour": 14.5, "user_lat": 40.41, "user_lon": -3.70,
+  "start_year": 2026, "start_month": 3, "start_day": 5, "days_to_check": 7
+}
+```
+
+### 📤 Response Body
+```json
+{
+  "status": "success",
+  "data": {
+    "timeline": [
+      {
+        "date": "2026-03-05",
+        "total_impact_score": 12.4,
+        "key_activations": [
+          { "transit": "Pluto", "natal": "Moon", "aspect": "Square", "impact": 8.0 }
+        ]
+      }
+    ]
+  }
+}
+```
+
+---
+
+## 🚧 CONTRATOS FUTUROS (Ventas & Producto)
+* **Contrato 5:** Stripe Checkout & Webhooks.
+* **Contrato 6:** Hub Shadow (Desencriptación de contenido Supabase).
 
 ---
 **CTO Note:** Cumplir esto = 10 landings de Lovable integradas en 1 hora.
