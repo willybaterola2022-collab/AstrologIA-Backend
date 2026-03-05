@@ -4,7 +4,7 @@
 **FECHA:** $(date +"%Y-%m-%d")
 
 ## 1. ESTADO DE LA INFRAESTRUCTURA (Lo que el Enjambre debe saber)
-El "Motor de Cálculo" está terminado y aislado. La API de AstroCore es ahora un búnker de alto rendimiento en FastAPI, capaz de devolver JSONs precisos a milisegundos.
+El "Motor de Cálculo" está terminado y aislado. La API de AstrologIA es ahora un búnker de alto rendimiento en FastAPI, capaz de devolver JSONs precisos a milisegundos.
 **¿Qué significa esto para ustedes (Twin.so)?**
 Que ya no estamos limitados por tecnología. Ustedes pueden investigar,analizar generar y segmentar a escala masiva (10 a 100 agentes paralelos). La infraestructura soportará cualquier volumen de datos que generen.
 

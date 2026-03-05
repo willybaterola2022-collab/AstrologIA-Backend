@@ -1,4 +1,4 @@
-# 🟢 STATUS REPORT EJECUTIVO - ASTROCORE P001
+# 🟢 STATUS REPORT EJECUTIVO - ASTROLOGÍA P001
 **Fecha:** $(date +"%Y-%m-%d")
 **De:** Antigravity (CTO / Control Plane)
 **Para:** Bárbara (CEO)
@@ -45,4 +45,4 @@ El motor principal del proyecto ha sido construido, aislado en su propio reposit
 ---
 
 ## 🏁 CONCLUSIÓN DEL CTO
-El "automóvil" AstroCore tiene el motor más potente del mercado (Backend) y un chasis hermoso (Lovable Frontend). **Ahora necesitamos la gasolina (Contenido/Copy) y el GPS estratégico (Investigación Twin/Claude) para encenderlo.**
+El "automóvil" AstrologIA tiene el motor más potente del mercado (Backend) y un chasis hermoso (Lovable Frontend). **Ahora necesitamos la gasolina (Contenido/Copy) y el GPS estratégico (Investigación Twin/Claude) para encenderlo.**

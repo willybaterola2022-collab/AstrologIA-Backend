@@ -18,7 +18,7 @@ Para que tus agentes investiguen esto con el rigor necesario, debes inyectarles 
 ---
 
 ## 🧬 100 MÓDULOS DE VANGUARDIA (Lo que puedo codificar para ti)
-Si elevamos el servidor a su capacidad máxima, procesando matemáticas, astronomía pura y teoría cuántica, aquí tienes las 100 herramientas que yo podría desarrollar para convertir a AstroCore en un sistema de evolución planetaria.
+Si elevamos el servidor a su capacidad máxima, procesando matemáticas, astronomía pura y teoría cuántica, aquí tienes las 100 herramientas que yo podría desarrollar para convertir a AstrologIA en un sistema de evolución planetaria.
 
 ### I. ARQUEO-ASTROLOGÍA Y SABIDURÍA ANCESTRAL (Conectando con el Origen)
 1. **El Motor Hermético:** Algoritmo de "Como es arriba es abajo" (Fractales astrológicos).

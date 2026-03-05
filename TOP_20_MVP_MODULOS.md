@@ -1,5 +1,5 @@
 # 🌟 EL ARSENAL DEL MVP: LOS 20 MÓDULOS DE ALTO VALOR
-**Objetivo:** Aterrizar toda la visión cósmica y multidimensional en 20 funcionalidades directas, modulares y altamente monetizables para la versión 1.0 (MVP) de AstroCore. Cada módulo resuelve un "dolor" humano específico usando cálculos astronómicos de alta precisión (Swiss Ephemeris) cruzados con psicología de vanguardia.
+**Objetivo:** Aterrizar toda la visión cósmica y multidimensional en 20 funcionalidades directas, modulares y altamente monetizables para la versión 1.0 (MVP) de AstrologIA. Cada módulo resuelve un "dolor" humano específico usando cálculos astronómicos de alta precisión (Swiss Ephemeris) cruzados con psicología de vanguardia.
 
 ---
 

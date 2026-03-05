@@ -1,7 +1,7 @@
 # 🌌 CONTEXTO MAESTRO Y BRIEF ESTRATÉGICO PARA AGENTES TWIN.SO
 **DE:** Bárbara (CEO) & AstrologIA-Backend (Control Plane / CTO)
 **PARA:** Swarm de Agentes Twin.so (Analistas, Copywriters, Directores Estratégicos)
-**OBJETIVO:** Alineación total sobre el Ecosistema Digital AstroCore (Fase 1: Investigación y Producción de Contenido 360)
+**OBJETIVO:** Alineación total sobre el Ecosistema Digital AstrologIA (Fase 1: Investigación y Producción de Contenido 360)
 **FECHA:** $(date +"%Y-%m-%d")
 
 ---
@@ -34,7 +34,7 @@ El Enjambre debe contemplar y cruzar estas variables exactas:
 ## 5. REQUISITOS DEL TONO Y LA NARRATIVA
 No es un horóscopo de revista. Es "Ingeniería Inversa del Destino".
 1. **Educar Demostrando:** Si hablan del balance de elementos, usar un cuadro, una obra de arte o un escenario y explicar: *"Así respondería cada signo ante esta eventualidad"*.
-2. **Autoridad y Autoría:** Mostrar liderazgo de opinión (Linkbuilding, posicionamiento puro). Siéntanse libres de recomendar y parafrasear bibliografía clásica, pero siempre aportando la "Conclusión AstroCore".
+2. **Autoridad y Autoría:** Mostrar liderazgo de opinión (Linkbuilding, posicionamiento puro). Siéntanse libres de recomendar y parafrasear bibliografía clásica, pero siempre aportando la "Conclusión AstrologIA".
 3. **Momentum:** Empujar al usuario por el embudo, transformando la curiosidad en autoconocimiento, guiándolo hacia la conversión Premium.
 
 ---

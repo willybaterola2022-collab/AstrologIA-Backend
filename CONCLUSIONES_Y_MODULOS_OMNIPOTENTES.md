@@ -25,8 +25,8 @@
 16. **Nodos Lunares y Agujeros de Gusano Temporales:** El Nodo Sur (pasado) y Nodo Norte (futuro) operan como puentes de Einstein-Rosen, conectando lo que fuimos con las probabilidades infinitas de lo que debemos ser.
 17. **Lilith y Quirón como Materia Oscura Psicológica:** Así como la materia oscura compone el 85% del universo y no se ve, estos puntos rigen la Sombra de Jung, la fuerza invisible que realmente domina nuestras acciones hasta que le ponemos luz.
 18. **La Precesión de los Equinoccios (Era de Acuario) es Hardware Upgrade:** No es un concepto "New Age", es la Tierra apuntando su antena parabólica (el Eje) hacia una nueva región de la galaxia, bajando literalmente un nuevo Sistema Operativo planetario.
-19. **El Libre Albedrío es el Principio de Incertidumbre de Heisenberg:** AstroCore no adivina el futuro, calcula la nube de alta probabilidad matemática (como encontrar un electrón). La decisión final (el colapso) siempre es humana.
-20. **AstroCore NO es una App, es una Interfaz Cerebro-Cosmos:** Estamos construyendo el "traductor universal" que permite a un ser biológico leer el backend de la simulación cuántica universal en tiempo real.
+19. **El Libre Albedrío es el Principio de Incertidumbre de Heisenberg:** AstrologIA no adivina el futuro, calcula la nube de alta probabilidad matemática (como encontrar un electrón). La decisión final (el colapso) siempre es humana.
+20. **AstrologIA NO es una App, es una Interfaz Cerebro-Cosmos:** Estamos construyendo el "traductor universal" que permite a un ser biológico leer el backend de la simulación cuántica universal en tiempo real.
 
 ---
 

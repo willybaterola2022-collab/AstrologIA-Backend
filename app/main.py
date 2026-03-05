@@ -739,3 +739,76 @@ def calculate_mars_pluto_friction(request: Request, req: ModuleRequest, user: di
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/moon-conditioning")
+@limiter.limit("5/minute")
+def calculate_moon_conditioning(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 5: Sistema Operativo Emocional (Moon & Childhood Conditioning)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_moon, _ = swe.calc_ut(jd, swe.MOON, swe.FLG_MOSEPH)
+        sign_idx = int(pos_moon[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {"engine": "Moon Emotional OS (Módulo 5)"},
+            "data": {
+                "moon": {
+                    "sign": SIGN_NAMES[sign_idx],
+                    "core_emotional_pattern": get_advanced_module("Moon_Core_Emotion", sign_idx),
+                    "childhood_conditioning": get_advanced_module("Moon_Childhood", sign_idx),
+                    "integration_path": get_advanced_module("Moon_Healing", sign_idx)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/mercury-os")
+@limiter.limit("5/minute")
+def calculate_mercury_os(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 9: Sistema Operativo Mental y Comunicación B2B (Mercury)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_merc, _ = swe.calc_ut(jd, swe.MERCURY, swe.FLG_MOSEPH)
+        sign_idx = int(pos_merc[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {"engine": "Mercury Communication OS (Módulo 9)"},
+            "data": {
+                "mercury": {
+                    "sign": SIGN_NAMES[sign_idx],
+                    "thinking_style": get_advanced_module("Mercury_Thinking", sign_idx),
+                    "communication_profile": get_advanced_module("Mercury_Communication", sign_idx),
+                    "b2b_strategy": get_advanced_module("Mercury_B2B", sign_idx)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/shadow-talents")
+@limiter.limit("5/minute")
+def calculate_shadow_talents(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 10: Talentos Ocultos de la Sombra (Casa 12 via Neptune proxy for MVP)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_nep, _ = swe.calc_ut(jd, swe.NEPTUNE, swe.FLG_MOSEPH)
+        sign_idx = int(pos_nep[0] / 30)
+        pos_sun, _ = swe.calc_ut(jd, swe.SUN, swe.FLG_MOSEPH)
+        sun_sign_idx = int(pos_sun[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {"engine": "12th House Shadow Talents (Módulo 10)"},
+            "data": {
+                "neptune_generation": {
+                    "sign": SIGN_NAMES[sign_idx],
+                    "collective_shadow_talent": get_advanced_module("House12_Shadow_Talent", sign_idx)
+                },
+                "sun_personal_talent": {
+                    "sign": SIGN_NAMES[sun_sign_idx],
+                    "personal_shadow_talent": get_advanced_module("House12_Shadow_Talent", sun_sign_idx)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

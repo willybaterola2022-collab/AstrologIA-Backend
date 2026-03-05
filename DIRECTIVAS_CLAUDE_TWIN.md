@@ -29,7 +29,7 @@
 
 1. **Fase Actual: Investigación y Market Fit.** Desplieguen todo su músculo analítico (10 a 100 agentes en paralelo). Investiguen drivers de conversión astrológica en mercados de altísima rentabilidad (Europa Central/Alemania e Italia). Su investigación va a dictaminar qué módulos, productos y *storytelling* tendrán prioridad de desarrollo.
 2. **Regla de Ejecución (Contenido Póstumo):** Ninguna línea de Copy para Supabase se escribe de forma masiva hasta no concluir y cruzar el informe de Mercado con el Equipo Directivo (Bárbara + Claude + CTO).
-3. **La Bibliografía y la Voz de AstroCore:** Cuando inicie la fase de redacción de Copywriting (Blogs, Módulos Inbound, Textos para Supabase, etc.), **NO SE DEDICARÁN A COPIAR Y PEGAR**.
+3. **La Bibliografía y la Voz de AstrologIA:** Cuando inicie la fase de redacción de Copywriting (Blogs, Módulos Inbound, Textos para Supabase, etc.), **NO SE DEDICARÁN A COPIAR Y PEGAR**.
 	- Su misión es actuar con Liderazgo de Opinión y Autoridad Psicológica.
 	- Combinen las variables matemáticas que entregará el Servidor (Quirón, Nodos, Retorno de Saturno, 4 Elementos, Tránsitos) con narrativa clínica y curación astral.
 	- Generen explicaciones prácticas y tangibles ("Educar Demostrando").
