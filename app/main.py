@@ -56,6 +56,18 @@ class NatalChartRequest(BaseModel):
     lat: float
     lon: float
 
+class TransitRequest(BaseModel):
+    user_year: int
+    user_month: int
+    user_day: int
+    user_hour: float
+    user_lat: float
+    user_lon: float
+    target_year: int
+    target_month: int
+    target_day: int
+    target_hour: float
+
 # --- ENDPOINTS ---
 @app.get("/")
 def read_root():
@@ -144,6 +156,70 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
                 "draconic_positions": draconic,
                 "houses_placidus": {f"House_{i+1}": cusps[i] for i in range(12)},
                 "major_aspects_matrix": aspect_results
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/transitos")
+@limiter.limit("5/minute")
+def calculate_transits(request: Request, req: TransitRequest, user: dict = Depends(verify_jwt)):
+    """
+    IMPORTANTE: Calcula Tránsitos Planetarios.
+    Compara las posiciones en 'target_date' con la carta natal en 'user_date'.
+    """
+    try:
+        julian_day_natal = swe.julday(req.user_year, req.user_month, req.user_day, req.user_hour)
+        julian_day_transit = swe.julday(req.target_year, req.target_month, req.target_day, req.target_hour)
+        
+        planets = {
+            "Sun": swe.SUN, "Moon": swe.MOON, "Mercury": swe.MERCURY, 
+            "Venus": swe.VENUS, "Mars": swe.MARS, "Jupiter": swe.JUPITER, 
+            "Saturn": swe.SATURN, "Uranus": swe.URANUS, "Neptune": swe.NEPTUNE, 
+            "Pluto": swe.PLUTO, "True_Node": swe.TRUE_NODE
+        }
+        
+        natal_results = {}
+        transit_results = {}
+        for name, planet_id in planets.items():
+            natal_pos, ret = swe.calc_ut(julian_day_natal, planet_id, 258)
+            transit_pos, ret = swe.calc_ut(julian_day_transit, planet_id, 258)
+            natal_results[name] = natal_pos[0]
+            transit_results[name] = transit_pos[0]
+            
+        aspects_base = [
+            {"name": "Conjunction", "angle": 0, "orb": 2},
+            {"name": "Opposition", "angle": 180, "orb": 2},
+            {"name": "Trine", "angle": 120, "orb": 2},
+            {"name": "Square", "angle": 90, "orb": 2},
+            {"name": "Sextile", "angle": 60, "orb": 1.5}
+        ]
+        
+        active_transits = []
+        for t_name, t_lon in transit_results.items():
+            for n_name, n_lon in natal_results.items():
+                dist = abs(t_lon - n_lon)
+                if dist > 180:
+                    dist = 360 - dist
+                
+                for asp in aspects_base:
+                    if abs(dist - asp["angle"]) <= asp["orb"]:
+                        exactness = abs(dist - asp["angle"])
+                        active_transits.append({
+                            "transit_planet": t_name,
+                            "natal_planet": n_name,
+                            "aspect": asp["name"],
+                            "orb_degrees": round(exactness, 2)
+                        })
+                        
+        return {
+            "status": "success",
+            "metadata": {
+                "user_authenticated": user.get("sub"),
+                "astrological_engine": "Swiss Ephemeris v2.10 (Ultra-Precision)"
+            },
+            "data": {
+                "active_transits": active_transits
             }
         }
     except Exception as e:
