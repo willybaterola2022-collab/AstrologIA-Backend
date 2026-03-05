@@ -9,6 +9,7 @@ from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from app.config import settings
 from app.content_db import get_interpretation, SIGN_NAMES
+from app.stripe_router import router as stripe_router
 
 # --- RATE LIMITING ---
 limiter = Limiter(key_func=get_remote_address)
@@ -21,6 +22,9 @@ app = FastAPI(
 
 app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
+
+# --- RUTAS AÑADIDAS ---
+app.include_router(stripe_router, prefix="/api/pagos", tags=["Monetización"])
 
 # --- CORS MIDDLEWARE ---
 app.add_middleware(
