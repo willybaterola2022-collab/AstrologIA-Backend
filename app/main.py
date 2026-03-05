@@ -8,6 +8,7 @@ from slowapi import Limiter, _rate_limit_exceeded_handler
 from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from app.config import settings
+from app.content_db import get_interpretation, SIGN_NAMES
 
 # --- RATE LIMITING ---
 limiter = Limiter(key_func=get_remote_address)
@@ -124,7 +125,13 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
         for name, planet_id in planets.items():
             pos, ret = swe.calc_ut(julian_day, planet_id, 258) # 258 = FLG_SWIEPH + FLG_SPEED
             lon = pos[0]
-            results[name] = {"longitude": lon, "sign": int(lon / 30), "degree": lon % 30}
+            sign_idx = int(lon / 30)
+            results[name] = {
+                "longitude": round(lon, 4), 
+                "sign": SIGN_NAMES[sign_idx], 
+                "degree": round(lon % 30, 2),
+                "insight_text": get_interpretation(name, sign_idx) 
+            }
         
         # 3. Calcular Ascendente y 12 Casas
         cusps, ascmc = swe.houses_ex(julian_day, req.lat, req.lon, b'P')
