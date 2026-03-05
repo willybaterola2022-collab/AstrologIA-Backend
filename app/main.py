@@ -65,29 +65,85 @@ def read_root():
 @limiter.limit("5/minute")  # Limitado a 5 peticiones por minuto por IP para evitar ataques DDoS
 def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict = Depends(verify_jwt)):
     """
-    IMPORTANTE: Notese el `Depends(verify_jwt)`.
-    Si el header 'Authorization: Bearer <token>' no viene o es falso, FastApi responde 401 automático.
+    IMPORTANTE: API Astrologica Ultra-Avanzada
+    Incluye planetas, Nodos kármicos, Carta Dracónica y Matriz de Aspectos.
     """
     try:
+        # 1. Calcular Fecha Juliana
         julian_day = swe.julday(req.year, req.month, req.day, req.hour)
-        planets = {"Sun": swe.SUN, "Moon": swe.MOON, "Mercury": swe.MERCURY, "Venus": swe.VENUS, "Mars": swe.MARS, "Jupiter": swe.JUPITER, "Saturn": swe.SATURN}
+        
+        # 2. Definir Cuerpos Celestes (Añadido Kármico: Quirón, Nodos, Lilith)
+        planets = {
+            "Sun": swe.SUN, "Moon": swe.MOON, "Mercury": swe.MERCURY, 
+            "Venus": swe.VENUS, "Mars": swe.MARS, "Jupiter": swe.JUPITER, 
+            "Saturn": swe.SATURN, "Uranus": swe.URANUS, "Neptune": swe.NEPTUNE, 
+            "Pluto": swe.PLUTO, "Chiron": swe.CHIRON, 
+            "True_Node": swe.TRUE_NODE, # Nodo Norte Verdadero
+            "Lilith": swe.MEAN_APOG     # Lilith (Apogeo lunar medio)
+        }
         
         results = {}
         for name, planet_id in planets.items():
-            pos, ret = swe.calc_ut(julian_day, planet_id, 258)
+            pos, ret = swe.calc_ut(julian_day, planet_id, 258) # 258 = FLG_SWIEPH + FLG_SPEED
             lon = pos[0]
             results[name] = {"longitude": lon, "sign": int(lon / 30), "degree": lon % 30}
         
+        # 3. Calcular Ascendente y 12 Casas
         cusps, ascmc = swe.houses_ex(julian_day, req.lat, req.lon, b'P')
         results["Ascendant"] = {"longitude": ascmc[0], "sign": int(ascmc[0] / 30), "degree": ascmc[0] % 30}
+        results["Midheaven"] = {"longitude": ascmc[1], "sign": int(ascmc[1] / 30), "degree": ascmc[1] % 30}
+
+        # 4. Cálculo Cármico: Carta Dracónica (Matemática del Alma)
+        # Se calcula restando la longitud del Nodo Norte Verdadero a cada planeta
+        north_node_lon = results["True_Node"]["longitude"]
+        draconic = {}
+        for name, data in results.items():
+            draco_lon = (data["longitude"] - north_node_lon) % 360  # Rotación del zodiaco
+            draconic[name] = {"longitude": draco_lon, "sign": int(draco_lon / 30), "degree": draco_lon % 30}
+
+        # 5. Cálculo Geométrico: Aspectos Mayores (Matriz)
+        aspects_base = [
+            {"name": "Conjunction", "angle": 0, "orb": 8},
+            {"name": "Opposition", "angle": 180, "orb": 8},
+            {"name": "Trine", "angle": 120, "orb": 8},
+            {"name": "Square", "angle": 90, "orb": 8},
+            {"name": "Sextile", "angle": 60, "orb": 6}
+        ]
         
+        aspect_results = []
+        keys = list(results.keys())
+        for i in range(len(keys)):
+            for j in range(i + 1, len(keys)):
+                p1, p2 = keys[i], keys[j]
+                lon1, lon2 = results[p1]["longitude"], results[p2]["longitude"]
+                
+                # Diferencia angular absoluta (distancia mas corta)
+                dist = abs(lon1 - lon2)
+                if dist > 180:
+                    dist = 360 - dist
+                
+                for asp in aspects_base:
+                    if abs(dist - asp["angle"]) <= asp["orb"]:
+                        exactness = abs(dist - asp["angle"])
+                        aspect_results.append({
+                            "planet_1": p1,
+                            "planet_2": p2,
+                            "aspect": asp["name"],
+                            "orb_degrees": round(exactness, 2)
+                        })
+
         return {
             "status": "success",
-            "user_authenticated": user.get("sub"), # Validacion visual de que sabemos quien consulto
-            "data": {
+            "metadata": {
                 "julian_day": julian_day,
-                "planets": results,
-                "houses": {f"House_{i+1}": cusps[i] for i in range(12)}
+                "user_authenticated": user.get("sub"),
+                "astrological_engine": "Swiss Ephemeris v2.10 (Ultra-Precision)"
+            },
+            "data": {
+                "tropical_positions": results,
+                "draconic_positions": draconic,
+                "houses_placidus": {f"House_{i+1}": cusps[i] for i in range(12)},
+                "major_aspects_matrix": aspect_results
             }
         }
     except Exception as e:
