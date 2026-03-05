@@ -1,0 +1,30 @@
+nombre_tabla,cantidad_registros,descripción_inferida,clasificación
+tiktok_scripts,0,Guiones virales para TikTok,ARCHIVAR
+youtube_scripts,0,Guiones virales para YouTube SEO,ARCHIVAR
+linkedin_posts,0,Posts virales para LinkedIn,ARCHIVAR
+ig_carousels,0,Contenido para carruseles IG,ARCHIVAR
+ig_stories,0,Contenido efímero IG,ARCHIVAR
+viral_hooks,0,Ganchos cortos de retención,ARCHIVAR
+twitter_threads,0,Hilos para Twitter/X,ARCHIVAR
+pinterest_pins,0,Descripciones/tags para tableros P,ARCHIVAR
+hashtag_library,0,Librería de rendimiento hashtags,ARCHIVAR
+transit_hooks,0,Ganchos basados en tránsitos diarios,ARCHIVAR
+social_clips,0,Microclips sociales derivados,ARCHIVAR
+collab_pitches,0,Propuestas para influencers,ARCHIVAR
+therapy_scripts,10,Guiones terapéuticos existentes (Origen Desconocido),DOCUMENTAR
+cosmic_blueprint,0,Rockstar Product Principal (€79) Astrológico,ACTIVA
+sofi_podcasts,0,Grabaciones/Audios del ecosistema (Hub),ACTIVA
+podcast_scripts,0,Guiones fuente para podcast,ACTIVA
+hub_shadow_content,0,Contenido transaccional Hub Shadow,ACTIVA
+hub_match_content,0,Contenido transaccional Hub Match,ACTIVA
+therapy_sessions,0,Progresión del usuario en terapias,ACTIVA
+faqs,0,Glosario FAQ aplicación Lovable,ACTIVA
+media_assets,0,Imágenes y metadatos de UI,ACTIVA
+agent_runs,0,Telemetría interna de Claude/Twin,ACTIVA
+product_candidates,0,Draft de ideas de mercado de IA,ARCHIVAR
+market_intelligence,0,Investigación de Nicho de Mercado,ARCHIVAR
+research_reports,0,Reportes corporativos largos,ARCHIVAR
+blog_posts,0,Artículos SEO y Landing Inbound,ACTIVA
+landing_copies,1,Copys estáticos pre-procesados UI,ACTIVA
+lead_captures,0,Captación emails funnel tope,ACTIVA
+email_sequences,0,Secuencias pre y post pago Stripe,ACTIVA

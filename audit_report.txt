@@ -1,0 +1,112 @@
+--- AUDITORIA DE SUPABASE (homfwprrzeigzltaamzo) ---
+Total Tables/Views/Types found via REST API: 27
+
+- TABLA: linkedin_posts
+  Columnas: ['id', 'topic', 'contenido', 'engagement_score', 'created_at']
+  Total records: 0
+
+- TABLA: therapy_sessions
+  Columnas: ['id', 'user_email', 'script_id', 'step_index', 'responses_json', 'is_completed', 'rating', 'notes', 'created_at', 'updated_at']
+  Total records: 0
+
+- TABLA: twitter_threads
+  Columnas: ['id', 'topic', 'tweets_json', 'engagement_score', 'categoria', 'created_at']
+  Total records: 0
+
+- TABLA: transit_hooks
+  Columnas: ['id', 'transito', 'numero_hook', 'hook', 'desarrollo', 'pregunta_terapeutica', 'tono', 'plataforma_ideal', 'palabras_clave', 'created_at']
+  Total records: 0
+
+- TABLA: faqs
+  Columnas: ['id', 'question', 'answer', 'status', 'created_at', 'updated_at', 'deleted_at']
+  Total records: 0
+
+- TABLA: collab_pitches
+  Columnas: ['id', 'creador', 'plataforma', 'seguidores_est', 'estilo', 'modulo_astrocore', 'pitch_texto', 'status', 'created_at']
+  Total records: 0
+
+- TABLA: pinterest_pins
+  Columnas: ['id', 'numero', 'categoria', 'titulo', 'descripcion', 'hashtags', 'board_sugerido', 'alt_text', 'created_at']
+  Total records: 0
+
+- TABLA: podcast_scripts
+  Columnas: ['id', 'numero', 'titulo', 'guion_completo', 'intro', 'cuerpo', 'sombra', 'pregunta_terapeutica', 'cta', 'created_at']
+  Total records: 0
+
+- TABLA: blog_posts
+  Columnas: ['id', 'numero', 'slug', 'titulo', 'categoria', 'hook', 'desarrollo', 'sombra', 'cta', 'palabras_clave', 'word_count', 'github_pushed', 'github_path', 'status', 'created_at']
+  Total records: 0
+
+- TABLA: ig_carousels
+  Columnas: ['id', 'topic', 'slides', 'color_palette', 'categoria', 'status', 'created_at']
+  Total records: 0
+
+- TABLA: media_assets
+  Columnas: ['id', 'post_id', 'storage_path', 'mime_type', 'size_bytes', 'purpose', 'created_at']
+  Total records: 0
+
+- TABLA: agent_runs
+  Columnas: ['id', 'agent_name', 'run_type', 'payload', 'status', 'started_at', 'finished_at', 'created_at']
+  Total records: 0
+
+- TABLA: ig_stories
+  Columnas: ['id', 'topic', 'story_number', 'story_type', 'content', 'categoria', 'created_at']
+  Total records: 0
+
+- TABLA: product_candidates
+  Columnas: ['id', 'product_name', 'description', 'pain_score', 'competition_level', 'differentiation_potential', 'unit_economics_summary', 'scalability_score', 'rockstar_score', 'go_no_go', 'price_recommended', 'revenue_30d_conservative', 'revenue_90d_conservative', 'launch_priority', 'created_at']
+  Total records: 0
+
+- TABLA: sofi_podcasts
+  Columnas: ['id', 'slug', 'title', 'description', 'audio_path', 'duration', 'status', 'owner_id', 'created_at', 'updated_at', 'deleted_at']
+  Total records: 0
+
+- TABLA: social_clips
+  Columnas: ['id', 'post_id', 'tipo', 'contenido', 'categoria', 'created_at']
+  Total records: 0
+
+- TABLA: email_sequences
+  Columnas: ['id', 'name', 'steps', 'status', 'created_at', 'updated_at', 'deleted_at']
+  Total records: 0
+
+- TABLA: youtube_scripts
+  Columnas: ['id', 'post_id', 'tipo', 'titulo_yt', 'guion_completo', 'tags_json', 'seo_score', 'created_at']
+  Total records: 0
+
+- TABLA: hashtag_library
+  Columnas: ['id', 'hashtag', 'plataforma', 'reach_estimado', 'competencia', 'engagement_score', 'categoria', 'set_recomendado', 'created_at']
+  Total records: 0
+
+- TABLA: landing_copies
+  Columnas: ['id', 'key', 'content', 'status', 'created_at', 'updated_at', 'deleted_at']
+  Total records: 1
+
+- TABLA: cosmic_blueprint
+  Columnas: ['id', 'seccion', 'titulo', 'contenido', 'orden', 'created_at']
+  Total records: 0
+
+- TABLA: lead_captures
+  Columnas: ['id', 'source', 'payload', 'processed', 'created_at', 'updated_at']
+  Total records: 0
+
+- TABLA: viral_hooks
+  Columnas: ['id', 'slug', 'title', 'hook', 'status', 'created_at', 'updated_at', 'deleted_at']
+  Total records: 0
+
+- TABLA: therapy_scripts
+  Columnas: ['id', 'slug', 'title', 'excerpt', 'content', 'status', 'category', 'meta_title', 'meta_description', 'owner_id', 'created_at', 'updated_at', 'deleted_at']
+  Total records: 10
+
+- TABLA: market_intelligence
+  Columnas: ['id', 'source_url', 'source_type', 'category', 'insight_text', 'pain_level', 'monetization_signal', 'tags', 'country', 'language', 'product_vertical', 'agent_author', 'relevance_score', 'validated', 'created_at']
+  Total records: 0
+
+- TABLA: research_reports
+  Columnas: ['id', 'report_type', 'title', 'content', 'conclusions', 'recommendations', 'created_by', 'created_at']
+  Total records: 0
+
+- TABLA: tiktok_scripts
+  Columnas: ['id', 'topic', 'hook_text', 'script_completo', 'visual_direction', 'categoria', 'virality_score_estimated', 'status', 'fecha']
+  Total records: 0
+
+--- STORAGE BUCKETS ---
