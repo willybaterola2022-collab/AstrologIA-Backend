@@ -685,3 +685,57 @@ def calculate_wealth_blueprint(request: Request, req: ModuleRequest, user: dict 
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/venus-attraction")
+@limiter.limit("5/minute")
+def calculate_venus_profile(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """
+    MÓDULO 12: Perfil de Atracción (Venus Love Language).
+    """
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        
+        pos_venus, _ = swe.calc_ut(jd, swe.VENUS, swe.FLG_MOSEPH)
+        sign_idx_venus = int(pos_venus[0] / 30)
+        
+        venus_text = get_advanced_module("Venus_Profile", sign_idx_venus)
+        
+        return {
+            "status": "success",
+            "metadata": {"engine": "Venus Love Language (Módulo 12)"},
+            "data": {
+                "venus": {
+                    "sign": SIGN_NAMES[sign_idx_venus],
+                    "attraction_profile": venus_text
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/mars-friction")
+@limiter.limit("5/minute")
+def calculate_mars_pluto_friction(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """
+    MÓDULO 13: Disparador de Fricción y Evolución (Mars/Pluto Dynamics).
+    """
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        
+        pos_mars, _ = swe.calc_ut(jd, swe.MARS, swe.FLG_MOSEPH)
+        sign_idx_mars = int(pos_mars[0] / 30)
+        
+        friction_text = get_advanced_module("Mars_Pluto_Friction", sign_idx_mars)
+        
+        return {
+            "status": "success",
+            "metadata": {"engine": "Mars & Pluto Friction (Módulo 13)"},
+            "data": {
+                "mars": {
+                    "sign": SIGN_NAMES[sign_idx_mars],
+                    "core_conflict_trigger": friction_text
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

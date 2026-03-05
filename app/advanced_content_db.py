@@ -49,6 +49,38 @@ JUPITER_WEALTH = {
     11: "Piscis: Puedes atraer dinero como magia si evitas evadirte. Tu fortuna reside en la inspiración, las industrias espirituales, la música, cine o terapias de agua."
 }
 
+# VENUS (Lenguaje del Amor y Atracción)
+VENUS_PROFILE = {
+    0: "Tu lenguaje de amor es la 'Caza' y la pasión cruda. Ganas independencia y respeto al mantener el fuego vivo. Si la relación se vuelve pasiva o predecible, pierdes el interés instintivamente.",
+    1: "Tu lenguaje de amor es el confort tangible, los regalos de alta calidad y la extrema lealtad. La paz física (comida, tacto, lujo sutil) es innegociable para que entregues tu corazón.",
+    2: "Tu lenguaje de amor es el estímulo mental y la palabra hablada. Te enamoras de cerebros brillantes. El silencio y la rutina intelectual asfixian tu capacidad de amar.",
+    3: "Tu lenguaje de amor es la nutrición emocional profunda y la creación de un nido seguro. Necesitas extrema empatía y sentir que eres 'familia' desde el primer instante.",
+    4: "Tu lenguaje de amor es el aplauso, el glamour y la admiración absoluta. Te entregas por completo solo cuando tu pareja te trata como a la realeza y están orgullosos de mostrarte al mundo.",
+    5: "Tu lenguaje de amor son los actos de servicio y la utilidad práctica. Para ti, el amor verdadero es alguien que solucione problemas diarios y esté en los detalles organizativos de tu neurosis.",
+    6: "Tu lenguaje de amor es la armonía relacional casi perfecta. Eres el diseñador del romance B2B: buscas socios estéticos, educados y justos. El conflicto rudo rompe tu atracción de inmediato.",
+    7: "Tu lenguaje de amor es la aniquilación y renacimiento conjunto (Intensidad). No te interesa lo casual; buscas fusión de almas, lealtad de sangre y no le temes a la oscuridad psicológica de tu pareja.",
+    8: "Tu lenguaje de amor es la aventura, la comedia y la búsqueda filosófica de la verdad. Mueres de aburrimiento con parejas caseras; necesitas viajar física o mentalmente con tu compañero.",
+    9: "Tu lenguaje de amor es el estatus, el respeto público y los logros compartidos. Tomas el romance como un 'Merger & Acquisition'. Te enamora la ambición y la capacidad de construir un imperio juntos.",
+    10: "Tu lenguaje de amor es la libertad intelectual y la disrupción. Eres la anti-pareja tradicional. Necesitas a tu 'mejor amigo' antes que a tu amante, y huyes del control posesivo.",
+    11: "Tu lenguaje de amor es la poesía cósmica y la compasión incondicional. Amas de manera espiritual, buscando fundirte místicamente. Tu peligro: Enamorarte del potencial de las personas en vez de su realidad."
+}
+
+# MARS & PLUTO (Fricción, Ira y Sabotaje Vincular)
+MARS_PLUTO_FRICTION = {
+    0: "Ataque frontal. Cuando te sientes acorralado, tu ira estalla rápido, explota y se apaga igual de rápido. Tu sombra: Herir verbal o físicamente sin medir consecuencias para asegurar dominancia.",
+    1: "Resistencia pasiva. Acumulas resentimiento a lo largo de los años hasta convertirte en un muro de piedra inamovible. Tu sombra: Castigar al otro con frío letargo y posesividad terrenal.",
+    2: "Guerra psicológica. Atacas con la palabra, el debate ácido y usando la información en contra del otro. Tu sombra: Fragmentar mentalmente a tu pareja haciéndole creer que siempre está equivocada.",
+    3: "Agresión pasivo-vengativa. Atacas a través de la culpa y la victimización. Tu sombra: Cobrarte facturas emocionales golpeando subliminalmente donde más le duele a tu pareja (el hogar o la familia).",
+    4: "Ira teatral y autoritaria. Si tu orgullo es herido, destruyes al otro exigiéndole sumisión total y humillándolo públicamente. Tu sombra: El narcisismo destructivo en crisis relacionales.",
+    5: "Micro-agresiones y crítica letal. Destruyes al otro desarmándolo en mil pedazos con sarcasmo milimétrico sobre sus defectos diarios. Tu sombra: La ansiedad perfeccionista que nunca está conforme.",
+    6: "Fricción delegada. Ocultas tu rabia para mantener 'las apariencias' hasta que fuerzas a tu pareja a iniciar la pelea por ti. Tu sombra: Romper la relación argumentando que el otro causó tu propia ira pasiva.",
+    7: "Aniquilación tóxica. Tu ira es nuclear, obsesiva y controladora (Plutón encendido). Tu sombra: Aplicar manipulación mental sádica o investigar los secretos oscuros de tu pareja para destruirla psicológicamente.",
+    8: "Abandono dogmático. Tu forma de fricción es decir que 'tienes la verdad absoluta' y abandonar moralmente al otro si no comparte tus creencias. Tu sombra: Herir con una 'brutal honestidad' carente de empatía.",
+    9: "Castigo estructural y financiero. Si eres traicionado, clausuras todos los caminos logísticos de la relación e impides que el otro progrese. Tu sombra: La crueldad fría y la exclusión de recursos vitales.",
+    10: "Alienación total. Tu ira se traduce en un corte fulminante y frío del vínculo electromagnético. Vuelves al otro invisible. Tu sombra: La desconexión emocional sociopática frente al dolor sistémico de tu pareja.",
+    11: "Mártir agresivo. Te sumerges en el sacrificio absoluto y luego atacas desde la superioridad moral de 'haberlo dado todo por nada'. Tu sombra: Distorsionar los hechos (Gaslighting místico) para hacer dudar al otro de su cordura."
+}
+
 def get_advanced_module(module_name: str, sign_index: int) -> str:
     if module_name == "Chiron_Wound":
         return CHIRON_ADVANCED.get(sign_index, {}).get("wound", "")
@@ -58,4 +90,8 @@ def get_advanced_module(module_name: str, sign_index: int) -> str:
         return NORTH_NODE_ADVANCED.get(sign_index, "")
     elif module_name == "Jupiter_Wealth":
         return JUPITER_WEALTH.get(sign_index, "")
+    elif module_name == "Venus_Profile":
+        return VENUS_PROFILE.get(sign_index, "")
+    elif module_name == "Mars_Pluto_Friction":
+        return MARS_PLUTO_FRICTION.get(sign_index, "")
     return ""

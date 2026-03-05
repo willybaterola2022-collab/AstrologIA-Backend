@@ -247,3 +247,73 @@ Content-Type: application/json
   "lon": -74.0060
 }
 ```
+
+## 8. MÓDULO 12: Perfil de Atracción (Venus Love Language)
+**Descripción:** Calcula la posición de Venus para determinar qué necesita psicológicamente el usuario para enamorarse y comprometerse, alejándose de rutinas pasivas.
+**Endpoint:** `/api/venus-attraction`
+**Método:** `POST`
+**Autorización:** Requerida (Bearer Token)
+**Rate Limit:** 5/minute
+
+**Request Payload:**
+```json
+{
+  "year": 1990,
+  "month": 5,
+  "day": 15,
+  "hour": 14.5,
+  "lat": 40.7128,
+  "lon": -74.0060
+}
+```
+
+**Response (Success - 200 OK):**
+```json
+{
+  "status": "success",
+  "metadata": {
+    "engine": "Venus Love Language (Módulo 12)"
+  },
+  "data": {
+    "venus": {
+      "sign": "Aries",
+      "attraction_profile": "Tu lenguaje de amor es la 'Caza' y la pasión cruda..."
+    }
+  }
+}
+```
+
+## 9. MÓDULO 13: Disparador de Fricción y Evolución (Mars/Pluto Dynamics)
+**Descripción:** Analiza la posición de Marte para revelar la "Sombra" en las relaciones: cómo el usuario gestiona la ira, el control y sus patrones de sabotaje tóxico.
+**Endpoint:** `/api/mars-friction`
+**Método:** `POST`
+**Autorización:** Requerida (Bearer Token)
+**Rate Limit:** 5/minute
+
+**Request Payload:**
+```json
+{
+  "year": 1990,
+  "month": 5,
+  "day": 15,
+  "hour": 14.5,
+  "lat": 40.7128,
+  "lon": -74.0060
+}
+```
+
+**Response (Success - 200 OK):**
+```json
+{
+  "status": "success",
+  "metadata": {
+    "engine": "Mars & Pluto Friction (Módulo 13)"
+  },
+  "data": {
+    "mars": {
+      "sign": "Pisces",
+      "core_conflict_trigger": "Mártir agresivo. Te sumerges en el sacrificio absoluto y luego atacas..."
+    }
+  }
+}
+```
