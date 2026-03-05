@@ -122,6 +122,64 @@ Content-Type: application/json
 }
 ```
 
+## CONTRATO 5: CAREER & VOCATION OPTIMIZER (`Módulo 14`)
+**Endpoint:** `POST /api/career-vocational`
+**Propósito:** Analiza el Medio Cielo y el Sol para generar un Arquetipo Laboral y áreas de industria donde el usuario pueda brillar y monetizar mejor.
+
+### 📩 Request Body
+```json
+{
+  "year": 1990, "month": 6, "day": 15, "hour": 14.5, "lat": 40.41, "lon": -3.70
+}
+```
+
+### 📤 Response Body
+```json
+{
+  "status": "success",
+  "data": {
+    "midheaven_sign": "Leo",
+    "career_blueprint": {
+      "recommended_industries": "Liderazgo, Emprendimiento, Medios Visibles",
+      "natural_soft_skills": ["Iniciativa", "Carisma de Venta"],
+      "wealth_expansion_key": "Tu expansión natural se activa con temáticas de Cáncer"
+    }
+  }
+}
+```
+
+---
+
+## CONTRATO 6: DECISION WINDOW PLANNER (`Módulo 16`)
+**Endpoint:** `POST /api/decision-window`
+**Propósito:** Escanea los próximos meses y busca días de máxima suerte/armonía (Júpiter-Sol) omitiendo fallas (Merc Retrógrado) para hacer lanzamientos de negocios.
+
+### 📩 Request Body
+```json
+{
+  "user_year": 1990, "user_month": 6, "user_day": 15, "user_hour": 14.5, "user_lat": 40.41, "user_lon": -3.70,
+  "start_year": 2026, "start_month": 3, "start_day": 5,
+  "end_year": 2026, "end_month": 5, "end_day": 5,
+  "goal_type": "business"
+}
+```
+
+### 📤 Response Body
+```json
+{
+  "status": "success",
+  "data": {
+    "top_recommended_dates": [
+      {
+        "date": "2026-03-22",
+        "confidence_score": 15,
+        "insight": "Nuevo Ciclo de Identidad y Abundancia. Máxima suerte."
+      }
+    ]
+  }
+}
+```
+
 ---
 
 ## 🚧 CONTRATOS FUTUROS (Ventas & Producto)

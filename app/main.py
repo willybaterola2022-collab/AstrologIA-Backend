@@ -99,6 +99,29 @@ class TransitScoreRequest(BaseModel):
     start_day: int
     days_to_check: int = 30
 
+class CareerRequest(BaseModel):
+    year: int
+    month: int
+    day: int
+    hour: float
+    lat: float
+    lon: float
+
+class DecisionWindowRequest(BaseModel):
+    user_year: int
+    user_month: int
+    user_day: int
+    user_hour: float
+    user_lat: float
+    user_lon: float
+    start_year: int
+    start_month: int
+    start_day: int
+    end_year: int
+    end_month: int
+    end_day: int
+    goal_type: str = "business"
+
 # --- ENDPOINTS ---
 @app.get("/")
 def read_root():
@@ -418,6 +441,155 @@ def calculate_transit_scoring(request: Request, req: TransitScoreRequest, user: 
             "status": "success",
             "metadata": {"engine": "Transit Impact Scoring v2", "days_analyzed": req.days_to_check},
             "data": {"timeline": timeline}
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/career-vocational")
+@limiter.limit("5/minute")
+def calculate_career_path(request: Request, req: CareerRequest, user: dict = Depends(verify_jwt)):
+    """
+    MÓDULO 14: Career & Vocation Optimizer.
+    Cruza el Sol, Medio Cielo (Casa 10) y Júpiter para definir roles e industrias rentables.
+    """
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        
+        # Obtener posiciones de planetas clave para carrera
+        planets_to_check = {"Sun": swe.SUN, "Jupiter": swe.JUPITER, "Saturn": swe.SATURN, "Mercury": swe.MERCURY}
+        positions = {}
+        for name, pid in planets_to_check.items():
+            pos, _ = swe.calc_ut(jd, pid, 258)
+            sign_idx = int(pos[0] / 30)
+            positions[name] = SIGN_NAMES[sign_idx]
+            
+        # Calcular Medio Cielo (Aspiración Profesional / Imagen Pública / Casa 10)
+        cusps, ascmc = swe.houses_ex(jd, req.lat, req.lon, b'P')
+        mc_lon = ascmc[1]
+        mc_sign_idx = int(mc_lon / 30)
+        mc_sign = SIGN_NAMES[mc_sign_idx]
+        
+        # Algoritmo Base de Arquetipo Laboral (Logica simplificada MVP)
+        # 1. El Elemento del Medio Cielo dicta el tipo de industria
+        fire_signs = ["Aries", "Leo", "Sagittarius"]
+        earth_signs = ["Taurus", "Virgo", "Capricorn"]
+        air_signs = ["Gemini", "Libra", "Aquarius"]
+        water_signs = ["Cancer", "Scorpio", "Pisces"]
+        
+        industry_type = ""
+        soft_skills = []
+        if mc_sign in fire_signs:
+            industry_type = "Liderazgo, Emprendimiento, Deportes, Medios Visibles, Innovación Rápida"
+            soft_skills = ["Iniciativa", "Carisma de Venta", "Acción Ejecutiva"]
+        elif mc_sign in earth_signs:
+            industry_type = "Finanzas, Construcción, Salud, Recursos Humanos, Sistemas Corporativos"
+            soft_skills = ["Perseverancia", "Gestión de Riesgo", "Organización Práctica"]
+        elif mc_sign in air_signs:
+            industry_type = "Tecnología, Comunicación, Relaciones Públicas, Educación, Ventas B2B"
+            soft_skills = ["Networking", "Análisis Lógico", "Oratoria"]
+        elif mc_sign in water_signs:
+            industry_type = "Psicología, Arte Receptivo, Terapias Alternativas, Cuidado Humano, RRHH Profundo"
+            soft_skills = ["Empatía Táctica", "Intuición de Mercado", "Curación"]
+            
+        # Júpiter dicta donde está la Suerte/Expansión Económica
+        jupiter_blessing = f"Tu expansión natural y 'golpes de suerte' financieros se activan al alinearte con las temáticas de {positions['Jupiter']}."
+        
+        return {
+            "status": "success",
+            "metadata": {"engine": "Career & Vocation Optimizer (Módulo 14)"},
+            "data": {
+                "midheaven_sign": mc_sign,
+                "core_competencies": {
+                    "sun_identity": positions['Sun'],
+                    "communication_style": positions['Mercury'],
+                    "discipline_zone": positions['Saturn']
+                },
+                "career_blueprint": {
+                    "recommended_industries": industry_type,
+                    "natural_soft_skills": soft_skills,
+                    "wealth_expansion_key": jupiter_blessing
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/decision-window")
+@limiter.limit("5/minute")
+def calculate_decision_windows(request: Request, req: DecisionWindowRequest, user: dict = Depends(verify_jwt)):
+    """
+    MÓDULO 16: Decision Window Planner (Astrología Electoral Autárquica)
+    Encuentra ventanas de tiempo óptimas buscando aspectos armónicos a tu Sol/Júpiter.
+    """
+    try:
+        jd_natal = swe.julday(req.user_year, req.user_month, req.user_day, req.user_hour)
+        nat_sun_pos, _ = swe.calc_ut(jd_natal, swe.SUN, 258)
+        nat_jup_pos, _ = swe.calc_ut(jd_natal, swe.JUPITER, 258)
+        nat_sun = nat_sun_pos[0]
+        nat_jup = nat_jup_pos[0]
+        
+        jd_start = swe.julday(req.start_year, req.start_month, req.start_day, 12.0)
+        jd_end = swe.julday(req.end_year, req.end_month, req.end_day, 12.0)
+        
+        if jd_end < jd_start:
+            raise HTTPException(status_code=400, detail="La fecha de fin debe ser posterior a la de inicio")
+        if (jd_end - jd_start) > 90:
+            raise HTTPException(status_code=400, detail="El rango máximo de búsqueda es 90 días para no saturar el colisionador")
+            
+        best_days = []
+        
+        for i in range(int(jd_end - jd_start) + 1):
+            current_jd = jd_start + i
+            
+            # Buscar que el Sol y Júpiter en el cielo hagan Trígono o Sextil a los de nacimiento
+            t_sun_pos, _ = swe.calc_ut(current_jd, swe.SUN, 258)
+            t_jup_pos, _ = swe.calc_ut(current_jd, swe.JUPITER, 258)
+            
+            t_sun = t_sun_pos[0]
+            t_jup = t_jup_pos[0]
+            
+            # Evaluar Sol Transitando al Júpiter Natal (Buen momento para lanzamientos)
+            dist_sun_jup = abs(t_sun - nat_jup)
+            if dist_sun_jup > 180: dist_sun_jup = 360 - dist_sun_jup
+            
+            score = 0
+            reason = ""
+            
+            # Trígono (120) o Sextil (60) o Conjunción (0)
+            if abs(dist_sun_jup - 120) <= 3:
+                score += 10; reason = "Día de expansión brutal. Fluidez cósmica para negocios."
+            elif abs(dist_sun_jup - 0) <= 3:
+                score += 15; reason = "Nuevo Ciclo de Identidad y Abundancia. Máxima suerte."
+                
+            # Restar si hay Mercurio Retrógrado (Cálculo Simplificado: velocidad diaria negativa)
+            merc_pos_1, _ = swe.calc_ut(current_jd, swe.MERCURY, 258)
+            # A rough calc for mercury retrograde
+            merc_pos_2, _ = swe.calc_ut(current_jd + 0.1, swe.MERCURY, 258)
+            dist_merc = merc_pos_2[0] - merc_pos_1[0]
+            if dist_merc > 180: dist_merc -= 360
+            elif dist_merc < -180: dist_merc += 360
+            
+            is_retrograde = dist_merc < 0
+            if is_retrograde:
+                score -= 8; reason += " [ALERTA: Mercurio Retrógrado, evitar firmas de contratos]"
+                
+            if score > 0:
+                y, m, d, _ = swe.revjul(current_jd, 1)
+                best_days.append({
+                    "date": f"{y}-{m:02d}-{d:02d}",
+                    "confidence_score": score,
+                    "insight": reason.strip()
+                })
+                
+        # Ordenar por el mejor score
+        best_days = sorted(best_days, key=lambda x: x["confidence_score"], reverse=True)
+        
+        return {
+            "status": "success",
+            "metadata": {"engine": "Decision Window Planner", "goal_evaluated": req.goal_type},
+            "data": {
+                "top_recommended_dates": best_days[:5] # Devolver las mejores 5 ventanas
+            }
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
