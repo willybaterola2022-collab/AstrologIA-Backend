@@ -1,65 +1,83 @@
-# 🌟 ASTROCORE V2: THE MASTER CONTEXT BRIEF (SUPER-PROMPT)
-**Para:** Claude (Orquestador Lógico), Twin (Analista de Investigación y Creación de Contenido), y Agentes del Ecosistema Digital.
-**De:** Bárbara (Jefe de Producto) y CTO Lógico (Antigravity).
-**Nivel de Clasificación:** MAX - CONTEXTO ABSOLUTO DE PROYECTO
-
-> **⚠️ INSTRUCCIÓN INICIAL PARA LA IA LECTORA:**
-> Lee este documento en su totalidad. Este no es un proyecto de astrología de revista. Es una infraestructura tecnológica que cruza Astrofísica (NASA), Mecánica Cuántica, Kabbalah, Psicología Junguiana y Efemérides Suizas de alta precisión. Tu tarea de hoy en adelante es investigar a niveles doctorales para alimentar a nuestro CTO (el motor de backend Python), quien está codificando los cálculos puros a una velocidad hiper-lumínica.
+# 📡 BRIEF DE ACTIVACIÓN: FASE DE INVESTIGACIÓN ESTRATÉGICA
+**Proyecto:** AstrologIA — La Infraestructura de Autoconocimiento más Avanzada del Mercado
+**Emisor:** Bárbara (Jefa de Producto) + CTO Técnico (Motor de construcción del backend)
+**Destinatarios:** Orquestadores Estratégicos, Analistas de Investigación, Jefes de Ecosistema Digital
+**Fecha:** Marzo 2026
 
 ---
 
-## 🏗️ 1. LO QUE YA HEMOS CONSTRUIDO (Estado Actual del Backend)
-Mientras ustedes investigan, el CTO y Bárbara ya han construido una "Bestia" en el código (FastAPI).
+## 🌐 EL CONTEXTO QUE NECESITAS ABSORBER PARA TRABAJAR
 
-### La Arquitectura Ya Desplegada en Supabase:
-Hemos inyectado bases de datos usando `Row Level Security` (Listas para que los usuarios escriban):
-*   `profiles`: Datos del usuario y geolocalización de nacimiento exacta.
-*   `cosmic_blueprint`: El contenedor del recuento psicológico del alma.
-*   `transit_events`: Ventanas predictivas (La tubería del clima espacial).
-*   `synastry_insights`: Matrices 100x100 de compatibilidad.
+Estamos construyendo un activo digital innovador, tecnológico, seguro, ético y profundamente humano. No es un portal de horóscopo. Es una plataforma de **autoconocimiento computacional** que cruza cálculos astronómicos de precisión milimétrica (Swiss Ephemeris) con psicología junguiana, física cuántica y tradiciones ancestrales.
 
-### Los Motores Matemáticos (Endpoints) que ya están Vivos:
-El CTO ya está consumiendo librerías Suizas (Swiss Ephemeris) y hemos codificado estos Módulos de Alto Valor. **Ustedes (Claude/Twin) deben mejorar la calidad del texto de estos módulos:**
-1.  **Motor de Carrera y Vocación:** Cruza Medio Cielo, Júpiter y el Sol para dar consejos B2B.
-2.  **Motor de Herida Kármica (Quirón) y Propósito (Nodo Norte):** Detecta traumas pasados y propósito existencial.
-3.  **Arquitectura de la Riqueza:** Patrones de sabotaje financiero (Saturno) y expansión (Júpiter).
-4.  **Ventanas de Decisión Autárquicas:** Motor predictivo B2B para lanzar empresas (Sin mercurio retrógrado).
-5.  **Score de Tránsitos Diarios:** Retención masiva (Mide la fricción/armonía del día de 0 a 100).
-6.  **Sinastría:** Módulo de compatibilidad de parejas y socios (Puntajes de Amor vs Fricción).
+El CTO ya ha construido un motor técnico capaz de calcular y devolver en tiempo real:
+- **La Herida del Alma (Quirón)** con su arquetipo de sanación
+- **El Propósito de la Encarnación (Nodo Norte)** con su vector de evolución
+- **La Arquitectura de la Riqueza (Júpiter/Saturno)** con estrategia financiera personalizada
+- **El Perfil de Atracción (Venus)** con el lenguaje de amor real del usuario
+- **El Disparador de Fricción (Marte)** con la sombra relacional inconsciente
+- **Matrices de Compatibilidad de Pareja (Sinastría)** 100x100 variables
+- **Ventanas de Decisión Temporal** para lanzamientos y negocios
+
+**El motor crece. Tu trabajo es traernos la materia prima que lo haga más sabio, preciso e irresistible.**
 
 ---
 
-## 🎯 2. LA MISIÓN DE LOS AGENTES (Twin y Claude)
-Bárbara es la Jefa de Producto y dueña de la visión. El CTO codifica. **Su trabajo (Claude/Twin) es la MATERIA PRIMA.** Tienen que convertirse en Eruditos de Frontera. 
+## 🎯 TU MISIÓN: INVESTIGACIÓN EN DOS EJES
 
-Necesitamos que investiguen, crucen datos y nos devuelvan **matrices de texto (JSON o diccionarios)** que el CTO pueda inyectar en el código Python de manera inmediata.
+### EJE A: Demanda de Mercado y Comportamiento de Usuario (Lo que el mercado necesita que el motor resuelva)
+El CTO puede construir casi cualquier módulo que le sea justificado con datos. Necesitamos saber:
 
-### ¿Qué deben investigar para los próximos Sprints?
-Deben dejar de lado el horóscopo tradicional. Necesitamos "Prompts" cruzados.
-1.  **Fricción Sexual y Poder (Marte/Plutón):** ¿Cómo operan las dinámicas de dominación/sumisión o violencia en parejas basándonos en encuadres de Marte y Plutón? (Psicología de la Sombra de Jung).
-2.  **El Sistema Operativo Mental (Mercurio):** ¿Cómo enseñarle B2B a un usuario a vender mejor según el elemento y casa de su Mercurio? (PNL + Astrología).
-3.  **Talentos Ocultos (Casa 12):** ¿Cómo el inconsciente colectivo guarda secretos del linaje del usuario? (Psicogenealogía).
-4.  **Física Cuántica y NASA:** Revisen los archivos `OMNISCIENCIA_EL_CONTACTO_FINAL.md`. Su deber máximo es pensar módulos que usen Erupciones Solares, el James Webb, la Teoría de Cuerdas, la Kabbalah (Sefer Yetzirah) y los Agujeros Negros de Sagitario A*.
+- ¿Qué buscan activamente en Google/YouTube/TikTok miles de usuarios relacionado con: carta natal, propósito de vida, bloqueos mentales, dinámicas de pareja, destino, tarot, astrología evolutiva, shadow work?
+- ¿Qué preguntas sobre astrología tienen los usuarios que aún NO tienen respuesta satisfactoria en ninguna plataforma?
+- ¿Qué productos digitales de autoconocimiento (cursos, apps, reportes) están monetizando mejor en el mercado actualmente y qué les falta?
+- ¿Cuáles son los puntos de dolor más recurrentes de usuarios en comunidades de Reddit, Facebook, YouTube y Quora sobre astrología, psicología transpersonal y autoayuda espiritual?
+- ¿Qué tendencias de búsqueda están en auge en Europa y LATAM respecto a bienestar, espiritualidad, autoconocimiento y tecnología?
+
+### EJE B: Conocimiento Profundo para Potenciar el Motor (Lo que el CTO necesita de analistas especializados)
+
+El backend puede calcular posiciones astronómicas exactas. Lo que aún necesita es **interpretación de altísima calidad**. Los analistas deben traer materia prima estructurada en estos dominios:
+
+- **Psicología Clínica y Junguiana:** Arquetipos de la Sombra aplicados a Marte, Plutón, Saturno y la Casa 12. Patrones de trauma ancestral (epigenética + Constelaciones Familiares).
+- **Astrología Evolutiva y Kármica:** Interpretaciones de los 12 Quirones, los 12 Nodos Norte/Sur y sus dinámicas evolutivas desde Jeffrey Wolf Green, Steven Forrest y Demetra George como referentes fundamentales.
+- **Astrología Humanista y Transpersonal:** Enfoque de Dane Rudhyar, Liz Greene y Howard Sasportas para la integración psicológica de los planetas transpersonales (Urano, Neptuno, Plutón).
+- **Kabbalah y Geometría Sagrada:** Relaciones entre las 10 Sefirot del Árbol de la Vida y los 10 cuerpos planetarios clásicos. Cómo este sistema mapea los bloqueos energéticos del ser.
+- **Astrofísica NASA aplicada:** ¿Cómo afectan las erupciones solares (CMEs) y el clima espacial al sistema nervioso humano? Referencias científicas cruzadas con sensibilidad planetaria individual.
 
 ---
 
-## ⚙️ 3. PROTOCOLO DE ENTREGA (Cómo deben responderle a Bárbara)
-Cuando Bárbara les asigne una investigación sobre un módulo, **NUNCA le devuelvan un "texto bonito que parece un artículo de blog".** Deben devolver **Estructuras de Datos** que ella pueda copiar y pegar directo al CTO.
+## 🔮 LO QUE EL CTO NECESITA RECIBIR DE LOS ANALISTAS
 
-**Ejemplo de cómo Twin/Claude deben entregar el contenido:**
+Para que el motor de backend pueda incorporar nuevo conocimiento, los analistas deben entregar **estructuras de datos**, NO ensayos narrativos.
+
+**Formato de entrega requerido:**
 ```json
 {
-  "modulo": "Fricción de Pareja (Marte Cuadratura Plutón)",
-  "psicologia_oscura": "Lucha a muerte por el control. El miedo a la aniquilación de la identidad hace que saboteen la paz.",
-  "codigo_de_sanacion": "Terapia de desensibilización al poder. Rendición mutua y canalización de la agresión hacia negocios conjuntos, no hacia el otro."
+  "modulo": "Nombre del Módulo",
+  "subtema": "Aspecto específico analizado",
+  "clave_psicologica": "La insight clínica o arquetípica clave en 2-3 líneas",
+  "pregunta_al_usuario": "La pregunta directa que este dato puede responder para el usuario",
+  "fuente_academica": "Libro / Autor / Paper de referencia"
 }
 ```
 
-## 🌌 4. VISIÓN DEL ECOSISTEMA DIGITAL (Para los Agentes de Venta)
-Bárbara lidera un ecosistema que se alimenta de la "Bestia" (el producto de software). 
-*   No vendemos creencias, vendemos **matemáticas que decodifican el psiquismo humano**.
-*   El lenguaje hacia el público debe ser: Inteligencia Artificial, Espacio Profundo, Física Cuántica, Alto Rendimiento, Bio-haking y Sanación Ancestral.
-*   **Conversión:** Convertiremos el tráfico en Embajadores de la Marca usando pruebas determinísticas. (Ej: "¿No crees? Pon tu fecha y hora. AstroCore te dirá cuál es tu mayor miedo irracional con el dinero. Si acertamos al 100%, compras el reporte analítico").
+---
 
-**>>> END OF TRANSMISSION >>>**
-*> Agentes: Procesen este documento. Confirmen asimilación. Esperen instrucciones de Sprints de parte de Bárbara.*
+## 💡 PREGUNTAS CLAVE PENDIENTES DE RESPUESTA (Para los Analistas)
+
+Estas son las preguntas que el CTO necesita que la investigación resuelva para diseñar módulos más precisos:
+
+1. ¿Qué sistema astrológico de interpretación de la **Casa 12** ofrece el mayor valor terapéutico para el usuario moderno?
+2. ¿Cómo podemos convertir el análisis de **la Luna Progresada** en un producto de seguimiento emocional mensual de alto valor percibido?
+3. ¿Qué datos de uso (engagement, retención, conversión) tienen las apps de astrología como Co-Star, The Pattern, Sanctuary y Astro.com?
+4. ¿Cuáles son los 5 mayores miedos irracionales del usuario de astrología que una herramienta tecnológica podría resolver matemáticamente?
+5. ¿Qué segmentos de mercado B2B (coaches, terapeutas, ejecutivos) usarían un informe astrológico profesional si tenía lenguaje técnico validado?
+
+---
+
+## 🚀 PRÓXIMOS PASOS PARA EL EQUIPO
+
+- **Orquestadores:** Asignar las preguntas a los analistas especializados por eje temático.
+- **Analistas de Mercado:** Responder el EJE A con datos de búsqueda activa y benchmark de monetización.
+- **Analistas de Conocimiento:** Responder el EJE B con estructuras de datos JSON tal como se describe en el formato requerido.
+- **Devolver resultados a Bárbara** quien decide qué insumos pasan al CTO como inputs prioritarios para el siguiente Sprint de construcción.
