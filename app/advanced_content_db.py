@@ -252,3 +252,160 @@ def get_advanced_module(module_name: str, sign_index: int) -> str:
     elif module_name == "Saturn_Return_Mantra":
         return SATURN_RETURN_GUIDE.get(sign_index, {}).get("mantra", "")
     return ""
+
+# ⚠️ CONTENIDO NO CURADO — PENDIENTE REVISIÓN DE BÁRBARA
+# CAREER ARCHETYPE (Vocación y Misión Profesional — Sol + Júpiter + Saturno synergy)
+CAREER_ARCHETYPE = {
+    0: {"vocation": "El Emprendedor Pionero", "ideal_role": "Fundador, atleta, militar, explorador, activista.", "career_shadow": "Inicias 10 proyectos y terminas 0. Tu mayor riesgo profesional es la impaciencia con los procesos lentos que todo gran proyecto requiere.", "monetization": "Tu riqueza llega de productos o servicios NUEVOS. Nunca copies — innova. La marca personal combativa vende."},
+    1: {"vocation": "El Maestro Constructor", "ideal_role": "Arquitecto, agricultor, artesano de lujo, inversor de bienes raíces, chef gourmet.", "career_shadow": "Te niegas a cambiar cuando el mercado ya giró. La terquedad estratégica puede hacerte quedarte con la empresa perfecta en un mercado muerto.", "monetization": "Tu fortuna es lenta y garantizada. La inversión en activos tangibles y negocios de valor duradero es tu camino natural."},
+    2: {"vocation": "El Comunicador Universal", "ideal_role": "Escritor, periodista, educador, influencer, developer, comercial B2B, traductor cultural.", "career_shadow": "Te dispersas en demasiados nichos y nunca profundizas lo suficiente como para ser 'el referente' en algo.", "monetization": "Monetiza conocimiento: cursos, libros, newsletters de alto ticket. Tu capacidad síntesis es un activo económico raro."},
+    3: {"vocation": "El Guardián del Alma Colectiva", "ideal_role": "Psicoterapeuta, nutricionista, interior designer, chef, trabajador social, doula.", "career_shadow": "Tanto das a tus clientes que te descuidas en los límites de negocio. La generosidad sin estructura destruye los ingresos.", "monetization": "Tu negocio ancla es el servicio recurrente y el vínculo de largo plazo (retainers, comunidades de membresía)."},
+    4: {"vocation": "El Artista-CEO", "ideal_role": "Director creativo, actor, diseñador de moda, influencer, fundador de startup de entretenimiento.", "career_shadow": "El ego sabotea las alianzas estratégicas. La necesidad de siempre ser el centro puede expulsar talento clave de tu equipo.", "monetization": "Tu marca personal ES el producto. Invierte en imagen, storytelling y espacios donde puedas brillar maximally."},
+    5: {"vocation": "El Maestro del Sistema", "ideal_role": "Auditor, médico, analista de datos, desarrollador de software, consultor de procesos, nutricionista funcional.", "career_shadow": "La obsesión perfeccionista paraliza la velocidad de entrega. El 80% perfecto entregado a tiempo genera más ROI que el 100% eternamente.", "monetization": "Tus servicios premium son diagnósticos y sistemas de optimización. Cobra por la precisión que nadie más puede dar."},
+    6: {"vocation": "El Negociador Maestro", "ideal_role": "Abogado, mediador, curador de arte, relacionista público, co-fundador, manager de talentos.", "career_shadow": "La indecisión en momentos críticos de negocio puede costar millones. Necesitas un proceso de toma de decisiones estructurado que rompa tu loop de equilibrio.", "monetization": "Tu fortuna está en los acuerdos. Posiciónate en el centro de transacciones de alto valor donde tu habilidad de equilibrar todos los intereses es insustituible."},
+    7: {"vocation": "El Estratega de la Sombra", "ideal_role": "Psicoanalista, investigador forense, gestor de crisis, private equity, estratega político, coach ejecutivo.", "career_shadow": "El control obsesivo sobre los resultados destruye equipos y sociedades de negocio. La desconfianza estructural como modo de operación es tu mayor fuga de valor.", "monetization": "Ganas fortunas en contextos de alta transformación: turnarounds empresariales, crisis corporativas, gestión de activos de terceros."},
+    8: {"vocation": "El Filósofo Empresario", "ideal_role": "Profesor universitario, conferencista internacional, creador de contenido de viajes, productor editorial, emprendedor de mercados globales.", "career_shadow": "El entusiasmo sin disciplina de ejecución. Prometes más de lo que puedes entregar en tiempo y forma.", "monetization": "Tu mercado es el mundo. No hay que localizar: pensar en inglés (o el idioma universal de tu nicho) y escalar internacionalmente es tu ruta natural."},
+    9: {"vocation": "El Arquitecto de Imperios", "ideal_role": "CEO, político, CFO, constructor civil, gerente general, asesor gubernamental.", "career_shadow": "El frío calculador que sacrifica personas por resultado. La falta de empatía en liderazgo crea equipo tóxico y deserción de talento.", "monetization": "Eres el que construye la empresa que dura 100 años. Tu monetización más alta es en el largo plazo: equity, no salario."},
+    10: {"vocation": "El Disruptor Tecnológico", "ideal_role": "CTO, fundador deep-tech, activista de datos, investigador de IA, diseñador de sistemas sociales.", "career_shadow": "La arrogancia intelectual que no escucha al mercado. Construyes lo que 'debería necesitar el mundo' en lugar de lo que el mundo pide hoy.", "monetization": "Tu riqueza está en las ideas que llegan 10 años antes que el mercado. La clave es sobrevivir financieramente hasta que el mundo te alcance."},
+    11: {"vocation": "El Sanador-Artista Cósmico", "ideal_role": "Músico, filmmaker, terapeuta holístico, ministro espiritual, fotógrafo, oceanógrafo.", "career_shadow": "La evasión de la estructura de negocio. El rechazo al 'dinero' como energía sagrada te deja siendo un artista genial en la pobreza.", "monetization": "Tu producto es la transformación emocional. Quien la experimente pagará cualquier precio. El reto es envolver tu don en un sistema de entrega claro y replicable."}
+}
+
+# ⚠️ CONTENIDO NO CURADO — PENDIENTE REVISIÓN DE BÁRBARA
+# CHART PATTERN TYPE (Configuración Global de la Carta — Marc Edmund Jones)
+CHART_PATTERN = {
+    "Bundle": {"name": "El Concentrado", "description": "Todos tus planetas se agrupan en no más de 120° del zodiaco. Eres una persona de enfoque extremo, especialista, apasionado. Tu mayor riesgo es la miopía.", "strength": "Profundidad inigualable en tu área de dominio.", "challenge": "Falta de perspectiva global y dificultad para salir de tu propio paradigma."},
+    "Bowl": {"name": "El Contenedor", "description": "Todos los planetas en media rueda. Tienes una causa o misión que te diferencia del resto del mundo. Eres auto-suficiente y buscas siempre completar lo que te falta en la mitad vacía.", "strength": "Gran momentum personal y sentido de propósito.", "challenge": "Tendencia a proyectar en otros lo que te falta."},
+    "Bucket": {"name": "El Manejador", "description": "Todos los planetas en media rueda excepto uno solo en el lado opuesto. Ese planeta solitario (el 'handle') es el punto de aplicación de toda tu energía.", "strength": "Claridad excepcional de propósito. El planeta handle es tu mayor talento.", "challenge": "Obcecación con el handle que puede desbalancear tu vida."},
+    "Locomotive": {"name": "La Locomotora", "description": "Planetas en 3/4 del zodiaco, con 1/4 vacío. Te mueves con una inercia imparable. Eres un autodidacta con voluntad de acero que ha aprendido de sí mismo.", "strength": "Ambición y capacidad de ejecución brutales.", "challenge": "Dificultad para descansar y para integrar puntos de vista de otros."},
+    "Seesaw": {"name": "El Péndulo", "description": "Planetas en dos grupos opuestos. Tu vida es un constante baile de polaridades. Eres el diplomático nato, pero también el eternamente dividido entre dos mundos.", "strength": "Capacidad de ver todos los lados de una situación.", "challenge": "Parálisis por polaridad. Necesitas tomar partido eventualmente."},
+    "Splay": {"name": "El Irregular", "description": "Tres grupos de planetas distribuidos irregularmente. Eres un individualista radical. No entras en ninguna categoría.", "strength": "Originalidad extrema. Resistencia a ser clasificado.", "challenge": "Dificultad para adaptarse a sistemas y estructuras externas."},
+    "Splash": {"name": "El Universal", "description": "Planetas distribuidos por todo el zodiaco sin patrón claro. Tu interés es universal; eres un ser holístico. El mundo entero es tu territorio.", "strength": "Curiosidad y adaptabilidad extraordinarias.", "challenge": "Dispersión. Sin enfoque, la energía se diluye en mil direcciones."}
+}
+
+# PLANETARY_DIGNITY numerical scoring is derived from DIGNITY_TABLE + DIGNITY_MEANING below
+
+# Dignidades como tabla simple de texto (sign→estado)
+DIGNITY_TABLE = {
+    # [planet_name]: {(sign_idx, estado)}
+    "Sun":     {4: "Domicilio", 0: "Exaltación", 10: "Detrimento", 6: "Caída"},
+    "Moon":    {3: "Domicilio", 1: "Exaltación", 9: "Detrimento", 7: "Caída"},
+    "Mercury": {2: "Domicilio", 5: "Domicilio", 5: "Exaltación", 8: "Detrimento", 11: "Detrimento", 11: "Caída"},
+    "Venus":   {1: "Domicilio", 6: "Domicilio", 11: "Exaltación", 7: "Detrimento", 0: "Detrimento", 5: "Caída"},
+    "Mars":    {0: "Domicilio", 7: "Domicilio", 9: "Exaltación", 6: "Detrimento", 1: "Detrimento", 3: "Caída"},
+    "Jupiter": {8: "Domicilio", 11: "Domicilio", 3: "Exaltación", 2: "Detrimento", 5: "Detrimento", 9: "Caída"},
+    "Saturn":  {9: "Domicilio", 10: "Domicilio", 6: "Exaltación", 3: "Detrimento", 0: "Detrimento", 0: "Caída"},
+}
+
+DIGNITY_MEANING = {
+    "Domicilio":   {"score": 10, "meaning": "El planeta opera con total naturalidad y potencia. Sus cualidades fluyen sin fricción."},
+    "Exaltación":  {"score": 8,  "meaning": "El planeta está en su punto más brillante y elevado. Expresa su mejor versión."},
+    "Normal":      {"score": 5,  "meaning": "El planeta opera sin ventajas ni desventajas especiales."},
+    "Detrimento":  {"score": 2,  "meaning": "El planeta opera en tensión con el entorno. Su energía requiere esfuerzo consciente para expresarse bien."},
+    "Caída":       {"score": 1,  "meaning": "El planeta está en su punto de mayor desafío. Requiere trabajo activo de integración para no operar desde la sombra."},
+}
+
+# ⚠️ CONTENIDO NO CURADO — PENDIENTE REVISIÓN DE BÁRBARA
+# DAILY TRANSIT ENERGY (Scoring de Energía del Día por Luna en Tránsito)
+LUNAR_TRANSIT_ENERGY = {
+    0: {"energy": "🔥 Alta — Impulso y Arranque", "ideal_for": "Iniciar proyectos, negociaciones directas, deportes, confrontaciones necesarias.", "avoid": "Decisiones lentas o trabajos que requieren paciencia extrema.", "score": 85},
+    1: {"energy": "🌱 Alta — Construcción y Persistencia", "ideal_for": "Finanzas, compras importantes, trabajo manual, negociaciones de largo plazo.", "avoid": "Cambios acelerados de plan, decisiones emocionales.", "score": 80},
+    2: {"energy": "💬 Media-Alta — Comunicación y Networking", "ideal_for": "Reuniones, emails importantes, aprendizaje, networking, llamadas de ventas.", "avoid": "Compromisos de largo plazo (Luna Géminis es volátil).", "score": 72},
+    3: {"energy": "🌊 Media — Introspección y Familia", "ideal_for": "Reuniones familiares, trabajo emocional, terapia, cocinar, negocios desde casa.", "avoid": "Presentaciones públicas de alto impacto (energía muy interior).", "score": 60},
+    4: {"energy": "👑 Muy Alta — Visibilidad y Liderazgo", "ideal_for": "Lanzamientos, presentaciones, networking de élite, cualquier acción pública.", "avoid": "Trabajo solitario y anónimo (desaprovecha la energía Leo).", "score": 90},
+    5: {"energy": "⚙️ Alta — Análisis y Ejecución", "ideal_for": "Revisión de contratos, edición de proyectos, salud, limpieza y organización.", "avoid": "Decisiones de alto riesgo (Luna Virgo sobre-analiza).", "score": 75},
+    6: {"energy": "⚖️ Media-Alta — Alianzas y Acuerdos", "ideal_for": "Firmar contratos, citas románticas/de negocios, mediación de conflictos, arte.", "avoid": "Tomar partido en conflictos que requieren dureza.", "score": 78},
+    7: {"energy": "🌑 Media — Profundidad y Transformación", "ideal_for": "Investigación, trabajo de sombra, sesiones de coaching profundo, M&A.", "avoid": "Conversaciones livianas (todo se vuelve intenso).", "score": 65},
+    8: {"energy": "🏹 Alta — Expansión y Oportunidad", "ideal_for": "Viajes, lanzamientos internacionales, educación, visión estratégica.", "avoid": "Trabajo de detalle (Sagitario ve el bosque pero no los árboles).", "score": 83},
+    9: {"energy": "🏛️ Alta — Estructura y Disciplina", "ideal_for": "Planificación estratégica, reuniones con autoridades, trabajo profundo y solo.", "avoid": "Pedir favores emocionales o expresar vulnerabilidad pública.", "score": 80},
+    10: {"energy": "⚡ Media — Innovación y Disrupción", "ideal_for": "Brainstorming, tecnología, cambios inesperados, activismo, actualizaciones de sistemas.", "avoid": "Compromisos emocionales profundos (energía fría y dispersa).", "score": 68},
+    11: {"energy": "🌊 Baja — Intuición y Descanso", "ideal_for": "Meditación, creatividad artística, trabajo espiritual, sueños, retiro.", "avoid": "Decisiones de negocio críticas, interacciones de alto impacto.", "score": 45},
+}
+
+def get_advanced_module(module_name: str, sign_index: int) -> str:
+    if module_name == "Chiron_Wound":
+        return CHIRON_ADVANCED.get(sign_index, {}).get("wound", "")
+    elif module_name == "Chiron_Healing":
+        return CHIRON_ADVANCED.get(sign_index, {}).get("healing", "")
+    elif module_name == "North_Node":
+        return NORTH_NODE_ADVANCED.get(sign_index, "")
+    elif module_name == "Jupiter_Wealth":
+        return JUPITER_WEALTH.get(sign_index, "")
+    elif module_name == "Venus_Profile":
+        return VENUS_PROFILE.get(sign_index, "")
+    elif module_name == "Mars_Pluto_Friction":
+        return MARS_PLUTO_FRICTION.get(sign_index, "")
+    elif module_name == "Moon_Core_Emotion":
+        return MOON_CONDITIONING.get(sign_index, {}).get("core_emotion", "")
+    elif module_name == "Moon_Childhood":
+        return MOON_CONDITIONING.get(sign_index, {}).get("childhood_pattern", "")
+    elif module_name == "Moon_Healing":
+        return MOON_CONDITIONING.get(sign_index, {}).get("healing", "")
+    elif module_name == "Mercury_Thinking":
+        return MERCURY_OS.get(sign_index, {}).get("thinking_style", "")
+    elif module_name == "Mercury_Communication":
+        return MERCURY_OS.get(sign_index, {}).get("communication", "")
+    elif module_name == "Mercury_B2B":
+        return MERCURY_OS.get(sign_index, {}).get("b2b_hack", "")
+    elif module_name == "House12_Shadow_Talent":
+        return HOUSE_12_SHADOW_TALENTS.get(sign_index, "")
+    elif module_name == "Sun_Archetype":
+        return SUN_PURPOSE.get(sign_index, {}).get("archetype", "")
+    elif module_name == "Sun_Purpose":
+        return SUN_PURPOSE.get(sign_index, {}).get("purpose", "")
+    elif module_name == "Sun_Shadow":
+        return SUN_PURPOSE.get(sign_index, {}).get("shadow", "")
+    elif module_name == "Ascendant_Mask":
+        return ASCENDANT_MASK.get(sign_index, {}).get("social_mask", "")
+    elif module_name == "Ascendant_Gift":
+        return ASCENDANT_MASK.get(sign_index, {}).get("gift", "")
+    elif module_name == "Ascendant_Blind_Spot":
+        return ASCENDANT_MASK.get(sign_index, {}).get("blind_spot", "")
+    elif module_name == "Saturn_Return_Challenge":
+        return SATURN_RETURN_GUIDE.get(sign_index, {}).get("challenge", "")
+    elif module_name == "Saturn_Return_Opportunity":
+        return SATURN_RETURN_GUIDE.get(sign_index, {}).get("opportunity", "")
+    elif module_name == "Saturn_Return_Mantra":
+        return SATURN_RETURN_GUIDE.get(sign_index, {}).get("mantra", "")
+    elif module_name == "Career_Vocation":
+        return CAREER_ARCHETYPE.get(sign_index, {}).get("vocation", "")
+    elif module_name == "Career_Ideal_Role":
+        return CAREER_ARCHETYPE.get(sign_index, {}).get("ideal_role", "")
+    elif module_name == "Career_Shadow":
+        return CAREER_ARCHETYPE.get(sign_index, {}).get("career_shadow", "")
+    elif module_name == "Career_Monetization":
+        return CAREER_ARCHETYPE.get(sign_index, {}).get("monetization", "")
+    elif module_name == "Lunar_Transit_Energy":
+        data = LUNAR_TRANSIT_ENERGY.get(sign_index, {})
+        return f"{data.get('energy','')} | Score: {data.get('score','')} | Para: {data.get('ideal_for','')} | Evita: {data.get('avoid','')}"
+    return ""
+
+def get_dignity(planet_name: str, sign_idx: int) -> dict:
+    dignity_map = DIGNITY_TABLE.get(planet_name, {})
+    status = dignity_map.get(sign_idx, "Normal")
+    return {
+        "status": status,
+        "score": DIGNITY_MEANING.get(status, {}).get("score", 5),
+        "meaning": DIGNITY_MEANING.get(status, {}).get("meaning", "")
+    }
+
+def get_chart_pattern(bundle_span: int, n_occupied: int, n_groups: int) -> dict:
+    """Determine chart pattern from planetary distribution.
+    bundle_span: degrees between first and last planet
+    n_occupied: number of signs occupied
+    n_groups: number of distinct clusters
+    """
+    if bundle_span <= 120:
+        key = "Bundle"
+    elif n_groups == 1 and bundle_span <= 180:
+        key = "Bowl"
+    elif n_groups == 2 and bundle_span > 180:
+        key = "Seesaw"
+    elif n_groups == 3:
+        key = "Splay"
+    elif n_occupied >= 10:
+        key = "Splash"
+    elif bundle_span >= 270:
+        key = "Locomotive"
+    else:
+        key = "Splash"
+    return {"pattern": key, **CHART_PATTERN.get(key, {})}

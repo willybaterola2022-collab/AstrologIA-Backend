@@ -885,3 +885,199 @@ def calculate_saturn_return(request: Request, req: ModuleRequest, user: dict = D
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+# --- HEALTH CHECK ---
+@app.get("/api/status")
+def api_status():
+    return {"status": "online", "version": "1.3.0", "engine": "AstrologIA Backend", "endpoints": 15}
+
+# --- NEW ENDPOINTS: CAREER OPTIMIZER (UPGRADED WITH CONTENT) ---
+@app.post("/api/career-optimizer")
+@limiter.limit("5/minute")
+def calculate_career_optimizer(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 3: Optimizador de Vocación y Carrera (Sun + Jupiter synergy)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_sun, _ = swe.calc_ut(jd, swe.SUN, swe.FLG_MOSEPH)
+        pos_jup, _ = swe.calc_ut(jd, swe.JUPITER, swe.FLG_MOSEPH)
+        sun_sign = int(pos_sun[0] / 30)
+        jup_sign = int(pos_jup[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Career Optimizer (Módulo 3)",
+                "content_status": "⚠️ Contenido no curado — pendiente revisión de Bárbara"
+            },
+            "data": {
+                "sun_vocation": {
+                    "sign": SIGN_NAMES[sun_sign],
+                    "archetype": get_advanced_module("Career_Vocation", sun_sign),
+                    "ideal_roles": get_advanced_module("Career_Ideal_Role", sun_sign),
+                    "monetization_strategy": get_advanced_module("Career_Monetization", sun_sign),
+                    "career_shadow": get_advanced_module("Career_Shadow", sun_sign)
+                },
+                "jupiter_expansion": {
+                    "sign": SIGN_NAMES[jup_sign],
+                    "wealth_strategy": get_advanced_module("Jupiter_Wealth", jup_sign)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/chart-pattern")
+@limiter.limit("5/minute")
+def calculate_chart_pattern(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 17: Patrón Global de la Carta (Marc Edmund Jones 7 Types)."""
+    from app.advanced_content_db import get_chart_pattern, CHART_PATTERN
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        planets = [swe.SUN, swe.MOON, swe.MERCURY, swe.VENUS, swe.MARS,
+                   swe.JUPITER, swe.SATURN, swe.URANUS, swe.NEPTUNE, swe.PLUTO]
+        longitudes = []
+        for p in planets:
+            pos, _ = swe.calc_ut(jd, p, swe.FLG_MOSEPH)
+            longitudes.append(pos[0])
+        longitudes_sorted = sorted(longitudes)
+        # Calculate distribution metrics
+        bundle_span = longitudes_sorted[-1] - longitudes_sorted[0]
+        signs_occupied = len(set(int(l / 30) for l in longitudes))
+        # Count groups (clusters with gap > 30°)
+        gaps = [longitudes_sorted[i+1] - longitudes_sorted[i] for i in range(len(longitudes_sorted)-1)]
+        n_groups = sum(1 for g in gaps if g > 30) + 1
+        pattern = get_chart_pattern(int(bundle_span), signs_occupied, n_groups)
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Chart Pattern Type (Módulo 17)",
+                "content_status": "⚠️ Contenido no curado — pendiente revisión de Bárbara"
+            },
+            "data": {
+                "chart_pattern": pattern,
+                "distribution_stats": {
+                    "planetary_span_degrees": round(bundle_span, 1),
+                    "signs_occupied": signs_occupied,
+                    "planet_clusters": n_groups
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/daily-transit-score")
+@limiter.limit("10/minute")
+def calculate_daily_transit_score(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 18: Score de Energía del Día (Luna en Tránsito)."""
+    from datetime import datetime
+    try:
+        # Use today's date for transit moon position
+        now = datetime.utcnow()
+        jd_transit = swe.julday(now.year, now.month, now.day, now.hour + now.minute/60)
+        pos_moon_transit, _ = swe.calc_ut(jd_transit, swe.MOON, swe.FLG_MOSEPH)
+        transit_sign_idx = int(pos_moon_transit[0] / 30)
+        transit_data = get_advanced_module("Lunar_Transit_Energy", transit_sign_idx).split(" | ")
+        energy = transit_data[0] if transit_data else ""
+        score_raw = [x for x in transit_data if "Score:" in x]
+        score = int(score_raw[0].replace("Score: ", "")) if score_raw else 50
+        ideal_raw = [x for x in transit_data if "Para:" in x]
+        ideal = ideal_raw[0].replace("Para: ", "") if ideal_raw else ""
+        avoid_raw = [x for x in transit_data if "Evita:" in x]
+        avoid = avoid_raw[0].replace("Evita: ", "") if avoid_raw else ""
+        # Natal sun for personalisation
+        jd_natal = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_sun, _ = swe.calc_ut(jd_natal, swe.SUN, swe.FLG_MOSEPH)
+        natal_sun_idx = int(pos_sun[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Daily Transit Score (Módulo 18)",
+                "content_status": "⚠️ Contenido no curado — pendiente revisión de Bárbara",
+                "transit_date": now.strftime("%Y-%m-%d")
+            },
+            "data": {
+                "today_moon": {
+                    "sign": SIGN_NAMES[transit_sign_idx],
+                    "energy_level": energy,
+                    "daily_score": score,
+                    "ideal_for": ideal,
+                    "avoid": avoid
+                },
+                "natal_sun": {
+                    "sign": SIGN_NAMES[natal_sun_idx],
+                    "archetype": get_advanced_module("Sun_Archetype", natal_sun_idx)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/cosmic-blueprint-full")
+@limiter.limit("3/minute")
+def calculate_cosmic_blueprint_full(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO MAESTRO: Perfil Completo del Alma (todos los motores en una sola llamada)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        # Calculate all planets
+        pos_sun, _   = swe.calc_ut(jd, swe.SUN, swe.FLG_MOSEPH)
+        pos_moon, _  = swe.calc_ut(jd, swe.MOON, swe.FLG_MOSEPH)
+        pos_merc, _  = swe.calc_ut(jd, swe.MERCURY, swe.FLG_MOSEPH)
+        pos_ven, _   = swe.calc_ut(jd, swe.VENUS, swe.FLG_MOSEPH)
+        pos_mars, _  = swe.calc_ut(jd, swe.MARS, swe.FLG_MOSEPH)
+        pos_jup, _   = swe.calc_ut(jd, swe.JUPITER, swe.FLG_MOSEPH)
+        pos_sat, _   = swe.calc_ut(jd, swe.SATURN, swe.FLG_MOSEPH)
+        pos_nep, _   = swe.calc_ut(jd, swe.NEPTUNE, swe.FLG_MOSEPH)
+        pos_nn, _    = swe.calc_ut(jd, swe.TRUE_NODE, swe.FLG_MOSEPH)
+        asc_result   = swe.houses(jd, req.lat, req.lon, b'P')
+        asc_degree   = asc_result[1][0]
+        # Chiron: try with MOSEPH, gracefully fall back
+        try:
+            pos_chi, _ = swe.calc_ut(jd, swe.CHIRON, swe.FLG_MOSEPH)
+            chi_i = int(pos_chi[0] / 30)
+        except Exception:
+            chi_i = int(pos_sun[0] / 30)  # use Sun sign as Chiron fallback
+
+        sun_i  = int(pos_sun[0] / 30)
+        moon_i = int(pos_moon[0] / 30)
+        merc_i = int(pos_merc[0] / 30)
+        ven_i  = int(pos_ven[0] / 30)
+        mars_i = int(pos_mars[0] / 30)
+        jup_i  = int(pos_jup[0] / 30)
+        sat_i  = int(pos_sat[0] / 30)
+        nep_i  = int(pos_nep[0] / 30)
+        nn_i   = int(pos_nn[0] / 30)
+        asc_i  = int(asc_degree / 30)
+
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Cosmic Blueprint Full (Módulo Maestro)",
+                "content_status": "⚠️ Contenido no curado — pendiente revisión de Bárbara",
+                "version": "1.3.0"
+            },
+            "data": {
+                "identity": {
+                    "sun":  {"sign": SIGN_NAMES[sun_i],  "archetype": get_advanced_module("Sun_Archetype", sun_i),  "purpose": get_advanced_module("Sun_Purpose", sun_i)},
+                    "moon": {"sign": SIGN_NAMES[moon_i], "core_emotion": get_advanced_module("Moon_Core_Emotion", moon_i), "integration": get_advanced_module("Moon_Healing", moon_i)},
+                    "ascendant": {"sign": SIGN_NAMES[asc_i], "degree": round(asc_degree % 30, 2), "social_mask": get_advanced_module("Ascendant_Mask", asc_i), "gift": get_advanced_module("Ascendant_Gift", asc_i)}
+                },
+                "psyche": {
+                    "mercury": {"sign": SIGN_NAMES[merc_i], "thinking_style": get_advanced_module("Mercury_Thinking", merc_i), "b2b_strategy": get_advanced_module("Mercury_B2B", merc_i)},
+                    "chiron":  {"sign": SIGN_NAMES[chi_i],  "wound": get_advanced_module("Chiron_Wound", chi_i),  "healing": get_advanced_module("Chiron_Healing", chi_i)},
+                    "shadow_talent": {"neptune_sign": SIGN_NAMES[nep_i], "hidden_gift": get_advanced_module("House12_Shadow_Talent", nep_i)}
+                },
+                "relationships": {
+                    "venus": {"sign": SIGN_NAMES[ven_i],  "love_language": get_advanced_module("Venus_Profile", ven_i)},
+                    "mars":  {"sign": SIGN_NAMES[mars_i], "conflict_trigger": get_advanced_module("Mars_Pluto_Friction", mars_i)}
+                },
+                "destiny": {
+                    "north_node": {"sign": SIGN_NAMES[nn_i], "soul_evolution": get_advanced_module("North_Node", nn_i)},
+                    "saturn_return": {"sign": SIGN_NAMES[sat_i], "challenge": get_advanced_module("Saturn_Return_Challenge", sat_i), "mantra": get_advanced_module("Saturn_Return_Mantra", sat_i)}
+                },
+                "abundance": {
+                    "jupiter": {"sign": SIGN_NAMES[jup_i], "wealth_strategy": get_advanced_module("Jupiter_Wealth", jup_i)},
+                    "career":  {"vocation": get_advanced_module("Career_Vocation", sun_i), "monetization": get_advanced_module("Career_Monetization", sun_i)}
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
