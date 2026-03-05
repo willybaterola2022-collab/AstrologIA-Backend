@@ -1,15 +1,25 @@
-from fastapi import FastAPI, HTTPException, Depends, Security
+from fastapi import FastAPI, HTTPException, Depends, Security, Request
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import jwt
 import swisseph as swe
+from slowapi import Limiter, _rate_limit_exceeded_handler
+from slowapi.util import get_remote_address
+from slowapi.errors import RateLimitExceeded
+from app.config import settings
+
+# --- RATE LIMITING ---
+limiter = Limiter(key_func=get_remote_address)
 
 app = FastAPI(
     title="AstrologIA Backend (Control Plane)",
     description="API para conectar Lovable con Swisseph y Supabase",
-    version="1.1.0"
+    version="1.2.0"
 )
+
+app.state.limiter = limiter
+app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 # --- CORS MIDDLEWARE ---
 app.add_middleware(
@@ -19,21 +29,19 @@ app.add_middleware(
         "https://*.vercel.app"               # Entorno Preview/Prod de Vercel
     ],
     allow_credentials=True,
-    allow_methods=["*"],                     # Permite GET, POST, OPTIONS, etc.
+    allow_methods=["*"],
     allow_headers=["Authorization", "Content-Type"],
 )
 
 # --- AUTH MIDDLEWARE (JWT SUPABASE) ---
-# Extraemos el secret que usa supabase para firmar tokens
-SUPABASE_JWT_SECRET = "Yl6eZL7tNOKeO2YMKsHOms0FqTkcknyhSPETPV0Unzc"
 security = HTTPBearer()
 
 def verify_jwt(credentials: HTTPAuthorizationCredentials = Security(security)):
     token = credentials.credentials
     try:
-        # Supabase firma usando HS256 y un rol en el payload
-        payload = jwt.decode(token, SUPABASE_JWT_SECRET, algorithms=["HS256"], options={"verify_aud": False})
-        return payload  # Retorna el dict del user (id, email, rol, etc)
+        # Usamos el secret de Pydantic BaseSettings (oculto en .env)
+        payload = jwt.decode(token, settings.supabase_jwt_secret, algorithms=["HS256"], options={"verify_aud": False})
+        return payload
     except jwt.ExpiredSignatureError:
         raise HTTPException(status_code=401, detail="Token expirado. Lovable debe refrescar la sesion.")
     except jwt.InvalidTokenError:
@@ -54,7 +62,8 @@ def read_root():
     return {"status": "ok", "message": "AstrologIA API is running"}
 
 @app.post("/api/carta-natal")
-def calculate_natal_chart(req: NatalChartRequest, user: dict = Depends(verify_jwt)):
+@limiter.limit("5/minute")  # Limitado a 5 peticiones por minuto por IP para evitar ataques DDoS
+def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict = Depends(verify_jwt)):
     """
     IMPORTANTE: Notese el `Depends(verify_jwt)`.
     Si el header 'Authorization: Bearer <token>' no viene o es falso, FastApi responde 401 automático.
