@@ -127,3 +127,67 @@ EJEMPLO: [output de muestra]
 - **Separar BUILD de PRODUCCIÓN:** Agente creador de tools ≠ agente generador de contenido
 - **Buffer Local Siempre:** SQLite → Supabase (nunca directo a producción)
 - **DRY RUN obligatorio:** Inspeccionar esquema + registro de prueba antes de escribir
+
+---
+
+## 🗂️ BANCO DE 30 MÓDULOS CANDIDATOS A MVP
+*Depositados: 2026-03-06 02:08*
+*Estado: banco de ideas — producción según priorización*
+
+### GRUPO A — Core de Identidad
+| # | Módulo | Promesa | Estado backend |
+|---|---|---|---|
+| 01 | Manual del Ser Completo | Mapa psicológico-cósmico 40+ páginas | ✅ `/api/manual-del-ser` — LIVE |
+| 02 | Quirón — La Herida y el Don | Por qué sufres donde más vales | ✅ `/api/karmic-wound` — LIVE |
+| 03 | Nodo Norte — Misión de Alma | Para qué viniste a esta vida | ✅ dentro de `/api/karmic-wound` — LIVE |
+| 04 | Perfil Venus | Cómo amas, qué te rompe | ✅ `/api/venus-attraction` — LIVE |
+| 05 | Marte/Plutón — Sombra y Fricción | Cómo te saboteas sin darte cuenta | ✅ `/api/mars-friction` — LIVE |
+| 06 | Arquitectura de Riqueza | Dónde está tu dinero | ✅ `/api/wealth-blueprint` — LIVE |
+
+### GRUPO B — Relaciones
+| # | Módulo | Promesa | Estado |
+|---|---|---|---|
+| 07 | Sinastría Profunda | Compatibilidad real más allá del signo solar | ⬜ motor base existe, contenido pendiente |
+| 08 | Detector de Patrones Tóxicos | Por qué siempre eliges las mismas personas | ⬜ algoritmo multi-factor Quirón+VeneMarte |
+| 09 | Match Energético | Tu perfil de atracción (shareable) | ⬜ |
+| 10 | Karma de Pareja | Deuda y regalo de vidas anteriores | ⬜ requiere carta dracónica |
+
+### GRUPO C — Timing y Ciclos
+| # | Módulo | Promesa | Frecuencia |
+|---|---|---|---|
+| 11 | Reloj de Tránsitos Personal | Cuándo actuar/esperar/soltar | Diario — `/api/daily-transit-score` ✅ base existe |
+| 12 | Saturn Return Coach | Crisis de los 30 → trampolín | ✅ `/api/saturn-return` — LIVE |
+| 13 | Ciclos de Júpiter | 12 años mapeados | ⬜ |
+| 14 | Eclipse Personal | Qué activan los próximos eclipses | ⬜ alta temporalidad |
+| 15 | Luna Progresada | Mapa emocional mes a mes | ⬜ requiere progresiones secundarias |
+
+### GRUPO D — Dinero, Vocación, Propósito
+| # | Módulo | Ticket | Estado |
+|---|---|---|---|
+| 16 | Mapa Vocacional | Alto LTV | ✅ `/api/career-optimizer` — LIVE |
+| 17 | Planner de Lanzamientos | B2B coaches | ⬜ |
+| 18 | Casa 2-8-10 Wealth Map | Premium €79+ | ⬜ |
+| 19 | Herida Familiar Ancestral | Epigenética + Hellienger | ✅ `/api/ancestral-code` — LIVE |
+| 20 | Astrocartografía Personal | Nicho premium, global | ⬜ requiere cálculo ACG |
+
+### GRUPO E — Bienestar y Cuerpo
+| # | Módulo | Diferenciador |
+|---|---|---|
+| 21 | Frecuencias Planetarias | Audio espacial 3D según carta |
+| 22 | Pacing Somático Astral | Respiración + perfil planetario |
+| 23 | Diario Lunar + Mood Tracker | Streak — retención diaria |
+| 24 | Salud y Casa 6 | Astrología médica responsable |
+
+### GRUPO F — Contenido y Comunidad
+| # | Módulo | Mecánica |
+|---|---|---|
+| 25 | Cosmic Blueprint Shareable | UGC — card visual — acquisition loop |
+| 26 | Podcast Astral Personalizado | Audio personalizado semanal |
+| 27 | Quiz Arquetipo Dominante | 3 min — viral — top of funnel |
+| 28 | Astro Influencer IA | IA personal que nunca duerme |
+
+### GRUPO G — B2B y Ecosistema
+| # | Módulo | Canal |
+|---|---|---|
+| 29 | AstrologIA para Equipos | B2B corporativo |
+| 30 | Marketplace de Astrólogos | €89-€120/sesión |
