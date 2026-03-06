@@ -409,3 +409,70 @@ def get_chart_pattern(bundle_span: int, n_occupied: int, n_groups: int) -> dict:
     else:
         key = "Splash"
     return {"pattern": key, **CHART_PATTERN.get(key, {})}
+
+# ⚠️ CONTENIDO NO CURADO — PENDIENTE REVISIÓN DE BÁRBARA
+# DIM 7: HERENCIA ANCESTRAL PSÍQUICA (Luna + Saturno como código familiar)
+# Fuente: Bert Hellinger (Constelaciones), Liz Greene (Saturn), Jung (Complejo Familiar)
+ANCESTRAL_HERITAGE = {
+    0: {"family_pattern": "Familia de Guerreros y Pioneros. El sistema familiar valora la acción, la independencia y el coraje sobre la ternura. Puede haber ausencias del padre o modelos de masculinidad combativa.", "inherited_wound": "La ira como herramienta de comunicación. El patrón 'luchar antes de hablar' viene de generaciones que no tuvieron espacio para la vulnerabilidad.", "liberation": "Tu liberación es aprender que el descanso no es rendición. Puedes ser el primero de tu linaje en elegir la paz sin perder la fuerza."},
+    1: {"family_pattern": "Familia de Constructores y Acumuladores. El sistema familiar prioriza la seguridad material y la estabilidad por encima de la expresión emocional.", "inherited_wound": "El amor como transacción. 'Te quiero si produces, si tienes, si eres útil'. La escasez como miedo ancestral aunque ya no exista razón material para ella.", "liberation": "Eres el eslabón que puede recibir amor sin merecerlo primero. Esa es la rotura del patrón."},
+    2: {"family_pattern": "Familia de Comunicadores y Pensadores. El sistema familiar valora la inteligencia, el humor y la adaptación. Posibles migraciones, familias mixtas o sistemas de creencias cambiantes.", "inherited_wound": "La superficie como protección. Hablar de todo para no sentir nada profundamente. El nerviosismo ansioso como herencia del sistema.", "liberation": "Tu liberación está en elegir UNA verdad y defenderla, aunque incomode a la familia."},
+    3: {"family_pattern": "Familia Matriartal o de Cuidadores. El sistema familiar gira alrededor de la madre como eje emocional. Alta fusión entre miembros. Los límites son porosos.", "inherited_wound": "La culpa como moneda de intercambio emocional. 'Si te vas, me abandonas'. La lealtad invisible que te impide crecer sin sentir traición.", "liberation": "Puedes amar a tu familia Y construir tu propia identidad. No son opuestos."},
+    4: {"family_pattern": "Familia con Figura Dominante y Carismática. El sistema familiar tiene un sol central (padre, abuelo, matriarca) que eclipsa al resto. Los demás satélites orbitan alrededor.", "inherited_wound": "El miedo a brillar 'demasiado' o el impulso obsesivo de brillar más que el modelo familiar dominante. Ambos son el mismo patrón de control.", "liberation": "Tu linaje te dio el escenario. Tu trabajo es actuar tu propia obra, no la de ellos."},
+    5: {"family_pattern": "Familia de Trabajadores y Perfeccionistas. El sistema familiar mide el valor de sus miembros por su rendimiento, orden y utilidad. Alta crítica interna y externa.", "inherited_wound": "El cuerpo como herramienta, no como hogar. Enfermedad como única vía de descanso socialmente aceptada. La autocrítica destructiva heredada de generaciones.", "liberation": "Tu cuerpo no es un instrumento de producción. Tu liberación empieza cuando aprendes a descansar sin justificación."},
+    6: {"family_pattern": "Familia orientada a las Apariencias y el Estatus Social. El 'qué dirán' como código de conducta. Diplomacia y acuerdo social como valores supremos.", "inherited_wound": "La identidad sacrificada por la armonía. 'No seas difícil'. Las necesidades propias como interferencia al sistema familiar.", "liberation": "El conflicto honesto es más sano que la paz fingida. Puedes ser el primero de tu familia que diga la verdad sin miedo a ser expulsado."},
+    7: {"family_pattern": "Familia con Secretos, Traumas o Tabúes No Resueltos. Muertes, adicciones, traiciones, o herencias no habladas que circulan en el sistema como corrientes subterráneas.", "inherited_wound": "La intensidad emocional como normalidad. La desconfianza estructural como mecanismo de supervivencia heredado. 'El mundo es peligroso' como axioma.", "liberation": "Nombrar lo que tu familia no pudo nombrar. La consciencia es el antídoto al secreto. Tú eres el chamán del linaje."},
+    8: {"family_pattern": "Familia de Viajeros, Filósofos o Creyentes. Sistema familiar marcado por movimientos geográficos, diversidad de creencias o una fe central que estructura todo.", "inherited_wound": "La huida como respuesta al dolor. 'Si el lugar no funciona, cambio de lugar' sin resolver lo interno. El fanatismo ideológico heredado.", "liberation": "La sabiduría real no requiere movimiento continuo. Tu linaje te dio el mapa. Tú debes elegir el territorio donde echarás raíces."},
+    9: {"family_pattern": "Familia de Alta Exigencia y Autoridad. El sistema familiar tiene estándares elevados de logro, control y responsabilidad. La estructura lo es todo.", "inherited_wound": "El amor como resultado del mérito. El fracaso como vergüenza del sistema familiar. La carga de sostener el apellido o la historia familiar.", "liberation": "Puedes construir tu propio legado sin cargar el de tus ancestros. Honrarlos no significa repetirlos."},
+    10: {"family_pattern": "Familia Atípica o Disruptiva. Sistema familiar fuera de las normas: alternativo, excéntrico, con ausencias clave o roles invertidos. Alta independencia desde temprana edad.", "inherited_wound": "La soledad como estado natural. La dificultad para integrarse en sistemas convencionales porque el sistema familiar mismo enseñó que 'las reglas son para otros'.", "liberation": "La originalidad es un don. Pero la conexión auténtica requiere aprender a pertenecer sin traicionar tu esencia."},
+    11: {"family_pattern": "Familia con Marcada Vida Interior o Espiritual. Sistema familiar orientado al servicio, el arte, la espiritualidad o la vida comunitaria. Los límites entre 'yo' y 'los demás' son difusos.", "inherited_wound": "El autosacrificio como código de amor. 'El que más da, más vale'. El martirio silencioso como modo de existencia heredado de generaciones.", "liberation": "Dar desde la plenitud, no desde el vacío. Tu linaje te enseñó a servir. Tu tarea es aprender a recibir."},
+}
+
+# ⚠️ CONTENIDO NO CURADO — PENDIENTE REVISIÓN DE BÁRBARA
+# DIM 8: SEPHIROT KABBALÍSTICOS (Árbol de la Vida ↔ Planetas ↔ Frecuencia del Alma)
+# Fuente: Sefer Yetzirah, Zohar, Franz Bardon (Iniciación a la Hermética), Rabbi Aryeh Kaplan
+# Los 10 Sephirot del Árbol de la Vida mapeados a los planetas clásicos
+SEPHIROT = {
+    "Kether":   {"planet": "Neptune/Pluto", "number": 1, "title": "La Corona — El Punto de Emanación", "virtue": "Unión con el Todo", "defect": "Ego que se cree Dios", "psychological_key": "La capacidad de rendirse a algo mayor que uno mismo. El ego disuelto en la misión.", "color": "Blanco brillante", "keyword": "Trascendencia"},
+    "Chokmah":  {"planet": "Uranus", "number": 2, "title": "La Sabiduría — El Rayo Creador", "virtue": "Revelación súbita", "defect": "Locura visionaria", "psychological_key": "La chispa de genio que no puede explicarse. La idea que llega entera antes de poder racionalizarla.", "color": "Gris perla", "keyword": "Inspiración"},
+    "Binah":    {"planet": "Saturn", "number": 3, "title": "El Entendimiento — La Gran Madre Oscura", "virtue": "Silencio y profundidad", "defect": "Restricción y rigidez excesiva", "psychological_key": "La forma que contiene el caos. La capacidad de gestar en silencio sin necesidad de validación.", "color": "Negro", "keyword": "Contenimiento"},
+    "Chesed":   {"planet": "Jupiter", "number": 4, "title": "La Misericordia — El Rey Generoso", "virtue": "Generosidad y expansión", "defect": "Exceso y desperdicio", "psychological_key": "La abundancia como estado natural. La fe en que el universo provee cuando uno actúa desde el amor.", "color": "Azul real", "keyword": "Abundancia"},
+    "Geburah":  {"planet": "Mars", "number": 5, "title": "La Fortaleza — El Guerrero Sagrado", "virtue": "Coraje y justicia", "defect": "Crueldad y destrucción", "psychological_key": "El poder de decir NO. La fuerza que protege lo sagrado eliminando lo que ya no sirve.", "color": "Rojo", "keyword": "Poder"},
+    "Tiphareth":{"planet": "Sun", "number": 6, "title": "La Belleza — El Corazón del Árbol", "virtue": "Sacrificio consciente y devoción", "defect": "Arrogancia del iluminado", "psychological_key": "El centro del ser. El punto de integración entre lo divino y lo humano. El Cristo interior.", "color": "Oro", "keyword": "Integración"},
+    "Netzach":  {"planet": "Venus", "number": 7, "title": "La Victoria — El Jardín de los Deseos", "virtue": "Amor y creatividad", "defect": "Lujuria y falta de forma", "psychological_key": "El deseo como fuerza sagrada. La naturaleza que no se controla sino que fluye hacia su destino.", "color": "Verde esmeralda", "keyword": "Deseo"},
+    "Hod":      {"planet": "Mercury", "number": 8, "title": "El Esplendor — El Mensajero", "virtue": "Verdad y comunicación", "defect": "Mentira y manipulación verbal", "psychological_key": "La mente como espejo del universo. La capacidad de nombrar lo que existe da poder sobre ello.", "color": "Naranja", "keyword": "Lenguaje"},
+    "Yesod":    {"planet": "Moon", "number": 9, "title": "El Fundamento — El Inconsciente", "virtue": "Receptividad y memoria de lo sagrado", "defect": "Ilusión y dependencia", "psychological_key": "El inconsciente colectivo donde viven los arquetipos. El sueño que es más real que la vigilia.", "color": "Violeta", "keyword": "Inconsciente"},
+    "Malkuth":  {"planet": "Earth/Ascendant", "number": 10, "title": "El Reino — La Tierra Manifestada", "virtue": "Discriminación y encarnación", "defect": "Inercia y materialismo extremo", "psychological_key": "El cuerpo como templo del espíritu. La vida material como campo sagrado de experimentación del alma.", "color": "Marrón/Verde/Ocre", "keyword": "Encarnación"},
+}
+
+# Mapa Planeta → Sephirot (para cálculo desde carta natal)
+PLANET_TO_SEPHIROT = {
+    "Sun": "Tiphareth",
+    "Moon": "Yesod",
+    "Mercury": "Hod",
+    "Venus": "Netzach",
+    "Mars": "Geburah",
+    "Jupiter": "Chesed",
+    "Saturn": "Binah",
+    "Uranus": "Chokmah",
+    "Neptune": "Kether",
+    "Pluto": "Kether",
+    "Ascendant": "Malkuth",
+}
+
+def get_sephirot_for_planet(planet_name: str) -> dict:
+    seph_key = PLANET_TO_SEPHIROT.get(planet_name, "Tiphareth")
+    return SEPHIROT.get(seph_key, {})
+
+def get_advanced_module_v2(module_name: str, sign_index: int, planet_name: str = "") -> str:
+    """Extended router including Dim 7 and Dim 8 modules."""
+    if module_name == "Ancestral_Heritage":
+        return ANCESTRAL_HERITAGE.get(sign_index, {}).get("family_pattern", "")
+    elif module_name == "Ancestral_Wound":
+        return ANCESTRAL_HERITAGE.get(sign_index, {}).get("inherited_wound", "")
+    elif module_name == "Ancestral_Liberation":
+        return ANCESTRAL_HERITAGE.get(sign_index, {}).get("liberation", "")
+    elif module_name == "Sephirot_Planet":
+        s = get_sephirot_for_planet(planet_name)
+        return f"{s.get('title','')} | {s.get('psychological_key','')} | Virtud: {s.get('virtue','')} | Sombra: {s.get('defect','')}"
+    return ""

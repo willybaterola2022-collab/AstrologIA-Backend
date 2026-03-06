@@ -9,7 +9,7 @@ from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from app.config import settings
 from app.content_db import get_interpretation, SIGN_NAMES
-from app.advanced_content_db import get_advanced_module
+from app.advanced_content_db import get_advanced_module, get_advanced_module_v2, get_sephirot_for_planet, PLANET_TO_SEPHIROT
 from app.stripe_router import router as stripe_router
 
 # --- RATE LIMITING ---
@@ -1076,6 +1076,182 @@ def calculate_cosmic_blueprint_full(request: Request, req: ModuleRequest, user: 
                 "abundance": {
                     "jupiter": {"sign": SIGN_NAMES[jup_i], "wealth_strategy": get_advanced_module("Jupiter_Wealth", jup_i)},
                     "career":  {"vocation": get_advanced_module("Career_Vocation", sun_i), "monetization": get_advanced_module("Career_Monetization", sun_i)}
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/ancestral-code")
+@limiter.limit("5/minute")
+def calculate_ancestral_code(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 19: Código Ancestral (Luna + Saturno como herencia psíquica familiar — Hellinger/Jung)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        pos_moon, _ = swe.calc_ut(jd, swe.MOON, swe.FLG_MOSEPH)
+        pos_sat, _  = swe.calc_ut(jd, swe.SATURN, swe.FLG_MOSEPH)
+        moon_i = int(pos_moon[0] / 30)
+        sat_i  = int(pos_sat[0] / 30)
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Ancestral Code — Dim 7 (Módulo 19)",
+                "content_status": "⚠️ Contenido no curado — pendiente revisión de Bárbara",
+                "sources": "Bert Hellinger (Constelaciones Familiares), Liz Greene (Saturn: A New Look), Carl Jung (Complejo Familiar)"
+            },
+            "data": {
+                "moon_ancestry": {
+                    "sign": SIGN_NAMES[moon_i],
+                    "family_pattern": get_advanced_module_v2("Ancestral_Heritage", moon_i),
+                    "inherited_wound": get_advanced_module_v2("Ancestral_Wound", moon_i),
+                    "liberation_path": get_advanced_module_v2("Ancestral_Liberation", moon_i)
+                },
+                "saturn_structure": {
+                    "sign": SIGN_NAMES[sat_i],
+                    "authority_pattern": get_advanced_module_v2("Ancestral_Heritage", sat_i),
+                    "karmic_contract": get_advanced_module("Saturn_Return_Challenge", sat_i)
+                }
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/sephirot-frequency")
+@limiter.limit("5/minute")
+def calculate_sephirot_frequency(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """MÓDULO 20: Frecuencia Vibracional Kabbalística (Sephirot del Árbol de la Vida ↔ Carta Natal)."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        planets_calc = {
+            "Sun": swe.SUN, "Moon": swe.MOON, "Mercury": swe.MERCURY,
+            "Venus": swe.VENUS, "Mars": swe.MARS, "Jupiter": swe.JUPITER, "Saturn": swe.SATURN
+        }
+        sephirot_map = {}
+        for planet_name, planet_id in planets_calc.items():
+            pos, _ = swe.calc_ut(jd, planet_id, swe.FLG_MOSEPH)
+            sign_i = int(pos[0] / 30)
+            seph = get_sephirot_for_planet(planet_name)
+            sephirot_map[planet_name] = {
+                "sign": SIGN_NAMES[sign_i],
+                "sephirot": seph.get("title", ""),
+                "keyword": seph.get("keyword", ""),
+                "psychological_key": seph.get("psychological_key", ""),
+                "virtue": seph.get("virtue", ""),
+                "shadow": seph.get("defect", ""),
+                "color": seph.get("color", "")
+            }
+        # Ascendant → Malkuth
+        asc_result = swe.houses(jd, req.lat, req.lon, b'P')
+        asc_degree = asc_result[1][0]
+        asc_i = int(asc_degree / 30)
+        sephirot_map["Ascendant"] = {
+            "sign": SIGN_NAMES[asc_i],
+            "degree": round(asc_degree % 30, 2),
+            "sephirot": "Malkuth — El Reino",
+            "keyword": "Encarnación",
+            "psychological_key": "El cuerpo como templo del espíritu. La vida material como campo sagrado.",
+            "virtue": "Discriminación y encarnación",
+            "shadow": "Inercia y materialismo extremo",
+            "color": "Marrón/Verde/Ocre"
+        }
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Sephirot Frequency — Dim 8 (Módulo 20)",
+                "content_status": "⚠️ Contenido no curado — pendiente revisión de Bárbara",
+                "sources": "Sefer Yetzirah, Zohar, Franz Bardon (Initiation into Hermetics), Rabbi Aryeh Kaplan"
+            },
+            "data": {"sephirot_map": sephirot_map}
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/manual-del-ser")
+@limiter.limit("2/minute")
+def calculate_manual_del_ser(request: Request, req: ModuleRequest, user: dict = Depends(verify_jwt)):
+    """EL PRODUCTO FINAL: Manual del Ser — Las 8 Dimensiones del Alma Completas."""
+    try:
+        jd = swe.julday(req.year, req.month, req.day, req.hour)
+        # Core positions
+        pos_sun, _   = swe.calc_ut(jd, swe.SUN, swe.FLG_MOSEPH)
+        pos_moon, _  = swe.calc_ut(jd, swe.MOON, swe.FLG_MOSEPH)
+        pos_merc, _  = swe.calc_ut(jd, swe.MERCURY, swe.FLG_MOSEPH)
+        pos_ven, _   = swe.calc_ut(jd, swe.VENUS, swe.FLG_MOSEPH)
+        pos_mars, _  = swe.calc_ut(jd, swe.MARS, swe.FLG_MOSEPH)
+        pos_jup, _   = swe.calc_ut(jd, swe.JUPITER, swe.FLG_MOSEPH)
+        pos_sat, _   = swe.calc_ut(jd, swe.SATURN, swe.FLG_MOSEPH)
+        pos_nep, _   = swe.calc_ut(jd, swe.NEPTUNE, swe.FLG_MOSEPH)
+        pos_nn, _    = swe.calc_ut(jd, swe.TRUE_NODE, swe.FLG_MOSEPH)
+        asc_result   = swe.houses(jd, req.lat, req.lon, b'P')
+        asc_degree   = asc_result[1][0]
+        # Chiron with graceful fallback
+        try:
+            pos_chi, _ = swe.calc_ut(jd, swe.CHIRON, swe.FLG_MOSEPH)
+            chi_i = int(pos_chi[0] / 30)
+        except Exception:
+            chi_i = int(pos_sat[0] / 30)
+        sun_i  = int(pos_sun[0] / 30)
+        moon_i = int(pos_moon[0] / 30)
+        merc_i = int(pos_merc[0] / 30)
+        ven_i  = int(pos_ven[0] / 30)
+        mars_i = int(pos_mars[0] / 30)
+        jup_i  = int(pos_jup[0] / 30)
+        sat_i  = int(pos_sat[0] / 30)
+        nep_i  = int(pos_nep[0] / 30)
+        nn_i   = int(pos_nn[0] / 30)
+        asc_i  = int(asc_degree / 30)
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Manual del Ser v1.0 — Las 8 Dimensiones",
+                "content_status": "⚠️ Contenido no curado — pendiente revisión de Bárbara",
+                "product_note": "La astrología es el motor invisible. El usuario solo siente que alguien finalmente lo entiende.",
+                "version": "1.3.0"
+            },
+            "data": {
+                "dim_1_quien_eres": {
+                    "title": "Quién eres",
+                    "sun":  {"sign": SIGN_NAMES[sun_i],  "archetype": get_advanced_module("Sun_Archetype", sun_i), "purpose": get_advanced_module("Sun_Purpose", sun_i)},
+                    "moon": {"sign": SIGN_NAMES[moon_i], "emotional_os": get_advanced_module("Moon_Core_Emotion", moon_i)},
+                    "ascendant": {"sign": SIGN_NAMES[asc_i], "degree": round(asc_degree % 30, 2), "social_mask": get_advanced_module("Ascendant_Mask", asc_i), "natural_gift": get_advanced_module("Ascendant_Gift", asc_i)}
+                },
+                "dim_2_por_que_sufres": {
+                    "title": "Por qué sufres",
+                    "chiron": {"sign": SIGN_NAMES[chi_i], "primary_wound": get_advanced_module("Chiron_Wound", chi_i), "healing_path": get_advanced_module("Chiron_Healing", chi_i)},
+                    "shadow_talent": {"neptune_sign": SIGN_NAMES[nep_i], "hidden_gift": get_advanced_module("House12_Shadow_Talent", nep_i)},
+                    "saturn_test": {"sign": SIGN_NAMES[sat_i], "life_challenge": get_advanced_module("Saturn_Return_Challenge", sat_i)}
+                },
+                "dim_3_para_que_viniste": {
+                    "title": "Para qué viniste",
+                    "north_node": {"sign": SIGN_NAMES[nn_i], "soul_mission": get_advanced_module("North_Node", nn_i)},
+                    "saturn_mantra": get_advanced_module("Saturn_Return_Mantra", sat_i)
+                },
+                "dim_4_como_te_relacionas": {
+                    "title": "Cómo te relacionas y te saboteas",
+                    "venus": {"sign": SIGN_NAMES[ven_i], "love_language": get_advanced_module("Venus_Profile", ven_i)},
+                    "mars": {"sign": SIGN_NAMES[mars_i], "conflict_pattern": get_advanced_module("Mars_Pluto_Friction", mars_i)},
+                    "mercury": {"sign": SIGN_NAMES[merc_i], "communication_style": get_advanced_module("Mercury_Communication", merc_i)}
+                },
+                "dim_5_como_fluye_tu_dinero": {
+                    "title": "Cómo fluye tu dinero y tu energía",
+                    "jupiter": {"sign": SIGN_NAMES[jup_i], "wealth_code": get_advanced_module("Jupiter_Wealth", jup_i)},
+                    "career": {"vocation": get_advanced_module("Career_Vocation", sun_i), "monetization": get_advanced_module("Career_Monetization", sun_i)}
+                },
+                "dim_6_cuando_actuar": {
+                    "title": "Cuándo actuar y cuándo esperar",
+                    "saturn_return": {"sign": SIGN_NAMES[sat_i], "opportunity": get_advanced_module("Saturn_Return_Opportunity", sat_i)},
+                    "daily_guidance": "Ver /api/daily-transit-score para el score del día en tiempo real"
+                },
+                "dim_7_codigo_ancestral": {
+                    "title": "Tu código ancestral",
+                    "moon_lineage": {"sign": SIGN_NAMES[moon_i], "family_pattern": get_advanced_module_v2("Ancestral_Heritage", moon_i), "inherited_wound": get_advanced_module_v2("Ancestral_Wound", moon_i), "liberation": get_advanced_module_v2("Ancestral_Liberation", moon_i)},
+                    "saturn_authority": {"sign": SIGN_NAMES[sat_i], "authority_code": get_advanced_module_v2("Ancestral_Heritage", sat_i)}
+                },
+                "dim_8_frecuencia_vibracional": {
+                    "title": "Tu frecuencia vibracional",
+                    "sun_sephirot":  {**get_sephirot_for_planet("Sun"),  "planet": "Sun",  "sign": SIGN_NAMES[sun_i]},
+                    "moon_sephirot": {**get_sephirot_for_planet("Moon"), "planet": "Moon", "sign": SIGN_NAMES[moon_i]},
+                    "asc_sephirot":  {"planet": "Ascendant", "sign": SIGN_NAMES[asc_i], "sephirot": "Malkuth — El Reino. El cuerpo como templo del espíritu.", "keyword": "Encarnación"}
                 }
             }
         }
