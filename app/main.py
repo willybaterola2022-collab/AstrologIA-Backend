@@ -9,7 +9,7 @@ from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from app.config import settings
 from app.content_db import get_interpretation, SIGN_NAMES
-from app.advanced_content_db import get_advanced_module, get_advanced_module_v2, get_sephirot_for_planet, PLANET_TO_SEPHIROT
+from app.advanced_content_db import get_advanced_module, get_advanced_module_v2, get_sephirot_for_planet, PLANET_TO_SEPHIROT, get_dignity, get_chart_pattern
 from app.stripe_router import router as stripe_router
 
 # --- RATE LIMITING ---
@@ -131,6 +131,19 @@ class DecisionWindowRequest(BaseModel):
     end_day: int
     goal_type: str = "business"
 
+class SolarReturnRequest(BaseModel):
+    """Revolución Solar: carta natal + año target + lugar donde estará el nativo en su cumpleaños."""
+    birth_year: int
+    birth_month: int
+    birth_day: int
+    birth_hour: float
+    birth_lat: float
+    birth_lon: float
+    target_year: int
+    # Lugar donde estará en su cumpleaños (puede diferir del nacimiento)
+    location_lat: float
+    location_lon: float
+
 # --- ENDPOINTS ---
 @app.get("/")
 def read_root():
@@ -161,12 +174,19 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
         for name, planet_id in planets.items():
             pos, ret = swe.calc_ut(julian_day, planet_id, 258) # 258 = FLG_SWIEPH + FLG_SPEED
             lon = pos[0]
+            speed = pos[3]
             sign_idx = int(lon / 30)
+            dignity_data = get_dignity(name, sign_idx)
             results[name] = {
-                "longitude": round(lon, 4), 
-                "sign": SIGN_NAMES[sign_idx], 
+                "longitude": round(lon, 4),
+                "sign": SIGN_NAMES[sign_idx],
                 "degree": round(lon % 30, 2),
-                "insight_text": get_interpretation(name, sign_idx) 
+                "is_retrograde": speed < 0,
+                "speed_deg_day": round(speed, 4),
+                "dignity": dignity_data.get("status", "Normal"),
+                "dignity_score": dignity_data.get("score", 5),
+                "dignity_meaning": dignity_data.get("meaning", ""),
+                "insight_text": get_interpretation(name, sign_idx)
             }
         
         # 3. Calcular Ascendente y 12 Casas
@@ -213,6 +233,17 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
                             "orb_degrees": round(exactness, 2)
                         })
 
+        # 6. Chart Pattern (Marc Edmund Jones)
+        lons_sorted = sorted([v["longitude"] for v in results.values() if "longitude" in v])
+        span = max(lons_sorted) - min(lons_sorted) if lons_sorted else 360
+        # Count groups (clusters within 30° of each other)
+        groups = 1
+        for i in range(1, len(lons_sorted)):
+            if lons_sorted[i] - lons_sorted[i-1] > 30:
+                groups += 1
+        n_occupied = len(set(int(l/30) for l in lons_sorted))
+        chart_pattern_data = get_chart_pattern(int(span), n_occupied, groups)
+
         return {
             "status": "success",
             "metadata": {
@@ -224,7 +255,8 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
                 "tropical_positions": results,
                 "draconic_positions": draconic,
                 "houses_placidus": {f"House_{i+1}": cusps[i] for i in range(12)},
-                "major_aspects_matrix": aspect_results
+                "major_aspects_matrix": aspect_results,
+                "chart_pattern": chart_pattern_data
             }
         }
     except Exception as e:
@@ -1257,3 +1289,101 @@ def calculate_manual_del_ser(request: Request, req: ModuleRequest, user: dict = 
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+# ─── REVOLUCIÓN SOLAR v1.0 ─────────────────────────────────────────────────
+@app.post("/api/solar-return")
+@limiter.limit("5/minute")
+def calculate_solar_return(request: Request, req: SolarReturnRequest, user: dict = Depends(verify_jwt)):
+    """
+    MÓDULO: Revolución Solar — carta del año personal.
+    Calcula el momento exacto en que el Sol regresa al mismo grado natal.
+    location_lat/lon = lugar donde estará el nativo en su cumpleaños.
+    Paywall: Plan Maestro.
+    """
+    try:
+        jd_natal = swe.julday(req.birth_year, req.birth_month, req.birth_day, req.birth_hour)
+        sun_natal_pos, _ = swe.calc_ut(jd_natal, swe.SUN, swe.FLG_SWIEPH | swe.FLG_SPEED)
+        sun_natal_lon = sun_natal_pos[0]
+
+        approx_jd = swe.julday(req.target_year, req.birth_month, max(1, req.birth_day - 15), 12.0)
+        solar_return_jd = swe.solcross_ut(sun_natal_lon, approx_jd, swe.FLG_SWIEPH)
+        rs_year, rs_month, rs_day, rs_hour = swe.revjul(solar_return_jd)
+
+        planets = {
+            "Sun": swe.SUN, "Moon": swe.MOON, "Mercury": swe.MERCURY,
+            "Venus": swe.VENUS, "Mars": swe.MARS, "Jupiter": swe.JUPITER,
+            "Saturn": swe.SATURN, "Uranus": swe.URANUS, "Neptune": swe.NEPTUNE,
+            "Pluto": swe.PLUTO, "True_Node": swe.TRUE_NODE, "Lilith": swe.MEAN_APOG
+        }
+
+        rs_planets = {}
+        for name, pid in planets.items():
+            try:
+                pos, _ = swe.calc_ut(solar_return_jd, pid, swe.FLG_SWIEPH | swe.FLG_SPEED)
+                lon, speed = pos[0], pos[3]
+                sign_idx = int(lon / 30)
+                rs_planets[name] = {
+                    "longitude": round(lon, 4),
+                    "sign": SIGN_NAMES[sign_idx],
+                    "degree": round(lon % 30, 2),
+                    "is_retrograde": speed < 0,
+                    "speed_deg_day": round(speed, 4)
+                }
+            except Exception:
+                rs_planets[name] = {"error": "ephemeris_file_missing"}
+
+        cusps_rs, ascmc_rs = swe.houses_ex(solar_return_jd, req.location_lat, req.location_lon, b'P')
+        asc_rs, mc_rs = ascmc_rs[0], ascmc_rs[1]
+        asc_sign_idx = int(asc_rs / 30)
+        mc_sign_idx = int(mc_rs / 30)
+
+        key_aspects = []
+        for name, data in rs_planets.items():
+            if "longitude" not in data:
+                continue
+            diff = abs(data["longitude"] - sun_natal_lon) % 360
+            if diff > 180:
+                diff = 360 - diff
+            for asp_name, asp_deg, orb in [("Conjunction",0,3),("Opposition",180,3),("Trine",120,3),("Square",90,3)]:
+                if abs(diff - asp_deg) <= orb:
+                    key_aspects.append({"rs_planet": name, "aspect": asp_name, "natal_point": "Sun", "orb": round(abs(diff-asp_deg),2)})
+
+        narrative_bullets = []
+        moon_sign = rs_planets.get("Moon", {}).get("sign", "")
+        jupiter_sign = rs_planets.get("Jupiter", {}).get("sign", "")
+        if moon_sign and moon_sign in SIGN_NAMES:
+            moon_idx = SIGN_NAMES.index(moon_sign)
+            narrative_bullets.append(f"Luna en {moon_sign}: {get_advanced_module('Moon_Core_Emotion', moon_idx)[:150]}...")
+        if jupiter_sign and jupiter_sign in SIGN_NAMES:
+            jup_idx = SIGN_NAMES.index(jupiter_sign)
+            narrative_bullets.append(f"Jupiter en {jupiter_sign}: {get_advanced_module('Jupiter_Wealth', jup_idx)[:150]}...")
+        if rs_planets.get("Saturn", {}).get("is_retrograde"):
+            narrative_bullets.append("Saturno retrogrado: revision profunda de estructuras previas. Karma que pasa factura.")
+        if rs_planets.get("Mercury", {}).get("is_retrograde"):
+            narrative_bullets.append("Mercurio retrogrado en RS: cuidado con contratos y firmas el primer trimestre del año personal.")
+        for asp in key_aspects:
+            if asp["rs_planet"] == "Jupiter" and asp["aspect"] == "Conjunction":
+                narrative_bullets.insert(0, f"JUPITER CONJUNCION SOL NATAL (orb:{asp['orb']}deg) — Año de maxima expansion y reconocimiento publico.")
+
+        return {
+            "status": "success",
+            "metadata": {
+                "engine": "Solar Return Engine v1.0 (Swiss Ephemeris solcross_ut)",
+                "user_authenticated": user.get("sub"),
+                "natal_sun": f"{round(sun_natal_lon%30,2)} {SIGN_NAMES[int(sun_natal_lon/30)]}",
+                "plan_required": "maestro"
+            },
+            "data": {
+                "exact_datetime_utc": f"{int(rs_day):02d}/{int(rs_month):02d}/{int(rs_year)} {rs_hour:.4f}h UTC",
+                "rs_planets": rs_planets,
+                "rs_ascendant": {"longitude": round(asc_rs,4), "sign": SIGN_NAMES[asc_sign_idx], "degree": round(asc_rs%30,2), "mask": get_advanced_module("Ascendant_Mask", asc_sign_idx)},
+                "rs_midheaven": {"longitude": round(mc_rs,4), "sign": SIGN_NAMES[mc_sign_idx], "degree": round(mc_rs%30,2)},
+                "rs_houses": {f"House_{i+1}": round(cusps_rs[i],4) for i in range(12)},
+                "key_aspects_to_natal_sun": key_aspects,
+                "year_narrative": narrative_bullets,
+                "astrocartography_note": "Cambiar location_lat/lon altera el ASC-RS y todas las casas del año personal."
+            }
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Solar Return failed: {str(e)}")
