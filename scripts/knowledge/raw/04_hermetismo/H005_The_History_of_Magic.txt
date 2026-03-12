@@ -1,0 +1,1124 @@
+# The History of Magic
+Author: Eliphas Levi
+Category: 04_hermetismo
+Source: Gutenberg #49692
+Downloaded: 2026-03-08T14:19:28.991713
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+TRANSCRIBER’S NOTE: There are many diacritical marks in this book.
+Some devices and browsers may not render these correctly.
+
+
+
+
+                    Heath’s Modern Language Series
+
+                              AN OUTLINE
+                                OF THE
+                       PHONOLOGY AND MORPHOLOGY
+                                  OF
+                             OLD PROVENÇAL
+
+                                  BY
+                            C. H. GRANDGENT
+         PROFESSOR OF ROMANCE LANGUAGES IN HARVARD UNIVERSITY
+
+                            Revised Edition
+
+                           BOSTON, U. S. A.
+                     D. C. HEATH & CO., PUBLISHERS
+                                 1909
+
+                           COPYRIGHT, 1905,
+                         BY D. C. HEATH & CO.
+
+
+
+
+PREFACE.
+
+
+This book, which is intended as a guide to students of Romance
+Philology, represents the result of desultory labors extending through
+a period of twenty years. My first introduction to the scientific
+pursuit of Provençal linguistics was a course given by Paul Meyer at
+the École des Chartes in the winter of 1884-85. Since then I have been
+collecting material both from my own examination of texts and from the
+works of those philologists who have dealt with the subject. Besides
+the large Grammars of the Romance Languages by Diez and by Meyer-Lübke,
+I have utilized H. Suchier’s _Die französische und provenzalische
+Sprache_ (in Gröber’s _Grundriss der romanischen Philologie_, I,
+561), the _Introduzione grammaticale_ in V. Crescini’s _Manualetto
+provenzale_, the _Abriss der Formenlehre_ in C. Appel’s _Provenzalische
+Chrestomathie_, and many special treatises to which reference will be
+made in the appropriate places. Conscious of many imperfections in my
+work, I shall be grateful for corrections.
+
+I have confined myself to the old literary language, believing that
+to be of the greatest importance to a student of Romance Philology
+or of Comparative Literature, and fearing lest an enumeration of
+modern forms, in addition to the ancient, might prove too bewildering.
+I should add that neither my own knowledge nor the material at my
+disposal is adequate to a satisfactory presentation of the living
+idioms of southern France. These dialects have, however, been
+investigated for the light they throw on the geographical distribution
+of phonetic variations; my chief source of information has been F.
+Mistral’s monumental _Dictionnaire provençal-français_. Catalan and
+Franco-Provençal have been considered only incidentally. I have not
+dealt with word-formation, because one of my students is preparing a
+treatise on that subject.
+
+Readers desiring a brief description of Provençal literature are
+referred to H. Suchier and A. Birch-Hirschfeld, _Geschichte der
+französischen Literatur_, pp. 56-96; A. Stimming, in Gröber’s
+_Grundriss der romanischen Philologie_, II, ii, pp. 1-69; and A.
+Restori, _Letteratura provenzale_. For a more extended account of the
+poets they should consult _Die Poesie der Troubadours_ and the _Leben
+und Werke der Troubadours_ by F. Diez; and _The Troubadours at Home_ by
+J. H. Smith. The poetic ideals are discussed by G. Paris in _Romania_,
+XII, pp. 516-34; and with great fulness by L. F. Mott in _The System
+of Courtly Love_. The beginnings of the literature are treated by
+A. Jeanroy in his _Origines de la poésie lyrique en France au moyen
+âge_, reviewed by G. Paris in a series of important articles in the
+_Journal des Savants_ (November and December, 1891, and March and July,
+1892) reprinted separately in 1892 under the same title as Jeanroy’s
+book. Contributions by A. Restori to several volumes of the _Rivista
+musicale italiana_ deal with Provençal music; some tunes in modern
+notation are to be found in J. H. Smith’s _Troubadours at Home_, and
+in the _Archiv für das Studium der neueren Sprachen_, CX (New Series
+X), 110 (E. Bohn).[1] Aside from the editions of individual poets,
+the best collections of verses are those of C. Appel, _Provenzalische
+Chrestomathie_; V. Crescini, _Manualetto provenzale_; and K. Bartsch,
+_Chrestomathie provençale_. Earlier and larger anthologies are M.
+Raynouard’s _Choix des poésies originales des troubadours_, and C.
+A. F. Mahn’s _Werke der Troubadours_ and _Gedichte der Troubadours_.
+The only dictionary of importance for the old language is the
+_Lexique roman_ (six volumes) of M. Raynouard, augmented by the
+_Supplement-Wörterbuch_ of E. Levy (now appearing in instalments). The
+poetic language of the present day can be studied to advantage in E.
+Koschwitz’s _Grammaire historique de la langue des Félibres_.
+
+C. H. GRANDGENT.
+
+CAMBRIDGE, MASS., NOVEMBER, 1904.
+
+
+
+
+ABBREVIATIONS AND TECHNICAL TERMS.
+
+
+    Abl.: ablative.
+
+    Acc.: accusative.
+
+    Cl.L.: Classic Latin.
+
+    Cond.: conditional.
+
+    Cons.: consonant.
+
+    Einf.: W. Meyer-Lübke, _Einführung in das Studium der
+    romanischen Sprachwissenschaft_, 1901.
+
+    F.: feminine.
+
+    Fr.: French.
+
+    Free (of vowels): not in position.
+
+    Fut.: future.
+
+    Gram.: W. Meyer-Lübke, _Grammaire des langues romanes_, 3
+    vols., 1890-1900.
+
+    Grundriss: G. Gröber, _Grundriss der romanischen Philologie_, 2
+    vols., 1888-1902.
+
+    Imp.: imperfect.
+
+    Imper.: imperative.
+
+    Intertonic (of vowels): following the secondary and preceding
+    the primary accent.
+
+    Intervocalic (of consonants): standing between two vowels.
+
+    It.: Italian.
+
+    Körting: G. Körting, _Lateinisch-romanisches Wörterbuch_, 2d
+    ed., 1901.
+
+    Lat.: Latin.
+
+    Levy: E. Levy, _Provenzalisches Supplement-Wörterbuch_, 1894-.
+
+    Ltblt.: _Literaturblatt für germanische und romanische
+    Philologie_, monthly, Leipzig.
+
+    M.: masculine.
+
+    Nom.: nominative.
+
+    Obj.: objective (case).
+
+    Part.: participle.
+
+    Perf.: perfect.
+
+    Pers.: person.
+
+    Phon.: P. Marchot, _Petite phonétique du français
+    prélittéraire_, 1901.
+
+    Pl.: plural.
+
+    Pr.: Provençal.
+
+    Pres.: present.
+
+    Pret.: preterit.
+
+    Raynouard: M. Raynouard, _Lexique roman_, 6 vols., 1836-44.
+
+    Rom.: _Romania_, quarterly, Paris.
+
+    Sg.: singular.
+
+    V.L.: Vulgar Latin.
+
+    Voc.: H. Schuchardt, _Vocalismus des Vulgärlateins_, 3 vols.,
+    1866-68.
+
+    Voiced (of consonants): sonant, pronounced with vibration of
+    the glottis.
+
+    Voiceless (of consonants): surd, pronounced without glottal
+    vibration.
+
+    Vow.: vowel.
+
+    Zs.: _Zeitschrift für romanische Philologie_, 4 to 6 nos. a
+    year, Halle.
+
+
+
+
+SIGNS AND PHONETIC SYMBOLS.
+
+
+N. B.--Phonetic characters not entered in this list are to be
+pronounced as in Italian. Whenever it is essential to distinguish
+spelling from pronunciation, _italic_ type is used for the former,
+Roman for the latter.
+
+    · (under a vowel): close quality.
+
+    ¸ (under a vowel): open quality.
+
+    ¯ (over a vowel): long quantity.
+
+    ̆ (over a vowel): short quantity.
+
+    ̑ (under a letter): semivowel, not syllabic.
+
+    ´ (over a letter): stress.
+
+    ´ (after a consonant): palatal pronunciation.
+
+    ✱ (before a word): conjectural, not found.
+
+    ＞ (between words or letters): derivation, the _source_ standing
+    at the _open_ end.
+
+    +: followed by.
+
+    ạ: French _â_ in _pâte_.
+
+    ą: French _a_ in _patte_.
+
+    β: bilabial _v_, as in Spanish.
+
+    c: see k.
+
+    c´: palatal _k_, as in English _key_.
+
+    ð: English _th_ in _this_.
+
+    ẹ: French _é_ in _thé_.
+
+    ę: French _ê_ in _fête_.
+
+    g: English _g_ in _go_.
+
+    g´: palatal _g_, as in English _geese_.
+
+    h: English _h_ in _hat_.
+
+    ị: French _i_ in _si_.
+
+    į: English _ĭ_ in _pit_.
+
+    k: English _k_ in _maker_.
+
+    k´: see c´.
+
+    l´: palatal _l_, as in Italian _figlio_.
+
+    n´: palatal _n_, as in Italian _ogni_.
+
+    ŋ: English _ng_ in _sing_.
+
+    ọ: German _ō_, as in _sohn_.
+
+    ǫ: German _ŏ_, as in _sonne_.
+
+    r´: palatal _r_.
+
+    š: English _sh_ in _ship_.
+
+    þ: English _th_ in _thin_.
+
+    ụ: German _ū_, as in _gut_.
+
+    ų: German _ŭ_, as in _butter_.
+
+    ü: French _u_ in _pur_.
+
+    w: English _w_ in _woo_.
+
+    χ: German _ch_ in _ach_.
+
+    y: English _y_ in _ye_.
+
+    z: English _z_ in _crazy_.
+
+    ž: French _j_ in _jour_.
+
+
+
+
+[Illustration: THE PROVENÇAL TERRITORY]
+
+
+
+
+TABLE OF CONTENTS.
+
+
+                                                                     PAGES
+  INTRODUCTION                                                         1-9
+  PHONOLOGY                                                          10-84
+    Accent                                                           11-13
+    Vowels                                                           13-36
+      _Quantity_                                                     13-14
+      _Accented Vowels_                                              14-24
+          a                                                          14-15
+          ẹ                                                          15-17
+          ę                                                          17-20
+          ị                                                             20
+          ọ                                                          20-21
+          ǫ                                                          21-23
+          ụ                                                          23-24
+          au                                                            24
+      _Unaccented Vowels_                                            24-36
+          Initial Syllable                                           25-27
+          Intertonic Syllable                                        27-29
+          Penult                                                     29-32
+          Final Syllable                                             32-36
+    Consonants                                                       37-84
+          Latin Consonants                                           37-40
+          Germanic Consonants                                        40-41
+          Greek Consonants                                           41-42
+      _Initial Consonants_                                           42-44
+          Single                                                     43-44
+          Groups                                                        44
+      _Medial Consonants_                                            45-78
+          Single                                                     47-55
+          Groups                                                     55-78
+            _Double Consonants_                                      56-57
+            _Groups Ending in L_                                     57-58
+            _Groups Ending in R_                                     58-61
+            _Groups Ending in W_                                     61-62
+            _Groups Ending in Y_                                     63-69
+            _Groups Beginning with L, M, N, R, or S_                 69-74
+            _Miscellaneous Groups_                                   74-78
+      _Final Consonants_                                             78-81
+          Single                                                     78-81
+          Groups                                                        81
+      _Sporadic Change_                                              81-84
+          Insertion                                                  81-82
+          Metathesis                                                 82-83
+          Dissimilation                                              83-84
+  MORPHOLOGY                                                        85-146
+    Declension                                                      85-113
+      _Nouns_                                                        85-94
+        First Declension                                                90
+        Second Declension                                            90-91
+        Third Declension                                             91-94
+      _Adjectives_                                                   95-99
+        Comparison                                                   96-97
+        Numerals                                                     98-99
+      _Pronouns and Pronominal Adjectives_                          99-113
+        Articles                                                   100-101
+        Personal Pronouns                                          101-105
+        Possessives                                                105-107
+        Demonstratives                                             107-109
+        Interrogatives and Relatives                               109-110
+        Indefinite Pronouns and Adjectives                         110-113
+    Conjugation                                                    114-146
+      _The Four Conjugations_                                      114-115
+      _Fundamental Changes in Inflection_                          116-118
+      _Infinitive, Present Participle, and Gerund_                 118-119
+      _Past Participle_                                            119-121
+      _Future and New Conditional_                                 121-123
+        Future Endings                                             122-123
+        Conditional Endings                                            123
+      _Present_                                                    123-132
+        Double Stems                                               125-126
+        Peculiar Forms                                             127-130
+        Personal Endings                                           130-132
+      _Imperfect Indicative_                                       132-133
+      _Preterit, Old Conditional, and Imperfect Subjunctive_       133-146
+        Preterit                                                   133-144
+          _Weak_                                                   135-138
+          _Strong_                                                 138-144
+        Old Conditional                                            144-145
+        Imperfect Subjunctive                                      145-146
+  INDEX                                                            147-159
+
+
+
+
+AN OUTLINE OF THE PHONOLOGY AND MORPHOLOGY OF OLD PROVENÇAL.
+
+
+
+
+I. INTRODUCTION.
+
+
+1. The language here studied is, in the main, that used by the poets of
+Southern France during the 12th and 13th centuries. The few works that
+we have earlier than the 12th century must, of course, be utilized for
+such information as they afford concerning the process of linguistic
+change; and lacking words or forms must occasionally be sought in
+writings later than the 13th. Prose literature, moreover, should not
+be neglected, as it greatly enlarges our vocabulary and throws much
+light on local divergences. The modern dialects need be cited only to
+determine the geographical distribution of variations.
+
+2. The extent of the Provençal territory is sufficiently indicated
+by the map on p. viii. The upper black line separates Provençal
+on the northwest and north from French, on the northeast from
+Franco-Provençal; on the east are the Gallo-Italic dialects. The lower
+black line divides Provençal on the southwest from Basque, on the south
+from Spanish, on the southeast from Catalan. The boundary line between
+French and Provençal must be determined somewhat arbitrarily, as there
+is no distinct natural division; the several linguistic characteristics
+of each idiom do not end at the same point, and thus one language
+gradually shades into the other. The line shown on the map is based on
+the development of free accented Latin a, which remains a in Provençal,
+but is changed to e in French. The limits of other phonetic phenomena
+may be found in Suchier’s maps at the back of Vol. I of Gröber’s
+_Grundriss_. There may be seen also a large map showing the place of
+Provençal among the Romance languages. Consult, furthermore, P. Meyer
+in _Romania_, XXIV, 529.
+
+3. The Spanish and Gallo-Italic frontiers are more clearly defined,
+and Basque is entirely distinct. Franco-Provençal and Catalan, on
+the other hand, are closely related to Provençal and not always easy
+to divide from it. Catalan, in fact, is often classed as a Provençal
+dialect; but it is sufficiently different to be studied separately.[2]
+Franco-Provençal, rated by some philologists as an independent
+language, has certain characteristics of Provençal and certain features
+of French, but more of the latter; in some respects it is at variance
+with both. The Gascon, or southwest, dialects of Provençal differ in
+many ways from any of the others and present not a few similarities to
+Spanish[3]; they will, however, be included in our study.
+
+4. The Provençal domain embraces, then, the following old provinces:
+Provence, Languedoc, Foix, part of Béarn, Gascony, Guyenne, Limousin,
+most of Marche, Auvergne, the southwestern half of Lyonnais and the
+southern half of Dauphiné. The native speech in this region varies
+considerably from place to place, and the local dialects are, for
+convenience, roughly grouped under the names of the provinces; it
+should be remembered, however, that the political and the linguistic
+boundaries rarely coincide. For some of the principal dialect
+differences, see §§ 8 and 10-13.
+
+5. The language of the poets was sometimes called _lemosí_; and, in
+fact, the foundation of their literary idiom is the speech of the
+province of Limousin and the adjacent territory on the north, west, and
+southwest.[4] The supremacy of this dialect group is apparently due
+to the fact that it was generally used for composition earlier than
+any of the others: popular song, in all probability, had its home in
+the borderland of Marche[5]; religious literature in the vulgar tongue
+developed in the monasteries of this region; the artistic lyric was
+cultivated, we know, at the court of Ventadour, and it must have found
+favor at others. Furthermore, many of the leading troubadours belonged
+by birth or residence to the Limousin district.
+
+6. The troubadours’ verses, as we have them, seldom represent any one
+dialect in its purity. The poet himself was doubtless influenced both
+by literary tradition and by his particular local usage, as well as by
+considerations of rhyme and metre. Moreover, his work, before reaching
+us, passed through the hands of various intermediaries, who left upon
+it traces of their own pronunciation. It should be said, also, that
+the Limousin was not a single dialect, but a group of more or less
+divergent types of speech. For these reasons we must not expect to find
+in Provençal a uniform linguistic standard.
+
+7. Neither was there a generally accepted system of orthography. When
+the vulgar tongue was first written, the Roman letters were used with
+approximately the same values that they had in Latin, as it was then
+pronounced. As the Provençal sounds changed, there was a conflict
+between the spellings first established and new notations based on
+contemporary speech. Furthermore, many Provençal vowels and consonants
+had no equivalents in Latin; for these we find a great variety of
+representations. The signs are very often ambiguous: for instance, _c_
+before _e_ or _i_ (as in _cen_, _cinc_) generally stands in the first
+texts for ts, in the more recent ones for s, the pronunciation having
+changed; _z_ between vowels in early times usually means dz (_plazer_),
+but later z (_roza_); _i_ between vowels (_maiór_) indicates either y
+or dž (English _j_), according to the dialect; a _g_ may signify “hard”
+g (_gerra_), dž (“soft” _g_: _ges_), or tš (English _ch_: _mieg_). It
+is probable that for a couple of centuries diphthongs were oftenest
+written as simple vowels.
+
+8. Some features of the mediæval pronunciation are still obscure. The
+close ọ was transformed, either during or soon after the literary
+epoch, into ụ (the sound of French _ou_); hence, when we meet in a
+late text such a word as _flor_, we cannot be certain whether it is
+to be sounded flọr or flụr. We do not know at what time Latin ū in
+southern France took the sound ü (French _u_): some suppose that it
+was during or shortly before the literary period; if this be true,
+the letter _u_ (as in _tu_, _mur_) may represent in some texts ụ,
+in others ü. In diphthongs and triphthongs whose first element is
+written _u_ (_cuer_, _fuolha_, _nueu_, _buou_), this letter came to
+be pronounced in most of the dialects like French _u_ in _huit_,
+while in others it retained the sound of French _ou_ in _oui_; we
+cannot tell exactly when or where, in ancient times, this development
+occurred. In the diphthongs ue, uo (_luec_, _fuoc_), opinions disagree
+as to which vowel originally bore the stress; subsequent changes
+seem to indicate that in the 12th and 13th centuries the practice
+varied in the different dialects. Old Provençal must have had in some
+words a peculiar type of r, which was sufficiently palatal in its
+articulation to call for an i-glide before it (_esclairar_); we do
+not know precisely how it was formed; in most regions it probably was
+assimilated to the more usual r as early as the 12th century. The š and
+ž (palatal s and z) apparently ranged, in the several dialects, between
+the sounds of French _ch_ and _j_ on the one hand, and those of German
+_ch_ (in _ich_) and _j_ (in _ja_) on the other; the former types were
+largely assimilated, doubtless by the 13th century, to s and z (_pois_,
+_maisó_), the latter were not (_poih_, _maió_).
+
+9. The following table comprises the Old Provençal sounds with their
+usual spellings, the latter being arranged, as nearly as may be, in
+the order of their frequency. Diphthongs and triphthongs are included
+in the vowel list, compound consonants in the consonant table. For
+an explanation of the phonetic symbols, see p. vii. The variant
+pronunciations are discussed in § 8.
+
+VOWELS.
+
+  SOUND.      SPELLINGS.             EXAMPLES.
+
+  ạ           _a_                    _pan_
+
+  ą           _a_                    _car_
+
+  ai          _ai_, _ay_             _paire_, _cays_
+
+  au          _au_                   _autre_
+
+  ẹ           _e_                    _pena_
+
+  ę           _e_                    _cel_
+
+  ẹi          _ei_, _ey_             _vei_, _veyre_
+
+  ęi          _ei_, _ey_             _seis_, _teysser_
+
+  ẹu          _eu_                   _beure_
+
+  ęu          _eu_                   _breu_
+
+  ị           _i_, _y_               _amic_, _ydola_
+  ię          _ie_, _e_              _quier_, _velh_
+
+  ięi         _iei_, _iey_, _ei_     _ieis_, _lieys_, _leit_
+
+  ięu         _ieu_, _eu_            _mieu_, _deus_
+
+  ịu          _iu_                   _estiu_
+
+  ọ (or ụ)    _o_, _u_               _corre_, _sun_
+
+  ǫ           _o_                    _cors_
+
+  ọi          _oi_, _oy_             _conoisser_, _oyre_
+
+  ǫi          _oi_, _oy_             _pois_, _poyssán_
+
+  ọu          _ou_                   _dous_
+
+  ǫu          _ou_                   _mou_
+
+  ụ: see ọ, ü
+
+  ü (or ụ?)   _u_                    _mut_
+
+  uę, üę      _ue_, _o?_             _cuec_, _olh?_
+
+  uęi, üęi    _uei_, _uey_, _oi?_    _cueissa_, _pueyssas_, _oit?_
+
+  uęu, üęu    _ueu_, _ou?_           _nueu_, _bou?_
+
+  üi          _ui_, _uy_             _cuit_, _duy_
+
+  uǫ, üǫ      _uo_, _o_              _gruoc_, _folha_
+
+  uǫi, üǫi    _uoi_, _oi_            _puoi_, _noit_
+
+  uǫu, üǫu    _uou_, _ou_            _pluou_, _ou_
+
+CONSONANTS.
+
+  SOUND.      SPELLING.                 EXAMPLES.
+
+  b           _b_, _bb_                 _bel_, _abbat_
+
+  d           _d_                       _don_
+
+  dz          _z_, _c_                  _plazer_, _dicén_
+
+  dž          _i_, _g_, _tg_, _gg_,     _ioc_, _gen_, _paratge_, _viagge_,
+              _ti_, _tgi_, _ih_         _coratie_, _lotgiar_, _puihar_
+
+  ð           _d_                       _veder_
+
+  f           _f_, _ph_                 _fer_, _phizica_
+
+  g           _g_, _gu_                 _gras_, _guan_, _guerra_
+
+  h (Gascon)  _h_, _f?_                 _ham_, _fe?_[6]
+
+  k           _c_, _qu_, _k_, _g_       _cais_, _quar_, _quer_, _ki_,
+                                        _longs_[7]
+
+  l           _l_, _ll_                 _leu_, _belleza_
+
+  l´          _lh_, _ill_, _ilh_,       _fuelha_, _meillor_, _failha_,
+              _ll_, _l_, _il_,          _vellar_, _viel_, _voil_, _fiyl_,
+              _yl_, _yll_, _li_         _fayllentia_, _filia_
+
+  m           _m_, _mm_                 _mes_, _commanda_
+
+  n           _n_, _nn_                 _nas_, _annat_
+
+  n´          _nh_, _gn_, _inh_, _ign_, _cenher_, _plagner_, _poinh_,
+              _ing_, _innh_, _ingn_,    _seignor_, _soing_, _poinnher_,
+              _ngn_,_nn_, _n_, _in_,    _fraingner_, _ongnimen_, _vinna_,
+              _ng_, _ynh_, _ni_, _ny_,  _franén_, _soin_, _sengor_,
+              _nyh_                     _poynh_, _lenia_, _senyoria_,
+                                        _senyhor_
+
+  ŋ           _n_                       _lonc_
+
+  p           _p_, _pp_, _b_            _prop_, _opparer_, _obs_[8]
+
+  r           _r_                       _rire_
+
+  r´          _r_                       _cuer_
+
+  rr          _rr_                      _terra_[9]
+
+  s           _s_, _ss_, _c_, _ç_, _x_  _sap_, _fassa_, _cenat_, _ça_,
+                                        _locx_
+
+  š           _ss_, _s_, _sh_, _h_,     _faissa_, _cais_, _pueysh_,
+              _hs_                      _Foih_, _faihs_
+
+  t           _t_, _tt_, _d_            _tot_, _attenir_, _nud_[8]
+
+  ts          _c_, _z_, _tz_, _ç_,      _cel_, _faz_, _parlatz_, _ço_,
+              _gz_, _cz_, _ti_          _fagz_, _czo_, _fayllentia_[10]
+
+  tš          _ch_, _g_, _ich_, _ig_,   _chan_, _plag_, _ueich_, _faig_,
+              _h_, _gz_                 _lah_, _gaugz_[11]
+
+  v           _u_ (printed _v_)         _ven_
+
+  y           _i_, _y_                  _gabia_, _preyar_
+
+  z           _s_, _z_, _ç_             _pausa_, _roza_, _riçia_
+                                        (＜ _ridēbat_)
+
+  ž           _s_, _z_, _i_             _raso_, _poizo_, _maio_
+
+10. The Gascon group presents certain striking divergences from
+the other dialects: (1) it shows a b corresponding to Provençal v,
+as in _be_ = _ve_ ＜ _vĕnit_, _abetz_ = _avetz_ ＜ _habētis_; (2)
+it substitutes r for l between vowels, as in _bera_ = _bela_ ＜
+_bĕlla_; (3) it changes initial f to h, as in _he_ = _fe_ ＜ _fĭdem_.
+Other Gascon peculiarities are less ancient, less general, or less
+important.
+
+11. Some distinctions may be pointed out between the speech of the
+north and that of the south:--
+
+    (1) Latin ca and ga, either at the beginning of a word or after
+    a consonant, became respectively tša and dža in the northern
+    dialects[12], and remained unchanged in the southern: _canto_ ＞
+    _chan can_, _lŏnga_ ＞ _lonia longa_.
+
+    (2) Latin ct and gd became it and id in most of the north and
+    in the southwest[12], tš and dž in most of the south and in the
+    northwest[13]: _factum_ ＞ _fait fach_, _frig(i)da_ ＞ _freida
+    freia_. Nct became int, nt, n´, ntš in different regions:
+    _sanctum_ ＞ _saint sant sanh sanch_. Cs (Latin _x_) had various
+    local developments--is, itš, tš--somewhat similar to those of
+    ct: _exīre_ ＞ _eissir eichir ichir_.
+
+    (3) Latin d between vowels disappeared in some spots in the
+    north and northeast[12], and became z nearly everywhere else:
+    _audīre_ ＞ _auir auzir_.
+
+    (4) Latin ll became l´ in some parts of the south[13], and
+    usually l in other regions: _bĕlla_ ＞ _belha bela_.
+
+    (5) Provençal final ns remains in the southeast and east, and
+    is elsewhere generally reduced to s: _bŏnus_ ＞ _bons bos_.
+    Provençal final n also falls in a large region, but its history
+    is more intricate; the poets use indifferently forms with and
+    without _n_: _bĕne_ ＞ _ben be_.
+
+12. Several Latin consonants, when combined with a following ḙ or i̭,
+give results that are widely different in various localities, but the
+geographical distribution of the respective forms is complicated and
+not always clear: _pŏdium_ ＞ _puech poi_; _basiare_ ＞ _baisar basar
+baiiar baiar_; _bassiare_ ＞ _baissar baichar bachar_; _potiōnem_ ＞
+_poizon pozon poio_. The same thing may be said of intervocalic y
+(Latin _j_): _major_ ＞ _mager maier_. Also of intervocalic c, sc, g,
+ŋg, followed by e or i: _placēre_ ＞ _plazer plaizer plager_, _nascere_
+＞ _naisser nasser naicher nacher_, _lēgem_ ＞ _lei leg_, _ŭngere_ ＞
+_onher onger_.
+
+13. In the development of unstressed vowels there are very numerous
+local variations, which will be discussed later. Even among accented
+vowels there are some divergences:--
+
+    (1) Provençal ą, ę, ǫ before nasals become ạ, ẹ, ọ in some
+    dialects, especially in those belonging to or bordering on the
+    Limousin group: _canem_ ＞ cąn cạn, _vĕnit_ ＞ vęn vẹn, _bŏnum_
+    ＞ bǫn bọn. The poets nearly always use the forms with close
+    vowels.
+
+    (2) The breaking of ę, ǫ, under certain conditions, into
+    diphthongs is not common to the whole territory, and the
+    resulting forms show local differences: _mĕum_ ＞ męu mięu,
+    _fŏcum_ ＞ fǫc fuǫc fuęc füc. Breaking is least common in the
+    southwest.
+
+
+
+
+II. PHONOLOGY.
+
+
+14. Inasmuch as Provençal, like the other Romance languages, grew out
+of the Latin commonly spoken under the Roman Empire, we must take
+this latter language as our starting-point. The transformation was so
+gradual and continuous that we cannot assign any date at which speech
+ceases to be Latin and begins to be Provençal; since, however, the
+various Latin dialects--destined to become later the various Romance
+languages--began to diverge widely in the 6th and 7th centuries, we
+may, for the sake of convenience, say that the Latin period ends at
+about this time. Before this, certain changes (which affected all the
+Romance tongues) had occurred in the popular language, differentiating
+it considerably from the classic Latin of the Augustan writers.
+Although the most important of these alterations have to do with
+inflections rather than with pronunciation, the sound-changes in Vulgar
+Latin are by no means insignificant.
+
+15. It is essential at the outset to distinguish “popular” from
+“learned” words. The former, having always been a part of the spoken
+vocabulary, have been subject to the operation of all the phonetic
+laws that have governed the development of the language. The latter
+class, consisting of words borrowed by clerks, at various periods, from
+Latin books and from the Latin of the Church, is naturally exempt from
+sound-changes that occurred in the vulgar tongue before the time of
+their adoption. The form of learned words depends, in the first place,
+on the clerical pronunciation of Latin at the date of their borrowing;
+then, if they came into general use, their form was subject to the
+influence of any phonetic laws that were subsequently in force. The
+fate of borrowed terms differs, therefore, according to the time of
+their introduction and the degree of popularity which they afterwards
+attained.
+
+
+1. ACCENT.
+
+16. The place of the _primary_ accent, which in Classic Latin was
+determined by quantity, remained unchanged in Vulgar Latin even after
+quantitative distinctions were lost. A short vowel before a mute
+followed by a liquid may, in Classic Latin, be stressed or unstressed;
+in Vulgar Latin it is usually stressed: _cathédra_, _tenébræ_.[14]
+
+There are some exceptions to the rule of the persistence of the accent
+in Vulgar Latin:--
+
+    1. An accented e or i immediately followed by the vowel of the
+    penult transfers the stress to this latter vowel, and is itself
+    changed to y: _filíŏlus_ ＞ _filyólus_, _mulíĕrem_ ＞ _mulyére_.
+    This shift is perhaps due to a tendency to stress the more
+    sonorous of two contiguous vowels.
+
+    2. An accented u immediately followed by the vowel of the
+    penult transfers the stress to the _preceding_ syllable, and
+    is itself changed to w: _habúĕrunt_ ＞ _ábwerunt_, _tenúĕram_ ＞
+    _ténwera_. This shift cannot be explained on the same principle
+    as the foregoing one; it is perhaps due in every case to
+    analogy--_hábuit_, _ténui_, for instance, being responsible for
+    the change in _habúerunt_, _tenúeram_.
+
+    3. Verbs compounded with a prefix, if their constituent parts
+    were fully recognized, were usually replaced in Vulgar Latin
+    by a formation in which the vowel and the accent of the
+    simple verb were preserved: _défĭcit_ ＞ _disfácit_, _réddĭdi_
+    ＞ _reddédi_, _rénĕgo_ ＞ _renégo_, _réquĭrit_ ＞ _requærit_.
+    In _récĭpit_ ＞ _recípit_ the accent but not the vowel was
+    restored, speakers having ceased to associate this verb with
+    _capio_. In _cóllĭgo_, _érĭgo_, _éxĕo_, _ínflo_ the composite
+    nature of the word was apparently not recognized.
+
+    4. The adverbs _ĭllāc_, _ĭllīc_ accented their last syllable,
+    by the analogy of _hāc_, _hīc_.
+
+17. In Provençal the primary accent falls on the same syllable as in
+Vulgar Latin: _bonitātem_ ＞ V. L. _bonitáte_ ＞ Pr. _bontát_, _compŭtum_
+＞ V. L. _cómputu_ ＞ Pr. _cónte_; _cathĕdra_ ＞ V. L. _catédra_ ＞ Pr.
+_cadéira_; _filiŏlus_ ＞ V. L. _filyólus_ ＞ Pr. _filhóls_, _tenuĕram_
+＞ V. L. _ténwera_ ＞ Pr. _téngra_, _requĭrit_ ＞ V. L. _requærit_ ＞ Pr.
+_requér_, _illac_ ＞ V. L. _illác_ ＞ Pr. _lai_.
+
+    1. Some learned words have an irregular accentuation,
+    apparently due to a mispronunciation of the Latin: _cándĭdum_ ＞
+    _quandí_, _grammátĭca_ ＞ _gramatíca_, _láchry̆mo_ ＞ _lagrím_,
+    _spírĭtum_ ＞ _esprít_ (perhaps from the formula _spirítui
+    sancto_). Others were adopted with the correct stress, but
+    shifted it later: _fábrĭca_ ＞ _fábrega_ ＞ _fabréga_ (and
+    _fárga_), _fémĭna_ ＞ _fémena_ ＞ _feména_ (and _fémna_),
+    _láchry̆ma_ ＞ _lágrema_ ＞ _lagréma_, _sémĭnat_ ＞ _sémena_ ＞
+    _seména_ (and _sémna_), _vírgĭnem_ ＞ _vérgena_ ＞ _vergína_ (and
+    _vérge_).
+
+    2. _Dimércres_ ＜ _dīe Mercūrī_ (perhaps through ✱_dīe
+    Mércŏris_) has evidently been influenced by _divénres_ ＜ _dīe
+    Vĕnĕris_.
+
+    3. Some irregularities due to inflection will be discussed
+    under Morphology.
+
+18. The _secondary_ accent, in Vulgar Latin, seems not to have followed
+the Classic Latin quantitative rule, but to have fallen regularly on
+the second syllable from the primary stress: _cṓgĭtó_, _cupĭ́dĭtā́tem_.
+If this secondary accent _followed_ the tonic, its vowel probably
+developed as an unstressed post-tonic vowel; if it _preceded_, its
+vowel was apparently treated as a stressed vowel. This treatment was
+doubtless continued in Provençal until the intertonic vowel dropped
+out: _cógĭtó_ _cógĭtánt_ ＞ _cug_ _cúian_ (cf. _cánto_ _cántant_ ＞ _can_
+_cántan_), ✱_comĭnĭtĭāre_ ＞ _comén’tiáre_ ＞ _coménzár_ ＞ _comensár_. As
+may be seen from this last example, after the fall of the intertonic
+vowel, the secondary stress, being brought next to the primary,
+disappeared, and its vowel was henceforth unaccented. Cf. § 45, 1.
+
+19. Short, unemphatic words had no accent in Vulgar Latin, and were
+attached as particles to the beginning or the end of another word: _te
+vídet_, _áma me_. Such words, if they were not monosyllabic, tended to
+become so; a disyllabic proclitic beginning with a vowel regularly,
+in Vulgar Latin, lost its first syllable: _illum vídeo_ ＞ V. L. _lu
+véyo_ ＞ Pr. _lo vei_. A word which was used sometimes independently,
+sometimes as a particle, naturally developed double forms.
+
+
+2. VOWELS.
+
+
+QUANTITY.
+
+20. Latin had the following vowels, which might be long or short: a, e,
+i, o, u. The diphthongs, æ, œ, au, eu, ui, were always long: æ and œ,
+however, were simplified into monophthongs, mainly in the Republican
+epoch, _æ_ being sounded ę̄, _œ_ probably ẹ̄; au retained (save in some
+popular dialects) its old pronunciation; eu did not occur in any word
+that survived; ui, in _cui_, _illui_, in Vulgar Latin, was accented
+_úi_ (as in _fui_). The simple vowels, except a, were, doubtless from
+early times, slightly different in quality according to their quantity,
+the long vowels being sounded close, the short open: ẹ̄, ị̄, ọ̄, ụ̄;
+ę̆, į̆, ǫ̆, ų̆.
+
+21. Between the 1st and the 7th century of our era, the Classic Latin
+quantity died out: it had apparently disappeared from unstressed
+vowels as early as the 4th century, from stressed by the 6th. It left
+its traces, however, as we have seen, upon accentuation (§ 16), and
+also upon vowel quality, the originally long and short remaining
+differentiated in sound, if they were accented. Of the unaccented
+vowels, only i shows sure signs of such a differentiation, and even for
+i the distinction is evident only in a final syllable: _vēnī_ _vēnĭt_ ＞
+vẹnị vẹnįt.
+
+
+ACCENTED VOWELS.
+
+22. The vowels of Vulgar Latin are a, ẹ, ę, ị, į, ọ, ǫ, ụ, ų, with
+the diphthongs áu and úi; the old æ and œ had become identical in sound
+with ę and ẹ. As early as the 3d century of our era, į was changed, in
+nearly all the Empire, to ẹ, and thus became identical with the vowel
+coming from original ē. A little later, perhaps, ų, in the greater
+part of the Empire, became ọ, thus coinciding with the vowel that was
+originally ō. Ypsilon, in words taken from the Greek, was identified,
+in early borrowings, with Latin u; in later ones, with Latin i: βύρσα
+＞ Pr. _borsa_, γῠρος ＞ Pr. _girs_. Omicron, which apparently had
+the close sound in Greek, generally (but not always) retained it in
+recently borrowed words in Vulgar Latin: τόρνος ＞ tọrnus (cf. Pr.
+tọrn), but κόλαφος ＞ _cŏlăphus_ = cọlapus or cǫlapus (cf. Pr. cǫlp).
+
+The development of the Vulgar Latin vowels in Provençal will now be
+examined in detail:--
+
+
+a
+
+23. Cl. L. ā, ă ＞ V. L. a ＞ Pr. ą: _ărbŏrem_ ＞ ąrbre, _grātum_ ＞ grąt,
+_măre_ > mąr.
+
+    1. The ending _-arius_ shows an irregular development in
+    French and Provençal, the Provençal forms being mainly such as
+    would come from _-ĕrius_; as in _parlier_, _parleira_. In the
+    earliest stage we find apparently -ęr´ and -ęr´a; then -ęr´
+    and -ęir´a; next -ęr, -ięr and -ęira, -ięira; finally, with
+    a reciprocal influence of the two genders, -ęr, -ięr, -ęir,
+    and -ęra, -ięra, -ęira, -ięira: _caballarium_ ＞ _c(h)avaler_
+    _-ier_, _-eir_, ✱_man(u)aria_ ＞ _manera_ _-iera_ _-eira_
+    _-ieira_. The peculiar treatment of this suffix has not been
+    satisfactorily explained. See E. R. Zimmermann, _Die Geschichte
+    des lateinischen Suffixes -arius in den romanischen Sprachen_,
+    1895; E. Staaff, _Le suffixe -arius dans les langues romanes_,
+    Upsala, 1896, reviewed by Marchot in _Zs._, XXI, 296, by
+    Körting in _Zeitschrift für französische Sprache_, XXII, 55;
+    Meyer-Lübke, _Gram._, I, 222, § 237; Zimmermann in _Zs._,
+    XXVI, 591; Thomas in _Rom._, XXXI, 481 and in _Bausteine zur
+    romanischen Philologie_, 641. The likeliest theory is that of
+    Thomas: that _-arius_ was associated with the Germanic ending
+    _-ari_ and participated in the _umlaut_ which affected the
+    latter; cf. _Phon._, pp. 34-36.
+
+    2. In Gascony and Languedoc _ei_ is used for _ai_ ＜ _habeo_.
+    The _ei_ perhaps developed first as a future ending (_amar
+    -ei_) by analogy of the preterit ending _-ei_ (_amei_): see
+    Morphology, §§ 152, 1, 162, (4), 175, (4), where this latter
+    ending is discussed also. For a different explanation, see
+    Meyer-Lübke, _Gram._, I, 222, § 237.
+
+    3. A few apparent irregularities are to be traced to the
+    vocabulary of Vulgar Latin. For instance, Pr. _sereisa_
+    represents, not Cl. L. _cĕrăsus_, but V. L. _cĕrĕsĕa_: see
+    Meyer-Lübke, _Einf._, § 103. _Uebre_ is from ✱_ŏpĕrit_, or
+    _apĕrit_ modified by ✱_cŏpĕrit_ = _cōperit_. _Voig_ is from
+    ✱_vŏcĭtum_ = _vacuum_: _Einf._, § 114.
+
+    4. Such forms as _fontaina_ = _fontana_ ＜ _fontāna_, etc., and
+    _tres_ = _tras_ ＜ _trans_, etc., are French or belong to the
+    borderland between French and Provençal.
+
+24. In some dialects, particularly in Rouergue, Limousin, Auvergne, and
+Dauphiné, a became ạ before a nasal, and at the end of a monosyllable
+or an oxytone: _canem_ ＞ cạn, _grandem_ ＞ grạnt, _cadit_ ＞ cạ,
+_stat_ ＞ estạ.
+
+    1. The conditions differ somewhat in the various dialects,
+    according as the nasal consonant falls or remains, and is
+    followed by another consonant or not. In Limousin the sound
+    is ą before an n that cannot fall: see § 11, (5). In Rouergue
+    and in Dauphiné, ạ appears before all nasals. The poets
+    generally follow the Limousin usage. See F. Pfützner, _Ueber
+    die Aussprache des provenzalischen A_, Halle, 1884.
+
+
+ẹ
+
+25. Cl. L. ē, ĭ, œ ＞ V. L. ẹ ＞ Pr. ẹ: _habēre_ ＞ avẹr, _mē_ ＞ mẹ,
+_mensem_ ＞ mẹs, _plēnum_ ＞ plẹn, _rēgem_ ＞ rẹi, _vēndĕre_ ＞ vẹndre;
+_ĭnter_ ＞ ẹntre, _fĭdem_ ＞ fẹ, _malĭtia_ ＞ malẹza, _mĭnus_ ＞ mẹns,
+_mĭttĕre_ ＞ mẹtre, _sĭccum_ ＞ sẹc, _vĭrĭdem_ ＞ vẹrt, _pœna_ ＞ pẹna.
+
+    1. Some words have ę instead of ẹ:--
+
+    (_a_) The ending -_ētis_ in the present indicative becomes -ętz
+    through the analogy of ętz ＜ _ĕstis_.
+
+    (_b_) Camęl (also ẹ), candęla (also ẹ), cruzęl, fizęl (also
+    ẹ), maissęla have ę through the analogy of the suffix -ęl ＜
+    -_ĕllus_. In _camel_ the substitution probably goes back to
+    Vulgar Latin.
+
+    (_c_) Many learned words, including proper names, have ę for
+    ẹ: decręt, Elizabęt, Moysęs, pantęra, requięs, secręt (ẹ),
+    sencęr.
+
+    (_d_) Espęr for espẹr ＜ _spēro_, quęt for quẹt ＜
+    _qu_(_i_)_ētum_ are perhaps bad rhymes. Bartolomeo Zorzi, a
+    Venetian, rhymes -ẹs with -ęs; in Catalan these two endings
+    were not distinguished.
+
+    (_e_) Individual cases: adęs, ‘at once,’ probably from _ad
+    id ĭpsum_, seems to have been affected by pręs and apręs ＜
+    _ad prĕssum_; mostięr ＜ _monastērium_ shows the influence of
+    _ministĕrium_; nęr nięr (also nẹr nẹgre) ＜ _nĭgrum_ perhaps
+    shows the influence of entęr entięr and the numerous adjectives
+    in -ęr -ięr; nęu nięu nęy ＜ _nĭvem_ has been attracted by bręu
+    gręu, lęu; senęstre (cf. late Lat. _sinexter_) is evidently
+    influenced by dęstre.
+
+    2. Many words have i instead of ẹ:--
+
+    (_a_) _Berbitz_ = _vervēcem_, _camis_ = _camĭsia_, come from
+    alternative V. L. forms, _berbīcem_, ✱_camīsia_. _Planissa_
+    (also -_eza_), _sebissa_, etc., probably show -_īcia_ for
+    -_ĭtia_. For _dit_ = _dĭgĭtum_ see § 65, Y, 1.
+
+    (_b_) In many learned words Latin ĭ is represented by i in
+    Provençal: _albir_, _martire_, _edifici_, _iuzizi_, _servizi_,
+    _vici_, etc.; _iusticia_, _leticia_, _tristicia_, etc.
+    _Aurilha_ (also ẹ) ＜ _aurĭcula_, _cilh_, (also _cieilh_,
+    _sobreselhs_) ＜ _cĭlium_, _issilh_ ＜ _exĭlium_, _familha_ ＜
+    _famĭlia_, _maístre_ (also maẹstre maiẹstre) ＜ _magĭstrum_,
+    _meravilha_ (also ẹ) ＜ _mirabĭlia_, _perilh_ ＜ _perĭculum_,
+    etc., are probably learned forms. _Máistre_ and _mestre_ are
+    French.
+
+    (_c_) _Ciri_ (_cere_) = _cēreum_, _iure_ (cf. _ebriac_)
+    = _ēbrium_ (or ✱_ĕbrium_), _marquis_ (ẹ), _merci_ (ẹ),
+    _país_ (ẹ) = ✱_pagēnsem_, _plazir_ (ẹ), _pris_ (ẹ), etc.,
+    are French.[15] For a discussion of _iure_ and a different
+    explanation of _ciri_, see P. Savj-Lopez, _Dell’ “Umlaut”
+    provenzale_, 1902, p. 4.
+
+    (_d_) _Ins_ (also _entz_) ＜ _ĭntus_, _dins_ (also _dens_) ＜ _de
+    ĭntus_, _dintre_ (cf. _en_, _entre_) ＜ _de ĭnter_ have not
+    been satisfactorily explained. Regular forms with ẹ are found
+    in Béarn, Gascony, Dauphiné, and the Alps.
+
+    (_e_) Individual cases: _tapit_ ＜ ταπήτιον shows the modern
+    pronunciation of Greek η; _verin_ = _venēnum_ is an example of
+    substitution of suffix.
+
+    3. _Arnei_, _fei_, _mei_ = _me_, _palafrei_, _perquei_, _sei_ =
+    _se_ are French or Poitevin forms; they are common in William
+    of Poitiers. _Mercey_, _rey_ = _re_, used by Marcabru, seem to
+    be due either to an imitation of such forms as the preceding or
+    to the analogy of _crei_ _cre_ ＜ _crēdo_. Cf. § 65, N, 3.
+
+    4. _Contránher_ seems to be a fusion of _constrĭngere_ and
+    _contrahere_; _vendanha_ ＜ _vindēmia_ shows French influence.
+
+26. An ẹ in hiatus became i: _lĭgat_ ＞ lia, _vĭa_ ＞ via.
+
+27. When there was in the next syllable a final ī, V. L. ẹ was changed
+in Provençal to i: _ecc’ĭllī_ ＞ cilh, _ecc’ĭstī_ ＞ cist, _fēcī_ ＞ fis,
+✱_prēsī_ ＞ pris, ✱_vēnuī_ ＞ vinc, _vigĭntī_ ✱_vĭntī_ ＞ vint.
+
+    1. In the nominative plural of masculine nouns and adjectives
+    this change was regularly prevented by the analogy of the
+    singular and the accusative plural: _mĭssī_ ＞ _mes_, _plēnī_ ＞
+    _plen_. We find, however, _cabil_ ＜ _capĭllī_.
+
+    2. _Dec_ for ✱_dic_ ＜ _dēbuī_ seems to have been attracted
+    by the _dec_ ＜ _dēbuit_ of the third person. _Venguest_ for
+    _venguist_ ＜ ✱_venuĭstī_ is due both to the influence of the
+    plural forms _venguem_, _venguetz_ and to the analogy of the
+    weak preterits, such as _cantest_, _vendest_.
+
+
+ę
+
+28. Cl. L. ĕ, æ ＞ V. L. ę ＞ Pr. ę: _infĕrnum_ ＞ enfęrn, _fĕrrum_ ＞ fęr,
+_pĕdem_ ＞ pę; _cælum_ ＞ cęl, _quærit_ ＞ quęr.
+
+    1. Such forms as _glisia_, _lire_, _pire_, _pis_, _profit_
+    are French. _Profich_ may be a cross between _profieg_ and
+    _profit_, or it may be due to the analogy of _dich_.
+
+    2. _Cossint_, _mint_, _sint_, used by Arnaut Daniel, are
+    perhaps faulty rhymes.
+
+    3. _Auzil_ ＜ _avicĕllī_, in the _Boeci_, may be due to the
+    analogy of such plural forms as _cabil_ ＜ _capĭllī_, _il_ ＜
+    _ĭllī_, etc. _Briu_, sometimes used for _breu_ ＜ _brĕvem_,
+    is evidently connected with _abrivar_, ‘hasten,’ the origin
+    of which is uncertain. _Elig_ shows the influence either
+    of _eligir_ (beside _elegir_) or of _dig_. _Ginh_ = _genh_
+    ＜ _ingĕnium_ evidently follows _ginhos_ ＜ _ingeniōsus_ and
+    its derivatives. _Isme_ (_esme_) is a post-verbal noun from
+    ✱_ismar_ (cf. _azismamen_), a dialect form of _esmar_ ＜
+    _æstimare_. _Quis_ ＜ ✱_quæsi_, _tinc_ ＜ _tĕnui_ are due to the
+    analogy of _pris_ ＜ ✱_prēsī_, _vinc_ ＜ ✱_vēnuī_.
+
+    4. Beside nęula ＜ _nĕbula_, we find _nebla_, _neble_,
+    presumably from the same source, and also _nible_, _niól_,
+    _nióla_, _niúl_, _niúla_, _nivól_. According to Nigra,
+    _Archivio glottologico italiano_, XV, 494, _nūbes_ ＞ _nūbĭlus_
+    ＞ ✱_nĭbŭlus_ (and ✱_nĭbūlus_?), whence might be derived
+    ✱_níŭlus_ ✱_niúlus_, which would account for _niól-a_,
+    _niúl-a_, and perhaps for a ✱_nívol_ ＞ _nivól_. _Nible_ might
+    be regarded as a cross between _neble_ and _niul_. Cf. § 38, 3.
+
+    5. In ẹs ＜ _ĕst_ the ẹ probably comes from such combinations
+    as mẹ’s, quẹ’s, understood as m’ẹs, qu’ẹs. Espẹlh ＜
+    _spĕculum_ shows the influence of cossẹlh, solẹlh. Estẹla
+    presupposes a Latin ✱_stēla_ or ✱_stēlla_ for stĕlla: cf. the
+    Fr. and It.
+
+    6. _Plais_, ‘hedge’ seems to be a cross between _plĕxus_ and
+    _paxillus_, ‘fence.’ _Vianda_ (＜ _vivenda_?) is probably French.
+
+    7. _Volon_ ＜ _volentem_ shows the influence of the ending
+    _-ŭndus_.
+
+    8. _Greuga_ ＜ _con-gregar_ has been influenced by _greu_ ＜
+    ✱_grĕvem_ = _gravem_ influenced by _lĕvem_. Cf. _grey_ ＜
+    _grĕgem_.
+
+29. Before a nasal, in most of the dialects of Limousin, Languedoc, and
+Gascony, ę became ẹ: _bĕne_ ＞ bẹn, _dicĕntem_ ＞ dizẹn, _tĕmpus_ ＞
+tẹms, _tĕnet_ ＞ tẹn, _vĕniam_ ＞ vẹnha, _vĕntum_ ＞ vẹnt.
+
+30. Early in the history of Provençal, before u, i, or one of the
+palatal consonants l´, r´, s´, z´, y, tš, dž, an ę broke into ię,
+except in a few dialects of the west and north: _dĕus_ ＞ dięus,
+_mĕum_ ＞ mięu; _amāvi_ ＞ ✱_amai_ ＞ amęi amięi,[16] ✱_fĕria_ ＞ fięira,
+✱_ec(c)lĕsia_? (Cf. _Zs._, XXV, 344) ＞ glięiza, _lĕctum_ ＞ lięit,
+_pĕjus_ ＞ pięis; _vĕtŭlum_ _vĕclum_ ＞ vięlh, _ministĕrium_ ＞ mestięr,
+✱_ec(c)lĕsia_? ＞ glięza, _mĕdia_ ＞ mięia, _lĕctum_ ＞ lięg. There seems
+to be also, at least in some dialects, a tendency to break the ę before
+a g or a k: _lĕgunt_ ＞ lięgon; ✱_sĕquit_ ＞ sęc sięc, subjunctive
+sięgas (sęga), but infinitive sęgre ＜ ✱_sĕquere_.[17]
+
+The breaking was probably due to a premature lifting of the tongue
+under the influence of a following high vowel or a palatal (or velar)
+consonant.[18] Before u it occurred everywhere except in the extreme
+west; before palatals the ę apparently remained intact both in the
+extreme west and in Quercy, Rouergue, Auvergne, and Dauphiné. At first,
+no doubt, the diphthong was less marked than it became in the 12th and
+13th centuries. It is not indicated in our oldest text, the _Boeci_
+(_breu_, _deu_, _eu_, _mei_, _meler_, _vel_)[19], and it frequently
+remains unexpressed even in the writings of the literary period.
+
+It is to be noted that ę does not break before u ＜ l nor before i ＜ ð:
+_bĕllus_ ＞ bęls ＞ bęus, _pĕtra_ ＞ ✱pęðra ＞ pęira, _Pĕtrum_ ＞ ✱Pęðre ＞
+Pęire, _rĕtro_ ＞ ✱ręðre ＞ ręire[20]. The breaking must, therefore, have
+occurred before these developments of l and ð, both of which apparently
+antedate the _Boeci_: cf. _euz_ = _els_, v. 139

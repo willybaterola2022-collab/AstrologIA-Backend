@@ -1,0 +1,889 @@
+# A General Introduction to Psychoanalysis
+Author: Sigmund Freud
+Category: 05_psicologia
+Source: Gutenberg #38219
+Downloaded: 2026-03-08T14:20:10.401561
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+Produced by Chuck Greif and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This file was
+produced from images available at The Internet Archive)
+
+
+
+
+
+
+
+
+[Illustration: SCHWIND, _The Dream of the Prisoner_
+
+See page 109 for analysis]
+
+
+
+
+A General Introduction
+to
+Psychoanalysis
+
+BY
+PROF. SIGMUND FREUD, LL.D.
+
+AUTHORIZED TRANSLATION
+WITH A PREFACE
+
+BY
+G. STANLEY HALL
+PRESIDENT, CLARK UNIVERSITY
+
+HORACE LIVERIGHT
+PUBLISHER NEW YORK
+
+Published, 1920, by
+HORACE LIVERIGHT, INC.
+
+_Printed in the United States of America_
+
+COPYRIGHT, 1920, BY EDWARD L. BERNAYS
+
+
+
+
+PREFACE
+
+
+Few, especially in this country, realize that while Freudian themes have
+rarely found a place on the programs of the American Psychological
+Association, they have attracted great and growing attention and found
+frequent elaboration by students of literature, history, biography,
+sociology, morals and aesthetics, anthropology, education, and religion.
+They have given the world a new conception of both infancy and
+adolescence, and shed much new light upon characterology; given us a new
+and clearer view of sleep, dreams, reveries, and revealed hitherto
+unknown mental mechanisms common to normal and pathological states and
+processes, showing that the law of causation extends to the most
+incoherent acts and even verbigerations in insanity; gone far to clear
+up the _terra incognita_ of hysteria; taught us to recognize morbid
+symptoms, often neurotic and psychotic in their germ; revealed the
+operations of the primitive mind so overlaid and repressed that we had
+almost lost sight of them; fashioned and used the key of symbolism to
+unlock many mysticisms of the past; and in addition to all this,
+affected thousands of cures, established a new prophylaxis, and
+suggested new tests for character, disposition, and ability, in all
+combining the practical and theoretic to a degree salutary as it is
+rare.
+
+These twenty-eight lectures to laymen are elementary and almost
+conversational. Freud sets forth with a frankness almost startling the
+difficulties and limitations of psychoanalysis, and also describes its
+main methods and results as only a master and originator of a new school
+of thought can do. These discourses are at the same time simple and
+almost confidential, and they trace and sum up the results of thirty
+years of devoted and painstaking research. While they are not at all
+controversial, we incidentally see in a clearer light the distinctions
+between the master and some of his distinguished pupils. A text like
+this is the most opportune and will naturally more or less supersede all
+other introductions to the general subject of psychoanalysis. It
+presents the author in a new light, as an effective and successful
+popularizer, and is certain to be welcomed not only by the large and
+growing number of students of psychoanalysis in this country but by the
+yet larger number of those who wish to begin its study here and
+elsewhere.
+
+The impartial student of Sigmund Freud need not agree with all his
+conclusions, and indeed, like the present writer, may be unable to make
+sex so all-dominating a factor in the psychic life of the past and
+present as Freud deems it to be, to recognize the fact that he is the
+most original and creative mind in psychology of our generation. Despite
+the frightful handicap of the _odium sexicum_, far more formidable today
+than the _odium theologicum_, involving as it has done for him lack of
+academic recognition and even more or less social ostracism, his views
+have attracted and inspired a brilliant group of minds not only in
+psychiatry but in many other fields, who have altogether given the world
+of culture more new and pregnant _appercus_ than those which have come
+from any other source within the wide domain of humanism.
+
+A former student and disciple of Wundt, who recognizes to the full his
+inestimable services to our science, cannot avoid making certain
+comparisons. Wundt has had for decades the prestige of a most
+advantageous academic chair. He founded the first laboratory for
+experimental psychology, which attracted many of the most gifted and
+mature students from all lands. By his development of the doctrine of
+apperception he took psychology forever beyond the old associationism
+which had ceased to be fruitful. He also established the independence of
+psychology from physiology, and by his encyclopedic and always thronged
+lectures, to say nothing of his more or less esoteric seminary, he
+materially advanced every branch of mental science and extended its
+influence over the whole wide domain of folklore, mores, language, and
+primitive religion. His best texts will long constitute a thesaurus
+which every psychologist must know.
+
+Again, like Freud, he inspired students who went beyond him (the
+Wurzburgers and introspectionists) whose method and results he could not
+follow. His limitations have grown more and more manifest. He has little
+use for the unconscious or the abnormal, and for the most part he has
+lived and wrought in a preevolutionary age and always and everywhere
+underestimated the genetic standpoint. He never transcends the
+conventional limits in dealing, as he so rarely does, with sex. Nor does
+he contribute much likely to be of permanent value in any part of the
+wide domain of affectivity. We cannot forbear to express the hope that
+Freud will not repeat Wundt's error in making too abrupt a break with
+his more advanced pupils like Adler or the Zurich group. It is rather
+precisely just the topics that Wundt neglects that Freud makes his chief
+corner-stones, viz., the unconscious, the abnormal, sex, and affectivity
+generally, with many genetic, especially ontogenetic, but also
+phylogenetic factors. The Wundtian influence has been great in the past,
+while Freud has a great present and a yet greater future.
+
+In one thing Freud agrees with the introspectionists, viz., in
+deliberately neglecting the "physiological factor" and building on
+purely psychological foundations, although for Freud psychology is
+mainly unconscious, while for the introspectionists it is pure
+consciousness. Neither he nor his disciples have yet recognized the aid
+proffered them by students of the autonomic system or by the
+distinctions between the epicritic and protopathic functions and organs
+of the cerebrum, although these will doubtless come to have their due
+place as we know more of the nature and processes of the unconscious
+mind.
+
+If psychologists of the normal have hitherto been too little disposed to
+recognize the precious contributions to psychology made by the cruel
+experiments of Nature in mental diseases, we think that the
+psychoanalysts, who work predominantly in this field, have been somewhat
+too ready to apply their findings to the operations of the normal mind;
+but we are optomistic enough to believe that in the end both these
+errors will vanish and that in the great synthesis of the future that
+now seems to impend our science will be made vastly richer and deeper on
+the theoretical side and also far more practical than it has ever been
+before.
+
+G. STANLEY HALL.
+
+Clark University,
+April, 1920.
+
+
+
+
+CONTENTS
+
+
+PART ONE
+
+_The Psychology of Errors_
+
+PAGE
+
+PREFACE    G. Stanley Hall                                             V
+
+LECTURE
+
+I. INTRODUCTION                                                        1
+
+II. THE PSYCHOLOGY OF ERRORS                                          10
+
+III. THE PSYCHOLOGY OF ERRORS--(_Continued_)                          23
+
+IV. THE PSYCHOLOGY OF ERRORS--(_Conclusion_)                          41
+
+
+PART TWO
+
+_The Dream_
+
+V. DIFFICULTIES AND PRELIMINARY APPROACH                              63
+
+VI. HYPOTHESIS AND TECHNIQUE OF INTERPRETATION                        78
+
+VII. MANIFEST DREAM CONTENT AND LATENT DREAM THOUGHT                  90
+
+VIII. DREAMS OF CHILDHOOD                                            101
+
+IX. THE DREAM CENSOR                                                 110
+
+X. SYMBOLISM IN THE DREAM                                            122
+
+XI. THE DREAM-WORK                                                   141
+
+XII. ANALYSES OF SAMPLE DREAMS                                       153
+
+XIII. ARCHAIC REMNANTS AND INFANTILISM IN THE DREAM                  167
+
+XIV. WISH FULFILLMENT                                                180
+
+XV. DOUBTFUL POINTS AND CRITICISM                                    194
+
+
+PART THREE
+
+_General Theory of the Neuroses_
+
+XVI. PSYCHOANALYSIS AND PSYCHIATRY                                   209
+
+XVII. THE MEANING OF THE SYMPTOMS                                    221
+
+XVIII. TRAUMATIC FIXATION--THE UNCONSCIOUS                           236
+
+XIX. RESISTANCE AND SUPPRESSION                                      248
+
+XX. THE SEXUAL LIFE OF MAN                                           262
+
+XXI. DEVELOPMENT OF THE LIBIDO AND SEXUAL ORGANIZATIONS              277
+
+XXII. THEORIES OF DEVELOPMENT AND REGRESSION--ETIOLOGY               294
+
+XXIII. THE DEVELOPMENT OF THE SYMPTOMS                               311
+
+XXIV. ORDINARY NERVOUSNESS                                           328
+
+XXV. FEAR AND ANXIETY                                                340
+
+XXVI. THE LIBIDO THEORY AND NARCISM                                  356
+
+XXVII. TRANSFERENCE                                                  372
+
+XXVIII. ANALYTICAL THERAPY                                           388
+
+INDEX                                                                403
+
+
+
+
+PART I
+
+THE PSYCHOLOGY OF ERRORS
+
+
+
+
+FIRST LECTURE
+
+INTRODUCTION
+
+
+I do not know how familiar some of you may be, either from your reading
+or from hearsay, with psychoanalysis. But, in keeping with the title of
+these lectures--_A General Introduction to Psychoanalysis_--I am obliged
+to proceed as though you knew nothing about this subject, and stood in
+need of preliminary instruction.
+
+To be sure, this much I may presume that you do know, namely, that
+psychoanalysis is a method of treating nervous patients medically. And
+just at this point I can give you an example to illustrate how the
+procedure in this field is precisely the reverse of that which is the
+rule in medicine. Usually when we introduce a patient to a medical
+technique which is strange to him we minimize its difficulties and give
+him confident promises concerning the result of the treatment. When,
+however, we undertake psychoanalytic treatment with a neurotic patient
+we proceed differently. We hold before him the difficulties of the
+method, its length, the exertions and the sacrifices which it will cost
+him; and, as to the result, we tell him that we make no definite
+promises, that the result depends on his conduct, on his understanding,
+on his adaptability, on his perseverance. We have, of course, excellent
+motives for conduct which seems so perverse, and into which you will
+perhaps gain insight at a later point in these lectures.
+
+Do not be offended, therefore, if, for the present, I treat you as I
+treat these neurotic patients. Frankly, I shall dissuade you from coming
+to hear me a second time. With this intention I shall show what
+imperfections are necessarily involved in the teaching of psychoanalysis
+and what difficulties stand in the way of gaining a personal judgment. I
+shall show you how the whole trend of your previous training and all
+your accustomed mental habits must unavoidably have made you opponents
+of psychoanalysis, and how much you must overcome in yourselves in
+order to master this instinctive opposition. Of course I cannot predict
+how much psychoanalytic understanding you will gain from my lectures,
+but I can promise this, that by listening to them you will not learn how
+to undertake a psychoanalytic treatment or how to carry one to
+completion. Furthermore, should I find anyone among you who does not
+feel satisfied with a cursory acquaintance with psychoanalysis, but who
+would like to enter into a more enduring relationship with it, I shall
+not only dissuade him, but I shall actually warn him against it. As
+things now stand, a person would, by such a choice of profession, ruin
+his every chance of success at a university, and if he goes out into the
+world as a practicing physician, he will find himself in a society which
+does not understand his aims, which regards him with suspicion and
+hostility, and which turns loose upon him all the malicious spirits
+which lurk within it.
+
+However, there are always enough individuals who are interested in
+anything which may be added to the sum total of knowledge, despite such
+inconveniences. Should there be any of this type among you, and should
+they ignore my dissuasion and return to the next of these lectures, they
+will be welcome. But all of you have the right to know what these
+difficulties of psychoanalysis are to which I have alluded.
+
+First of all, we encounter the difficulties inherent in the teaching and
+exposition of psychoanalysis. In your medical instruction you have been
+accustomed to visual demonstration. You see the anatomical specimen, the
+precipitate in the chemical reaction, the contraction of the muscle as
+the result of the stimulation of its nerves. Later the patient is
+presented to your senses; the symptoms of his malady, the products of
+the pathological processes, in many cases even the cause of the disease
+is shown in isolated state. In the surgical department you are made to
+witness the steps by which one brings relief to the patient, and are
+permitted to attempt to practice them. Even in psychiatry, the
+demonstration affords you, by the patient's changed facial play, his
+manner of speech and his behavior, a wealth of observations which leave
+far-reaching impressions. Thus the medical teacher preponderantly plays
+the role of a guide and instructor who accompanies you through a museum
+in which you contract an immediate relationship to the exhibits, and in
+which you believe yourself to have been convinced through your own
+observation of the existence of the new things you see.
+
+Unfortunately, everything is different in psychoanalysis. In
+psychoanalysis nothing occurs but the interchange of words between the
+patient and the physician. The patient talks, tells of his past
+experiences and present impressions, complains, confesses his wishes and
+emotions. The physician listens, tries to direct the thought processes
+of the patient, reminds him of things, forces his attention into certain
+channels, gives him explanations and observes the reactions of
+understanding or denial which he calls forth in the patient. The
+uneducated relatives of our patients--persons who are impressed only by
+the visible and tangible, preferably by such procedure as one sees in
+the moving picture theatres--never miss an opportunity of voicing their
+scepticism as to how one can "do anything for the malady through mere
+talk." Such thinking, of course, is as shortsighted as it is
+inconsistent. For these are the very persons who know with such
+certainty that the patients "merely imagine" their symptoms. Words were
+originally magic, and the word retains much of its old magical power
+even to-day. With words one man can make another blessed, or drive him
+to despair; by words the teacher transfers his knowledge to the pupil;
+by words the speaker sweeps his audience with him and determines its
+judgments and decisions. Words call forth effects and are the universal
+means of influencing human beings. Therefore let us not underestimate
+the use of words in psychotherapy, and let us be satisfied if we may be
+auditors of the words which are exchanged between the analyst and his
+patient.
+
+But even that is impossible. The conversation of which the
+psychoanalytic treatment consists brooks no auditor, it cannot be
+demonstrated. One can, of course, present a neurasthenic or hysteric to
+the students in a psychiatric lecture. He tells of his complaints and
+symptoms, but of nothing else. The communications which are necessary
+for the analysis are made only under the conditions of a special
+affective relationship to the physician; the patient would become dumb
+as soon as he became aware of a single impartial witness. For these
+communications concern the most intimate part of his psychic life,
+everything which as a socially independent person he must conceal from
+others; these communications deal with everything which, as a harmonious
+personality, he will not admit even to himself.
+
+You cannot, therefore, "listen in" on a psychoanalytic treatment. You
+can only hear of it. You will get to know psychoanalysis, in the
+strictest sense of the word, only by hearsay. Such instruction even at
+second hand, will place you in quite an unusual position for forming a
+judgment. For it is obvious that everything depends on the faith you are
+able to put in the instructor.
+
+Imagine that you are not attending a psychiatric, but an historical
+lecture, and that the lecturer is telling you about the life and martial
+deeds of Alexander the Great. What would be your reasons for believing
+in the authenticity of his statements? At first sight, the condition of
+affairs seems even more unfavorable than in the case of psychoanalysis,
+for the history professor was as little a participant in Alexander's
+campaigns as you were; the psychoanalyst at least tells you of things in
+connection with which he himself has played some role. But then the
+question turns on this--what set of facts can the historian marshal in
+support of his position? He can refer you to the accounts of ancient
+authors, who were either contemporaries themselves, or who were at least
+closer to the events in question; that is, he will refer you to the
+books of Diodor, Plutarch, Arrian, etc. He can place before you pictures
+of the preserved coins and statues of the king and can pass down your
+rows a photograph of the Pompeiian mosaics of the battle of Issos. Yet,
+strictly speaking, all these documents prove only that previous
+generations already believed in Alexander's existence and in the reality
+of his deeds, and your criticism might begin anew at this point. You
+will then find that not everything recounted of Alexander is credible,
+or capable of proof in detail; yet even then I cannot believe that you
+will leave the lecture hall a disbeliever in the reality of Alexander
+the Great. Your decision will be determined chiefly by two
+considerations; firstly, that the lecturer has no conceivable motive for
+presenting as truth something which he does not himself believe to be
+true, and secondly, that all available histories present the events in
+approximately the same manner. If you then proceed to the verification
+of the older sources, you will consider the same data, the possible
+motives of the writers and the consistency of the various parts of the
+evidence. The result of the examination will surely be convincing in the
+case of Alexander. It will probably turn out differently when applied
+to individuals like Moses and Nimrod. But what doubts you might raise
+against the credibility of the psychoanalytic reporter you will see
+plainly enough upon a later occasion.
+
+At this point you have a right to raise the question, "If there is no
+such thing as objective verification of psychoanalysis, and no
+possibility of demonstrating it, how can one possibly learn
+psychoanalysis and convince himself of the truth of its claims?" The
+fact is, the study is not easy and there are not many persons who have
+learned psychoanalysis thoroughly; but nevertheless, there is a feasible
+way. Psychoanalysis is learned, first of all, from a study of one's
+self, through the study of one's own personality. This is not quite what
+is ordinarily called self-observation, but, at a pinch, one can sum it
+up thus. There is a whole series of very common and universally known
+psychic phenomena, which, after some instruction in the technique of
+psychoanalysis, one can make the subject matter of analysis in one's
+self. By so doing one obtains the desired conviction of the reality of
+the occurrences which psychoanalysis describes and of the correctness of
+its fundamental conception. To be sure, there are definite limits
+imposed on progress by this method. One gets much further if one allows
+himself to be analyzed by a competent analyst, observes the effect of
+the analysis on his own ego, and at the same time makes use of the
+opportunity to become familiar with the finer details of the technique
+of procedure. This excellent method is, of course, only practicable for
+one person, never for an entire class.
+
+There is a second difficulty in your relation to psychoanalysis for
+which I cannot hold the science itself responsible, but for which I must
+ask you to take the responsibility upon yourselves, ladies and
+gentlemen, at least in so far as you have hitherto pursued medical
+studies. Your previous training has given your mental activity a
+definite bent which leads you far away from psychoanalysis. You have
+been trained to reduce the functions of an organism and its disorders
+anatomically, to explain them in terms of chemistry and physics and to
+conceive them biologically, but no portion of your interest has been
+directed to the psychic life, in which, after all, the activity of this
+wonderfully complex organism culminates. For this reason psychological
+thinking has remained strange to you and you have accustomed yourselves
+to regard it with suspicion, to deny it the character of the scientific,
+to leave it to the laymen, poets, natural philosophers and mystics. Such
+a delimitation is surely harmful to your medical activity, for the
+patient will, as is usual in all human relationships, confront you first
+of all with his psychic facade; and I am afraid your penalty will be
+this, that you will be forced to relinquish a portion of the therapeutic
+influence to which you aspire, to those lay physicians, nature-cure
+fakers and mystics whom you despise.
+
+I am not overlooking the excuse, whose existence one must admit, for
+this deficiency in your previous training. There is no philosophical
+science of therapy which could be made practicable for your medical
+purpose. Neither speculative philosophy nor descriptive psychology nor
+that so-called experimental psychology which allies itself with the
+physiology of the sense organs as it is taught in the schools, is in a
+position to teach you anything useful concerning the relation between
+the physical and the psychical or to put into your hand the key to the
+understanding of a possible disorder of the psychic functions. Within
+the field of medicine, psychiatry does, it is true, occupy itself with
+the description of the observed psychic disorders and with their
+grouping into clinical symptom-pictures; but in their better hours the
+psychiatrists themselves doubt whether their purely descriptive account
+deserves the name of a science. The symptoms which constitute these
+clinical pictures are known neither in their origin, in their mechanism,
+nor in their mutual relationship. There are either no discoverable
+corresponding changes of the anatomical organ of the soul, or else the
+changes are of such a nature as to yield no enlightenment. Such psychic
+disturbances are open to therapeutic influence only when they can be
+identified as secondary phenomena of an otherwise organic affection.
+
+Here is the gap which psychoanalysis aims to fill. It prepares to give
+psychiatry the omitted psychological foundation, it hopes to reveal the
+common basis from which, as a starting point, constant correlation of
+bodily and psychic disturbances becomes comprehensible. To this end, it
+must divorce itself from every anatomical, chemical or physiological
+supposition which is alien to it. It must work throughout with purely
+psychological therapeutic concepts, and just for that reason I fear
+that it will at first seem strange to you.
+
+I will not make you, your previous training, or your mental bias share
+the guilt of the next difficulty. With two of its assertions,
+psychoanalysis offends the whole world and draws aversion upon itself.
+One of these assertions offends an intellectual prejudice, the other an
+aesthetic-moral one. Let us not think too lightly of these prejudices;
+they are powerful things, remnants of useful, even necessary,
+developments of mankind. They are retained through powerful affects, and
+the battle against them is a hard one.
+
+The first of these displeasing assertions of psychoanalysis is this,
+that the psychic processes are in themselves unconscious, and that those
+which are conscious are merely isolated acts and parts of the total
+psychic life. Recollect that we are, on the contrary, accustomed to
+identify the psychic with the conscious. Consciousness actually means
+for us the distinguishing characteristic of the psychic life, and
+psychology is the science of the content of consciousness. Indeed, so
+obvious does this identification seem to us that we consider its
+slightest contradiction obvious nonsense, and yet psychoanalysis cannot
+avoid raising this contradiction; it cannot accept the identity of the
+conscious with the psychic. Its definition of the psychic affirms that
+they are processes of the nature of feeling, thinking, willing; and it
+must assert that there is such a thing as unconscious thinking and
+unconscious willing. But with this assertion psychoanalysis has
+alienated, to start with, the sympathy of all friends of sober science,
+and has laid itself open to the suspicion of being a fantastic mystery
+study which would build in darkness and fish in murky waters. You,
+however, ladies and gentlemen, naturally cannot as yet understand what
+justification I have for stigmatizing as a prejudice so abstract a
+phrase as this one, that "the psychic is consciousness." You cannot know
+what evaluation can have led to the denial of the unconscious, if such a
+thing really exists, and what advantage may have resulted from this
+denial. It sounds like a mere argument over words whether one shall say
+that the psychic coincides with the conscious or whether one shall
+extend it beyond that, and yet I can assure you that by the acceptance
+of unconscious processes you have paved the way for a decisively new
+orientation in the world and in science.
+
+Just as little can you guess how intimate a connection this initial
+boldness of psychoanalysis has with the one which follows. The next
+assertion which psychoanalysis proclaims as one of its discoveries,
+affirms that those instinctive impulses which one can only call sexual
+in the narrower as well as in the wider sense, play an uncommonly large
+role in the causation of nervous and mental diseases, and that those
+impulses are a causation which has never been adequately appreciated.
+Nay, indeed, psychoanalysis claims that these same sexual impulses have
+made contributions whose value cannot be overestimated to the highest
+cultural, artistic and social achievements of the human mind.
+
+According to my experience, the aversion to this conclusion of
+psychoanalysis is the most significant source of the opposition which it
+encounters. Would you like to know how we explain this fact? We believe
+that civilization was forged by the driving force of vital necessity, at
+the cost of instinct-satisfaction, and that the process is to a large
+extent constantly repeated anew, since each individual who newly enters
+the human community repeats the sacrifices of his instinct-satisfaction
+for the sake of the common good. Among the instinctive forces thus
+utilized, the sexual impulses play a significant role. They are thereby
+sublimated, i.e., they are diverted from their sexual goals and directed
+to ends socially higher and no longer sexual. But this result is
+unstable. The sexual instincts are poorly tamed. Each individual who
+wishes to ally himself with the achievements of civilization is exposed
+to the danger of having his sexual instincts rebel against this
+sublimation. Society can conceive of no more serious menace to its
+civilization than would arise through the satisfying of the sexual
+instincts by their redirection toward their original goals. Society,
+therefore, does not relish being reminded of this ticklish spot in its
+origin; it has no interest in having the strength of the sexual
+instincts recognized and the meaning of the sexual life to the
+individual clearly delineated. On the contrary, society has taken the
+course of diverting attention from this whole field. This is the reason
+why society will not tolerate the above-mentioned results of
+psychoanalytic research, and would prefer to brand it as aesthetically
+offensive and morally objectionable or dangerous. Since, however, one
+cannot attack an ostensibly objective result of scientific inquiry with
+such objections, the criticism must be translated to an intellectual
+level if it is to be voiced. But it is a predisposition of human nature
+to consider an unpleasant idea untrue, and then it is easy to find
+arguments against it. Society thus brands what is unpleasant as untrue,
+denying the conclusions of psychoanalysis with logical and pertinent
+arguments. These arguments originate from affective sources, however,
+and society holds to these prejudices against all attempts at
+refutation.
+
+However, we may claim, ladies and gentlemen, that we have followed no
+bias of any sort in making any of these contested statements. We merely
+wished to state facts which we believe to have been discovered by
+toilsome labor. And we now claim the right unconditionally to reject the
+interference in scientific research of any such practical
+considerations, even before we have investigated whether the
+apprehension which these considerations are meant to instil are
+justified or not.
+
+These, therefore, are but a few of the difficulties which stand in the
+way of your occupation with psychoanalysis. They are perhaps more than
+enough for a beginning. If you can overcome their deterrent impression,
+we shall continue.
+
+
+
+
+SECOND LECTURE
+
+THE PSYCHOLOGY OF ERRORS
+
+
+We begin with an investigation, not with hypotheses. To this end we
+choose certain phenomena which are very frequent, very familiar and very
+little heeded, and which have nothing to do with the pathological,
+inasmuch as they can be observed in every normal person. I refer to the
+errors which an individual commits--as for example, errors of speech in
+which he wishes to say something and uses the wrong word; or those which
+happen to him in writing, and which he may or may not notice; or the
+case of misreading, in which one reads in the print or writing something
+different from what is actually there. A similar phenomenon occurs in
+those cases of mishearing what is said to one, where there is no
+question of an organic disturbance of the auditory function. Another
+series of such occurrences is based on forgetfulness--but on a
+forgetfulness which is not permanent, but temporary, as for instance
+when one cannot think of a name which one knows and always recognizes;
+or when one forgets to carry out a project at the proper time but which
+one remembers again later, and therefore has only forgotten for a
+certain interval. In a third class this characteristic of transience is
+lacking, as for example in mislaying things so that they cannot be found
+again, or in the analogous case of losing things. Here we are dealing
+with a kind of forgetfulness to which one reacts differently from the
+other cases, a forgetfulness at which one is surprised and annoyed,
+instead of considering it comprehensible. Allied with these phenomena is
+that of erroneous ideas--in which the element of transience is again
+prominent, inasmuch as for a while one believes something which, before
+and after that time, one knows to be untrue--and a number of similar
+phenomena of different designations.
+
+These are all occurrences whose inner connection is expressed in the
+use of the same prefix of designation.[1] They are almost all
+unimportant, generally temporary and without much significance in the
+life of the individual. It is only rarely that one of them, such as the
+phenomenon of losing things, attains to a certain practical importance.
+For that reason also they do not attract much attention, they arouse
+only weak affects.
+
+It is, therefore, to these phenomena that I would now direct your
+attention. But you will object, with annoyance: "There are so many
+sublime riddles in the external world, just as there are in the narrower
+world of the psychic life, and so many wonders in the field of psychic
+disturbances which demand and deserve elucidation, that it really seems
+frivolous to waste labor and interest on such trifles. If you can
+explain to us how an individual with sound eyes and ears can, in broad
+daylight, see and hear things that do not exist, or why another
+individual suddenly believes himself persecuted by those whom up to that
+time he loved best, or defend, with the most ingenious arguments,
+delusions which must seem nonsense to any child, then we will be willing
+to consider psychoanalysis seriously. But if psychoanalysis can do
+nothing better than to occupy us with the question of why a speaker used
+the wrong word, or why a housekeeper mislaid her keys, or such trifles,
+then we know something better to do with our time and interest."
+
+My reply is: "Patience, ladies and gentlemen. I think your criticism is
+not on the right track. It is true that psychoanalysis cannot boast that
+it has never occupied itself with trifles. On the contrary, the objects
+of its observations are generally those simple occurrences which the
+other sciences have thrown aside as much too insignificant, the waste
+products of the phenomenal world. But are you not confounding, in your
+criticism, the sublimity of the problems with the conspicuousness of
+their manifestations? Are there not very important things which under
+certain circumstances, and at certain times, can betray themselves only
+by very faint signs? I could easily cite a great many instances of this
+kind. From what vague signs, for instance, do the young gentlemen of
+this audience conclude that they have won the favor of a lady? Do you
+await an explicit declaration, an ardent embrace, or does not a glance,
+scarcely perceptible to others, a fleeting gesture, the prolonging of a
+hand-shake by one second, suffice? And if you are a criminal lawyer, and
+engaged in the investigation of a murder, do you actually expect the
+murderer to leave his photograph and address on the scene of the crime,
+or would you, of necessity, content yourself with fainter and less
+certain traces of that individual? Therefore, let us not undervalue
+small signs; perhaps by means of them we will succeed in getting on the
+track of greater things. I agree with you that the larger problems of
+the world and of science have the first claim on our interest. But it is
+generally of little avail to form the definite resolution to devote
+oneself to the investigation of this or that problem. Often one does not
+know in which direction to take the next step. In scientific research it
+is more fruitful to attempt what happens to be before one at the moment
+and for whose investigation there is a discoverable method. If one does
+that thoroughly without prejudice or predisposition, one may, with good
+fortune, and by virtue of the connection which links each thing to every
+other (hence also the small to the great) discover even from such modest
+research a point of approach to the study of the big problems."
+
+Thus would I answer, in order to secure your attention for the
+consideration of these apparently insignificant errors made by normal
+people. At this point, we will question a stranger to psychoanalysis and
+ask him how he explains these occurrences.
+
+His first answer is sure to be, "Oh, they are not worth an explanation;
+they are merely slight accidents." What does he mean by this? Does he
+mean to assert that there are any occurrences so insignificant that they
+fall out of the causal sequence of things, or that they might just as
+well be something different from what they are? If any one thus denies
+the determination of natural phenomena at one such point, he has
+vitiated the entire scientific viewpoint. One can then point out to him
+how much more consistent is the religious point of view, when it
+explicitly asserts that "No sparrow falls from the roof without God's
+special wish." I imagine our friend will not be willing to follow his
+first answer to its logical conclusion; he will interrupt and say that
+if he were to study these things he would probably find an explanation
+for them. He will say that this is a case of slight functional
+disturbance, of an inaccurate psychic act whose causal factors can be
+outlined. A man who otherwise speaks correctly may make a slip of the
+tongue--when he is slightly ill or fatigued; when he is excited; when
+his attention is concentrated on something else. It is easy to prove
+these statements. Slips of the tongue do really occur with special
+frequency when one is tired, when one has a headache or when one is
+indisposed. Forgetting proper names is a very frequent occurrence under
+these circumstances. Many persons even recognize the imminence of an
+indisposition by the inability to recall proper names. Often also one
+mixes up words or objects during excitement, one picks up the wrong
+things; and the forgetting of projects, as well as the doing of any
+number of other unintentional acts, becomes conspicuous when one is
+distracted; in other words, when one's attention is concentrated on
+other things. A familiar instance of such distraction is the professor
+in _Fliegende Blätter_, who takes the wrong hat because he is thinking
+of the problems which he wishes to treat in his next book. Each of us
+knows from experience some examples of how one can forget projects which
+one has planned and promises which one has made, because an experience
+has intervened which has preoccupied one deeply.
+
+This seems both comprehensible and irrefutable. It is perhaps not very
+interesting, not as we expected it to be. But let us consider this
+explanation of errors. The conditions which have been cited as necessary
+for the occurrence of these phenomena are not all identical. Illness and
+disorders of circulation afford a physiological basis. Excitement,
+fatigue and distraction are conditions of a different sort, which one
+could designate as psycho-physiological. About these latter it is easy
+to theorize. Fatigue, as well as distraction, and perhaps also general
+excitement, cause a scattering of the attention which can result in the
+act in progress not receiving sufficient attention. This act can then be
+more easily interrupted than usual, and may be inexactly carried out. A
+slight illness, or a change in the distribution of blood in the central
+organ of the nervous system, can have the same effect, inasmuch as it
+influences the determining factor, the distribution of attention, in a
+similar way. In all cases, therefore, it is a question of the effects of
+a distraction of the attention, caused either by organic or psychic
+factors.
+
+But this does not seem to yield much of interest for our psychoanalytic
+investigation. We might even feel tempted to give up the subject. To be
+sure, when we look more closely we find that not everything squares
+with this attention theory of psychological errors, or that at any rate
+not everything can be directly deduced from it. We find that such errors
+and such forgetting occur even when people are not fatigued, distracted
+or excited, but are in every way in their normal state; unless, in
+consequence of these errors, one were to attribute to them an excitement
+which they themselves do not acknowledge. Nor is the mechanism so simple
+that the success of an act is assured by an intensification of the
+attention bestowed upon it, and endangered by its diminution. There are
+many acts which one performs in a purely automatic way and with very
+little attention, but which are yet carried out quite successfully. The
+pedestrian who scarcely knows where he is going, nevertheless keeps to
+the right road and stops at his destination without having gone astray.
+At least, this is the rule. The practiced pianist touches the right keys
+without thinking of them. He may, of course, also make an occasional
+mistake, but if automatic playing increased the likelihood of errors, it
+would be just the virtuoso whose playing has, through practice, become
+most automatic, who would be the most exposed to this danger. Yet we
+see, on the contrary, that many acts are most successfully carried out
+when they are not the objects of particularly concentrated attention,
+and that the mistakes occur just at the point where one is most anxious
+to be accurate--where a distraction of the necessary attention is
+therefore surely least permissible. One could then say that this is the
+effect of the "excitement," but we do not understand why the excitement
+does not intensify the concentration of attention on the goal that is so
+much desired. If in an important speech or discussion anyone says the
+opposite of what he means, then that can hardly be explained according
+to the psycho-physiological or the attention theories.
+
+There are also many other small phenomena accompanying these errors,
+which are not understood and which have not been rendered comprehensible
+to us by these explanations. For instance, when one has temporarily
+forgotten a name, one is annoyed, one is determined to recall it and is
+unable to give up the attempt. Why is it that despite his annoyance the
+individual cannot succeed, as he wishes, in directing his attention to
+the word which is "on the tip of his tongue," and which he instantly
+recognizes when it is pronounced to him? Or, to take another example,
+there are cases in which the errors multiply, link themselves together,
+substitute for each other. The first time one forgets an appointment;
+the next time, after having made a special resolution not to forget it,
+one discovers that one has made a mistake in the day or hour. Or one
+tries by devious means to remember a forgotten word, and in the course
+of so doing loses track of a second name which would have been of use in
+finding the first. If one then pursues this second name, a third gets
+lost, and so on. It is notorious that the same thing can happen in the
+case of misprints, which are of course to be considered as errors of the
+typesetter. A stubborn error of this sort is said to have crept into a
+Social-Democratic paper, where, in the account of a certain festivity
+was printed, "Among those present was His Highness, the Clown Prince."
+The next day a correction was attempted. The paper apologized and said,
+"The sentence should, of course, have read 'The Clown Prince.'" One
+likes to attribute these occurrences to the printer's devil, to the
+goblin of the typesetting machine, and the like--figurative expressions
+which at least go beyond a psycho-physiological theory of the misprint.
+
+I do not know if you are acquainted with the fact that one can provoke
+slips of the tongue, can call them forth by suggestion, as it were. An
+anecdote will serve to illustrate this. Once when a novice on the stage
+was entrusted with the important role in _The Maid of Orleans_ of
+announcing to the King, "Connétable sheathes his sword," the star played
+the joke of repeating to the frightened beginner during the rehearsal,
+instead of the text, the following, "Comfortable sends back his
+steed,"[2] and he attained his end. In the performance the unfortunate
+actor actually made his début with this distorted announcement; even
+after he had been amply warned against so doing, or perhaps just for
+that reason.
+
+These little characteristics of errors are not exactly illuminated by
+the theory of diverted attention. But that does not necessarily prove
+the whole theory wrong. There is perhaps something missing, a complement
+by the addition of which the theory would be made completely
+satisfactory. But many of the errors themselves can be regarded from
+another aspect.
+
+Let us select slips of the tongue, as best suited to our purposes. We
+might equally well choose slips of the pen or of reading. But at this
+point, we must make clear to ourselves the fact that so far we have
+inquired only as to when and under what conditions one's tongue slips,
+and have received an answer on this point only. One can, however, direct
+one's interest elsewhere and ask why one makes just this particular slip
+and no other; one can consider what the slip results in. You must
+realize that as long as one does not answer this question--does not
+explain the effect produced by the slip--the phenomenon in its
+psychological aspect remains an accident, even if its physiological
+explanation has been found. When it happens that I commit a slip of the
+tongue, I could obviously make any one of an infinite number of slips,
+and in place of the one right word say any one of a thousand others,
+make innumerable distortions of the right word. Now, is there anything
+which forces upon me in a specific instance just this one special slip
+out of all those which are possible, or does that remain accidental and
+arbitrary, and can nothing rational be found in answer to this question?
+
+Two authors, Meringer and Mayer (a philologist and a psychiatrist) did
+indeed in 1895 make the attempt to approach the problem of slips of the
+tongue from this side. They collected examples and first treated them
+from a purely descriptive standpoint. That, of course, does not yet
+furnish any explanation, but may open the way to one. They
+differentiated the distortions which the intended phrase suffered
+through the slip, into: interchanges of positions of words, interchanges
+of parts of words, perseverations, compoundings and substitutions. I
+will give you examples of these authors' main categories. It is a case
+of interchange of the first sort if someone says "the Milo of Venus"
+instead of "the Venus of Milo." An example of the second type of
+interchange, "I had a blush of rood to the head" instead of "rush of
+blood"; a perseveration would be the familiar misplaced toast, "I ask
+you to join me in hiccoughing the health of our chief."[3] These three
+forms of slips are not very frequent. You will find those cases much
+more frequent in which the slip results from a drawing together or
+compounding of syllables; for example, a gentleman on the street
+addresses a lady with the words, "If you will allow me, madame, I should
+be very glad to _inscort_ you."[4] In the compounded word there is
+obviously besides the word "escort," also the word "insult" (and
+parenthetically we may remark that the young man will not find much
+favor with the lady). As an example of the substitution, Meringer and
+Mayer cite the following: "A man says, 'I put the specimens in the
+letterbox,' instead of 'in the hot-bed,' and the like."[5]
+
+The explanation which the two authors attempt to formulate on the basis
+of this collection of examples is peculiarly inadequate. They hold that
+the sounds and syllables of words have different values, and that the
+production and perception of more highly valued syllables can interfere
+with those of lower values. They obviously base this conclusion on the
+cases of fore-sounding and perseveration which are not at all frequent;
+in other cases of slips of the tongue the question of such sound
+priorities, if any exist, does not enter at all. The most frequent cases
+of slips of the tongue are those in which instead of a certain word one
+says another which resembles it; and one may consider this resemblance
+sufficient explanation. For example, a professor says in his initial
+lecture, "I am not _inclined_ to evaluate the merits of my
+predecessor."[6] Or another professor says, "In the case of the female
+genital, despite many _temptations_ ... I mean many attempts ...
+etc."[7]
+
+The most common, and also the most conspicuous form of slips of the
+tongue, however, is that of saying the exact opposite of what one meant
+to say. In such cases, one goes far afield from the problem of sound
+relations and resemblance effects, and can cite, instead of these, the
+fact that opposites have an obviously close relationship to each other,
+and have particularly close relations in the psychology of association.
+There are historical examples of this sort. A president of our House of
+Representatives once opened the assembly with the words, "Gentlemen, I
+declare a quorum present, and herewith declare the assembly _closed_."
+
+Similar, in its trickiness, to the relation of opposites is the effect
+of any other facile association which may under certain circumstances
+arise most inopportunely. Thus, for instance, there is the story which
+relates that on the occasion of a festivity in honor of the marriage of
+a child of H. Helmholtz with a child of the well-known discoverer and
+captain of industry, W. Siemon, the famous physiologist Dubois-Reymond
+was asked to speak. He concluded his undoubtedly sparkling toast with
+the words, "Success to the new firm--Siemens and--Halski!" That, of
+course, was the name of the well-known old firm. The association of the
+two names must have been about as easy for a native of Berlin as "Weber
+and Fields" to an American.
+
+Thus we must add to the sound relations a

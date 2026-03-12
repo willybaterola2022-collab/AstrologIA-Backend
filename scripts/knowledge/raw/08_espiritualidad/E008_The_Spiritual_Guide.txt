@@ -1,0 +1,877 @@
+# The Spiritual Guide
+Author: Miguel de Molinos
+Category: 08_espiritualidad
+Source: Gutenberg #14033
+Downloaded: 2026-03-08T14:23:05.262967
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+PLUTARCH'S LIVES, VOLUME I
+
+Translated from the Greek
+with Notes and a Life of Plutarch
+
+by
+
+AUBREY STEWART, M.A.,
+Late Fellow of Trinity College, Cambridge
+
+and the late
+
+GEORGE LONG, M.A.,
+Formerly Fellow of Trinity College, Cambridge
+
+IN FOUR VOLUMES.
+
+London
+
+George Bell & Sons, York St., Covent Garden, and New York
+
+1894
+
+Reprinted from Stereotype Plates by Wm. Clowes & Sons, Ltd., Stamford
+Street and Charing Cross
+
+
+
+
+
+
+
+PREFACE.
+
+
+No apologies are needed for a new edition of so favourite an author as
+Plutarch. From the period of the revival of classical literature in
+Europe down to our own times, his writings have done more than those of
+any other single author to familiarise us with the greatest men and the
+greatest events of the ancient world.
+
+The great Duke of Marlborough, it is said, confessed that his only
+knowledge of English history was derived from Shakespeare's historical
+plays, and it would not be too much to say that a very large proportion
+of educated men, in our own as well as in Marlborough's times, have owed
+much of their knowledge of classical antiquity to the study of
+Plutarch's Lives. Other writers may be read with profit, with
+admiration, and with interest; but few, like Plutarch, can gossip
+pleasantly while instructing solidly; can breathe life into the dry
+skeleton of history, and show that the life of a Greek or Roman worthy,
+when rightly dealt with, can prove as entertaining as a modern novel. No
+one is so well able as Plutarch to dispel the doubt which all schoolboys
+feel as to whether the names about which they read ever belonged to men
+who were really alive; his characters are so intensely human and
+lifelike in their faults and failings as well as in their virtues, that
+we begin to think of them as of people whom we have ourselves personally
+known.
+
+His biographies are numerous and short. By this, he avoids one of the
+greatest faults of modern biographers, that namely of identifying
+himself with some one particular personage, and endeavouring to prove
+that all his actions were equally laudable. Light and shade are as
+necessary to a character as to a picture, but a man who devotes his
+energies for years to the study of any single person's life, is
+insensibly led into palliating or explaining away his faults and
+exaggerating his excellencies until at last he represents him as an
+impossible monster of virtue. Another advantage which we obtain by his
+method is that we are not given a complete chronicle of each person's
+life, but only of the remarkable events in it, and such incidents as
+will enable us to judge of his character. This also avoids what is the
+dreariest part of all modern biographies, those chapters I mean which
+describe the slow decay of their hero's powers, his last illness, and
+finally his death. This subject, which so many writers of our own time
+seem to linger lovingly upon, is dismissed by Plutarch in a few lines,
+unless any circumstance of note attended the death of the person
+described.
+
+Without denying that Plutarch is often inaccurate and often diffuse;
+that his anecdotes are sometimes absurd, and his metaphysical
+speculations not unfrequently ridiculous, he is nevertheless generally
+admitted to be one of the most readable authors of antiquity, while all
+agree that his morality is of the purest and loftiest type.
+
+The first edition of the Greek text of Plutarch's Lives appeared at
+Florence in the year 1517, and two years afterwards it was republished
+by Aldus. Before this, however, about the year 1470, a magnificent Latin
+version by various hands appeared at Rome. From this, from the Greek
+text, and also from certain MSS. to which he had access, Amyot in the
+year 1559 composed his excellent translation, of which it has been well
+said: "Quoique en vieux Gaulois, elle a un air de fraicheur qui la fait
+rejeunir de jour en jour."
+
+Amyot's spirited French version was no less spiritedly translated by Sir
+Thomas North. His translation was much read and admired in its day; a
+modern reviewer even goes so far as to say that it is "still beyond
+comparison the best version of Parallel Lives which the English tongue
+affords." Be this as it may, the world will ever be deeply indebted to
+North's translation, for it is to Shakespeare's perusal of that work
+that we owe 'Coriolanus,' 'Antony and Cleopatra,' and 'Julius Caesar.'
+
+North's translation was followed by that known as Dryden's. This work,
+performed by many different hands, is of unequal merit. Some Lives are
+rendered into a racy and idiomatic, although somewhat archaic English,
+while others fall far short of the standard of Sir Thomas North's work.
+Dryden's version has during the last few years been re-edited by A.H.
+Clough, Fellow of Oriel College, Oxford.
+
+The translation by which Plutarch is best known at the present day is
+that of the Langhornes. Their style is certainly dull and commonplace,
+and is in many instances deserving of the harsh epithets which have been
+lavished upon it. We must remember, however, before unsparingly
+condemning their translation, that the taste of the age for which they
+wrote differed materially from that of our own, and that people who
+could read the 'Letters of Theodosius and Constantia' with interest,
+would certainly prefer Plutarch in the translation of the Langhornes to
+the simpler phrases of North's or Dryden's version. All events, comic or
+tragic, important or commonplace, are described with the same inflated
+monotony which was mistaken by them for the dignity of History. Yet
+their work is in many cases far more correct as a translation, and the
+author's meaning is sometimes much more clearly expressed, than in
+Dryden's earlier version. Langhorne's Plutarch was re-edited by
+Archdeacon Wrangham in the year 1819.
+
+In 1844, thirteen Lives were translated by that eminent scholar the late
+Mr. George Long; and it is by way of complement to these Lives that the
+present version was undertaken with his consent and his approval.
+
+Those translated by Mr. Long were selected by him as illustrating a
+period of Roman history in which he was especially interested, and will
+therefore be found to be more fully annotated than the others. It has
+seemed to me unnecessary to give information in the notes which can at
+the present day be obtained in a more convenient form in Dr. Smith's
+Classical Dictionary and Dictionary of Antiquities, many of the articles
+in which are written by Mr. Long himself. The student of classical
+literature will naturally prefer the exhaustive essays to be found in
+these works to any notes appended to Plutarch's text, while to those who
+read merely "for the story," the notes prove both troublesome and
+useless.
+
+In deciding on the spelling of the Greek proper names, I have felt great
+hesitation. To make a Greek speak of Juno or Minerva seems as absurd as
+to make a Roman swear by Herakles or Ares. Yet both Greek and Roman
+divinities are constantly mentioned. The only course that seemed to
+avoid absolute absurdity appeared to me to be that which I have adopted,
+namely to speak of the Greek divinities by their Greek, and the Latin
+ones by their Latin names. In substituting a k for the more usual c, I
+have followed the example of Grote, who in his History spells all Greek
+names exactly as they are written, with the exception of those with
+which we are so familiar in their Latin form as to render this
+practically impossible; as for instance in the case of Cyprus or
+Corinth, or of a name like Thucydides, where a return to the Greek k
+would be both pedantic and unmeaning.
+
+The text, which I have followed throughout, is that of C. Sintenis,
+Leipsic, 1873.
+
+AUBREY STEWART.
+
+
+
+
+PREFACE TO THE CIVIL WARS OF ROME.[A]
+
+[Footnote A: It has been thought desirable to give here Mr. Long's
+preface to the lives published by him, under the title of "Civil Wars of
+Rome." The lives will be found in subsequent volumes.]
+
+
+Among the extant Lives of Plutarch there are thirteen Lives of Romans
+which belong to the most eventful period of Roman history. They are the
+lives of the brothers Tiberius and Caius Sempronius Gracchus, of Caius
+Marius, Lucius Cornelius Sulla, Quintus Sertorius, Marcus Licinius
+Crassus, Cneius Pompeius Magnus, Marcus Porcius Cato the Younger, Marcus
+Tullius Cicero, Lucius Licinius Lucullus, Caius Julius Caesar, Marcus
+Junius Brutus, and Marcus Antonius. From the year of the death of
+Tiberius Gracchus, B.C. 133, to the death of Marcus Antonius, B.C. 30, a
+period of about one hundred years, the Roman State was convulsed by
+revolutions which grew out of the contest between the People and the
+Nobility, or rather, out of the contests between the leaders of these
+two bodies. This period is the subject of Appian's History of the Civil
+Wars of the Romans, in Five Books. Appian begins with the Tribunate and
+legislation of Tiberius Gracchus, from which he proceeds to the
+Dictatorship of Sulla, and then to the quarrels between Pompeius and
+Caesar, and Caesar's Dictatorship and assassination. He then proceeds to
+the history of the Triumvirate formed after Caesar's death by his great
+nephew Caius Julius Caesar Octavianus, Marcus Antonius, and Lepidus, the
+quarrels of the Triumviri, the downfall of Lepidus, who was reduced to
+the condition of a private person, and the death of Sextus Pompeius, the
+last support of the party in whose cause his father, Cneius Pompeius,
+lost his life. The remainder of this History, which is lost, carried the
+narration down to the quarrels of Octavianus and Marcus Antonius, which
+ended in the defeat of Antonius in the battle of Actium, B.C. 31, and
+his death in Egypt, B.C. 30. The victory over Antonius placed all the
+power in the hands of Octavianus, who, in the year B.C. 27, received
+from the Roman Senate the title of Augustus, or the Sacred, by which
+name he is commonly known as the first of the long series of Roman
+Emperors. "He made himself," says Appian (_Civil Wars_, i. 5), "like
+Caius Julius Caesar, and still more than Caesar, governor of his country
+and of all the nations under it, without needing either election or the
+popular votes, or any show of such things. After his government had
+subsisted for a long time, and been maintained with vigour, fortunate in
+all his measures, and feared, he left behind him descendants and
+successors who kept the power that he transmitted to them. In this way,
+after various civil commotions, the Roman State was restored to
+tranquillity, and the government became a Monarchy. And how this came
+about I have explained, and brought together all the events, which are
+well worth the study of those who wish to become acquainted with
+ambition of men unbounded, love of power excessive, endurance unwearied,
+and forms of suffering infinite." Thus, the historian's object was to
+trace the establishment of the Imperial power in Rome back to its
+origin, to show that the contests of the rival heads of parties involved
+the State in endless calamities, which resulted in a dissolution of all
+the bonds that held society together, and rendered the assumption of
+supreme power by one man a healing and a necessary event.
+
+As already observed, it happens that thirteen of Plutarch's extant Lives
+are the lives of the most distinguished of the Romans who lived during
+this eventful period; and though Plutarch's Lives severally are not
+histories of the times to which they respectively refer, nor
+collectively form a History of any given time, yet they are valuable as
+portraits of illustrious men, and help us to form a better judgment of
+those who make so conspicuous a figure in History.
+
+Plutarch was a native of the town of Chaeroneia, in Boeotia; the times
+of his birth and death are not exactly known, but we learn from his own
+works that he was a young student at Delphi, in the thirteenth year of
+the reign of the Emperor Nero, A.D. 66. He visited both Italy and Rome,
+and probably resided at Rome for some time. He wrote his Life of
+Demosthenes, at least after his return to Chaeroneia: he says (_Life of
+Demosthenes_, c. 2), that he had not time to exercise himself in the
+Latin Language during his residence at Rome, being much occupied with
+public business, and giving lessons in philosophy. Accordingly it was
+late before he began to read the Latin writers; and we may infer from
+his own words that he never acquired a very exact knowledge of the
+language. He observes that it happened in his case, that in his study of
+the Latin writers he did not so much learn and understand the facts from
+the words, as acquire the meaning of the words from the facts, of which
+he had already some knowledge. We may perhaps conclude from this, that
+Plutarch wrote all his Roman lives in Chaeroneia, after he had returned
+there from Rome. The statement that Plutarch was the preceptor of the
+Emperor Trajan, and was raised to the consular rank by him, is not
+supported by sufficient evidence. Plutarch addressed to Trajan his Book
+of Apophthegms, or Sayings of Kings and Commanders; but this is all that
+is satisfactorily ascertained as to the connection between the Emperor
+and Philosopher. Trajan died A.D. 117.
+
+"The plan of Plutarch's Biographies is briefly explained by himself in
+the introduction to the Life of Alexander the Great, where he makes an
+apology for the brevity with which he is compelled to treat of the
+numerous events in the Lives of Alexander and Caesar. 'For,' he says, 'I
+do not write Histories, but Lives; nor do the most conspicuous acts of
+necessity exhibit a man's virtue or his vice, but oftentimes some slight
+circumstance, a word, or a jest, shows a man's character better than
+battles with the slaughter of tens of thousands, and the greatest arrays
+of armies and sieges of cities. Now, as painters produce a likeness by a
+representation of the countenance and the expression of the eyes,
+without troubling themselves about the other parts of the body, so I
+must be allowed to look rather into the signs of a man's character, and
+thus give a portrait of his life, leaving others to describe great
+events and battles.' The object then of Plutarch in his Biographies was
+a moral end, and the exhibition of the principal events in a man's life
+was subordinate to this his main design; and though he may not always
+have adhered to the principle which he laid down, it cannot be denied
+that his view of what biography should be, is much more exact than that
+of most persons who have attempted this style of composition. The life
+of a statesman or of a general, when written with a view of giving a
+complete history of all the public events in which he was engaged, is
+not biography, but history. This extract from Plutarch will also in some
+measure be an apology for the want of historical order observable in
+many of his Lives. Though altogether deficient in that critical sagacity
+which discerns truth from falsehood, and distinguishes the intricacies
+of confused and conflicting statements, Plutarch has preserved in his
+Lives a vast number of facts which would otherwise have been unknown to
+us. He was a great reader, and must have had access to large libraries.
+It is said that he quotes two hundred and fifty writers, a great part of
+whose works are now entirely lost." (_Penny Cyclopaedia_, art.
+"Plutarch," by the writer of this Preface.)
+
+The lively portraitures of men drawn in Plutarch's Lives have made them
+favourite reading in all ages. Whether Plutarch has succeeded in drawing
+the portraits true, we cannot always determine, because the materials
+for such a judgment are sometimes wanting. But when we can compare his
+Lives with other extant authorities, we must admit, that though he is by
+no means free from error as to his facts, he has generally selected
+those events in a man's life which most clearly show his temper, and
+that on the whole, if we judge of a man by Plutarch's measure, we shall
+form a just estimate of him. He generally wrote without any
+predilections or any prejudices. He tells us of a man's good and bad
+acts, of his good and bad qualities; he makes no attempt to conceal the
+one or the other; he both praises and blames as the occasion may arise;
+and the reader leaves off with a mixed opinion about Plutarch's Greeks
+and Romans, though the favourable or the unfavourable side always
+predominates. The benevolent disposition of Plutarch, and his noble and
+elevated character, have stamped themselves on all that he has written.
+A man cannot read these Lives without being the better for it: his
+detestation of all that is mean and disingenuous will be increased; his
+admiration of whatever is truthful and generous will be strengthened and
+exalted.
+
+The translation of these Lives is difficult. Plutarch's text is
+occasionally corrupted; and where it is not corrupted, his meaning is
+sometimes obscure. Many of the sentences are long and ill-constructed;
+the metaphors often extravagant; and the just connection of the parts is
+sometimes difficult to discover. Many single words which are or ought to
+be pertinent in Plutarch, and which go towards a description of
+character in general or of some particular act, can hardly be rendered
+by any English equivalent; and a translator often searches in vain for
+something which shall convey to the reader the exact notion of the
+original. Yet Plutarch's narrative is lively and animated; his anecdotes
+are appropriately introduced and well told; and if his taste is
+sometimes not the purest, which in his age we could not expect it to be,
+he makes amends for this by the fulness and vigour of his expression. He
+is fond of poetical words, and they are often used with striking effect.
+His moral reflections, which are numerous, have the merit of not being
+unmeaning and tiresome, because he is always in earnest and has got
+something to say, and does not deal in commonplaces. When the reflection
+is not very profound, it is at least true; and some of his remarks show
+a deep insight into men's character.
+
+I have attempted to give Plutarch's meaning in plain language; to give
+all his meaning, and neither more nor less. If I have failed in any
+case, it is because I could do no better. But, though I have not always
+succeeded in expressing exactly what I conceive to be the meaning of the
+original, I have not intentionally added to it or detracted from it. It
+may be that there are passages in which I have mistaken the original;
+and those who have made the experiment of rendering from one language
+into another, know that this will sometimes happen even in an easy
+passage. A difficult passage attracts more than usual of a translator's
+attention, and if he fails there, it is either because the difficulty
+cannot be overcome, or because he cannot overcome it. Mere inadvertence
+or sleepiness may sometimes cause a translator to blunder, when he would
+not have blundered if any friend had been by to keep him awake.
+
+The best thing that a man can do to avoid these and other errors is to
+compare his translation, when he has finished it, with some other. The
+translation which I have compared with mine is the German translation of
+Kaltwasser, Magdeburg, 1799, which is generally correct. Kaltwasser in
+his Preface speaks of the way in which he used the German translations
+of two of his predecessors, J. Christopher Kind, Leipzig, 1745-1754, and
+H. v. Schirach, 1776-1780, and some others. He says, "These two
+translations, with the French translations above mentioned, I have duly
+used, for it is the duty of a translator to compare himself with his
+predecessors; but I lay my labour before the eyes of the public, without
+fearing that I shall be accused of copying or of close imitation. First
+of all, I carefully studied the text of my author and translated him as
+well as I could: then, and not before, I compared the labour of my
+predecessors, and where I found a more suitable expression or a happier
+turn, I made use of it without hesitation. In this way, every fault,
+every deviation of the old translators must be apparent; the most
+striking of them I have remarked on in the notes, but I have more
+frequently amended such things silently, as a comparison will show the
+reader." The translator has not compared his version with any English
+version. The translation of North, which has great merit in point of
+expression, is a version of Amyot's French version, from which, however,
+it differs in some passages, where it is decidedly wrong and Amyot's
+version is right. Indeed, it is surprising to find how correct this old
+French translation generally is. The translation of 'Plutarch's Lives
+from the Greek by several hands,' was published at London in 1683-86. It
+was dedicated by Dryden to James Butler, the first Duke of Ormond, in a
+fulsome panegyric. It is said that forty-one translators laboured at the
+work. Dryden did not translate any of the Lives; but he wrote the Life
+of Plutarch which is prefixed to this translation. The advertisement
+prefixed to the translation passes under the name and character of the
+bookseller (Jacob Tonson), but, as Malone observes, it may from internal
+evidence be safely attributed to Dryden. The bookseller says, "You have
+here the first volume of Plutarch's Lives turned from the Greek into
+English; and give me leave to say, the first attempt of doing it from
+the _originals_." This is aimed at North's version, of which Dryden
+remarks in his Life of Plutarch: "As that translation was only from the
+French, so it suffered this double disadvantage; first, that it was but
+a copy of a copy, and that too but lamely taken from the Greek original;
+secondly, that the English language was then unpolished, and far from
+the perfection which it has since attained; so that the first version is
+not only ungrammatical and ungraceful, but in many places almost
+unintelligible." There is another English version, by the Langhornes,
+which has often been reprinted; there is an edition of it with notes by
+Wrangham. I have compared my translation carefully with the German of
+Kaltwasser, and sometimes with the French of Amyot, and I have thus
+avoided some errors into which I should have fallen. There are errors
+both in the versions of Amyot and Kaltwasser which I have avoided; but I
+may have fallen into others.
+
+The translation of Kaltwasser contains some useful notes. Those which I
+have added to this translation are intended to explain so much as needs
+explanation to a person who is not much acquainted with Roman history
+and Roman usages; but they will also be useful to others. The notes of
+Kaltwasser have often reminded me of the passages where some note would
+be useful, and have occasionally furnished materials also. But as I have
+always referred to the original authorities, I do not consider it
+necessary to make more than this general acknowledgment. The notes added
+to this translation are all my own, and contain my own opinions and
+observations.
+
+This translation has been made from the edition of C. Sintenis, Leipzig,
+1839, and I have compared the text of Sintenis with that of G.H.
+Schaefer, Leipzig, 1826, which has been severely criticized: this
+edition contains, however, some useful notes. I have very seldom made
+any remarks on the Greek text, as such kind of remark would not have
+suited the plan and design of this version, which is not intended for
+verbal critics.
+
+I shall explain by two brief extracts what is my main design in this
+version and in the notes, which must be my apology for not affecting a
+learned commentary, and my excuse to those who shall not find here the
+kind of remarks that are suitable to a critical edition of an ancient
+author. I have had another object than to discuss the niceties of words
+and the forms of phrases, a labour which is well in its place, if it be
+done well, but is not what needs to be done to such an author as
+Plutarch to render him useful. A man who was a great reader of Plutarch,
+a just and solid thinker above the measure of his age, and not surpassed
+in his way by any writer in our own, Montaigne, observes in his 'Essay
+of the Education of Children'--"Let him enquire into the manners,
+revenues, and alliances of princes, things in themselves very pleasant
+to learn, and very useful to know. In this conversing with men, I mean,
+and principally those who only live in the records of history, he shall
+by reading those books, converse with those great and heroic souls of
+former and better ages. 'Tis an idle and vain study, I confess, to those
+who make it so, by doing it after a negligent manner, but to those who
+do it with care and observation, 'tis a study of inestimable fruit and
+value; and the only one, as Plato reports, the Lacedaemonians reserved
+to themselves. What profit shall he not reap as to the business of men,
+by reading the Lives of Plutarch? But withal, let my governor remember
+to what end his instructions are principally directed, and that he do
+not so much imprint in his pupil's memory the date of the ruin of
+Carthage, as the manners of Hannibal and Scipio; not so much where
+Marcellus died, as why it was unworthy of his duty that he died there.
+That he do not teach him so much the narrative part, as the business of
+history. The reading of which, in my opinion, is a thing that of all
+others we apply ourselves unto with the most differing and uncertain
+measures."[A] North, in his address to the Reader, says: "The profit of
+stories, and the praise of the Author, are sufficiently declared by
+Amiot, in his Epistle to the Reader: so that I shall not need to make
+many words thereof. And indeed if you will supply the defects of this
+translation, with your own diligence and good understanding: you shall
+not need to trust him, you may prove yourselves, that there is no
+prophane study better than Plutarch. All other learning is private,
+fitter for Universities than Cities, fuller of contemplation than
+experience, more commendable in students themselves, than profitable
+unto others. Whereas stories are fit for every place, reach to all
+persons, serve for all times, teach the living, revive the dead, so far
+excelling all other books, as it is better to see learning in Noblemen's
+lives, than to read it in Philosophers' writings."
+
+GEORGE LONG.
+
+[Footnote A: Cotton's Translation.]
+
+
+
+
+CONTENTS.
+
+
+LIFE OF PLUTARCH                               xxiii
+
+LIFE OF THESEUS                                    1
+
+LIFE OF ROMULUS                                   30
+
+COMPARISON OF THESEUS AND ROMULUS                 62
+
+LIFE OF LYKURGUS                                  67
+
+LIFE OF NUMA                                      99
+
+COMPARISON OF NUMA WITH LYKURGUS                 124
+
+LIFE OF SOLON                                    130
+
+LIFE OF POPLICOLA                                161
+
+COMPARISON OF SOLON AND POPLICOLA                181
+
+LIFE OF THEMISTOKLES                             185
+
+LIFE OF CAMILLUS                                 214
+
+LIFE OF PERIKLES                                 252
+
+LIFE OF FABIUS MAXIMUS                           288
+
+COMPARISON OF PERIKLES AND FABIUS MAXIMIUS       315
+
+LIFE OF ALKIBIADES                               318
+
+LIFE OF CAIUS MARCIUS CORIOLANUS                 357
+
+COMPARISON BETWEEN ALKIBIADES AND CORIOLANUS     390
+
+LIFE OF TIMOLEON                                 395
+
+LIFE OF AEMILIUS                                 428
+
+COMPARISON OF PAULUS AEMILIUS AND TIMOLEON       461
+
+
+
+
+LIFE OF PLUTARCH.
+
+
+Plutarch was born probably between A.D. 45 and A.D. 50, at the little
+town of Chaeronea in Boeotia. His family appears to have been long
+established in this place, the scene of the final destruction of the
+liberties of Greece, when Philip defeated the Athenians and Boeotian
+forces there in 338 B.C. It was here also that Sulla defeated
+Mithridates, and in the great civil wars of Rome we again hear, this
+time from Plutarch himself, of the sufferings of the citizens of
+Chaeronea. Nikarchus, Plutarch's great-grandfather, was, with all the
+other citizens, without any exception, ordered by a lieutenant of Marcus
+Antonius to transport a quantity of corn from Chaeronea to the coast
+opposite the island of Antikyra. They were compelled to carry the corn
+on their shoulders, like slaves, and were threatened with the lash if
+they were remiss. After they had performed one journey, and were
+preparing their burdens for a second, the welcome news arrived that
+Marcus Antonius had lost the battle of Actium, whereupon both the
+officers and soldiers of his party stationed in Chaeronea at once fled
+for their own safety, and the provisions thus collected were divided
+among the inhabitants of the city.
+
+When Plutarch was born, however, no such warlike scenes as these were to
+be expected. Nothing more than the traditions of war remained on the
+shores of the Mediterranean. Occasionally some faint echo of strife
+would make itself heard from the wild tribes on the Danube, or in the
+far Syrian deserts, but over nearly all the world known to the ancients
+was established the Pax Romana. Battles were indeed fought, and troops
+were marched upon Rome, but this was merely to decide who was to be the
+nominal head of the vast system of the Empire, and what had once been
+independent cities, countries, and nations submitted unhesitatingly to
+whoever represented that irresistible power. It might be imagined that a
+political system which destroyed all national individuality, and
+rendered patriotism in its highest sense scarcely possible, would have
+reacted unfavourably on the literary character of the age. Yet nothing
+of the kind can be urged against the times which produced Epictetus, Dio
+Chrysostom and Arrian; while at Rome, Pliny the Younger, Tacitus,
+Martial, and Juvenal were reviving the memories of the Augustan age.
+
+From several passages in Plutarch's writings we gather that he studied
+under a master named Ammonius, at Athens. For instance, at the end of
+his Life of Themistokles, he mentions a descendant of that great man who
+was his fellow-student at the house of Ammonius the philosopher. Again,
+he tells us that once Ammonius, observing at his afternoon lecture that
+some of his class had indulged too freely in the pleasures of the table,
+ordered his own son to be flogged, "because," he said, "the young
+gentleman cannot eat his dinner without pickles," casting his eye at the
+same time upon the other offenders so as to make them sensible that the
+reproof applied to them also.
+
+By way of completing his education he proceeded to visit Egypt. The
+"wisdom of the Egyptians" always seems to have had a fascination for the
+Greeks, and at this period Alexandria, with its famous library and its
+memories of the Ptolemies, of Kallimachus and of Theokritus, was an
+important centre of Greek intellectual activity. Plutarch's treatise on
+Isis and Osiris is generally supposed to be a juvenile work suggested by
+his Egyptian travels. In all the Graeco-Egyptian lore he certainly
+became well skilled, although we have no evidence as to how long he
+remained in Egypt. He makes mention indeed of a feast given in his
+honour by some of his relatives on the occasion of his return home from
+Alexandria, but we can gather nothing from the passage as to his age at
+that time.
+
+One anecdote of his early life is as follows:--"I remember," he says,
+"that when I was still a young man, I was sent with another person on a
+deputation to the Proconsul; my colleague, as it happened, was unable to
+proceed, and I saw the Proconsul and performed the commission alone.
+When I returned I was about to lay down my office and to give a public
+account of how I had discharged it, when my father rose in the public
+assembly and enjoined me not to say _I_ went, but _we_ went, nor to say
+that _I_ said, but _we_ said, throughout my story, giving my colleague
+his share."
+
+The most important event in the whole of Plutarch's pious and peaceful
+life is undoubtedly his journey to Italy and to Rome; but here again we
+know little more than that he knew but little Latin when he went
+thither, and was too busy when there to acquire much knowledge of that
+tongue. His occupation at Rome, besides antiquarian researches which
+were afterwards worked up into his Roman Lives, was the delivery of
+lectures on philosophical and other subjects, a common practice among
+the learned Greeks of his day. Many of these lectures, it is
+conjectured, were afterwards recast by him into the numerous short
+treatises on various subjects now included under the general name of
+Moralia. Plutarch's visit to Rome and business there is admirably
+explained in the following passage of North's 'Life of Plutarch':--"For
+my part, I think Plutarch was drawn to Rome by meanes of some friends he
+had there, especially by Sossius Senecio, that had been a Consull, who
+was of great estimation at that time, and namely under the Empire of
+Trajan. And that which maketh me think so, is because of Plutarch's own
+words, who saith in the beginning of his first book of his discourse at
+the table, that he gathered together all his reasons and discourses made
+here and there, as well in Rome with Senecio, as in Greece with Plutarch
+and others. Not being likely that he would have taken the pains to have
+made so long a voyage, and to have come to such a city where he
+understood not their vulgar tongue, if he had not been drawn thither by
+Senecio, and such other men; as also in acknowledgement of the good
+turnes and honour he had received by such men, he dedicated diverse of
+his bookes unto them, and among others, the Lives unto Senecio, and the
+nine volumes of his discourse at the table, with the treaty, How a man
+may know that he profiteth in vertue. Now for the time, considering what
+he saith in the end of his book against curiosity, I suppose that he
+taught in Rome in the time of Titus and of Domitian: for touching this
+point, he maketh mention of a nobleman called Rusticus, who being one
+day at his lecture, would not open a letter which was brought him from
+the Emperor, nor interrupt Plutarch, but attended to the end of his
+declamation, and until all the hearers were gone away; and addeth also,
+that Rusticus was afterwards put to death by the commandment of
+Domitian. Furthermore, about the beginning of the Life of Demosthenes,
+Plutarch saith, that whilst he remained in Italy and at Rome, he had no
+leizure to study the Latine tongue; as well for that he was busied at
+that time with matters he had in hand, as also to satisfie those that
+were his followers to learne philosophie of him."[A]
+
+[Footnote A: North's 'Plutarch,' 1631, p. 1194.]
+
+A list of all Plutarch's writings would be a very long one. Besides the
+Lives, which is the work on which his fame chiefly rests, he wrote a
+book of 'Table Talk,' which may have suggested to Athenaeus the plan of
+his 'Symposium.'
+
+The most remarkable of his minor works is that 'On the Malignity of
+Herodotus.' Grote takes this treatise as being intended seriously as an
+attack upon the historian, and speaks of the "honourable frankness which
+Plutarch calls his malignity." But it is probably merely a rhetorical
+exercise, in which Plutarch has endeavoured to see what could be said
+against so favourite and well-known a writer.
+
+He was probably known as an author before he went to Rome. Large
+capitals have always had a natural attraction for literary genius, as it
+is in them alone that it can hope to be appreciated. And if this be the
+case at the present day, how much more must it have been so before the
+invention of printing, at a time when it was more usual to listen to
+books read aloud than to read them oneself? Plutarch journeyed to Rome
+just as Herodotus went to Athens, or as he is said to have gone to the
+Olympian festival, in search of an intelligent audience of educated men.
+Whether his object was merely praise, or whether he was influenced by
+ideas of gain, we cannot say. No doubt his lectures were not delivered
+gratis, and that they were well attended seems evident from Plutarch's
+own notices of them, and from the names which have been preserved of the
+eminent men who used to frequent them. Moreover, strange though it may
+appear to us, the demand for books seems to have been very brisk even
+though they were entirely written by hand.
+
+The epigrams of Martial inform us of the existence of a class of slaves
+whose occupation was copying books, and innumerable allusions in Horace,
+Martial, &c., to the Sosii and others prove that the trade of a
+bookseller at Rome was both extensive and profitable. Towards the end of
+the Republic it became the fashion for Roman nobles to encourage
+literature by forming a library, and this taste was given immense
+encouragement by Augustus, who established a public library in the
+Temple of Apollo on the Mount Palatine, in imitation of that previously
+founded by Asinius Pollio. There were other libraries besides these, the
+most famous of which was the Ulpian library, founded by Trajan, who
+called it so from his own name, Ulpius. Now Trajan was a contemporary of
+our author, and this act of his clearly proves that there must have been
+during Plutarch's lifetime a considerable reading public, and consequent
+demand for books at Rome.
+
+Of Plutarch's travels in Italy we know next to nothing. He mentions
+incidentally that he had seen the bust or statue of Marius at Ravenna,
+but never gives us another hint of how far he explored the country about
+which he wrote so much. No doubt his ignorance of the Latin language
+must not be taken as a literal statement, and probably means that he was
+not skilled in it as a spoken tongue, for we can scarcely imagine that
+he was without some acquaintance with it when he first went to Rome, and
+he certainly afterwards became well read in the literature of Rome. In
+some cases he has followed Livy's narrative with a closeness which
+proves that he must have been acquainted with that author either in the
+original or in a translation, and the latter alternative is, of the two,
+the more improbable.
+
+It seems to be now generally thought that his stay at Rome was a short
+one. Clough, in his excellent Preface, says on this subject, "The fault
+which runs through all the earlier biographies, from that of Rualdus
+downwards, is the assumption, wholly untenable, that Plutarch passed
+many years, as many perhaps as forty, at Rome. The entire character of
+his life is of course altered by such an impression." He then goes on to
+say that in consequence of this mistaken idea, it is not worth while for
+him to quote Dryden's 'Life of Plutarch,' which was originally prefixed
+to the translations re-edited by himself. Yet I trust I may be excused
+if I again quote North's 'Life of Plutarch,' as the following passage
+seems to set vividly before us the quiet literary occupation of his
+later days.
+
+"For Plutarch, though he tarried a long while in Italy, and in Rome, yet
+that tooke not away the remembrance of the sweet aire of Greece, and of
+the little towne where he was borne; but being touched from time to time
+with a sentence of an ancient poet, who saith that,
+
+    "'In whatsoever countrey men are bred
+    (I know not by what sweetnesse of it led),
+    They nourish in their minds a glad desire,
+    Unto their native homes for to retire,'
+
+"he resolved to go back into Greece againe, there to end the rest of his
+daies in rest and honour among his citizens, of whom he was honourably
+welcomed home. Some judge that he left Rome after the death of Trajan,
+being then of great yeares, to leade a more quiet life. So being then at
+rest, he earnestly took in hand that which he had long thought of
+before, to wit, the Lives, and tooke great pains with it until he had
+brought his worke to perfection, as we have done at this present;
+although that some Lives, as those of Scipio African, of Metellus
+Numidicus, and some other are not to be found. Now himselfe confesseth
+in some place, that when he began this worke, at the first it was but to
+profit others; but that afterwards it was to profit himselfe, looking
+upon those histories, as if he had looked in a glasse, and seeking to
+reform his life in some sort, and to forme it in the mould of the
+vertues of these great men; taking this fashion of searching their
+manners, and writing the Lives of these noble men, to be a familiar
+haunting and frequenting of them. Also he thought, [said he himselfe]
+that he lodged these men one after another in his house, entering into
+consideration of their qualities, and that which was great in either of
+them, choosing and principally taking that which was to be noted, and
+most worthy to be knowne in their sayings and deeds."[A]
+
+[Footnote A: North's 'Plutarch,' 1631, p. 1198.]
+
+Of Plutarch in his domestic relations we gather much information from
+his own writings. The name of his father has not been preserved, but it
+was probably Nikarchus, from the common habit of Greek families to
+repeat a name in alternate generations. His brothers Timon and Lamprias
+are frequently mentioned in his essays and dialogues, where Timon is
+spoken of in the most affectionate terms. Rualdus has ingeniously
+recovered the name of his wife, Timoxena, from internal evidence
+afforded by his writings. A touching letter is still extant, addressed
+by Plutarch to his wife, bidding her not give way to excessive grief at
+the death of their only daughter, who was named Timoxena after her
+mother. The number of his sons we cannot exactly state. Autobulus and
+Plutarch are especially spoken of as his sons, since the treatise on the
+Timaeus of Plato is dedicated to them, and the marriage of his son
+Autobulus is the occasion of one of the dinner-parties recorded in the
+'Table Talk.' Another person, one Soklarus, is spoken of in terms which
+seem to imply that he was Plutarch's son, but this is nowhere definitely
+stated. His treatise also on Marriage Questions, addressed to Eurydike
+and Pollianus, seems to speak of her as having been recently an inmate
+of his house, but without enabling us to form an opinion whether she was
+his daughter or not. A modern writer well describes his maturer years by
+the words: "Plutarch was well born, well taught, well conditioned; a
+self-respecting amiable man, who knew how to better a good education by
+travels, by devotion to affairs private and public; a master of ancient
+culture, he read books with a just criticism: eminently social, he was a
+king in his own house, surrounded himself with select friends, and knew
+the high value of good conversation; and declares in a letter written to
+his wife that 'he finds scarcely an erasure, as in a book well written,
+in the happiness of his life.'"
+
+He was an active member of the little community of Chaeronea, being
+archon of that town. Whether this dignity was annual or for life we do
+not know, but it was probably the former, and very likely he served it
+more than once. He speaks of his devotion to the duties of his office as
+causing him to incur the ridicule of some of his fellow-citizens, when
+they saw him engaged in the humblest duties. "But," he says, in Clough's
+version, "the story told about Antisthenes comes to my assistance. When
+some one expressed surprise at his carrying home some pickled fish from
+market in his own hands, _It is_, he answered, _for myself_. Conversely,
+when I am reproached with standing by and watching while tiles are
+measured out, and stone and mortar brought up, _This service_, I say,
+_is not for myself_, it is for my country."
+
+Plutarch was for many years a priest of Apollo at Delphi. The scene of
+some of his 'Table Talk' is laid there, when he in his priestly capacity
+gives a dinner party in honour of the victor in the poetic contest at
+the Pythian games. Probably this office was a source of considerable
+income, and as the journey from Chaeronea to Delphi, across Mount
+Parnassus, is a very short one, it interfered but little with his
+literary and municipal business. In his essay on "Whether an old man
+should continue to take part in public life," he says, "You know,
+Euphanes, that I have for many Pythiads (that is, periods of four years
+elapsing between the Pythian festivals), exercised the office of Priest
+of Apollo: yet I think you would not say to me,'Plutarch, you have
+sacrificed enough; you have led processions and dances enough; it is
+time, now that you are old, to lay aside the garland from your head, and
+to retire as superannuated from the oracle.'"
+
+Thus respected and loved by all, Plutarch's old age passed peacefully
+away. "Notwithstanding," as North says, "that he was very old, yet he
+made an end of the Lives.... Furthermore, Plutarch, having lived alwaies
+honourably even to old age, he died quietly among his children and
+friends in the city of Chaeronea, leaving his writings, an immortal
+savour of his name, unto posterity. Besides the honour his citizens did
+him, there was a statue set up for him by ordinance of the people of
+Rome, in memory of his virtues. Now furthermore, though time hath
+devoured some part of the writings of this great man, and minished some
+other: neverthelesse those which remaine, being a great number, have
+excellent use to this day among us."
+
+
+
+
+PLUTARCH'S LIVES.
+
+
+
+
+LIFE OF THESEUS.
+
+
+I. As in books on geography, Sossius Senecio, the writers crowd the
+countries of which they know nothing into the furthest margins of their
+maps, and write upon them legends such as, "In this direction lie
+waterless deserts full of wild beasts;" or, "Unexplored morasses;" or,
+"Here it is as cold as Scythia;" or, "A frozen sea;" so I, in my
+writings on Parallel Lives, go through that period of time where history
+rests on the firm basis of facts, and may truly say, "All beyond this is
+portentous and fabulous, inhabited by poets and mythologers, and there
+is nothing true or certain."
+
+When I had written the lives of Lykurgus the lawgiver and Numa the king,
+it appeared to me natural to go back to Romulus also, as I was engaged
+on the history of times so close to his. So when I was reflecting, in
+the words of Aeschylus,
+
+    "Against this chieftain, who can best contend?
+    Whom shall I match in fight, what trusty friend?"
+
+it occurred to me to compare the founder of the fair and famous city of
+Athens with him, and to contrast Theseus with the father of unconquered
+glorious Rome. Putting aside, then, the mythological element, let us
+examine his story, and wherever it obstinately defies probability, and
+cannot be explained by natural agency, let us beg the indulgence of our
+readers, who will kindly make allowance for tales of antiquity.
+
+II. Theseus appears to have several points of resemblance to Romulus.
+Both were unacknowledged illegitimate children, and were reputed to
+descend from the Gods.
+
+    "Both warriors, well we all do know,"
+
+and both were wise as well as powerful. The one founded Rome, while the
+other was the joint founder of Athens; and these are two of the most
+famous of cities. Both carried off women by violence, and neither of
+them escaped domestic misfortune and retribution, but towards the end of
+their lives both were at variance with their countrymen, if we may put
+any trust in the least extravagant writings upon the subject.
+
+III. Theseus traced his descent on the father's side from Erechtheus and
+the original Autochthones,[A] while on the mother's side he was
+descended from Pelops. For Pelops surpassed all the other princes of the
+Peloponnesus in the number of his children as well as in wealth; and of
+these he gave many of his daughters in marriage to the chief men of the
+country, and established many of his sons as rulers in various cities.
+One of these, Pittheus, the grandfather of Theseus, founded Troezen,
+which is indeed but a little state, though he had a greater reputation
+than any man of his time for eloquence and wisdom. The nature of this
+wisdom of his seems to have been much of the same kind as that which
+made the reputation of Hesiod, in the collection of maxims known as the
+'Works and Days.' One of these maxims is indeed ascribed to Pittheus:
+
+     "Let promised pay be truly paid to friends."
+
+At any rate, this is what Aristotle the philosopher has recorded; and
+also Euripides, when he speaks of Hippolytus as "child of holy
+Pittheus," shows the prevailing opinion about Pittheus. Now Aegeus
+desired to have children, and the Oracle at Delphi is said to have given
+him the well-known response, forbidding him to have intercourse with any
+woman before he reached Athens, but not appearing to explain this
+clearly. Consequently, on his way home, he went to Troezen, and asked
+the advice of Pittheus about the response of the God, which ran thus:
+
+    "Great chief, the wine-skin's foot must closed remain,
+    Till thou to Athens art returned again."
+
+Pittheus clearly perceived what the oracle must mean, and persuaded or
+cheated Aegeus into an intrigue with Aethra. Afterwards, when he
+discovered that he had conversed with the daughter of Pittheus, as he
+imagined that she might prove with child, he left behind him his sword
+and sandals hidden under a great stone, which had a hollow inside it
+exactly fitting them. This he told to Aethra alone, and charged her if a
+son of his should be born, and on growing to man's estate should be able
+to lift the stone and take from under it the deposit, that she should
+send him at once with

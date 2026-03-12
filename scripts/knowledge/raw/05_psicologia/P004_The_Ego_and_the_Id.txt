@@ -1,0 +1,972 @@
+# The Ego and the Id
+Author: Sigmund Freud
+Category: 05_psicologia
+Source: Gutenberg #49445
+Downloaded: 2026-03-08T14:20:15.839426
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+[Illustration:
+  Copyright, Ewing Galloway]
+
+_The drop forge. A fourteen-ton hydraulic press is employed in forging
+                 an immense open hearth steel plate._
+
+
+
+
+                        POPULAR SCIENCE LIBRARY
+
+                            EDITOR-IN-CHIEF
+
+                          GARRETT P. SERVISS
+
+                                AUTHORS
+
+          WILLIAM J. MILLER HIPPOLYTE GRUENER A. RUSSELL BOND
+            D. W. HERING LOOMIS HAVEMEYER ERNEST G. MARTIN
+              ARTHUR SELWYN-BROWN ROBERT CHENAULT GIVLER
+                 ERNEST INGERSOLL WILFRED MASON BARTON
+                  WILLIAM B. SCOTT ERNEST J. STREUBEL
+                       NORMAN TAYLOR    DAVID TODD
+                        CHARLES FITZHUGH TALMAN
+                              ROBIN BEACH
+
+                      ARRANGED IN SIXTEEN VOLUMES
+                 WITH A HISTORY OF SCIENCE, GLOSSARIES
+                          AND A GENERAL INDEX
+
+                             _ILLUSTRATED_
+
+[Illustration: LOGO]
+
+                              VOLUME FIVE
+
+                      P. F. COLLIER & SON COMPANY
+                               NEW YORK
+
+
+
+
+                            Copyright 1922
+                    BY P. F. COLLIER & SON COMPANY
+
+                       MANUFACTURED IN U. S. A.
+
+
+
+
+                               MECHANICS
+
+                       THE SCIENCE OF MACHINERY
+
+                                  BY
+
+                            A. RUSSELL BOND
+             FORMERLY MANAGING EDITOR, SCIENTIFIC AMERICAN
+
+[Illustration]
+
+                      P. F. COLLIER & SON COMPANY
+                               NEW YORK
+
+
+
+
+PREFACE
+
+
+ALTHOUGH strictly speaking the term “Mechanics” applies to that branch
+of Physics that deals with the actions of forces on material bodies,
+originally the word had a broader meaning embracing all machinery
+and mechanical inventions. To-day popular usage is restoring to the
+term its original broad interpretation, and it is in this popular but
+rather unorthodox sense that “Mechanics” has been chosen as the title
+of this book; for although certain elementary principles of mechanics
+are described and explained, the major portion of the book deals with
+machines and their evolution to their present stage of perfection.
+
+Machines are man’s creation, and yet in a sense the man of to-day is a
+machine product; for modern civilization owes its material and in large
+measure its esthetic development to machinery. The story of machinery,
+from primitive man’s first attempts to augment his physical powers with
+mechanical aids down to the present era of gigantic, steel-muscled
+machinery and marvelously intricate mechanisms, is the story of human
+progress. It is this story that we have endeavored to tell in the
+following pages, but the subject is too large to be covered in a single
+volume or even a dozen volumes. Under the circumstances we have been
+obliged to confine ourselves to a mere outline, selecting certain
+avenues of progress more marked than others and presenting brief sketch
+maps of them. We have aimed in this way to give a bird’s-eye view of
+the whole story of human progress in things material.
+
+The book has not been written for the mechanical engineer, but for the
+layman who would learn of the mechanical contrivances that contribute
+to his material welfare; hence technical terms have been avoided, as
+far as possible, and where unavoidable have been explained and defined.
+
+  A. RUSSELL BOND
+
+
+
+
+                             CONTENTS
+
+
+ CHAPTER                                             PAGE
+
+      I. TOOL-MAKING ANIMALS                            9
+     II. THE ANATOMY OF A MACHINE                      20
+    III. MACHINES FOR MAKING MACHINES                  42
+     IV. COUNTING SECONDS                              57
+      V. PUTTING RIVERS TO WORK                        75
+     VI. LIQUID LEVERS AND GEARS                       94
+    VII. AIR _vs._ WATER                              109
+   VIII. AIR SPRINGS AND CUSHIONS                     126
+     IX. POWER FROM HEAT                              139
+      X. BURNING FUEL IN THE ENGINE CYLINDER          155
+     XI. WHEN COAL AND OIL ARE EXHAUSTED              171
+    XII. INVASION OF THE SEA                          182
+   XIII. SLIDING, ROLLING, WALKING, AND CREEPING      203
+    XIV. INVASION OF THE SKY                          219
+     XV. HELPING THE FARMER                           239
+    XVI. MACHINING THE EARTH                          251
+   XVII. FROM FIBER TO FABRIC                         268
+  XVIII. THE MAKING OF PAPER                          289
+    XIX. TYPESETTING AND PRINTING MACHINERY           300
+     XX. CAST IRON, WROUGHT IRON, AND STEEL           314
+    XXI. ANIMATED MACHINERY                           326
+   XXII. HEAT VACUUMS                                 345
+  XXIII. ENGINES OF DESTRUCTION                       359
+   XXIV. SUMMARY OF MECHANICAL PROGRESS               376
+
+
+
+
+LIST OF ILLUSTRATIONS
+
+
+  THE DROP FORGE--FORGING A STEEL PLATE             _Frontispiece_
+
+                                                       FACING PAGE
+
+  RAISING WATER WITH A CHAIN OF POTS--A PRIMITIVE
+      PUMP USED IN EGYPT                                        32
+
+  HORSE-OPERATED CHAIN PUMP USED IN GREECE                      32
+
+  MULTIPLE SPINDLE DRILL IN A MOTOR CAR FACTORY                 33
+
+  BUCKET OF A GIANT DREDGE WITH ITS JAWS WIDE OPEN              64
+
+  GOLD DREDGE EATING ITS WAY THROUGH RIVER SANDS                65
+
+  SUCTION DREDGE EXCAVATING A CHANNEL AND BUILDING NEW LAND     65
+
+  AIR LOCK OF A PNEUMATIC CAISSON                               96
+
+  SUBAQUEOUS TUNNEL SHOWING THE SHIELD IN THE BACKGROUND        97
+
+  WHARF PROTECTED BY A PNEUMATIC BREAKWATER                    128
+
+  SUN-POWER PLANT IN EGYPT                                     129
+
+  CLOSE-UP OF ONE OF THE REFLECTORS OF A SUN-POWER PLANT       129
+
+  GIANT CAPRONI HYDROAEROPLANE                                 160
+
+  CONCRETE STEAMSHIP “FAITH”                                   161
+
+  “VIRGINIAN,” THE LARGEST LOCOMOTIVE IN THE WORLD             161
+
+  LOOM PROVIDED WITH A JACQUARD ATTACHMENT                     224
+
+  BATTERY OF MULE SPINNING FRAMES                              225
+
+  JACQUARD ATTACHMENT FOR LOOM                                 225
+
+  DIGGING A TRENCH WITH A MACHINE OF THE CHAIN TYPE            256
+
+  MULTIPLE PLOWING ON A WESTERN WHEAT FIELD                    257
+
+  SAWING LOGS OF PULPWOOD INTO 16-INCH LENGTHS                 288
+
+  HEATER IN A PULP MILL WHERE THE WOOD PULP IS MIXED WITH CLAY 288
+
+  MODERN FOURDRINIER PAPER-MAKING MACHINES                     289
+
+  MOLTEN METAL FROM A BLAST FURNACE                            320
+
+  BESSEMER CONVERTER BLOWING AIR THROUGH A MASS OF MOLTEN IRON 320
+
+  STEEL BEAM PASSING THROUGH THE FINISHING ROLLS               321
+
+  COMPOSITOR AT WORK ON A LINOTYPE MACHINE                     352
+
+  THE OPTOPHONE, WHICH ENABLES THE BLIND TO READ PRINT         353
+
+  BLIND MAN READING WITH HIS EARS                              353
+
+
+
+
+CHAPTER I
+
+TOOL-MAKING ANIMALS
+
+
+WHEN we review the marvelous achievements of modern civilization we
+are quite willing to agree with the ancient psalmist that man is
+“little lower than the angels.” But at the other end of the scale our
+complacency is liable to receive a rude shock; apparently the boundary
+between man and beast is not so very easy to draw.
+
+We used to be told that one important superiority of mankind lies in
+the fact that he makes use of tools, while the beast never uses any
+implement except those that nature has furnished him as part of his own
+organism. But a gorilla will throw stones at his enemy; and he knows
+how to brandish a club and use it with telling force. Some of the apes
+are known to use sticks to knock down fruit which is out of the reach
+of their hands, and they will crack nuts with a stone. Clearly these
+animals are tool users. A very intelligent orang-utan in the Bronx
+Zoölogical Garden, New York, after trying for days to wrench off a
+bracket from the wall of his cage eventually used the horizontal bar of
+his trapeze as a lever and with it pried the offending bracket from its
+fastenings. Here was real invention and the discovery of the principle
+of leverage. The great black arara cockatoo of New Guinea uses his beak
+as a saw to weaken the shells of hard nuts, and to keep his bill from
+slipping off the smooth shell he is ingenious enough to wrap a leaf
+around the nut to hold it steady.
+
+Even in the insect world we find creatures resourceful enough to make
+use of tools. Prof. Franz Doflein of the University of Breslau tells
+of an interesting study of certain ants, known as the _Oecophylla
+smaragdina_, who build their nests in bushes by fastening leaves
+together with fine threads. But the ants that build the nests cannot
+spin these threads, because they possess no spinning glands. They must
+depend upon their larvæ for this product. When a rent was made in one
+of these nests, a band of the tiny creatures ranged themselves side
+by side along the torn edge of the leaf and reached across the gap
+until they could catch hold of the opposite edge with their mandibles.
+Then they drew back step by step, with perfect teamwork, until the two
+edges were brought together. In the meantime, other ants had rushed to
+the nursery and each one had picked up a larva, not with the idea of
+bearing it off to safety, but in order that the babies might spin the
+thread which the adult ants were unable to do. The larvæ were carried
+to the breach in the nest and moved back and forth across the rent.
+They were pressed first against one side of the tear and then the other
+and all the while were squeezed tightly, evidently with the purpose of
+making them spin. Gradually a fine silky web was woven across the torn
+leaf and eventually the rent was completely patched.
+
+Unquestionably these little ants are tool-using animals, because they
+make their larvæ serve as spinning spindles and also as weavers’
+shuttles. However, this can hardly be cited as a point in common with
+even the lowest type of man, for the ants merely use the tools they
+find at their disposal. They certainly cannot be credited with having
+produced or even improved the tool which they use, whereas even in
+the most primitive of men we find that the tools used are not only
+carefully selected for the work to be performed, but are actually,
+shaped, be it ever so crudely, to suit the job.
+
+Clearly we must shift the boundary between man and beast,
+distinguishing the former as the creature who artificially improves his
+tools. But even here it is not absolutely certain that the boundary
+will stand. Wilhelm Boelsche, a well-known German writer on natural
+history, calls attention to the “blacksmith woodpecker” which will
+thrust hard pine nuts into cracks in the trunk of a tree, so that they
+are held as if in a vise, enabling the bird to operate upon the seed
+more easily. Furthermore, this woodpecker will actually make a hole in
+the tree to receive the nut if there is not a hole or crack handy, so
+that evidently this animal does produce or artificially improve the
+tool that it uses.
+
+There are a few such examples in nature, just enough to cast a bit of
+uncertainty on the boundary we have set. But although the actual line
+of demarcation may not be clear, there is no question but that the
+lowest type of humanity now existent, or of which we have any record,
+is or was a tool maker. Chipped stones evidently fashioned by man
+for some useful purpose are found even in the remains of the Middle
+Tertiary Epoch. The spirit of inquiry, of experiment, of invention,
+and the ambition to dominate over other members of the animal kingdom
+or over the obstacles imposed by nature, are to be found more or less
+active among all peoples, no matter how lowly a position they may
+occupy in the scale of civilization.
+
+
+WAR AS A STIMULUS OF INVENTION
+
+The most primitive implements were probably developed for the purpose
+of war. From the very earliest times, down to the present day, war
+has been a most potent stimulus of invention. The first tools ever
+used were probably intended to enable the user to cope with dangerous
+enemies. They marked the first stage in the conquest of brain over mere
+brawn. The primitive weapons were used not only in fighting other men,
+but in fighting off dangerous animals, and then in hunting animals for
+food. No doubt the first implement ever used was a club, which gave
+a real advantage over the unarmed, scratching, tearing, and biting
+enemy. This was a lever which increased the reach of the fighter, and
+also increased the power of his blow. The heavier the club, the more
+dangerous the weapon, particularly when most of the weight was centered
+at the outer end of the stick. But he was a real genius who first
+fastened a rock to the end of his club.
+
+
+THE ART OF BREAKING STONES
+
+Then arose the art of breaking stones--breaking them skillfully, so as
+to form a jagged cutting edge. When man began to fashion tools of stone
+he left imperishable records of his craftsmanship which enable us to
+trace his progress in invention. The first finished tool we find was
+the fist hatchet--a stone roughly chipped to form a cutting edge and of
+convenient shape for the grasp of the hand. This primitive tool very
+slowly, through a period covering thousands of years, developed into
+all manner of cutting implements, some with handles of wood and bone.
+The ax head was followed by the spearhead and this finally by the
+arrowhead, showing that man had at last found a mechanical substitute
+for his muscles to hurl projectiles farther and with greater accuracy
+than he could throw them by hand.
+
+We marvel at the resourcefulness and skill of the primitive savage in
+working so difficult a material as stone. It would baffle a modern
+mechanic to be required to shape a piece of flint into an arrowhead
+with no other tool than a piece of bone. He is so accustomed to using
+tools which are harder than the material they are intended to shape
+that he cannot conceive of making any impression upon a piece of flint
+with a piece of bone, to say nothing of a stick of hard wood, and yet
+such tools were used away back in the Stone Age. At first stones were
+roughly shaped by hammering them together. Then the artisans became
+more skilled. They discovered that certain stones could be chipped
+more regularly and evenly, and the art of flaking off chips of flint
+sprang up. Some specimens that belonged to ages long preceding that of
+recorded history are beautifully done. The spearheads are symmetrically
+shaped like a long narrow leaf, and the stone is evenly furrowed on
+both sides with a keen edge all around.
+
+Not only did primitive artisans shape the stone implements with hammer
+blows, but they learned how to shape stone by pressure as well, using
+a tool that was relatively soft. It is not a very difficult matter to
+shape even so hard a substance as glass merely by pressure. If a piece
+of glass is laid on a table with its edge slightly overhanging that of
+the table, it is possible to chip off the overhanging edge by pressing
+a nail or even a hard stick of wood against this edge. A small flake
+of glass is thus removed, and, by continuing the process, arrowheads
+of any shape may be formed. The tool is placed not against the upper
+surface of the glass, but against the edge of the glass, so that only
+the lower surface of it is split or flaked off. Then the glass is
+turned over and a chip is taken off the opposite face.
+
+In the Middle Stone Age we find the primitive craftsman equipped with
+a very complete assortment of stone tools. He had hammers, chisels,
+scrapers, drills, and polishing tools. He knew how to make useful
+household implements, such as spoons and ladles, out of bone. He
+polished his work and ornamented the implements with carvings of
+animals. Ivory pins and needles show that he had begun to make himself
+clothing from the skins of animals and that he sewed them together with
+thongs or tendons.
+
+In the Late Stone Age he had learned how to make vessels of fire-baked
+clay. His axes were ground to a sharp edge, and he bored holes in the
+ax head to receive the ax handle. The Swiss lake dwellers built houses
+of wood and fitted them with all sorts of wooden furniture carved
+with stone tools. Among the remains of these interesting settlements
+may be found balls of clay which, from the fact that one of them was
+discovered with a spool of flax still attached to it, were evidently
+used as spinning “whorls” used for spinning flax into thread. Clothing
+of skins was giving way to or being supplemented with clothing of woven
+fabric.
+
+
+DISCOVERY OF THE LEVER AND THE WEDGE
+
+Prior to the Stone Age the club was undoubtedly used, in time of
+peace--if there ever was a time of peace in those days--to batter down
+trees, to beat through entanglements and to dislodge great stones.
+Here the first idea of leverage was evidently employed. The club with
+a rock tied to it, particularly if the rock was shaped with a sharp
+edge, made a better implement for hewing trees. It is quite probable
+that soon after this stage of development had been reached, some one
+discovered the use of the wedge, particularly in splitting timber. Of
+course, no one realized in those early days why it was that he could
+pry up a greater weight with a lever than he could lift directly by
+hand, or why he could split open a log by driving wedges into it. The
+_art_ of mechanics was in existence long ages before _science_ of
+mechanics began to be studied. But it was not until men began to look
+into the why of things that rapid progress was made.
+
+We can go on endlessly with our speculations on the evolution of tools
+and machinery up to the time when historians began to record the
+mechanical achievements of man. Unfortunately even after historians
+began to write they were so filled with admiration for the destructive
+work of man that they had no time to record his constructive work.
+The warrior who spread havoc and terror received all the glory, and
+his deeds were written on parchment, inscribed in clay and carved in
+stone; but the humble artisan was not worthy of mention. Even when the
+science of mechanics came to be studied, it was shrouded in a veil of
+mystery, and it was beneath the dignity of the man of science to impart
+his knowledge to the artisan. There was a lack of cooperation between
+science and industry that has persisted to a certain extent even up
+to the present time. Some of the most ingenious inventions of the
+ancients were employed by a corrupt and crafty priesthood to produce
+apparently miraculous effects and hoodwink the general public; and so,
+in looking back to the early days of mechanics, we are obliged to draw
+upon our imagination to trace its evolution, supplementing this by a
+study of the tools of primitive people of more recent time. Practically
+every form of hand tool we now use must have been known to the ancient
+artisan.
+
+
+INVENTION OF THE WHEEL
+
+We are not going to attempt to write a history of the evolution of
+machinery, but there is one invention whose origin is lost in the
+remote prehistoric ages which deserves more than passing attention. It
+is a pity that we have no clue as to who invented the wheel or how this
+most important element that enters into the construction of nearly all
+machinery was evolved. The invention called for a remarkable degree of
+originality. There is nothing like a wheel in nature. Levers we have
+in our own physical frame. But a wheel is something that is distinctly
+a human creation. Whoever invented it must have been a real genius, a
+James Watt or a Thomas Edison of his day. Certainly we owe more to the
+invention of the wheel than we do even to so revolutionary a machine
+as the steam engine, or the flying machine. How it was ever first
+conceived is a mystery. Maybe this primeval genius got his idea from
+seeing a stone rolling downhill, or he may have seen a tumbling weed
+rolling along the ground before the wind. It may be that the forerunner
+of the wheel was a roller shaped out of a log, for certainly primitive
+civilization must have advanced enough to have known how to hew timber
+before it would have been capable of fashioning a wheel. Some observant
+man might have noticed that he could drag a heavy timber over a
+rolling log much more easily than he could along the bare ground, and
+gradually the roller evolved into a wheel.
+
+We can speculate upon the evolution of vehicles and transportation,
+once the wheel was invented. Of course, the first method of
+transporting loads was to carry them in the arms. Possibly loads were
+placed on skids and dragged along by one end. Away back in early times,
+it was discovered that two persons could carry more than twice as much
+as one, if the load were placed on a couple of poles. There was no
+friction to contend with, and not only was the load cut in two, because
+each man bore half of it, but the position of the load was such that
+it could be borne more easily. After the wheel was discovered, some
+one must have conceived of the idea of dispensing with an assistant by
+placing a wheel between the poles of the stretcher, thus making a crude
+wheelbarrow. It is more likely that two wheels were first used, making
+a cart of the stretcher, because the crude workmen of those days could
+hardly have produced anything but a very wobbly wheelbarrow. At any
+rate, the wheel, or pair of wheels, robbed one man of his job. Only one
+bearer was required where before two had been used. Labor costs were
+immediately reduced 50 per cent.
+
+
+DISPLACING MEN WITH MACHINES
+
+In the very earliest days of invention machines began to displace men.
+Had there been unions in those days, no doubt there would have been
+strenuous opposition to the introduction of this substitute for an
+honest worker. But among the ancients, even more than at the present
+time, invention meant greater production rather than less work,
+because the laborer of that time was not a hired man but a slave.
+There was no object in cutting down labor when it cost practically
+nothing. The only stimulus to invention was greater production.
+
+The invention of the wheel meant the dawn of transportation, which
+is the backbone of civilization, and from it resulted no end of
+other inventions. It made it possible for communities to come into
+closer touch with each other. It meant circulation--an interchange of
+knowledge and of products. Food was transported from one locality to
+another, enabling certain communities to dispense with agricultural
+work and specialize in certain lines of manufacture; for they could
+barter their products for food raised by other communities. There are
+some tribes to-day which are most backward because they are separated
+from other tribes by rivers, while other tribes similarly placed owe
+their progress to the fact that they have developed sufficient skill to
+build crude bridges and thus gain access to the outside world.
+
+
+RAISING WATER
+
+In Egypt the wheel had a wonderful effect on agriculture. In that dry
+land water is, and always has been, most precious. No wonder the Nile
+was venerated! It meant life--life to crops, and hence life to man.
+How to raise water from this stream of life in time of drought was
+the great problem of the Egyptian. As slave labor was cheap, it was
+customary to haul up the precious water, a bucket at a time, and pour
+it over the fields. Then some one discovered that this process could be
+simplified by using a _shadoof_ or swape; in other words, a long pole
+fulcrumed near one end, with a heavy rock for a counterbalance lashed
+to the shorter arm, and a bucket tied by a long rope to the longer
+arm of the lever. This primitive machine is still to be found in some
+rural districts. With this contrivance, a heavier load could be lifted
+than by hand, because, when raising the bucket, the weight of the rock
+would assist in lifting the water. After the swape came all manner of
+ingenious devices for lifting the water. There were seesaw arrangements
+which would scoop up some of the water at each oscillation of the
+seesaw, and in one ingenious contrivance there was a succession of
+seesaws by which the water was raised to a considerable height, whence
+it poured down into ditches that irrigated the fields.
+
+Then some one invented a water wheel or a great wheel, fitted with
+buckets, which was turned by human or ox power, and which poured a
+steady stream of water into the irrigating ditches.
+
+But the greatest invention was that of the engineer who actually made
+the river turn the wheel. It was probably on the Nile that the _noria_,
+as this machine was called, was first put into service.
+
+The wheel was provided with paddles, so that the current made it
+revolve, and the water spilled out of the buckets into a trough as
+they were turned over by the wheel. We can imagine the triumph of the
+ancient inventor who developed that machine. True, the river might
+arise in its wrath now and then and wreck the machine, but in wrecking
+the wheel it had to flood the land, which, after all, was exactly what
+was aimed at. The anger of the river was short-lived; it soon quieted
+down and went on placidly turning the wheel which robbed it of the
+precious water. It was a great event in the history of engineering. The
+Nile had been harnessed. One of the great powers of nature had been set
+to work.
+
+
+
+
+CHAPTER II
+
+THE ANATOMY OF A MACHINE
+
+
+EVERY animal is a complex machine, provided with its own motive power
+and a brain for directing the operation of its own mechanical elements.
+Not satisfied with the mechanism that nature has put into the human
+machine, man has reached for other elements and devised mechanisms
+of his own in order to supplement the human machine and increase its
+efficiency. At first, as we have seen, these elements were hand tools
+of the crudest sort; but they were gradually improved and then they
+were combined into what we term machines. In developing these machines,
+he naturally took his own system as a pattern and was guided to a
+large extent by an examination of his own physical structure. We see
+this very clearly in the names of the different parts of machinery,
+which are taken from the names of similar parts in the human frame.
+Almost every member of the body is used in mechanical terminology. For
+instance, we have the “head” and the “foot,” the “arms” and the “legs,”
+the “fingers” and the “ankles,” “elbows,” “shoulders,” “trunk,” “hips,”
+and various parts of the face, such as the “eyes,” “ears,” “nose,”
+“mouth,” “teeth,” “lips,” and even the “gums,” to indicate parts of
+machinery which have some remote resemblance to these features.
+
+Before we can understand machinery we must have some general knowledge
+of the elements of which it is composed. Probably most of the readers
+of this book already possess a fair knowledge of machine elements and
+mechanical movements and they can well afford to skip this chapter.
+However, for the benefit of the uninitiated, we must put a machine on
+the operating table, dissect it, and explain its anatomical structure.
+We cannot attempt a very detailed study, but will confine ourselves to
+the most important elements.
+
+Every machine is made up of movable parts and fixed parts, the latter
+serving to guide or constrain the motion of the former; for no
+combination of elements will constitute a machine unless the parts are
+_constrained_ to move in certain predetermined directions.
+
+
+THE LEVER
+
+Among the moving elements the first to be considered is the lever,
+which really forms a broad classification comprising many elements that
+will hardly be recognized as levers at first blush. Levers in some form
+are to be found in practically every machine. A wheel, a gear, and a
+pulley are really levers in disguise, as will be explained presently.
+
+Of course everyone knows that a simple lever consists of a rigid bar
+that swings on a fulcrum. The fulcrum may be a knife edge, a shaft
+passing through the bar or any element on which the bar can be swung
+or oscillated. The purpose of the lever is to give a certain advantage
+in the application of a force to a load. This may be a change of speed
+and distance of travel, and hence of power, or merely a change of
+direction.
+
+[Illustration: FIG. 1.--THREE ORDERS OF SIMPLE LEVERS]
+
+There are three types or _orders_ of levers produced by varying the
+relative positions of the points where the fulcrum, the force or
+effort, and the weight or load are applied. These are shown in Figure
+1. In the lever of the _first order_ the fulcrum is placed between the
+effort and the weight; in the lever of the _second order_ the weight
+is applied between the fulcrum and the effort; and in the lever of the
+_third order_ the effort is applied between the fulcrum and the weight.
+In each case that part of the lever which extends from the fulcrum to
+the point where the effort is applied is called the _effort arm_, and
+that which extends from the fulcrum to the point where the weight is
+supported is the _weight arm_. The weight that can be lifted with a
+given effort depends upon the ratio of the effort arm to the weight
+arm. If the two arms are of equal length, the effort is equal to the
+weight, but twice the weight can be lifted with the same effort if the
+effort arm is twice as long as the weight arm. You can lift a ton with
+an effort of only 100 pounds if your effort arm is twenty times as long
+as your weight arm but the end of your effort arm would have to move
+twenty inches to raise the ton weight one inch. We are assuming in all
+these cases that the lever itself has no weight and that there is no
+friction at the fulcrum.
+
+Of course levers are not used merely for the purpose of lifting weight,
+but to overcome any resistance or merely to apply pressure upon an
+object. In almost every household we may find examples of the three
+orders of levers. A pair of shears, for instance, is composed of two
+levers of the first order, swinging on a common fulcrum. The effort is
+applied at the handles, and the weight or load is the material that is
+cut by the blades or, speaking more technically, the handles are the
+_effort arms_ and the blades are the _weight arms_. A material that
+is too tough to be cut at the tip ends of the blades may be easily
+cut if we move it in near the fulcrum or pin that hinges the blades
+together; for by doing this we shorten the weight arms, because the
+weight arm is measured not to the end of the blade, but to the point
+where it is cutting into the material. To cut very tough material, such
+as heavy tin or sheet steel, we use long-handled short-bladed shears.
+The cutting pressure depends upon the ratio of the effort arm to the
+weight arm. If the effort arms are twice as long as the weight arms,
+the cutting pressure is twice as great as that applied at the handles.
+
+A nutcracker consists of a pair of levers of the second order. The
+fulcrum is at one end and the effort or pressure is applied at the
+opposite end of the levers or handles, while the equivalent of the
+weight (in this case the nut) is placed between the effort and the
+fulcrum. Again the _effort arm_ is measured from the fulcrum or hinge
+pin of the tool to the point where the hand pressure is applied, and
+the weight arm is measured from the fulcrum to the nut. The effort
+arm may be four or five times as long as the weight arm, so that the
+pressure exerted on the nut is four or five times as great as that
+exerted by the hand on the ends of the handles.
+
+[Illustration: FIG. 2.--AN ANGULAR OR BELL-CRANK LEVER]
+
+In the case of a pair of sugar tongs we have another tool something
+like the nutcracker in construction, but here the weight, i.e., the
+lump of sugar, is seized by the ends of the tongs while the hand
+pressure is applied somewhere between the fulcrum and the weight. Hence
+we have here a lever or pair of levers of the third order. The _effort
+arm_ of a pair of tongs is always shorter than the _weight arm_ and
+the pressure on the sugar lump is always less than that exerted on the
+tongs by the hand. Evidently the most powerful tool of the three is the
+nutcracker, because the effort arms extend over the full length of the
+tool and are always longer than the weight arms.
+
+A lever need not consist of a straight bar; the effort arm may form
+an angle with the weight arm, forming what is known as an angular or
+bell-crank lever (Figure 2). When a common claw hammer is used to pull
+out a nail, the claws that slip under the head of the nail form the
+weight arm and the hammer handle the effort arm. A horizontal pull on
+the handle produces a vertical lift on the nail.
+
+Sometimes two or more levers are interconnected, as in Figure 3, the
+effort arm of one being linked to the weight arm of the other. This
+serves to increase the lifting force at the weight and at the same time
+keep the mechanism within compact limits. Such compounding can go on
+indefinitely and is subject to all sorts of variations.
+
+[Illustration: FIG. 3.--COMPOUND LEVERAGE]
+
+One thing we must not forget, and it is a matter that is commonly
+overlooked by perpetual motion cranks, namely, that while a pound of
+pressure on the effort arm may be made to lift two, four, or a hundred
+times as many pounds on the weight arm by varying the relative length
+of these arms, it has to move two, four, or a hundred times as far as
+the weight arm, so that the work done on one side of the fulcrum is
+always exactly equal to that done on the other side.
+
+
+CONTINUOUS REVOLVING LEVERAGE
+
+[Illustration: FIG. 4.--PRIMITIVE GEAR WHEELS--TWO COACTING GROUPS OF
+LEVERS]
+
+If we take a number of levers radiating from a common fulcrum like the
+spokes of a carriage wheel, we have a primitive gear wheel. Two such
+groups of levers may be mounted on parallel shafts so that when one
+is turned its spokes will successively engage the spokes of the other
+group and make the latter turn (see Figure 4). Each spoke is first
+an effort arm on one side of the wheel and then a weight arm as it
+turns around to the other side of the wheel, and as the effort arms
+and weight arms are of the same length there is no multiplication of
+power. A pound on one side of the wheel cannot lift more than a pound
+on the other. The driven wheel receives the same power as the driving
+wheel except for such loss as may be due to friction at the bearings or
+where the spokes contact. The only advantage of such a pair of gears
+is that the direction of rotation of the driven wheel is the reverse
+of that of the driving wheel. If the spokes of one wheel are longer
+than those of the other, we have at once a variation in the rate of
+rotation proportional to the relative diameters of the two wheels. In
+Figure 5, for instance, the diameter of the driving wheel A is twice
+the diameter of the driven gear B, and so, for each revolution of A, B
+must make two revolutions, i.e., the driver must make two revolutions
+for each revolution of the driven wheel. In other words, the speed of
+revolution is doubled. However, if we make B the driver the speed of
+the driven wheel A will be half of that of wheel B.
+
+[Illustration: FIG. 5.--COACTING LEVERS OF UNEQUAL LENGTH]
+
+In primitive machines spoke gears were seldom mounted on parallel
+shafts because of the difficulty of keeping the spokes in alignment.
+Instead, one shaft was mounted at right angles to the other so that
+one set of spokes would cross the other (Figure 6), thus producing
+the equivalent of a bevel gear. This was of advantage in changing the
+plane of rotation. A later development was the _barrel_ or _lantern
+gear_, which permitted transfer of power without changing the plane of
+rotation. A cylindrical bundle of rods constituted one of the wheels
+(as shown in Figure 7). Instead of being crudely formed of spokes, the
+other wheel sometimes consisted of a disk with pins radiating from
+its rim. Such gears in far more refined form are still used in modern
+clocks and watches. A still further development for transmitting motion
+to a plane at right angles to that of the driving shaft is shown in
+Figure 8. Here we have a _crown_ gear in which the pins instead of
+radiating from the periphery of the disk project from the side face of
+the gear.
+
+[Illustration: FIG. 6.--PRIMITIVE EQUIVALENT OF THE BEVEL GEAR]
+
+[Illustration: FIG. 7.--PRIMITIVE LANTERN GEAR]
+
+Turning back to our first spoked wheels, it is very evident that we
+may put a rim over the spokes or even fill in between the spokes and
+convert the wheels into solid disks that are in frictional engagement
+with each other without getting away from the fact that we are dealing
+with levers. Each wheel, then, consists of a continuous revolving
+lever. Friction gears are used quite commonly in machinery when it is
+desirable to have the wheels slip if subjected to excessive strain.
+
+
+TOOTHED GEARS
+
+By forming teeth on one gear to mesh between similar teeth on the
+other, we convert the friction gears into a pair of spur gears (Figure
+9). We need not go into the intricacies of the form of gear teeth.
+They are designed to be in continuous rolling contact while they are
+in mesh. The novice is apt to call all spur gears “cogwheels” and
+gear-teeth “cogs.” Mechanics, however, recognize a difference between
+cog wheels and spur wheels. In the former, the teeth, or cogs, are not
+cast upon or cut out of the wheel body, but are separate pieces fitted
+to the wheel. Such wheels are found in old water mills. They consist of
+wooden wheels with iron or steel teeth mortised in the wooden rim of
+the wheel. In general it is safer to speak of spur gears because there
+are few cogwheels now in use.
+
+[Illustration: FIG. 8.--CROWN AND LANTERN GEAR]
+
+When a small gear engages a large one, the former is commonly known as
+a _pinion_.
+
+[Illustration: FIG. 9.--SPUR AND PINION GEAR]
+
+[Illustration: FIG. 10.--BEVEL FRICTION GEARS]
+
+If two friction wheels are to turn at right angles one to the other,
+they must have conical bearing surfaces, as in Figure 10. The angle
+between the shafts of the two gears and the relative size of the gears
+may be changed as desired, provided each cone surface has its apex at
+the intersection of the two shafts or axes. It is easy to understand
+how such conical friction gears may be converted into toothed bevel
+gears (Figure 11), by forming teeth on the conical surfaces, and it
+will be evident that the teeth must taper toward the apex of the two
+cones. Two bevel gears of equal diameter, and with shafts set at right
+angles one to the other, are known as _miter_ gears.
+
+[Illustration: FIG. 11.--TOOTHED BEVEL GEARS]
+
+So far we have not shown any combination of gearing that will multiply
+power. In Figure 5, the driver A is twice the diameter of the driven
+wheel B, and the latter makes two revolutions for one of A, but the
+speed at the periphery of the two wheels is the same. A pull of one
+pound at the point _a_ produces a pressure of one pound at _b_, and
+this in turn produces a lift of one pound at _c_ because the levers
+in each wheel are perfectly balanced, that is, each lever has equal
+effort and weight arms. The way to obtain an increase of power and of
+peripheral speed is to fasten two wheels of unequal diameters together
+on the same center and apply the effort to one of the wheels (as in
+Figure 12) and the weight to the other wheel. This gives us what is
+technically known as a _wheel and axle_. The dotted lines show that
+we have here a lever of the first order which can be used to multiply
+power in the same way that a bar lever does. If one wheel is twice the
+diameter of the other then a pound of effort will lift two pounds of
+weight.
+
+[Illustration: FIG. 12.--WHEEL AND AXLE OR REVOLVING LEVER OF FIRST
+ORDER]
+
+[Illustration: FIG. 13.--REVOLVING LEVERS OF THE 2D AND 3D ORDER]
+
+Figure 13 shows how the effort and weight can be shifted about in such
+fashion as to give us a lever of the second and one of the third order.
+The power may be enormously increased and the speed of the final wheel
+greatly reduced by setting up a train of gears in which the effort
+is received by the larger one of each couple and is delivered by the
+smaller one. In Figure 14 the smaller wheels are half the diameter of
+the larger ones. A pound of pressure at A will amount to 2 at B, 4 at
+C, 8 at D, 16 at E, and 32 at F. On the other hand, point A will have
+to move through 32 inches to make the point F move an inch.
+
+[Illustration: RAISING WATER WITH A CHAIN OF POTS
+
+A primitive pump still used in Egypt]
+
+[Illustration: A HORSE-OPERATED CHAIN-PUMP USED IN GREECE]
+
+[Illustration: MULTIPLE SPINDLE DRILL IN MOTOR CAR FACTORY]
+
+[Illustration: FIG. 14.--A TRAIN OF SPUR GEARS]
+
+[Illustration: FIG. 15.--PULLEYS OF THE 1ST, 2D, AND 3D ORDERS]
+
+[Illustration: FIG. 16.--TYPICAL ARRANGEMENT OF BLOCK AND TACKLE]
+
+A pulley is merely a modification of the wheel. Figure 15 shows how it
+may be arranged to correspond to the three orders of simple levers.
+If the pulley axis is fixed, as in the first order, the effort and
+weight arms are equal and hence balanced. In the second order the
+wheel is bodily movable, hence one pound will raise two pounds of
+weight because the power arm is twice as long as the weight arm, while
+in the third order it takes two pounds of lift to raise one pound of
+weight. There is no end of possible combinations of pulleys which will
+multiply power in the same way that bar levers do when compounded. A
+common arrangement of block and tackle is given in Figure 16. There is
+a four-sheave pulley block above and a three-sheave block below, but
+in order to trace the rope clearly the pulley wheels or sheaves are
+represented as of different diameters. The arrangement consists of a
+series of levers of the first order in the upper pulley block coupled
+to a series of levers of the second order in the lower block. To find
+the weight that a given power will lift, multiply the effort by the
+number of strands of rope that are supporting the weight. In this case
+there are seven such strands, not counting the strand E, to which the
+effort or pull is applied. This means that a pull of a hundred pounds
+at E will lift 700 pounds at W. Of course a pull of seven feet at E
+will raise the weight only one foot.
+
+[Illustration: FIG. 17.--INCLINED PLANE WITH EFFORT PARALLEL TO THE
+INCLINED FACE]
+
+
+THE INCLINED PLANE AND ITS FAMILY
+
+The inclined plane constitutes a second broad classification of machine
+elements. The wedge, the screw, the cam, and the eccentric, all belong
+to the family of the inclined plane.
+
+[Illustration: FIG. 18.--INCLINED PLANE WITH EFFORT PARALLEL TO THE
+BASE]
+
+A simple form of inclined plane is pictured in Figure 17, which shows
+a weight W being rolled up an incline. The effort required to carry it
+to the top of the incline depends, of course, upon the steepness of the
+incline. The drawing shows a rise of 3 feet on a slope 5 feet long, and
+the weight of the wheel is, say 20 pounds. To find the effort required,
+the weight is multiplied by the rise (20 × 3 = 60) and divided by
+the length of the slope (60/5 = 12) and we find that it takes only
+12 pounds to roll the 20-pound wheel to the top of the incline. This
+holds true when the pull is parallel to the inclined face. If the
+pull is parallel to the base of the incline, as in Figure 18, we must
+divide by the length of the base instead of the length of the incline
+(60/4 = 15) and we find that it takes 15 pounds of effort to pull the
+weight up the incline. If the pull is exerted at an angle both to the
+base and the inclined face, we have a problem that is slightly more
+complicated and we need not go into it here because it involves a bit
+of trigonometry. In all cases, however, it may be noted that the amount
+of rope that is taken in, in hauling the weight up the incline, bears a
+definite relation to the amount of effort required to raise the weight.
+In Figure 17, 5 feet of rope must be pulled in, in order to raise the
+weight 3 feet, so that ⅗ of 20 or 12 pounds is all that is required
+to pull up the weight, while in Figure 18, 4 feet of rope is hauled
+in for a lift of 3 feet, so that ¾ of 20 or 15 pounds is required to
+pull up the weight. In this respect the inclined plane is exactly like
+the lever or the pulley, for the _effort_ multiplied by the _distance_
+through which it is exerted is always exactly equal to the _weight_
+multiplied by the _distance_ through which it moves. Thus in Figure
+17, the effort 12 pounds multiplied by the distance 5 = the weight 20
+pounds times the distance 3, and in Figure 18, effort 15 x distance 4
+= weight 20 x distance 3. Of course, we are ignoring the weight of the
+rope and the friction which, in actual practice, are important factors
+to be reckoned with.
+
+[Illustration: FIG. 19.--ENDLESS SCREW OR WORM GEAR]
+
+So far we have considered a fixed inclined plane, but when the inclined
+plane is moved between the weight and a fixed base it is known as a
+wedge, and in this case, too, the effort required to move the wedge
+multiplied by the distance the wedge moves is equal to the weight
+multiplied by the distance it is lifted.
+
+The commonest form of inclined plane is the screw which is merely an
+inclined plane bent around a cylinder. A screw engaging a toothed
+wheel, as in Figure 19, gives a combination known as an “endless
+screw,” or, more commonly, as a worm gear. The screw or worm is always
+the driver, and as it must make a complete turn to move the gear
+through a space of one tooth, the power of this combination is very
+great. It is practically impossible to turn the worm by using the gear
+wheel as a driver because the friction developed at the point where
+the worm and gear contact is very great. For this reason worm gearing
+is used in the steering gear of automobiles. The shaft of the steering
+wheel is fitted with a worm which meshes with a worm gear on the parts
+connected with the wheels. It is very easy to turn the wheels by
+operating the steering wheel, but if the wheels strike a rut or a stone
+they are not deflected from their course, because the worm makes it
+impossible for them to turn the steering wheel.
+
+[Illustration: FIG. 20.--HELICAL OR SPIRAL GEARS]
+
+The spiral gear shown in Figure 20 is a cross between a worm gear and
+spur gear. The teeth are spirals set at an angle of 45 degrees to the
+axis of the wheel. In this case either gear can be used to drive the
+other, and the advantage of such a pair is that power is transmitted
+from one shaft to another in a different plane and at right angles to
+the first.
+
+[Illustration: FIG. 21.--DRUM CAM]
+
+[Illustration: FIG. 22.--PROFILE OR DISK CAM]
+
+Cams are usually irregular revolving inclined planes. Figure 21, shows
+a cylinder or drum cam. A groove is cut in the cylindrical wall of the
+cam and an arm or lever is provided with a roller which rolls in the
+groove. When the cam is revolved the lever is constrained to follow all
+the twists and turns of the groove. A different form of cam is shown in
+Figure 22. It is formed with an irregular periphery against which the
+roller is pressed by a spring. As the cam wheel revolves, the roller
+and the arm to which it is attached must move in and out over all the
+hills and valleys of the periphery. The cam is one of the most useful
+elements in modern machinery, for it provides a very simple means of
+producing the most complicated and irregular motions.
+
+[Illustration: FIG. 23.--ECCENTRIC BY WHICH ROTARY MOTION IS CONVERTED
+INTO RECTILINEAR MOTION]
+
+We cannot attempt to describe all the different types of cams, but
+reference should be made to the eccentric, which is a form of cam
+commonly used to operate the valves of a steam engine. The cam in this
+case is a perfectly circular disk, but the shaft that turns it does not
+lie at the center of the disk, consequently an object bearing against
+the periphery must move toward and away from the center as the disk
+revolves. Instead of using a spring-pressed roller to bear against one
+side of the disk, the whole disk is encircled with a ring of steel
+known as an eccentric strap. This strap is bolted to a valve rod and
+as the eccentric revolves the strap makes the valve rod move back and
+forth. (See Figure 23.)
+
+A description of all the various combinations of gearing, link motions,
+ratchets, escapements, clutches, and miscellaneous movements would
+easily fill the rest of this book, and we must therefore content
+ourselves with this very brief survey of a few of the more important
+elements employed in the construction of modern machinery.
+
+
+
+
+CHAPTER III
+
+MACHINES FOR MAKING MACHINES
+
+
+WHILE we may glory in the wonderful mechanical progress of to-day, we
+must not overlook the marvelous skill of the ancient artisan nor forget
+that it is to his inventive genius that we are indebted for practically
+every hand tool we possess. Only a few special tools owe their origin
+to the modern inventor. All the rest date back beyond the twilight of
+history. We have merely improved upon these tools by slight changes of
+design or the employment of better materials in their construction.
+
+As users of these tools we cannot begin to compare with t

@@ -1,0 +1,1069 @@
+# Introduction to the Study of the Kabalah
+Author: W.W. Westcott
+Category: 03_kabbalah
+Source: Gutenberg #2494
+Downloaded: 2026-03-08T14:18:52.337324
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+The Project Gutenberg Etext of For Greater Things: The story of Saint
+Stanislaus Kostka by William T. Kane, S.J.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+For Greater Things: The story of Saint Stanislaus Kostka
+
+by William T. Kane, S.J.
+
+February, 2001  [Etext #2494]
+
+
+The Project Gutenberg Etext of For Greater Things: The story of Saint
+Stanislaus Kostka by William T. Kane, S.J.
+******This file should be named 2494.txt or 2494.zip******
+
+
+This etext was prepared by Mike Loos, Glendale, AZ (mike.loos@hand.com)
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 etext00 and etext01
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+We are planning on making some changes in our donation structure
+in 2000, so you might want to email me, hart@pobox.com beforehand.
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+
+
+FOR GREATER THINGS
+The story of Saint Stanislaus Kostka
+
+by William T. Kane, S.J.
+with a preface by James J. Daly, S.J.
+
+
+PREFACE
+
+Among Christian evidences the heroic virtue and holiness of Catholic
+youth must not be overlooked. Juvenile and adolescent victories of a
+conspicuous kind, over the flesh, the world, and the devil, can be
+found in no land and in no age, except a Christian land and age, and
+in no Church except the Catholic Church.  It is of all excellences
+the very rarest and most difficult, this triumphant mastery over
+human weakness and human pride.  It has defied the life-long
+strivings of men whom the world recognizes as beings of superior
+wisdom and power of will. The philosophers who have described it
+most beautifully and encouraged its pursuit in the most glowing and
+impressive terms remain themselves sad examples of human futility in
+the struggle to disengage the spirit from the claws of dragging and
+unclean influences.  For the forces of evil are infinite in their
+variety, insidious beyond the ability of natural sharpness to detect
+and guard against, and unsleeping in the pressure of their siege
+upon the heart of man. Who will explain how it comes to pass that
+youth, whose callowness and inexperience are the mockery of the
+world, has laid prostrate in single combat this giant of evil and
+won fields where the reputations of the world's wisest and noblest
+and most tried lie buried?
+
+It is a matter of idle curiosity with us how an unbelieving
+generation, ingenious in devising natural explanations (which are
+most unnatural) of supernatural phenomena, would explain away the
+wonder of the young Saint's life which is the subject of the
+following pages. It presents to us a picture of Divine Condescension
+guiding and inspiring and aiding human effort, so convincingly clear
+and transparent in its smallest details and in its general effect as
+to seem outside the pale of all possible mutilation and
+misinterpretation by malice or skeptical analysis. Natural reaction
+against sinful excess, thwarted ambitions, disappointed hopes, meek
+conformity with environment, ecclesiastical manipulation of pliant
+material, tame acquiescence in family traditions and arrangements,
+these and all the other stock "explanations," with which a groveling
+world seeks to pull down the Saints to its own dreary level, cannot
+be invoked to dissipate the mystery and the glory surrounding
+Stanislaus. How did he come so early in life, and in a nobleman's
+family, to set such store upon spiritual values?  How did his tender
+and immature mind grasp with such swift sureness the one lesson of
+all philosophies, that life on its material side is an incident
+rather than the sum of human existence and can never satisfy
+the soul's desires ? How could this mere boy have developed, so
+young, an iron will which wrought that hardest of all laborious
+tasks, namely, the conformation of conduct with lofty ideals?  There
+are supernatural answers to these and similar questions which might
+be raised concerning the brief career of St. Stanislaus. We know of
+no merely natural answers.
+
+The lively and energetic style adopted in the present biography may
+create a trace of mild surprise in older readers.  Sanctity, it is
+true, some one may say, is a very beautiful achievement in a world
+of poor and, at best, mediocre performance; but, after all, the
+business of sanctity is a serious business. It calls for grit and
+endurance, and, as a picture, is only saved from the sordid by
+spiritual motives which are unseen.  If all moral life is a
+monotonous warfare, the life of a Saint is warfare in the very first
+ranks where the trenches are filled with water and the shells fall
+thickest and the general discomfort and pettiness are at their
+maximum. It is misleading and not in strict accord with known
+realities, to paint the portrait of a Saint in rose color and
+sunlight, diffusing an iridescent atmosphere of cheerful gayety and
+buoyancy.
+
+The criticism is not without some foundation; but youthful readers
+will not adopt it. For youth is generous, and age is crabbed. And
+because Saints never become crabbed we are right in concluding that
+they always remain youthful.  And, to draw out our conclusion, the
+lives of Saints, contrary to the popular belief, are much more
+interesting to the child than they are to the man. It is a pity that
+Catholic parents do not recognize this outstanding truth.  No
+Saint's life is dull to the average intelligent child.  Grown-ups
+are dull: they never yield to sublime impulses: they measure,
+calculate, practice a hard-and-fast moderation, reduce the splendid
+possibilities of life to a drab level of safe actuality, and pursue
+ideals at a canny and cautious pace.  Not so the Saints. They always
+retained the freshness and confidence and generous impulses of
+childhood.  If God spoke to their inner ear and bade them leap
+boldly forth into His Infinite Arms, spurning irretrievably the
+solid footing of our spinning globe, without hesitation or question
+they took the leap.  And every child can see the wisdom of it. To
+the child it is common sense: to his elders it is inspired heroism
+or unintelligible hardihood.  We have always entertained a deep-
+seated suspicion that there is no child who does not think it easy
+to be a Saint, so native is sanctity to Catholic childhood. Cardinal
+Newman, we believe, exhorted us all to make our sacrifices for God
+while we are young before the calculating selfishness of old age
+gets hold of us.
+
+Still it may not be quite clear to the inquiring mind why the
+desperate difficulties of sainthood can be truthfully viewed in the
+light of a breathless adventure.  Learn, then, the great secret. The
+love of God in the heart is the magical light which touches the
+dreariness and hardship of self-thwarting with a splendor of sublime
+Romance. You cannot have holiness without love.  Holiness can be
+either greater nor less than the love of God.  Let this love faint
+or grow cold, there is at once a loss of holiness, even though it
+retain all its external gear.  This is a cardinal truth; it is a key
+which will solve many a puzzle.  It will explain why fanatics and
+similar oddities are not Saints, though secular history sometimes
+honors them with the title.
+
+Merely concede that the Saint possesses love for God in an
+extraordinary measure and degree, and it is the most comprehensible
+thing in the world that he will not only accept all tests of his
+love readily, but will go forth in search of them with eager
+alacrity. First and last and always the only keen satisfaction of
+great love, whether human or divine, is to welcome opportunities of
+proving itself in some heroic form of courage and endurance. Danger,
+suffering, battling against odds, discouragement, overwork, pain of
+mind and body, failure, want of recognition, rebuffs, contempt and
+persecution, are no longer the subject matter of a strong-jawed
+stoicism or a submissive patience but rather the quickening bread
+and wine of an intense and high-keyed life.  This is why the Saints,
+be the provocation ever so great, never develop nerves, or
+experience those melancholy and humiliating reactions which are the
+natural ebb-tide of spiritual energies. This is why Saints can fast
+and keep their temper sweet, can wear hair-shirts without
+cultivating wry faces, can be passed by in the distribution of
+honors without being soured, can pray all night without robbing the
+day of its due meed of cheerfulness, can rise superior to frailties
+and weaknesses without despising those who cannot, can be serious
+without being testy and morose, can live for years in a cell or a
+desert or a convent-close without perishing of ennui or being
+devoured by restlessness, and can mingle with life, where all its
+currents meet, without losing their heads or swerving a hairbreadth
+from the straight line of a most uncommon and most impressive kind
+of common sense.
+
+Unless we keep before our eyes this mainspring of a Saint's life,
+that life will be as enigmatical to us as it is to the world.  Jesus
+balked at no test of the love which He bore towards us: nay, He
+devised tests passing all human imagining. Let Him make trial of our
+love for Him! We are unhappy till He does! And with this daring
+spirit in his heart every Saint enters upon a career of Romance in
+its sweetest and highest form. And, we submit, to recur to the
+literary style of the following biography, Romance is light-hearted,
+light-stepping, cheerful, with the starlight on its face and in its
+eyes.
+
+James J. Daly, S.J.
+
+
+CONTENTS
+
+Chapter I      ON THE ROAD
+Chapter II     THE PURSUIT
+Chapter III    EARLY DAYS
+Chapter IV     OFF TO VIENNA
+Chapter V      SCHOOL DAYS
+Chapter VI     IN THE HOUSE OF KIMBERKER
+Chapter VII    THE TEST OF COURAGE
+Chapter VIII   IN DANGER OF DEATH
+Chapter IX     VOCATION
+Chapter X      THE RUNAWAY
+Chapter XI     AT DILLIGEN
+Chapter XII    THE ROAD TO ROME
+Chapter XIII   THE NOVICESHIP
+Chapter XIV    GOING HOME
+Chapter XV     AFTERMATH
+
+
+FOR GREATER THINGS
+
+CHAPTER I
+
+ON THE ROAD
+
+Mid-August in Vienna, the year 1567: when Shakespeare was still a
+little boy; twenty years before Philip II fitted out the Spanish
+Armada; forty years before the first English colony settled in
+America.  The sun had just well risen, the gates of Vienna had been
+opened but a few hours.  Through the great western gate, which cast
+its long shadow on the road to Augsburg, came a strange-looking boy.
+
+He lacked but a month or two of seventeen years, was some five feet
+two or three inches in height, had an oval face of remarkable beauty
+and liveliness, jet black hair, and eyes in which merriment dwelt as
+in its home.  He was dressed as became a noble of the time, and in
+apparel of unusual splendor and costliness; plumed bonnet, slashed
+velvet doublet, tight silken hose, jeweled dagger at his girdle.
+
+But it was odd to see so brilliant a figure on foot in the dusty
+highway; still more odd that be carried a rough bundle slung on a
+staff over his and that, peasant fashion, he munched at a loaf of
+bread as he trudged the road.
+
+By no means stalwart-looking, still he swung along with an easy
+stride and a confident strength that many a stouter man might envy.
+He was bound for Augsburg, 400 miles to the west, and he set himself
+thirty miles a day as his rate of travel.
+
+He wore splendid clothes, because he was Stanislaus, the son of John
+Kostka, Lord of Kostkov, Senator, and Castellan of Zakroczym in the
+Duchy of Mazovia, Poland. He ate his rough breakfast, like a
+peasant, on the road, because he had just been to Mass and received
+Holy Communion at the Jesuit church in Vienna. He carried a bundle
+on his staff, because he laughed merrily at fine clothes and had in
+the bundle a coarse tunic and a stout pair of brogans, which he
+meant to put on as soon as he got well out of the city. And his face
+and his eyes shone with joy, because he loved God most wonderfully
+and was as happy a boy as ever moved through this dull world.
+
+Every age has its adventurers: men who for fame, or for place, or
+for money, cross wide seas, fight brave battles, endure great
+hardships. The age in which Stanislaus lived was filled with them.
+All the world reads with delight the story of such men. And every
+decent boy who reads feels himself, if only for the moment, their
+fellow in spirit, eager to do what they did and as bravely as they
+did.
+
+But was there ever adventure finer than this, ever spirit more gayly
+daring? Stanislaus Kostka, son of a noble house, a boy in years,
+starting without a copper in his pocket to cross half of Europe
+afoot!  And for what?  Not to have men say what a brave chap he was;
+not to win a name, or rank, or money: but because God would be
+pleased by his doing it, because God called him to do something
+which he could not do in Vienna.
+
+He felt he had a vocation to be a Jesuit. He knew his father would
+not consent. He took six months to think it over, to pray for light,
+to make sure it was no mere whim or fancy of his own, but the very
+voice of God.  And when he felt sure, he left a letter for his
+brother Paul and his tutor, Bilinski, with whom he had been studying
+in Vienna; he gave his money to a couple of beggars; he said, "If
+God wants me to do this, He'll furnish the means"; he put on his
+best attire, tied up a rough suit in a cloth, took a stout staff in
+his hand, and with God's blessing upon him and His Eucharistic
+Presence in his heart, stepped out cheerfully on a journey that
+would stagger most men.
+
+That is the stuff of which heroes are made. If Stanislaus had done
+this for the glory of the world, we should have his praises in our
+histories, we should have stories woven about him, the whole world
+would cry "Bravo!" But he did it for God, and the world cannot
+understand him at all: the world is silent.
+
+An hour or so of that steady, tireless stride carried him well away
+from Vienna. He slipped off his velvet and silk, put on his coarse
+tunic - a shirt-like garment that came below his knees - girded
+himself with a bit of rope, tied his stout shoes on his feet, and
+took the road again.  There were folk aplenty journeying from the
+countryside to Vienna in the early morning.  Stanislaus picked out
+one of the poorest-looking peasants and handed him the gala dress he
+had just taken off.
+
+"I can't carry these with me, friend," he said.  "Won't you please
+take them? I have no use for them, and perhaps you can sell them in
+the city."
+
+And he was gone before the peasant, gaping in wonder at the rich
+garments and dagger in his hands, could much more than catch a
+glimpse of that bright face and those laughing eyes.
+
+He tramped all day, and made his thirty miles.  When he was hungry,
+he asked some one he met for food. It is not likely that any one
+would refuse the smiling, handsome boy, from whose face innocence
+simply shone. But if any one had refused him, it would not have
+annoyed Stanislaus.  His good humor came from heaven, as well as
+from his own cheery soul - and you cannot rebuff that kind of good
+humor.
+
+Night came down at last, and he was tired out.  He came to an inn
+and asked for shelter.
+
+"I have no money," he told the landlord, smiling, "and I have no
+claim upon you. Will you take me in?"
+
+The landlord looked at him shrewdly a little, then said with respect:
+
+"But what is your grace doing in such a garb?"
+
+Stanislaus thought for a moment that he was recognized; but he put
+on a bold front, and laughed as he said:
+
+"I am not 'your grace.  I am what you see me, and I have a long
+journey to make."
+
+In those days it was not unusual for even nobles to go, roughly
+clad, upon pilgrimages of devotion.  That Stanislaus was a noble,
+the landlord was quite certain. That he might be engaged on some
+such pious business, was possible. But who ever heard of a mere boy
+going upon pilgrimage?
+
+The whole affair puzzled the landlord more than a little.  However,
+the face of the boy reassured him. At least there could be no evil
+behind that frank, brave countenance. So he shook his head, saying:
+
+"I do not understand. But come in.   You are welcome."
+
+He gave Stanislaus his supper and a bed to sleep in.
+
+"You shall not be the poorer for this," said Stanislaus, as he
+thanked him.  "You know God makes it up to us for even a cup of cold
+water given in His name."
+
+And as the boy spoke, the landlord saw his face glow when he spoke
+of God and he was very glad at heart that he had given shelter and
+food, to this strange boy.
+
+Stanislaus slept soundly. But he was up with the sun, washed and
+dressed quickly, and went to thank his host again before setting
+out.
+
+"But you will have something to eat before you go?" cried the man,
+as Stanislaus stood before him, staff in hand, ready for the road.
+
+"It is good of you to offer it," the boy answered.  "But perhaps I
+shall find a church before long, and I must go fasting to Holy
+Communion."
+
+Then the landlord marvelled again, for at that period even good
+people did not go very often to Holy Communion, especially when they
+were traveling hard, as Stanislaus evidently was.  And his
+admiration and liking grew for this boy with the merry face and the
+heart so near heaven.
+
+"At least," he said, "you must take something with you for the way."
+
+And that Stanislaus did not refuse, but accepted gratefully, and so
+parted from the kind landlord, leaving him gazing in the doorway
+with wonder in his eyes.
+
+His legs were a bit stiff and sore this second day.  But the first
+few miles wore that off, and he swung on his way as bravely and
+gayly as before.
+
+
+CHAPTER II
+
+THE PURSUIT
+
+Meanwhile, there was a hubbub in Vienna. Stanislaus had lived in
+that city about three years with his brother Paul, who was about a
+year older than he, and in the care of a tutor, a young man named
+Bilinski. He had left them in the early morning.  As the day wore on
+and he did not return home, they became uneasy. They went about all
+afternoon, inquiring amongst their friends and acquaintance if any
+had seen him.  Only one or two were in the secret, and they kept
+discreet silence.
+
+Unable therefore to get any trace of Stanislaus, they soon came to
+the conclusion that he had fled.  And, as we shall see, they had
+good reason in their own hearts for guessing that from the first.
+They returned to the house of the Senator Kimberker, where they were
+all lodging, and taking Kimberker, who was a Lutheran, into their
+confidence, they held a council of war.
+
+It was decided that Stanislaus must have gone to Augsburg.  Paul
+recalled something that Stanislaus had said to him only the day
+before, when he had threatened plainly to run away. And they had
+heard him say, another time, that at Augsburg was Peter Canisius,
+the Provincial of the German Jesuits. Of course they were going to
+follow him and bring him back. But night had come on before their
+inquiries and deliberations were finished.  They must wait till the
+next day.
+
+Accordingly, bright and early the following morning, all three, with
+one of the Kostkas' servants, drove out in a carriage over the
+Augsburg road. They had four good horses and they told their
+coachman not to spare the whip. They came to the inn where
+Stanislaus had spent the night. They questioned the landlord.
+
+"Have you seen a boy of seventeen, a Polish noble, pass westward
+along this road yesterday or today?"
+
+But the landlord was shrewd, and though the whole matter was beyond
+him, he fancied somehow that these eager folk were no great friends
+of the boy who had lodged with him.  And as he trusted that boy and
+could scarcely help being loyal to him, he shrugged his shoulders
+and answered:
+
+"How should I know? So many travel this road."
+
+Then Bilinski described Stanislaus and his doublet of velvet and
+hose of silk and jeweled dagger. But at that the landlord shook his
+head in denial.
+
+"I have seen no such person as your graces describe,"  he said.
+
+Bilinski called out to the coachman:
+
+"Drive on. We have nothing to learn here."
+
+But Paul said: "NQ let us turn back. He cannot have walked this far
+in one day. We must have passed him on the road."
+
+"Perhaps you could not have walked so far," said Bilinski, with a
+sneer.  "But Stanislaus could. Drive on!"
+
+Forty miles or more out of Vienna, they saw a boy trudging ahead of
+them, in a rough tunic, rope-girdled, with a staff in his hand. At
+the noise of the hurrying wheels the boy glanced back, then quickly
+turned up a lane which there entered the road. He did not look in
+the least like a nobleman's son, and the carriage passed the bottom
+of the lane without so much as slacking speed.
+
+Stanislaus ran up the lane until he came to where it ended at a
+rough, brawling stream. Without a moment's hesitation he put off his
+shoes, tucked up his tunic, and began wading in the course of the
+stream. The water was cold, the sharp stones in the bed of the
+stream bruised his feet, at any moment he might fall into a deep
+hole and be drowned. But he splashed and stumbled ahead, as fast as
+he could go, praying to his guardian angel to have care of him. A
+little farther, he knew, the highway crossed this stream by a
+bridge, and there he could leave the water and regain the road.
+
+The carriage meantime kept on and came to this bridge.  But Paul had
+been thinking of the young fellow who took to the lane when he saw
+the carriage approach and a shrewd suspicion came into his head.
+
+"Did you see that boy who ran up the lane?" he cried at length to
+Bilinski.  "I believe it was Stanislaus."
+
+"But he was dressed like a peasant," said Bilinski. "And Stanislaus
+had on a handsome suit."
+
+They debated for a time, but Paul prevailed. Round they turned and
+drove furiously back to the lane. But as the driver tried to turn
+his horses into it, the animals reared and balked and refused to
+enter. Blows and curses were showered on them; they merely stood and
+trembled; no efforts could urge them into the lane. Then the driver
+grew afraid, and cried out:
+
+"My Lord Paul, we cannot go into this lane.  And before God, I have
+fear upon me! Never have the horses acted this way."
+
+And indeed fear seized them all.  They saw the hand of God in this
+strange obstinancy of their beasts.  Even Kimberker cried the pursuit.
+
+"Fear God!" he said.  "For this is no common mishap!"
+
+And when they turned the horses' heads again toward Vienna, the
+animals snorted and pranced and went very willingly.
+
+And so, when Stanislaus came to the bridge, the highway was clear.
+After a look about, he put on his shoes, gripped his staff afresh,
+and took up again cheerily as ever his thirty miles a day to
+Augsburg.
+
+Day after day, tired and footsore, he told off the long miles,
+begging his food and lodging as he went; fearless and happy, praying
+like an angel of God as he walked along.
+
+Many were kind to him for the brave, bright spirit that shone out in
+his face. Many remembered those words of our Lord, "Whatsoever you
+have done unto the least of these my brethren, you have done it unto
+me," and willingly sheltered the boy and gave him to eat.  Sometimes
+he turned into the fields beside the road and slept through the warm
+August night beneath the open sky. Whenever he came to a church in
+the morning, he heard Mass and received Holy Communion, for he
+started out each morning fasting. And on the fourteenth day he
+reached Augsburg.
+
+What happened there, we shall see in another chapter, and how within
+three weeks this smiling boy turned his face southward and tramped
+another eight hundred miles on foot to Rome.  But just that will
+show you something of the spirit of Stanislaus, the spirit of a
+hero. All that a knight might do out of love for his lady, he did
+out of love for God. He really loved God with a sort of fierce
+intensity. And he wanted to show his love in deeds, just as we want
+to show our love for a person by doing something, by giving
+something.  God had given him everything, he would give God
+everything: that was the whole of his life. And with that generosity
+went a fine common sense. He was not rash or headlong, acting first
+and thinking afterward. He reckoned things out calmly and sensibly,
+and then went ahead with a pluck and determination that nothing in
+the world could stop.
+
+God asked a fearfully hard thing of him; to leave his people, his
+home; to set out afoot on an enormous journey; to undergo no end of
+hardships and humiliations; to live in a strange land, among strange
+people. And he did it, did it smilingly, joyfully, with a simple,
+quiet bravery seldom if ever matched by any other boy in the world.
+
+The one thing that staggers us is his reason for doing it, his great
+love for God. And that is because we have not got, what we could
+easily get, his secret. He prayed, he kept close in thought to God
+always. God and heaven and our Lady were as familiar to his mind as
+the sun and the earth and the air are to our mind's. The earth to
+him was only the antechamber of heaven. He looked upon life as one
+looks upon a little delay at a railway station before the train
+leaves; the only important thing is to catch the train.
+
+
+CHAPTER III
+
+EARLY DAYS
+
+Bilinski and Paul Kostka went back to Vienna, much troubled at
+heart. They really loved Stanislaus, for one thing, though they had
+been pretty rough with him. And for another, they had to face the
+anger of the Lord John Kostka, when he should hear of Stanislaus'
+flight.
+
+Shortly after they had got back, a young friend of the runaway came
+to them and said:
+
+"If you look between the leaves of such-and-such a book, you will
+find a letter which Stanislaus left for you."
+
+They looked and found the letter. It was very simple and
+straightforward, a genuine boy's letter. He had run away, he said,
+because he had to. He was called to enter the Society of Jesus. He
+had to do what God wanted of him. He knew they would prevent him if
+they could. And so he just went. He left them messages of
+affectionate regard, and begged them to forward his letter to his
+father.
+
+Bilinski sent this letter on at once. Paul also wrote, as did
+Kimberker and even the servant who had gone with them in the
+carriage.  Each tried to shift the blame from himself, told of the
+strange behavior of the horses, explained that everything possible
+had been done to overtake the fugitive.
+
+And when their letters came, there was high wrath in Kostkov. The
+Lord John raved and swore. He blamed everybody, but most of all
+Stanislaus and the tricky Jesuits who, he said, were back of the
+whole scheme.  He wrote to Cardinal Osius that he would not rest
+until he had broken up the Jesuit college in Pultowa and driven
+every schemer of them out of Poland. As for Stanislaus, he would
+follow him across the world, if need were, and drag him back to
+Kostkov in chains.
+
+He was a great lord, the Lord John. He loved his second son,
+Stanislaus, most dearly, and he loved dearly the honor of his house,
+which he thought that son had stained by hi& conduct. A son of his
+in beggar's garb, tramping the highways of Europe, begging his bread
+from door to door! It nearly broke his heart.
+
+He had princely blood in his veins, he was a Senator of Poland, he
+might even become a king. His dearest hopes were in Stanislaus, his
+second son.  Paul, the eldest, was wild and unsteady. And though
+there were two other sons and a daughter, none gave such promise as
+Stanislaus.  So that the Lord John looked chiefly to him to carry on
+the great name and make it more glorious still. No wonder he raged!
+
+Stanislaus had figured all that out beforehand. It hurt him too,
+hurt terribly. But what can one do when God calls? God had made all
+the Kostkas, given them name and rank. God was the Lord of Lords. It
+was heart-breaking to Stanislaus to leave his father in anger. Yet
+he trusted that since that was God's will - well, God would find a
+way to bring peace out of all this trouble. He put all his fears and
+heartache away from him, and went out to do what God wanted.
+
+He had always done that, even when he was a little tad in the rough
+castle at Kostkov. God had taught him, God had helped him
+wonderfully. But more wonderful still to our eyes is the way the boy
+listened to God's teaching and obeyed it.
+
+We think things come easy to the saints. We read or hear of wonders
+in their lives, which are evidently God's doing; and we say:
+
+"Of course the saint was good and holy. But it was all done for him.
+God made everything smooth. The saint was never in my boots for a minute."
+
+And all the time we forget the things which the saint himself did,
+the superb efforts he had to make.
+
+So Stanislaus began to pray as soon as he well began to speak. Do
+you think he would not sooner have kept on with his play? Do you
+think he did not naturally hate the effort just as any boy naturally
+hates effort?
+
+He lived amongst rough men, men used to the ways of camps and the
+speech of soldiers. Yet he not merely kept his own lips" clean, but
+he shrank, as from a blow, from every coarse or indecent speech in
+others. He did not go around correcting people.  He was too sensible
+for that. He was not a prig or a prude.  But he knew, as we know,
+that vile speech is hateful to God; and, as so many of us do not do,
+he set his face against it.
+
+Did that cost him no effort? Had he no human respect to fight
+against? Think of how many times you may have grinned, cowardly, at
+a gross remark or shady story of a comrade - because you were not
+fighter enough to resent it! And then give this Stanislaus, who did
+resent, credit for his stouter courage, his more manly spirit.
+
+His biographers tell us that he was simply' free from temptations
+against purity.  That does not mean what many may think it means:
+that he was physically unlike other boys, that he had no animal
+desires, that he had nothing to fight against.  It means that he was
+such a magnificent fighter that he had won the battle almost from
+the start.  It means that he was not content, as so many of us are,
+with merely pushing a temptation a little aside, and then looking
+around in surprise to find it still there.  He was like a skillful
+boxer, who wards off every blow of his adversary, so that he goes
+through the contest absolutely untouched.  He watched, as we are too
+lazy to watch; he kept out of danger, where we foolishly run into
+it; he did not wait until temptation had set upon him and nearly
+battered him down before he began to resist; he saw it coming afar
+off, just as we can if we look out, and he met it with a rush that
+sent it again beyond reach or even sight.
+
+OF COURSE he was the same as other boys; OF COURSE he had the same
+inclinations, the same promptings of the animal man; but with them
+he had more daring, more force and energy of will to cooperate with
+God's grace.
+
+You always find it that way. The things the saints seem to do with
+ease are terrifically hard things, huge battles, regular slugging
+fights. The ease, if there be any, is not in the things they did,
+but in the men who did them.
+
+You have seen skilled pianists sit down at their instruments and run
+off into brisk flowing music what looks like a hopeless jumble of
+notes.  You may have seen an artist sketch in, whilst chatting idly,
+a swift, striking portrait.  Well, all really good men are artists
+too; artists in fighting. And Stanislaus was one of the cleverest
+and strongest artists of the lot.
+
+He began early, just as the musician Mozart did, just as the painter
+Raffaele did; and he studied hard at his art, just as all great
+artists have done. He began by saying his prayers well, not mere lip
+prayers, but heart prayers.  He began by getting on easy terms with
+God, with our Lord in the Blessed Sacrament, with our Blessed Lady.
+ He learned to talk with them as we learn to talk with our fathers
+and mothers.  He told them his troubles, his plans.  He talked
+everything over with them.  And it no more made him queer or stiff
+or unpleasant than talking things over with your comrades or your
+parents makes you queer or stiff or unpleasant.  If you believe in
+God, it is the most natural thing in the world to try to take Him
+into your confidence.
+
+
+Then it is easy to see how, as Stanislaus grew older, he liked to
+pray, he liked to talk about God and our Lady.  You see, he had
+grown to know them. They were not remote, far away.  They were as
+near to him as his own folk.  They were his own folk.  And it is
+easy to see how, keeping in God's sight all the time, he kept his
+soul clean and his heart merry.
+
+
+CHAPTER IV
+
+OFF TO VIENNA
+
+In this way Stanislaus went on until he was nearly fourteen years
+old and his brother Paul was approaching fifteen.  Then the Lord
+John Kostka thought his boys had better continue their studies, not
+at home, but at a regular school.  He picked out John Bilinski, a
+young man who had lately completed his college course, as tutor for
+them.  He gave them a couple of servants, mounted them all on good
+horses, and sent them off six hundred miles or more on horseback to
+Vienna.
+
+You may be sure Stanislaus enjoyed the long ride.  It would be
+strange if he, a nobleman of the finest cavalry nation in the world,
+were not a good horseman.  He loved the smell of the open fields, he
+loved the boisterous song of the mountain torrent.  The hills and
+the plains were his home, for the hills and the plains were nearer
+to God than the houses of men.
+
+In those days all travel was on foot or on horseback.  The wealthy
+and noble rode, the poor footed it.  Great highways cut Europe from
+end to end; though there were tracts in Stanislaus' country where
+the roadway was only the broad steppe, where the grasses waved and
+tossed like the sea, where men were few and their dwellings
+scattered far apart.
+
+They crossed great rivers, they climbed the foothills of the
+Carpathian mountains.  Many a night Paul and Stanislaus, with their
+people, slept under the stars.  Many a wild, rough border town they
+passed.  Many a great forest they penetrated, the home of the wild
+boar and the aurochs.
+
+And the tar burners in the forests looked up from under their matted
+brows at the fair oval face of the Polish boy, and said:
+
+"He is like a wild flower blown by the wind. He is like the violets
+that laugh in spring at the sun."
+
+And the shaggy fighting-men of the frontier villages watched him
+ride through their streets, and thought:
+
+"This is an angel.  He looks toward heaven because he sees his
+Brothers there."
+
+They crossed themselves piously as he passed. And some of the light
+and laughter of his face glowed 'for a moment in their dark lives,
+as a gloomy glen in the forest is brightened up by a darting ray of
+sunlight.
+
+He was wonderful, but he was always a boy. He was glad to feel the
+good horse under him, to grip the Tartar saddle with his knees, to
+feel the air rush by his cheek.
+
+Sometimes they met poor people staggering wearily afoot along the
+road.  Often Stanislaus checked his horse and lightly dismounted.
+
+"Get up, get up, old father!" he would cry. "My legs are stiff from
+the saddle.  I want to walk."
+
+And though a peasant might often be afraid to accept the favor from
+a noble, or be surly and churlish, the folk never were so with
+Stanislaus.  Up climbed the old father into the saddle, and
+Stanislaus stepped out by his side.
+
+"God give your grace long years!" said the thankful old man.
+
+"Long years!" cried Stanislaus. I want more than that.  I want
+eternity.  I was born for greater things than long years."
+
+And the old man would understand; for he was of the poor, and the
+poor know more of this longing for heaven than do the rich.  But he
+looked almost with awe at this richly dressed noble boy who had
+learned even now to value life so justly. Then it was easy for
+Stanislaus to talk of heaven to the old man.
+
+"Old father, in the barony of the Lord Jesus there is no poverty or
+old age or weariness. Nor is there any difference of rank there as
+here, for we shall all be great lords and castellans in heaven."
+
+"Aye, but your grace will be a hetman surely in the army of the Lord
+Jesus," said the old man.
+
+"Who knows!" cried Stanislaus. "I should love that dearly.  Though
+the generals in His kingdom are not always from amongst the nobles.
+It may be that you will be hetman, and I a common soldier. But it is
+good to be even a common soldier with Him."
+
+"I went against the Tartars in my youth," said the old man. "Perhaps
+we shall have a campaign against that dog-brother Lucifer, and Saint
+Michael and Saint Wenceslaus will lead us under the Lord Jesus; and
+our Lady of Yasna Gora will look on when we come back victorious!"
+
+And so they talked on until it was time to set the old man down, and
+Stanislaus mounted again to catch up with his party, which had gone
+ahead.
+
+"With God!" cried the old man.
+
+"With God!" echoed Stanislaus.  'And if you go to heaven before me,
+father, do not forget to plead for me with the Lord Jesus and with
+His Mother."
+
+Then he clattered along the road, and shortly came up with Bilinski
+and Paul.
+
+Sometimes they came to districts infested by robbers, and waited to
+join themselves to some larger party for protection.  Sometimes they
+made long stretches of many hours in the saddle, when the inns were
+far apart and they could get no food on the road.  Sometimes they
+tarried a day or two in a little town to rest their horses.
+
+But everywhere Stanislaus thought of God, and prayed, and when
+occasion offered spoke of holy things as only he could speak.
+Bilinski and Paul often laughed at him, for they were of a different
+stamp.  But he did not mind their ridicule, and he bore them no
+grudge for it. And so, after. many days, they came at length to
+Vienna, on July 26, 1564.
+
+
+CHAPTER V
+
+SCHOOL DAYS
+
+Vienna WAS a great city, even in those days, since for a long time
+it had been the residence of the Roman Emperors of the West.  It was
+a Catholic city, though even in 1564, little more than forty years
+after Luther's revolt, the Lutherans in the city had begun to be
+quite numerous.
+
+The Society of Jesus had been founded in 1540, only ten years before
+Stanislaus was born.  But it had spread quickly.

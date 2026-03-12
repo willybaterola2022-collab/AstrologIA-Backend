@@ -1,0 +1,1250 @@
+# The Game of Life and How to Play It
+Author: Florence Scovel Shinn
+Category: 11_autoayuda
+Source: Gutenberg #28591
+Downloaded: 2026-03-08T14:24:43.729656
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+SOUL***
+
+
+E-text prepared by Suzanne Lybarger, Brian Janes, Pilar Somoza Fernandez,
+and the Project Gutenberg Online Distributed Proofreading Team
+(http://www.pgdp.net)
+
+
+
+Transcriber's note:
+
+   Spelling mistakes have been left in the text to match the original,
+   except for obvious typographical errors, which have been corrected.
+
+
+
+
+
+POEMS WITH POWER TO STRENGTHEN THE SOUL
+
+Compiled and Edited by
+
+JAMES MUDGE
+
+Revised and Enlarged Edition
+
+
+
+
+
+
+
+The Abingdon Press
+New York        Cincinnati        Chicago
+
+Copyright, 1907, 1909, by
+Eaton & Mains
+
+Printed in the United States of America
+
+First Edition Printed November, 1907
+Second Printing, March, 1909
+Third Printing, October, 1911
+Fourth Printing, July, 1915
+Fifth Printing, May, 1919
+Sixth Printing, January, 1922
+Seventh Printing, April, 1925
+Eighth Printing, March, 1928
+Ninth Printing, October, 1930
+Tenth Printing, September, 1934
+
+
+
+
+                       TO ALL
+              WHO ARE AT THE SAME TIME
+  LOVERS OF GOOD POETRY AND LOVERS OF GOOD CHARACTER,
+  DEVOTED TO GOD AND THEIR FELLOW-MEN, AS WELL AS TO
+     LITERATURE, THE COMPILER, WHO CLAIMS A LITTLE
+            PLACE IN THIS LARGE COMPANY,
+      DEDICATES THE RESULT OF HIS PLEASANT LABORS
+
+
+
+
+CONTENTS
+
+
+                                                                    PAGE
+PREFACE                                                              vii
+
+SUBJECTS:
+
+HEROISM--CHIVALRY, NOBILITY, HONOR, TRUTH                              1
+
+COURAGE--CONSTANCY, CONFIDENCE, STRENGTH, VALOR                       14
+
+INDEPENDENCE--MANHOOD, FIRMNESS, EARNESTNESS, RESOLUTION              22
+
+GREATNESS--FAME, SUCCESS, PROGRESS, VICTORY                           28
+
+DUTY--LOYALTY, FAITHFULNESS, CONSCIENCE, ZEAL                         41
+
+SERVICE--USEFULNESS, BENEVOLENCE, LABOR                               50
+
+BROTHERHOOD--CHARITY, SYMPATHY, EXAMPLE, INFLUENCE                    66
+
+CONSECRATION--SUBMISSION, DEVOTION, PURITY                            79
+
+PEACE--REST, CALM, STILLNESS                                          88
+
+HUMILITY--MEEKNESS, WEAKNESS, SELFLESSNESS                            95
+
+CONTENTMENT--RESIGNATION, PATIENCE, COMPENSATION                     103
+
+ASPIRATION--DESIRE, SUPPLICATION, GROWTH                             115
+
+PRAYER--WORSHIP, COMMUNION, DEVOTION                                 123
+
+JOY--PRAISE, CHEERFULNESS, HAPPINESS                                 138
+
+AFFLICTION--CONSOLATION, TRIAL, ENDURANCE                            149
+
+LOVE--DIVINE GOODNESS, UNSELFISHNESS                                 163
+
+HOPE--PROGRESS, OPTIMISM, ENTHUSIASM                                 170
+
+FAITH--ASSURANCE, DOUBT, UNBELIEF                                    177
+
+TRUST--GUIDANCE, SAFETY, GLADNESS                                    187
+
+GOD'S CARE--PROVIDENCE, GOD'S KNOWLEDGE AND BENEFICENCE              199
+
+GOD'S WILL--OBEDIENCE, DIVINE UNION                                  209
+
+GOD'S PRESENCE--POSSESSION, SATISFACTION, REFLECTION                 221
+
+JESUS--HIS PRECIOUSNESS, AND BEAUTY, AND LOVE                        233
+
+LIFE--TIME, OPPORTUNITY, EXPERIENCE, CHARACTER                       250
+
+AGE AND DEATH--MATURITY, VICTORY, HEAVEN                             267
+
+APPENDIX--MISCELLANEOUS SELECTIONS                                   278
+
+INDEX TO AUTHORS                                                     288
+
+INDEX TO TITLES                                                      292
+
+INDEX TO FIRST LINES                                                 298
+
+
+
+
+PREFACE
+
+
+This is not like other collections of religious verse; still less is it
+a hymnal. The present volume is directed to a very specific and wholly
+practical end, the production of high personal character; and only those
+poems which have an immediate bearing in this direction have been
+admitted. We know of no other book published which has followed this
+special line. There are fine hymnals, deservedly dear to the Church, but
+they are necessarily devoted in large measure to institutional and
+theological subjects, are adapted to the wants of the general
+congregation and to purposes of song; while many poetical productions
+that touch the heart the closest are for that very reason unsuited to
+the hymnal. There are many anthologies and plentiful volumes of
+religious poetry, but not one coming within our ken has been made up as
+this has been. We have sought far and wide, through many libraries,
+carefully conning hundreds of books and glancing through hundreds more,
+to find just those lines which would have the most tonic and stimulating
+effect in the direction of holier, nobler living. We have coveted verses
+whose influence would be directly on daily life and would help to form
+the very best habits of thought and conduct, which would have intrinsic
+spiritual value and elevating power; those whose immediate tendency
+would be to make people better, toughening their moral fibre and helping
+them heavenward; those which they could hardly read attentively without
+feeling an impulse toward the things which are pure and true and
+honorable and lovely and of good report, things virtuous and
+praiseworthy.
+
+It is surprising to one who has not made the search how very many poets
+there are whose voluminous and popular works yield nothing, or scarcely
+anything, of this sort. We have looked carefully through many scores of
+volumes of poetry without finding a line that could be of the slightest
+use in this collection. They were taken up altogether with other topics.
+They contained many pretty conceits, pleasant descriptions, lovely or
+lively narrations--these in abundance, but words that would send the
+spirit heavenward, or even earthward with any added love for humanity,
+not one. On the other hand, in papers and periodicals, even in books,
+are great multitudes of verses, unexceptionable in sentiment and helpful
+in influence, which bear so little of the true poetic afflatus, are so
+careless in construction or so faulty in diction, so imperfect in rhyme
+or rhythm, so much mingled with colloquialisms or so hopelessly
+commonplace in thought, as to be unworthy of a permanent place in a book
+like this. They would not bear reading many times. They would offend a
+properly educated taste. They would not so capture the ear as to linger
+on the memory with compelling persistence, nor strike the intellect as
+an exceptional presentation of important truth. The combination of fine
+form and deep or inspiring thought is by no means common, but, when
+found, very precious. We will not claim that this has been secured in
+all the poems here presented. Not all will approve our choice in all
+respects. There is nothing in which tastes more differ than in matters
+of this kind. And we will admit that in some cases we have let
+in--because of the important truth which they so well voiced--stanzas
+not fully up to the mark in point of poetic merit. Where it has not been
+possible to get the two desirable things together, as it has not always,
+we have been more solicitous for the sentiment that would benefit than
+for mere prettiness or perfection of form. Helpfulness has been the test
+oftener than a high literary standard. The labored workmanship of the
+vessel has not weighed so much with us as its perfect fitness to convey
+the water of life wherewith the thirsty soul of man has been or may be
+refreshed. If poets are properly judged, as has been alleged, by the
+frame of mind they induce, then some who have not gained great literary
+fame may still hold up their heads and claim a worthy crown.
+
+Some poems fully within the scope of the book--like Longfellow's "Psalm
+of Life"--have been omitted because of their exceeding commonness and
+their accessibility. Many hymns of very high value--like "Jesus, Lover
+of my soul," "My faith looks up to thee," "Nearer, my God, to thee,"
+"When all thy mercies, O my God," "How firm a foundation"--have also
+been omitted because they are found in all the hymnals, and to include
+them would unduly swell the size of the book. A few others, although
+similarly familiar, like "Jesus, I my cross have taken," and "God moves
+in a mysterious way," have been inserted from a feeling that even yet
+their depth and richness are not properly appreciated and that they can
+never be sufficiently pondered. A few poems we have been unable to
+procure permission to use; but in nearly all cases we have met with most
+generous treatment from both authors and publishers owning copyrights,
+and we take this occasion to express our hearty thanks for the kindness
+afforded in the following instances:
+
+     Houghton, Mifflin & Company, for the use of the poems and stanzas
+     here found from Henry Wadsworth Longfellow, James Russell Lowell,
+     John Greenleaf Whittier, Ralph Waldo Emerson, Oliver Wendell
+     Holmes, Edward Rowland Sill, Celia Thaxter, Caroline Atherton
+     Mason, Edna Dean Proctor, Edmund Clarence Stedman, John Burroughs,
+     John Hay, William Dean Howells, Harriet Beecher Stowe, Lucy Larcom,
+     Margaret E. Sangster, Francis Bret Harte, James Freeman Clarke,
+     Samuel Longfellow, Samuel Johnson, Christopher Pearse Cranch,
+     Thomas Wentworth Higginson, Elizabeth Stuart Phelps and John Vance
+     Cheney.
+
+     Little, Brown & Company, for poems by Helen Hunt Jackson, Louise
+     Chandler Moulton, William Rounseville Alger, "Susan Coolidge"
+     [Sarah Chauncey Woolsey], and John White Chadwick.
+
+     Lothrop, Lee & Shepard Company, for poems by Sam Walter Foss.
+
+     D. Appleton & Company, for poems by William Cullen Bryant.
+
+     T. Y. Crowell & Company, for poems by Sarah Knowles Bolton.
+
+     Charles Scribner's Sons, for poems by Josiah Gilbert Holland.
+
+     The Century Company, for poems by Richard Watson Gilder.
+
+     The Bobbs-Merrill Company, for poems by James Whitcomb Riley.
+
+     Harper & Brothers, for poems by Edward Sandford Martin.
+
+     Small, Maynard & Co., for poems by Charlotte Perkins Gilman.
+
+     The Rev. D. C. Knowles, for poems by Frederic Lawrence Knowles,
+     especially from "Love Triumphant," published by Dana, Estes &
+     Company.
+
+     The Rev. Frederic Rowland Marvin, for poems from his "Flowers of
+     Song from Many Lands."
+
+     Professor Amos R. Wells, for poems from his "Just to Help."
+
+     Mr. Nixon Waterman, for poems from "In Merry Mood," published by
+     Forbes & Co., of Chicago.
+
+The selections from the above American authors are used by special
+arrangements with the firms mentioned, who are the only authorized
+publishers of their works. Many other poems used have been found in
+papers or other places which gave no indication of the original source.
+In spite of much effort to trace these things it is quite likely we have
+failed in some cases to give due credit or obtain the usual permission;
+and we hope that if such omissions, due to ignorance or inadvertence,
+are noticed they will be pardoned. Many unknown writers have left behind
+them some things of value, but their names have become detached from
+them or perhaps never were appended. Many volumes consulted have been
+long out of print.
+
+We are glad to record our large indebtedness to the custodians of the
+Boston, Cambridge, Malden, Natick, Brookline, Jamaica Plain, Somerville,
+and Newton Public Libraries, the Boston Athenaeum, the Congregational
+Library, the General Theological Library, and the Library of Harvard
+College, for free access to their treasures.
+
+By far the greater part of the contents are from British and other
+foreign authors, such as William Wordsworth, Alfred Tennyson, Robert
+Browning, Elizabeth Barrett Browning, Dinah Maria Mulock Craik, Mrs.
+S. F. Adams, Anna Letitia Barbauld, Mrs. Charles, Frances Ridley
+Havergal, Anna Letitia Waring, Jean Ingelow, Adelaide Anne Procter, Mme.
+Guyon, Theodore Monod, Matthew Arnold, Edwin Arnold, William
+Shakespeare, John Milton, George Gordon Byron, Robert Burns, William
+Cowper, George Herbert, Robert Herrick, Francis Quarles, Frederick W.
+Faber, John Keble, Charles Kingsley, Alexander Pope, Joseph Addison,
+John Gay, Edward Young, Thomas Moore, John Newton, John Bunyan, H. Kirke
+White, Horatius Bonar, James Montgomery, Charles Wesley, Richard Baxter,
+Norman Macleod, George Heber, Richard Chenevix Trench, Henry Alford,
+Charles Mackay, Gerald Massey, Alfred Austin, Robert Louis Stevenson,
+Arthur Hugh Clough, Henry Burton, Samuel Taylor Coleridge, Hartley
+Coleridge, Joseph Anstice, George Macdonald, Robert Leighton, John Henry
+Newman, John Sterling, Edward H. Bickersteth, Dante Gabriel Rossetti,
+and many others. Of German authors there are not a few, including Johann
+W. von Goethe, Johann C. F. Schiller, George A. Neumarck, Paul Gerhardt,
+Benjamin Schmolke, S. C. Schoener, Scheffler, Karl Rudolf Hagenbach, S.
+Rodigast, Novalis, Wolfgang C. Dessler, L. Gedicke, Martin Luther, and
+Johann G. von Herder.
+
+The number of American poets drawn upon is small compared with this
+list. It is the case in all such collections. According to an analysis
+of the hymns contained in the most widely used American hymnals down to
+1880 the average number of hymns of purely American origin was not quite
+one in seven; the proportion would be a little larger now. And the
+number of Methodist poets is almost nil, in spite of the fact that the
+compiler is a Methodist and the volume is issued from the official
+Methodist Publishing House. But if we thought that this would be any
+barrier to its wide circulation in Methodist homes we should be deeply
+ashamed for our church. We are confident it will not be. For mere
+denominational tenets do not at all enter into these great matters of
+the soul's life. A book like this speaks loudly for the real oneness,
+not only of all branches of the Christian Church, but of all religions,
+in some respects. Not only do we find the various Protestant
+denominations amply represented here; not only have we most inspiring
+words from Roman Catholic writers like Francis Xavier, Madame Guyon,
+Alexander Pope, John Henry Newman, Frederick W. Faber, and Adelaide Anne
+Procter; but from Mohammedan sources, from Sufi saints of Persia, and
+the Moslem devotees of Arabia, and even from Hinduism, there are
+utterances of noblest truth which we cannot read without a kindling
+heart. These are all brought together from the ends of the earth into a
+delightful "upper chamber," where the warring discords of opinion cease
+and an exceedingly precious peace prevails.
+
+It should be said, though it is perhaps hardly necessary, that this is
+by no means a book to be read at a sitting. It furnishes very
+concentrated nourishment. It can be taken with largest profit only a
+little at a time, according as the mood demands and circumstances
+appoint. There should be very much meditation mingled with the perusal,
+an attempt to penetrate the deep meaning of the lines and have them
+enter into the soul for practical benefit. Some of these hymns have
+great histories: they are the war cries of combatants on hard-fought
+battle fields; they are living words of deep experience pressed out of
+the heart by strong feeling; they are the embodiment of visions caught
+on some Pisgah's glowing top. Here will be found and furnished hope for
+the faint-hearted, rest for the weary, courage for the trembling, cheer
+for the despondent, power for the weak, comfort for the afflicted,
+guidance in times of difficulty, wise counsel for moments of perplexity,
+a stimulant to faithfulness, a cure for the blues, exhilaration,
+jubilation. Everything of a depressing nature has been scrupulously
+ruled out. The keynote, persistently followed through all the pages, is
+optimistic, bright, buoyant. Trumpet calls and bugle notes are furnished
+in abundance, but no dirges or elegies. Large space, it will be seen, is
+given to such topics as Heroism, True Greatness, the Care and Presence
+of God, the blessings of Brotherliness, the privilege of Service, the
+path of Peace, the secret of Contentment, the mission of Prayer, the joy
+of Jesus, the meaning of Life, the glory of Love, the promise of Faith,
+the happy aspect of old Age and Death; for these subjects come very
+close home to the heart, and are illustrated in daily experience. Anyone
+who feels a special need in any of these directions is confidently
+recommended to turn to the proper sections and read the selections.
+
+Very much that is here may easily and suitably be committed to memory,
+that thus it may the more permanently penetrate into the inmost depth of
+being. It may be used with most telling effect in sermons to give point
+and pungency to the thought of the preacher. Alike in popular discourse
+and public testimony or in private meditation these gems of sentiment
+and thought will come into play with great advantage. The benefit which
+may be derived from them can scarcely be overestimated. President Eliot,
+of Harvard University, has said: "There are bits of poetry in my mind
+learned in infancy that have stood by me in keeping me true to my ideas
+of duty and life. Rather than lose these I would have missed all the
+sermons I have ever heard." Many another can say substantially the same,
+can trace his best deeds very largely to the influence of some little
+stanza or couplet early stored away in his memory and coming ever
+freshly to mind in after years as the embodiment of truest wisdom.
+
+We cannot guarantee in all cases the absolute correctness of the forms
+of the poems given, though much pains have been taken to ensure
+accuracy; but authors themselves make changes in their productions at
+different times in different editions. Nor have we always been able to
+trace the poem to its source. Slips and errors of various kinds can
+hardly be avoided in such matters. Even so competent an editor as John
+G. Whittier, in his "Songs of Three Centuries," ascribes "Love divine,
+all love excelling" to that bitter Calvinist, Augustus M. Toplady,
+giving it as the sole specimen of his verse; when it was really written
+by the ardent Arminian, Charles Wesley, with whom Toplady was on
+anything but friendly terms. If Whittier could make a blunder of this
+magnitude we may be pardoned if possibly a keen-eyed critic spies
+something in our book almost as grossly incorrect. In some cases we have
+been obliged to change the titles of poems so as to avoid reduplication
+in our index, or to adapt them the better to the small extract taken
+from the much longer form in the original. In a few cases we have made
+(indicated) alterations in poems to fit them more fully to the purpose
+of the book.
+
+The volume will be found not only a readable one, we think, but also an
+uncommonly useful one for presentation by those who would do good and
+give gratification to their serious-minded friends with a taste for
+religious poetry and a love for wandering in the "holy land of song." He
+who would put before another the essential elements of religion would do
+better to give him such a book as this than a treatise on theology. He
+who would himself get a clear idea of what the religious life really is
+will do better to pore over these pages than to dip into some
+philosophical discussion. Here the best life is expressed rather than
+analyzed, exhibited rather than explained. Mrs. Browning has well said,
+"Plant a poet's word deep enough in any man's breast, looking presently
+for offshoots, and you have done more for the man than if you dressed
+him in a broadcloth coat and warmed his Sunday pottage at your fire." We
+who, by preparing or circulating such volumes, aid the poets in finding
+a larger circle to whom to give their message, may claim a part of the
+blessing which comes to those who in any way aid humanity. George
+Herbert has said,
+
+    "A verse may find him who a sermon flies,
+    And turn delight into a sacrifice."
+
+He himself most excellently illustrated the sentiment by bequeathing to
+the world many beautiful verses that are sermons of the most picturesque
+sort.
+
+One definition of poetry is "a record of the best thoughts and best
+moments of the best and happiest minds." This in itself would almost be
+sufficient to establish the connection between poetry and religion. It
+is certain that the two have very close and vital relations. Dr.
+Washington Gladden has admirably remarked, "Poetry is indebted to
+religion for its largest and loftiest inspirations, and religion is
+indebted to poetry for its subtlest and most luminous interpretations."
+No doubt a man may be truly, deeply religious who has little or no
+development on the aesthetic side, to whom poetry makes no special
+appeal. But it is certain that he whose soul is deaf to the "concord of
+sweet sounds" misses a mighty aid in the spiritual life. For a hymn is a
+wing by which the spirit soars above earthly cares and trials into a
+purer air and a clearer sunshine. Nothing can better scatter the devils
+of melancholy and gloom or doubt and fear. When praise and prayer, trust
+and love, faith and hope, and similar sentiments, have passed into and
+through some poet's passionate soul, until he has become so charged with
+them that he has been able to fix them in a form of expression where
+beauty is united to strength, where concentration and ornamentation are
+alike secured, then the deepest needs of great numbers are fully met.
+What was vague and dim is brought into light. What was only half
+conceived, and so but half felt, is made to grip the soul with power.
+Poetry is of the very highest value for the inspiration and guidance of
+life, for calling out the emotions and opening up spiritual visions. It
+carries truths not only into the understanding, but into the heart,
+where they are likely to have the most direct effect on conduct.
+
+In the language of Robert Southey, I commit these pages to the Christian
+public, with a sincere belief that much benefit will result to all who
+shall read them:
+
+    "Go forth, little book, from this my solitude;
+      I cast thee on the waters,--go thy ways;
+    And if, as I believe, thy vein be good,
+      The world will find thee after many days.
+    Be it with thee according to thy worth;
+    Go, little book! in faith I send thee forth."
+
+                                                  JAMES MUDGE.
+  Malden, Mass.
+
+
+
+
+HEROISM
+
+CHIVALRY, NOBILITY, HONOR, TRUTH
+
+
+THE INEVITABLE
+
+    I like the man who faces what he must,
+      With step triumphant and a heart of cheer;
+      Who fights the daily battle without fear;
+    Sees his hopes fail, yet keeps unfaltering trust
+    That God is God; that somehow, true and just,
+      His plans work out for mortals; not a tear
+      Is shed when fortune, which the world holds dear,
+    Falls from his grasp: better, with love, a crust
+      Than living in dishonor: envies not,
+    Nor loses faith in man; but does his best,
+      Nor ever murmurs at his humbler lot,
+    But, with a smile and words of hope, gives zest
+      To every toiler: he alone is great
+      Who by a life heroic conquers fate.
+
+    --Sarah Knowles Bolton.
+
+
+DEFEATED YET TRIUMPHANT
+
+      They never fail who die
+    In a great cause. The block may soak their gore;
+    Their heads may sodden in the sun; their limbs
+    Be strung to city gates and castle walls;
+    But still their spirit walks abroad.
+      Though years
+    Elapse and others share as dark a doom,
+    They but augment the deep and sweeping thoughts
+    Which overpower all others and conduct
+    The world, at last, to freedom.
+
+    --George Gordon Byron.
+
+
+A HERO GONE
+
+    He has done the work of a true man--
+      Crown him, honor him, love him;
+    Weep over him, tears of woman,
+      Stoop, manliest brows, above him!
+
+    For the warmest of hearts is frozen;
+      The freest of hands is still;
+    And the gap in our picked and chosen
+      The long years may not fill.
+
+    No duty could overtask him,
+      No need his will outrun:
+    Or ever our lips could ask him,
+      His hands the work had done.
+
+    He forgot his own life for others,
+      Himself to his neighbor lending.
+    Found the Lord in his suffering brothers,
+      And not in the clouds descending.
+
+    And he saw, ere his eye was darkened,
+      The sheaves of the harvest-bringing;
+    And knew, while his ear yet hearkened,
+      The voice of the reapers singing.
+
+    Never rode to the wrong's redressing
+      A worthier paladin.
+    He has heard the Master's blessing,
+      "Good and faithful, enter in!"
+
+    --John Greenleaf Whittier.
+
+
+THE CHARGE
+
+    They outtalked thee, hissed thee, tore thee?
+    Better men fared thus before thee;
+    Fired their ringing shot and pass'd,
+    Hotly charged--and sank at last.
+    Charge once more, then, and be dumb!
+    Let the victors, when they come,
+    When the forts of folly fall,
+    Find thy body by the wall!
+
+    --Matthew Arnold.
+
+
+THE REFORMER
+
+    Before the monstrous wrong he sets him down--
+    One man against a stone-walled city of sin.
+    For centuries those walls have been abuilding;
+    Smooth porphyry, they slope and coldly glass
+    The flying storm and wheeling sun. No chink,
+    No crevice, lets the thinnest arrow in.
+    He fights alone, and from the cloudy ramparts
+    A thousand evil faces gibe and jeer him.
+    Let him lie down and die: what is the right,
+    And where is justice, in a world like this?
+    But by and by earth shakes herself, impatient;
+    And down, in one great roar of ruin, crash
+    Watch-tower and citadel and battlements.
+    When the red dust has cleared, the lonely soldier
+    Stands with strange thoughts beneath the friendly stars.
+
+    --Edward Rowland Sill.
+
+
+LIFE AND DEATH
+
+    So he died for his faith. That is fine--
+      More than most of us do.
+    But, say, can you add to that line
+      That he lived for it, too?
+    In his death he bore witness at last
+      As a martyr to truth.
+    Did his life do the same in the past
+      From the days of his youth?
+    It is easy to die. Men have died
+      For a wish or a whim--
+    From bravado or passion or pride.
+      Was it harder for him?
+    But to live--every day to live out
+      All the truth that he dreamt,
+    While his friends met his conduct with doubt
+      And the world with contempt.
+    Was it thus that he plodded ahead,
+      Never turning aside?
+    Then we'll talk of the life that he lived.
+      Never mind how he died.
+
+    --Ernest Crosby.
+
+
+THE RED PLANET MARS
+
+    The star of the unconquered will,
+      He rises in my breast,
+    Serene, and resolute, and still,
+      And calm, and self-possessed.
+
+    And thou, too, whosoe'er thou art,
+      That readest this brief psalm,
+    As one by one thy hopes depart,
+      Be resolute and calm.
+
+    Oh, fear not in a world like this,
+      And thou shalt know erelong,--
+    Know how sublime a thing it is
+      To suffer and be strong.
+
+    --Henry Wadsworth Longfellow.
+
+
+THE NOBLE ARMY OF MARTYRS PRAISE THEE
+
+    Not they alone who from the bitter strife
+      Came forth victorious, yielding willingly
+    That which they deem most precious, even life,
+      Content to suffer all things, Christ, for Thee;
+    Not they alone whose feet so firmly trod
+      The pathway ending in rack, sword and flame,
+    Foreseeing death, yet faithful to their Lord,
+      Enduring for His sake the pain and shame;
+    Not they alone have won the martyr's palm,
+    Not only from their life proceeds the eternal psalm.
+
+    For earth hath martyrs now, a saintly throng;
+      Each day unnoticed do we pass them by;
+    'Mid busy crowds they calmly move along,
+      Bearing a hidden cross, how patiently!
+    Not theirs the sudden anguish, swift and keen,
+      Their hearts are worn and wasted with small cares,
+    With daily griefs and thrusts from foes unseen;
+      Troubles and trials that take them unawares;
+    Theirs is a lingering, silent martyrdom;
+    They weep through weary years, and long for rest to come.
+
+    They weep, but murmur not; it is God's will,
+      And they have learned to bend their own to his;
+    Simply enduring, knowing that each ill
+      Is but the herald of some future bliss;
+    Striving and suffering, yet so silently
+      They know it least who seem to know them best.
+    Faithful and true through long adversity
+      They work and wait until God gives them rest;
+    These surely share with those of bygone days
+    The palm-branch and the crown, and swell their song of praise.
+
+
+THE HAPPY WARRIOR
+
+    'Tis, finally, the man, who, lifted high,
+    Conspicuous object in a nation's eye,
+    Or left unthought of in obscurity,
+    Who, with a toward or untoward lot,
+    Prosperous or adverse, to his wish or not,--
+    Plays, in the many games of life, that one
+    Where what he most doth value must be won;
+    Whom neither shape of danger can dismay,
+    Nor thought of tender happiness betray;
+    Who, not content that former work stand fast,
+    Looks forward, persevering to the last,
+    From well to better, daily self-surpast;
+    Who, whether praise of him must walk the earth
+    Forever, and to noble deeds give birth,
+    Or he must fall, to sleep without his fame,
+    And leave a dead, unprofitable name--
+    Finds comfort in himself and in his cause,
+    And, while the mortal mist is gathering, draws
+    His breath in confidence of Heaven's applause:
+    This is the happy warrior; this is he
+    That every man in arms should wish to be.
+
+    --William Wordsworth.
+
+
+    Aground the man who seeks a noble end
+    Not angels but divinities attend.
+
+    --Ralph Waldo Emerson.
+
+
+ROBERT BROWNING'S MESSAGE
+
+    Grow old along with me!
+    The best is yet to be,
+    The last of life, for which the first was made;
+    Our times are in His hand
+    Who saith, "A whole I planned,
+    Youth shows but half; trust God: see all, nor be afraid!"
+
+    Poor vaunt of life indeed,
+    Were man but formed to feed
+    On joy, to solely seek and find and feast;
+    Such feasting ended, then
+    As sure an end to men:
+    Irks care the crop-full bird? Frets doubt the maw-crammed beast?
+
+    Then welcome each rebuff
+    That turns earth's smoothness rough,
+    Each sting that bids nor sit nor stand, but go!
+    Be our joys three parts pain!
+    Strive, and hold cheap the strain;
+    Learn, nor account the pang; dare, never grudge the throe!
+
+    For thence--a paradox
+    Which comforts while it mocks--
+    Shall life succeed in that it seems to fail:
+    What I aspired to be,
+    And was not, comforts me:
+    A brute I might have been, but would not sink i' the scale.
+
+    * * * * *
+
+    Not on the vulgar mass
+    Called "work" must sentence pass,
+      Things done, that took the eye and had the price;
+    O'er which, from level stand,
+    The low world laid its hand,
+      Found straightway to its mind, could value in a trice:
+
+    But all, the world's coarse thumb
+    And finger failed to plumb,
+      So passed in making up the main account;
+    All instincts immature,
+    All purposes unsure,
+      That weighed not as his work, yet swelled the man's amount:
+
+    Thoughts hardly to be packed
+    Into a narrow act,
+      Fancies that broke through language and escaped;
+    All I could never be,
+    All, men ignored in me,
+      This I was worth to God, whose wheel the pitcher shaped.
+
+    * * * * *
+
+    Fool! All that is, at all,
+    Lasts ever, past recall;
+      Earth changes, but thy soul and God stand sure:
+    What entered into thee
+    _That_ was, is, and shall be:
+      Time's wheel runs back or stops; Potter and clay endure.
+
+    --From "Rabbi Ben Ezra."
+
+
+TRUTH AND FALSEHOOD
+
+    Once to every man and nation comes the moment to decide,
+    In the strife of Truth with Falsehood, for the good or evil side;
+    Some great cause, God's new Messiah, offering each the bloom or blight,
+    Parts the goats upon the left hand, and the sheep upon the right,
+    And the choice goes by forever 'twixt that darkness and that light.
+
+    Careless seems the great Avenger; history's pages but record
+    One death-grapple in the darkness 'twixt old systems and the Word;
+    Truth forever on the scaffold, Wrong forever on the throne--
+    Yet that scaffold sways the future, and, behind the dim unknown,
+    Standeth God within the shadow, keeping watch, above his own.
+
+    Then to side with Truth is noble when we share her wretched crust,
+    Ere her cause bring fame and profit, and 'tis prosperous to be just;
+    Then it is the brave man chooses, while the coward stands aside,
+    Doubting in his abject spirit, till his Lord is crucified,
+    And the multitude make virtue of the faith they had denied.
+
+    Count me o'er earth's chosen heroes--they were souls that stood alone
+    While the men they agonized for hurled the contumelious stone;
+    Stood serene, and down the future saw the golden beam incline
+    To the side of perfect justice, mastered by their faith divine,
+    By one man's plain truth to manhood and to God's supreme design.
+
+    By the light of burning heretics Christ's bleeding feet I track,
+    Toiling up new Calvaries ever with the cross that turns not back,
+    And these mounts of anguish number how each generation learned
+    One new word of that grand _Credo_ which in prophet-hearts hath burned
+    Since the first man stood God-conquered with his face to heaven
+      upturned.
+
+    For Humanity sweeps onward: where to-day the martyr stands,
+    On the morrow crouches Judas with the silver in his hands;
+    Far in front the cross stands ready and the crackling fagots burn,
+    While the hooting mob of yesterday in silent awe return
+    To glean up the scattered ashes into History's golden urn.
+
+    'Tis as easy to be heroes as to sit the idle slaves
+    Of a legendary virtue carved upon our fathers' graves;
+    Worshipers of light ancestral make the present light a crime;--
+    Was the Mayflower launched by cowards, steered by men behind their
+      time?
+    Turn those tracks toward Past or Future that make Plymouth Rock
+      sublime?
+
+    They have rights who dare maintain them; we are traitors to our sires,
+    Smothering in their holy ashes Freedom's new-lit altar-fires;
+    Shall we make their creed our jailer? shall we in our haste to slay,
+    From the tombs of the old prophets steal the funeral lamps away
+    To light up the martyr-fagots round the prophets of to-day?
+
+    New occasions teach new duties; Time makes ancient good uncouth;
+    They must upward still, and onward, who would keep abreast of Truth;
+    Lo, before us gleam her camp-fires! we ourselves must Pilgrims be,
+    Launch our Mayflower, and steer boldly through the desperate winter
+      sea,
+    Nor attempt the Future's portal with the Past's blood-rusted key.
+
+    --James Russell Lowell.
+
+
+COLUMBUS
+
+    Behind him lay the gray Azores,
+      Behind the Gates of Hercules;
+    Before him not the ghost of shores,
+      Before him only shoreless seas.
+    The good mate said: "Now, we must pray,
+      For lo! the very stars are _gone_,
+    Speak, Admiral, what shall I say?"
+      "Why say, 'Sail on! sail on! and on!'"
+
+    "My men grow mutinous day by day;
+      My men grow ghastly wan and weak."
+    The stout mate thought of home; a spray
+      Of salt wave washed his swarthy cheek.
+    "What shall I say, brave Admiral, say,
+      If we sight naught but seas at dawn?"
+    "Why, you shall say at break of day,
+      'Sail on! sail on! sail on! and on!'"
+
+    They sailed and sailed, as winds might blow,
+      Until at last the blanched mate said:
+    "Why, now not even God would know
+      Should I and all my men fall dead.
+    These very winds forget their way,
+      For God from these dread seas is gone.
+    Now speak, brave Admiral, speak and say--"
+      He said, "Sail on! sail on! and on!"
+
+    They sailed. They sailed. Then spoke the mate:
+      "This mad sea shows its teeth to-night.
+    He curls his lip, he lies in wait,
+      With lifted teeth, as if to bite!
+    Brave Admiral, say but one good word.
+      What shall we do when hope is gone?"
+    The words leapt as a leaping sword,
+      "Sail on! sail on! sail on! and on!"
+
+    Then, pale and worn, he kept his deck,
+      And peered through darkness. Ah, that night
+    Of all dark nights! And then a speck--
+      A light! A light! A light!
+    It grew, a starlit flag unfurled!
+      It grew to be Time's burst of dawn:
+    He gained a world; he gave that world
+      Its grandest lesson: "On, and on!"
+
+    --Joaquin Miller.
+
+
+THE CHOSEN FEW
+
+    The Son of God goes forth to war,
+      A kingly crown to gain;
+    His blood-red banner streams afar;
+      Who follows in his train.
+
+    Who best can drink His cup of woe,
+      And triumph over pain,
+    Who patient bears His cross below--
+      He follows in His train.
+
+    A glorious band, the chosen few,
+      On whom the Spirit came;
+    Twelve valiant saints, their hope they knew,
+      And mocked the cross and flame.
+
+    They climbed the dizzy steep to heaven
+      Through peril, toil and pain;
+    O God! to us may grace be given
+      To follow in their train!
+
+    --Reginald Heber.
+
+
+HOW DID YOU DIE?
+
+    Did you tackle that trouble that came your way
+      With a resolute heart and cheerful,
+    Or hide your face from the light of day
+      With a craven soul and fearful?
+    O, a trouble is a ton, or a trouble is an ounce,
+      Or a trouble is what you make it,
+    And it isn't the fact that you're hurt that counts,
+      But only--how did you take it?
+
+    You are beaten to earth? Well, well, what's that?
+      Come up with a smiling face.
+    It's nothing against you to fall down flat,
+      But to lie there--that's disgrace.
+    The harder you're thrown, why, the higher you bounce;
+      Be proud of your blackened eye!
+    It isn't the fact that you're licked that counts;
+      It's how did you fight--and why?
+
+    And though you be done to the death, what then?
+      If you battled the best you could.
+    If you played your part in the world of men,
+      Why, the Critic will call it good.
+    Death comes with a crawl or comes with a pounce,
+      And whether he's slow or spry,
+    It isn't the fact that you're dead that counts,
+      But only--how did you die?
+
+    --Edmund Vance Cooke.
+
+
+LUTHER
+
+    That which he knew he uttered,
+      Conviction made him strong;
+    And with undaunted courage
+      He faced and fought the wrong.
+    No power on earth could silence him
+      Whom love and faith made brave;
+    And though four hundred years have gone
+      Men strew with flowers his grave.
+
+    A frail child born to poverty,
+      A German miner's son;
+    A poor monk searching in his cell,
+      What honors he has won!
+    The nations crown him faithful,
+      A man whom truth made free;
+    God give us for these easier times
+      More men as real as he!
+
+    --Marianne Farningham.
+
+
+THE MARTYRS
+
+    Flung to the heedless winds,
+      Or on the waters cast,
+    The martyrs' ashes, watched,
+      Shall gathered be at last;
+    And from that scattered dust,
+      Around us and abroad,
+    Shall spring a plenteous seed
+      Of witnesses for God.
+
+    The Father hath received
+      Their latest living breath;
+    And vain is Satan's boast
+      Of victory in their death;
+    Still, still, though dead, they speak,
+      And, trumpet-tongued, proclaim
+    To many a wakening land,
+      The one availing name.
+
+    --Martin Luther, tr. by John A. Messenger.
+
+
+    Stainless soldier on the walls,
+      Knowing this--and knows no more--
+    Whoever fights, whoever falls,
+      Justice conquers evermore,
+      Justice after as before;
+    And he who battles on her side,
+      God, though he were ten times slain,
+    Crowns him victor glorified,
+      Victor over death and pain.
+
+    --Ralph Waldo Emerson.
+
+
+ETERNAL JUSTICE
+
+    The man is thought a knave, or fool,
+      Or bigot, plotting crime,
+    Who, for the advancement of his kind,
+      Is wiser than his time.
+    For him the hemlock shall distil;
+      For him the axe be bared;
+    For him the gibbet shall be built;
+      For him the stake prepared.
+    Him shall the scorn and wrath of men
+      Pursue with deadly aim;
+    And malice, envy, spite, and lies,
+      Shall desecrate his name.
+    But Truth shall conquer at the last,
+      For round and round we run;
+    And ever the Right comes uppermost,
+      And ever is Justice done.
+
+    Pace through thy cell, old Socrates,
+      Cheerily to and fro;
+    Trust to the impulse of thy soul,
+      And let the poison flow.
+    They may shatter to earth the lamp of clay
+      That holds a light divine,
+    But they cannot quench the fire of thought
+      By any such deadly wine.
+    They cannot blot thy spoken words
+      From the memory of man
+    By all the poison ever was brewed
+      Since time its course began.
+    To-day abhorred, to-morrow adored,
+      For round and round we run,
+    And ever the Truth comes uppermost,
+      And ever is Justice done.
+
+    Plod in thy cave, gray anchorite;
+      Be wiser than thy peers;
+    Augment the range of human power,
+      And trust to coming years.
+    They may call thee wizard, and monk accursed,
+      And load thee with dispraise;
+    Thou wert born five hundred years too soon
+      For the comfort of thy days;
+    But not too soon for human kind.
+      Time hath reward in store;
+    And the demons of our sires become
+      The saints that we adore.
+    The blind can see, the slave is lord,
+      So round and round we run;
+    And ever the Wrong is proved to be wrong
+      And ever is Justice done.
+
+    Keep, Galileo, to thy thought,
+      And nerve thy soul to bear;
+    They may gloat o'er the senseless words they wring
+      From the pangs of thy despair;
+    They may veil their eyes, but they cannot hide
+      The sun's meridian glow;
+    The heel of a priest may tread thee down
+      And a tyrant work thee woe;
+    But never a truth has been destroyed;
+      They may curse it and call it crime;
+    Pervert and betray, or slander and slay
+      Its teachers for a time.
+    But the sunshine aye shall light the sky,
+      As round and round we run;
+    And the Truth shall ever come uppermost,
+      And Justice shall be done.
+
+    And live there now such men as these--
+      With thoughts like the great of old?
+    Many have died in their misery,
+      And left their thought untold;
+    And many live, and are ranked as mad,
+      And are placed in the cold world's ban,
+    For sending their bright, far-seeing souls
+      Three centuries in the van.
+    They toil in penury and grief,
+      Unknown, if not maligned;
+    Forlorn, forlorn, bearing the scorn
+      Of the meanest of mankind!
+    But yet the world goes round and round,
+      And the genial seasons run;
+    And ever the Truth comes uppermost,
+      And ever is Justice done.
+
+    --Charles Mackay.
+
+
+    We cannot kindle when we will
+      The fire which in the heart resides.
+    The spirit bloweth and is still;
+      In mystery our soul abides:
+    But tasks in hours of insight willed
+    Can be through hours of gloom fulfilled.
+
+    With aching hands and bleeding feet
+      We dig and heap, lay stone on stone;
+    We bear the burden and the heat
+      Of the long day, and wish 'twere done.
+    Not till the hours of light return,
+    All we have built do we discern.
+
+    --Matthew Arnold.
+
+
+WHAT MAKES A HERO?
+
+    What makes a hero?--not success, not fame,
+    Inebriate merchants, and the loud acclaim
+      Of glutted avarice--caps tossed up in air,
+      Or pen of journalist with flourish fair;
+    Bells pealed, stars, ribbons, and a titular name--
+      These, though his rightful tribute, he can spare;
+    His rightful tribute, not his end or aim,
+      Or true reward; for never yet did these
+      Refresh the soul, or set the heart at ease.
+    What makes a hero?--An heroic mind,
+    Expressed in action, in endurance proved.
+      And if there be preeminence of right,
+      Derived through pain well suffered, to the height
+    Of rank heroic, 'tis to bear unmoved
+    Not toil, not risk, not rage of sea or wind,
+    Not the brute fury of barbarians blind,
+      But worse--ingratitude and poisonous darts,
+      Launched by the country he had served and loved.
+    This, with a free, unclouded spirit pure,
+    This, in the strength of silence to endure,
+      A dignity to noble deeds imparts
+      Beyond the gauds and trappings of renown;
+      This is the hero's complement and crown;
+    This missed, one struggle had been wanting still--
+    One glorious triumph of the heroic will,
+      One self-approval in his heart of hearts.
+
+    --Henry Taylor.
+
+
+    As the bird trims her to the gale
+      I trim myself to the storm of time;
+    I man the rudder, reef the sail,
+      Obey the voice at eve obeyed at prime;
+    "Lowly faithful banish fear,
+      Right onward drive unharmed;
+    The port, well worth the cruise, is near,
+      And every wave is charmed."
+
+    --Ralph Waldo Emerson.
+
+
+DEMAND FOR MEN
+
+    The world wants men--large-hearted, manly men;
+    Men who shall join its chorus and prolong
+    The psalm of labor, and the psalm of love.
+    The times want scholars--scholars who shall shape
+    The doubtful destinies of dubious years,
+    And land the ark that bears our country's good
+    Safe on some peaceful Ararat at last.
+    The age wants heroes--heroes who shall dare
+    To struggle in the solid ranks of truth;
+    To clutch the monster error by the throat;
+    To bear opinion to a loftier seat;
+    To blot the era of oppression out,
+    And lead a universal freedom on.
+    And heaven wants souls--fresh and capacious souls;
+    To taste its raptures, and expand, like flowers,
+    Beneath the glory of its central sun.
+    It wants fresh souls--not lean and shrivelled ones;
+    It wants fresh souls, my brother, give it thine.
+    If thou indeed wilt be what scholars should;
+    If thou wilt be a hero, and wilt strive
+    To help thy fellow and exalt thyself,
+    Thy feet at last shall stand on jasper floors;
+    Thy heart, at last, shall seem a thousand hearts--
+    Each single heart with myriad raptures filled--
+    While thou shalt sit with princes and with kings,
+    Rich in the jewel of a ransomed soul.
+
+
+    Blessed are they who die for God,
+      And earn the martyr's crown of light;
+    Yet he who lives for God may be
+      A greater conqueror in his sight.
+
+
+    Better to stem with heart and hand
+      The roaring tide of life than lie,
+    Unmindful, on its flowery strand,
+      Of God's occasions drifting by!
+
+
+TRUTH
+
+    Truth will prevail, though men abhor
+      The glory of its light;
+    And wage exterminating war
+      And put all foes to flight.
+
+    Though trodden under foot of men,
+      Truth from the dust will spring,
+    And from the press--the lip--the pen--
+      In tones of thunder ring.
+
+    Beware--beware, ye who resist
+      The light that beams around,
+    Lest, ere you look through error's mist,
+      Truth strike you to the ground.
+
+    --D. C. Colesworthy.
+
+
+TO A REFORMER
+
+    Nay, now, if these things that you yearn to teach
+      Bear wisdom, in your judgment, rich and strong,
+    Give voice to them though no man heed your speech,
+      Since right is right though all the world _go_ wrong.
+
+    The proof that you believe what you declare
+      Is that you still stand firm though throngs pass by;
+    Rather cry truth a lifetime to void air
+      Than flatter listening millions with one lie!
+
+    --Edgar Fawcett.
+
+
+TEACH ME THE TRUTH
+
+    Teach me the truth, Lord, though it put to flight
+      My cherished dreams and fondest fancy's play;
+    Give me to know the darkness from the light,
+        The night from day.
+
+    Teach me the truth, Lord, though my heart may break
+      In casting out the falsehood for the true;
+    Help me to take my shattered life and make
+        Its actions new.
+
+    Teach me the truth, Lord, though my feet may fear
+      The rocky path that opens out to me;
+    Rough it may be, but let the way be clear
+        That leads to thee.
+
+    Teach me the truth, Lord. When false creeds decay,
+      When man-made dogmas vanish with the night,
+    Then, Lord, on thee my darkened soul shall stay,
+        Thou living Light.
+
+    --Frances Lockwood Green.
+
+
+HEROISM
+
+    It takes great strength to train
+    To modern service your ancestral brain;
+    To lift the weight of the unnumbered years
+    Of dead men's habits, methods, and ideas;
+    To hold that back with one hand, and support
+    With the other the weak steps of the new thought.
+
+    It takes great strength to bring your life up square
+    With your accepted thought and hold it there;
+    Resisting the inertia that drags back
+    From new attempts to the old habit's track.
+    It is so easy to drift back, to sink;
+    So hard to live abreast of what you think.
+
+    It takes great strength to live where you belong
+    When other people think that you are wrong;
+    People you love, and

@@ -1,0 +1,920 @@
+# The Pictorial Key to the Tarot
+Author: A.E. Waite
+Category: 09_tarot
+Source: Gutenberg #12829
+Downloaded: 2026-03-08T14:23:47.682345
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+ABÉLARD
+
+PAR
+
+CHARLES DE RÉMUSAT.
+
+1845
+
+  Spero equidem quod gloriam eorum
+  qui nunc sunt posteritas celebrabit.
+
+  Jean de SALISBURY, disciple d'Abélard.
+  _Metalogicus in prologo_.
+
+
+
+TOME PREMIER
+
+
+
+
+PRÉFACE.
+
+On se propose dans cet ouvrage de faire connaître la vie, le caractère,
+les écrits et les opinions d'Abélard, et de recueillir tout ce qu'il
+est utile de savoir pour marquer sa place dans l'histoire de l'esprit
+humain.
+
+Abélard est moins connu qu'il n'est célèbre, et sa renommée semble
+romanesque plutôt qu'historique. On sait vaguement qu'il fut un
+professeur, un philosophe, un théologien, qu'il se fit une grande
+réputation dans les écoles du moyen âge, et qu'il exerça une puissante
+influence sur les études et les idées de son temps. Mais dans quel sens
+dirigea-t-il les esprits, quel était le fond de ses doctrines, quelle
+la nature de son talent, quels les titres de ses ouvrages, quel rôle
+joua-t-il dans les lettres et dans l'Église, voilà ce qu'on ignore; et
+le vulgaire même raconte la fatale histoire de ses amours. C'est par ce
+souvenir que le nom d'Abélard est resté populaire.
+
+Peut-être à la faveur de ce souvenir, le tableau que j'entreprends de
+tracer inspirera-t-il quelque curiosité. Peut-être souhaitera-t-on
+de mieux connaître l'homme dont on a si souvent entendu rappeler
+les aventures, et l'amant servira-t-il à recommander le philosophe.
+Moi-même, je l'avouerai, ce n'est point par l'histoire que j'ai commencé
+avec lui. C'est dans le monde de l'imagination que je l'avais cherché
+d'abord, et l'étude de la philosophie n'a pas donné naissance à cet
+ouvrage.
+
+Le lecteur me permettra-t-il de lui en retracer brièvement l'histoire?
+
+Il y a quelques années qu'en réfléchissant sur un sujet que la réflexion
+n'épuisera pas, sur ce que devient la nature morale de l'homme dans les
+temps où l'intelligence prévaut sur tout le reste, je fus conduit à
+me demander s'il n'y aurait pas moyen de concevoir un ouvrage où la
+puissance de l'esprit, devenue supérieure à celle du caractère, serait
+mise en présence des plus fortes réalités du monde social, des épreuves
+de la destinée, des passions même de l'âme. La lutte de l'esprit tout
+seul avec la vie tout entière me paraissait intéressante à décrire
+encore une fois, et je cherchais dans quel temps, sur quelle scène,
+par quels personnages, il serait bon de la représenter. Pour que cette
+peinture fût frappante et vive, en effet, il ne me semblait pas qu'elle
+dût avoir pour cadre un sujet imaginaire. Un héros idéal qui à une
+époque indéterminée se mesure avec des êtres d'invention, ne saurait
+offrir un exemple qui saisisse et qui émeuve; si vraisemblable qu'on
+s'attache à le faire, il paraît toujours hors du vrai, et la situation
+où on le place est prise pour une combinaison de fantaisie. La pensée
+morale que j'aspirais à mettre en action, ne pouvait prendre tout son
+relief et produire tout son effet que sur un fond de réalité.
+
+Je rêvais à tout cela, lorsqu'il m'arriva un de ces hasards qui ne
+manquent guère aux auteurs préoccupés d'une idée. Un jour, mes yeux
+s'arrêtèrent sur l'affiche d'un théâtre où se lisait le nom que j'écris
+aujourd'hui au titre de cet ouvrage. Seulement ce nom était suivi
+d'un autre que la philosophie seule a le triste courage d'en séparer.
+Soudain, la pensée qui flottait dans mon esprit se fixa, pour ainsi
+dire; elle s'unit au nom d'Abélard, et prit dès lors une forme
+distincte: le sujet nécessaire me parut trouvé. Et prenant dans
+l'histoire les faits et les situations, dans les moeurs et dans les
+hommes du XIIe siècle, les traits et les couleurs, je composai avec une
+sorte d'entraînement un ouvrage en forme de roman dramatique, qui, lui
+aussi, s'appelle Abélard.
+
+Quelques personnes pourront se souvenir d'en avoir entendu parler.
+J'avais écrit sous l'empire d'une sorte de passion pour mon sujet, pour
+mon idée, mais avec le sentiment d'une indépendance absolue. La science,
+la foi et l'amour, l'école, le gouvernement et l'Église, j'avais essayé
+de tout peindre, sans rien écarter, sans rien adoucir, sans rien
+ménager, ne supposant pas même un moment qu'un si étrange tableau
+pût jamais passer sous les yeux du public. Mais qui ne connaît les
+faiblesses paternelles? Quel auteur ne prend confiance dans l'ouvrage
+dont la composition l'a charmé? J'ai donc un jour songé à livrer aux
+périls de la publicité ce premier Abélard. Cependant il s'agissait d'une
+oeuvre qui contient sans doute une pensée sérieuse et morale, mais sous
+les formes les plus libres de la réalité et de l'imagination, où dans
+le cadre des moeurs grossières du XIIe siècle, la lutte violente des
+croyances, des idées et des passions est représentée avec une franchise
+qui peut paraître excessive, avec un abandon qui peut blesser les
+esprits sévères. C'est une de ces oeuvres enfin qui n'ont qu'une excuse
+possible, celle du talent.
+
+Je me figurai quelque temps que je pourrais lui en créer une autre;
+c'est alors que je conçus le projet d'opposer l'histoire au roman, et
+de racheter le mensonge par la vérité. A des fictions dramatiques,
+je résolus de joindre un tableau de philosophie et de critique où le
+raisonnement et l'étude prissent la place de l'imagination. Changeant de
+but et de travail, je m'occupai alors de mieux connaître l'Abélard de la
+réalité, d'apprendre sa vie, de pénétrer ses écrits, d'approfondir ses
+doctrines; et voilà comme s'est fait le livre que je soumets en ce
+moment au jugement du public. Destiné à servir d'accompagnement et
+presque de compensation à une tentative hasardeuse, il paraît seul
+aujourd'hui. Des illusions téméraires sont à demi dissipées; une sage
+voix que je voudrais écouter toujours, me conseille de renoncer aux
+fictions passionnées, et de dire tristement adieu à la muse qui les
+inspire:
+
+  Abi
+  Quo blandae juvenum te revocant preces.
+
+Ce récit servira du moins à témoigner de mes consciencieux efforts pour
+rendre cet ouvrage moins indigne du sujet. Plus je tenais à expier en
+quelque sorte une composition d'un genre moins sévère, plus je devais
+tâcher de donner à celle-ci les mérites qui dépendent de l'étude, de
+la patience et du travail. Je n'ai rien négligé pour savoir tout le
+nécessaire, pour ne parler qu'en connaissance de cause, et dans la
+partie historique j'espère m'être approché de la parfaite exactitude.
+L'étendue de mes recherches, et plus encore la révision de quelques
+savants amis m'ont donné confiance dans ma fidélité d'historien.
+
+On trouvera donc ici une biographie d'Abélard plus complète qu'aucune
+autre, aussi complète peut-être que permet de la faire l'état des
+monuments connus jusqu'à ce jour. Quant à l'intérêt du récit, il me
+paraît, à moi, très-vif dans les faits mêmes. Qui sait s'il ne se sera
+pas évanoui sous ma main?
+
+Mais tout n'est pas histoire dans cet ouvrage. Après la première partie,
+qui renferme la vie d'Abélard et qui peut aussi donner une vue générale
+de son talent et de ses idées, il me restait à faire connaître ses
+écrits. A l'exception de quelques lettres sur ses malheurs, ils sont
+tous philosophiques ou théologiques: j'ai donc joint au livre premier,
+un livre sur la philosophie, un livre sur la théologie d'Abélard. Cette
+partie de mon travail, pour être la plus neuve, n'était pas la plus
+attrayante, et j'ignore si ce n'est point une témérité que d'avoir
+voulu rendre de l'intérêt à la science si longtemps décriée sous le nom
+désastreux de scolastique.
+
+A la fin du dernier siècle, une telle entreprise aurait paru insensée.
+Le temps même n'est pas loin où le courage m'aurait manqué pour
+l'accomplir. Mais de nos jours, le tombeau du moyen âge a été rouvert
+avec encore plus de curiosité que de respect. On s'est plu à y
+contempler les grands ossements que les années n'avaient pas détruits,
+à y recueillir les joyaux grossiers ou précieux qui brillaient encore
+mêlés à de froides poussières. Les monuments où ces reliques languirent
+oubliées si longtemps, sont devenus l'objet d'une admiration passionnée,
+comme s'ils étaient retrouvés d'hier, et que la terre les eût jadis
+enfouis dans son sein. Ne pouvant inventer le neuf, on s'est épris du
+plaisir de comprendre le vieux. L'enthousiasme du passé est venu colorer
+la critique, échauffer l'érudition. A juger sévèrement notre époque, on
+pourrait dire que les faits réels réveillent seuls en elle l'imagination
+et qu'elle ne retourne à la poésie que par l'histoire.
+
+A-t-il été présomptueux d'espérer que le goût d'antiquaire qui s'attache
+aux moeurs, aux formes, aux édifices des âges gothiques, s'étendrait
+jusqu'à leurs idées, et qu'on aimerait à connaître la science
+contemporaine de l'art qu'on admire?
+
+Il ne faut rien dissimuler, ce livre est très-sérieux. Nous ne nous
+sommes point arrêté à la surface. Rassembler en passant quelques traits
+de la physionomie d'un homme et d'une époque, offrir de rares extraits,
+piquants par leur singularité, choisis à plaisir dans les débris d'une
+littérature a demi barbare, aurait suffi peut-être pour donner à
+quelques pages un intérêt de curiosité. Ce n'était pas assez pour nous.
+Notre ambition a été de faire connaître, avec les ouvrages d'Abélard, le
+fond et les détails de ses doctrines, les procédés de son esprit, les
+formes de son style, d'éclairer ainsi, à sa lumière, toute une période
+encore obscure de la vie intellectuelle de la société française. Qu'on
+ne s'attende donc point à trouver seulement ici des fragments épars
+de philosophie ou de théologie; mais bien une philosophie, mais une
+théologie, chacune avec ses principes, sa méthode et son langage,
+chacune telle qu'un vieux passé l'a connue, admirée, célébrée, alors que
+l'école était pour nos aïeux ce que la presse est devenue pour leurs
+enfants. Au lieu de présenter des considérations générales sur l'esprit
+de notre philosophe, nous suivrons cet esprit dans sa marche, nous le
+décrirons dans ses monuments. Ce ne sera pas une simple critique, mais,
+s'il est possible, une reproduction du génie d'un homme. Ce sera en même
+temps, si nos forces ne trahissent pas nos desseins, une introduction
+utile à l'étude de la scolastique, et par conséquent à l'histoire de
+l'esprit humain dans le moyen âge.
+
+Cet ouvrage devra toute son originalité à son exactitude, et rien
+n'y paraîtra nouveau que ce qui sera scrupuleusement historique.
+L'intelligence et le savoir affectaient jadis des formes si différentes
+de celles qui nous semblent aujourd'hui les plus naturelles, peut-être
+parce qu'elles nous sont les plus familières; le caractère des
+questions, le choix des arguments, la portée des solutions, tout est si
+étrange chez les scolastiques, que la raison même, dans leurs livres,
+n'est pas toujours reconnaissable, et que le bon sens y prend
+quelquefois une tournure de paradoxe. La scolastique produit aujourd'hui
+l'effet d'une science en désuétude qui étonne et ne persuade plus.
+Cependant, pour qui ne s'en tient pas à l'apparence, pour qui brise
+l'enveloppe que prêtaient à la pensée le goût et l'érudition du temps,
+la scolastique contient dans son sein, elle offre dans son cours et les
+problèmes de tous les siècles et quelquefois les idées du nôtre. C'est
+que les formes de la science peuvent varier, mais le fond est invariable
+comme l'esprit humain. Les Grecs n'ont presque rien dit à la manière
+des modernes, et cependant ils ont connu tous les systèmes, toutes les
+hypothèses dont les modernes se sont vantés. Je ne sais pas même une
+erreur dans laquelle ils ne nous aient devancés. Quand on lit les
+Dialogues de Platon, on y voit figurer, sous des noms antiques, Hobbes,
+Locke, Hume et Kant lui-même. Ainsi chez les maîtres de la scolastique,
+nous reconnaissons des Euthydème et des Protagoras, quelquefois
+Démocrite, Empédocle ou Parménide, ça et là des idées de Platon, partout
+le souvenir et l'imitation d'Aristote. Sans doute le moyen âge morcelait
+la philosophie; mais toutes les parties s'en tiennent si étroitement
+qu'on ne peut longtemps en isoler une, et des voies différentes y
+ramènent au même point. L'esprit humain n'innove guère que dans les
+méthodes, et les méthodes diversifient, mais ne détruisent pas son
+identité. Les idées sur lesquelles porte la philosophie se présentent
+comme d'elles-mêmes à la réflexion. Dès que l'esprit se regarde, il les
+retrouve. C'est un héritage substitué de génération en génération, comme
+ces pierres précieuses qui se perpétuent dans les familles, et dont
+la disposition seule change suivant la mode et le goût des diverses
+époques. Indestructibles, et inaltérables, ces idées demeurent dans
+l'esprit humain comme des symboles de l'éternelle vérité.
+
+Elles ne manquent donc à aucune grande philosophie; et elles peuvent
+être découvertes sous tous les voiles que les caprices du raisonnement
+leur ont prêtés. Il est curieux et piquant parfois de les reconnaître,
+malgré les déguisements dont les revêtent la philosophie et la théologie
+de nos pères. Cet intérêt nous soutenait dans la tâche ingrate de
+pénétrer au fond de ces deux sciences, d'en reproduire les idées et les
+expressions, de leur rendre, s'il nous était possible, la vie et la
+lumière. Cette restauration était une oeuvre assez nouvelle. Depuis
+quelques années, on a bien su ressaisir avec sagacité le sens intime de
+toutes les doctrines, on les a traduites avec succès dans une langue
+commune, celle de la critique contemporaine. Mais à peine a-t-on osé,
+dans de courts passages, faire revivre l'enseignement original des
+maîtres du passé. A peine celui qui a le premier parmi nous entrepris de
+retirer la scolastique d'un oubli de deux siècles, a-t-il osé lui rendre
+à certains moments et ses formes et son style. Par le choix de notre
+sujet, par l'étendue de notre travail, nous avons dû nous jeter
+audacieusement dans cette oeuvre de restitution scientifique. Nous
+sommes rentré dans la nuit du moyen âge, pour y marcher le flambeau à
+la main. Un historien dont la science profonde est vivifiée par une
+puissante imagination, a su ranimer les sentiments et les moeurs de
+la société de ces temps-là. Il a remis sur ses pieds le Germain, le
+Gaulois, le Saxon, le Normand. Ce qu'il a si habilement fait pour
+l'homme moral, pour l'homme politique, serait-il chimérique de le tenter
+pour l'homme intellectuel? A côté du guerrier franc, du magistrat
+communal, du serf des cités ou des champs, en face du roi, du leude et
+du prêtre, reprenant à sa voix la parole et l'action, ne pourrait-on
+faire revivre l'écrivain et le philosophe, aux luttes des races opposer
+les combats des écoles, aux jeux de la force, les guerres de l'esprit?
+Est-il impossible de convoquer encore pour un instant les hommes du XIXe
+siècle autour d'une de ces chaires éloquentes où la raison humaine,
+essayant sa puissance, bégayant des vérités timides, préparait, il y a
+sept cents ans, la lointaine émancipation du monde?
+
+
+PREUVES ET AUTORITÉS
+
+DE
+
+L'HISTOIRE D'ABÉLARD.
+
+
+On a beaucoup écrit sur Abélard, mais on s'est beaucoup répété, et il
+faut bien choisir les autorités, quand on parle de lui. Parmi celles que
+nous allons citer, les unes, qui sont originales, et ce que les anciens
+éditeurs appelaient _testimonia_, datent de son temps ou viennent
+de ceux qui avaient pu connaître ses contemporains; les autres sont
+postérieures et n'ont qu'une valeur relative à l'instruction, à la
+véracité, à la sagacité de l'écrivain.
+
+
+I.
+
+AUTORITÉS DU XIIe SIÈCLE ET DU SUIVANT.
+
+I.--_Historia calamitatum_, ou l'_Epistola prima_. Ce sont les Mémoires
+de sa vie écrits par lui jusque vers l'année 1135. Cette lettre a été
+donnée pour la première fois dans ses Oeuvres, par Duchesne, qui y a
+joint d'excellentes notes. Le meilleur texte, bien qu'incomplet, a été
+revu sur le manuscrit 2923 de la Bibliothèque Royale, et inséré dans
+le Recueil des historiens des Gaules et de la France (t. XIV, p. 278).
+Turlot, qui l'a reproduit en presque totalité, dit que le manuscrit
+a appartenu à Pétrarque et contient des notes de lui. (_Abail. et
+Héloïse_, p. 4.) La bibliothèque de Troyes possède un manuscrit sous le
+n'o 802, qui a été collationné avec l'imprimé à la demande de M. Cousin;
+il contient de nombreuses différences assez peu importantes, sauf une
+seule qui sera indiquée.
+
+II.--Les lettres d'Héloïse et d'Abélard, souvent réimprimées et
+traduites. La première traduction est celle de Jean de Meung, le
+manuscrit en existe à la Bibliothèque du Roi. La première édition
+du texte est celle qui fait partie des Oeuvres déjà citées: _Petri
+Abaelardi filosofi et theologi abbatis ruyensis et Heloisae conjugis
+ejus primae paracletensis abbatissae Opera, nunc primum edita ex Mss.
+codd. V. Illus. Francisci Amboesii_, etc., in-4°. Paris, 1616. Cette
+édition des Oeuvres d'Abélard, la première et la seule qui porte ce
+titre, est appelée indifféremment l'édition d'Amboise ou de Duchesne;
+elle contient les lettres d'Abélard et d'Héloïse, des lettres de saint
+Bernard, du pape Innocent II, de Pierre le Vénérable, de Bérenger de
+Poitiers, de Foulque de Deuil, etc., toutes pièces importantes pour
+l'histoire d'Abélard, ainsi que plusieurs de ses ouvrages théologiques
+qui ne sont encore imprimés que là. Les principaux sont: 1° le
+Commentaire sur l'épître aux Romains; 2° l'Introduction à la théologie;
+3° les Sermons. Voyez sur cette édition Bayle, _Dict. crit_., art. _Fr.
+d'Amboise_, et l'_Histoire littéraire de la France_, par les bénédictins
+de Saint-Maur et l'Institut, t. XII, p. 149.
+
+La seconde édition complète des lettres, contenant toutes celles que
+d'Amboise a données; _P. Abaelardi abbatis ruyensis et Heloissae
+abbatissae paracletensis Epistolae, edit. cur. Ricardi Rawlinson_,
+in-8°. Londres, 1718. Le texte a été revu avec soin, mais corrigé avec
+trop de hardiesse, d'après un manuscrit d'une existence douteuse.
+
+III.--Les autres ouvrages d'Abélard, savoir:
+
+_Petri Abaelardi Theologia christiana.--Ejusdem Expositio in Hexameron_.
+(Durand et Martene, Thesaur. nov. anedoct., t. V, p. 1139 et 1361.)
+
+_Petri Abaelardi Ethica, seu liber dictus: SCITO TE IPSUM_. (Bernard
+Pez, Thesaur. anecdot. noviss., t. III, pars II, p. 626.)
+
+_Petri Abaelardi Dialogus inter philosophum, judaeum et christianum_.
+(Frid. Henr. Rheinwald, Anecdot. ad histor. ecclesiast. pertin., partie.
+I, Berolini, 1831.)
+
+_Petri Abaelardi Epitome theologiae christianae_, (F. H. Rheinwald, même
+recueil, partie II, 1835.)
+
+Ouvrages inédits d'Abélard, pour servir à l'histoire de la philosophie
+scolastique en France, publiés par M. Victor Cousin. Les principaux
+ouvrages sont: 1° _Petri Abaelardi Sic et Non_; 2° _Ejusdem Dialectica_;
+3° _Ejusdem fragmentum de Generibus et Speciebus_. (Documents inédits
+relat. à l'Hist. de France, publiés par ordre du gouvernement, in-4°,
+1836, p. 3, 173 et 507.) _Petri Abaelardi tractatus de Intellectibus_.
+(Cousin, Fragm. philos. 1840, t. III, Append. XI, p. 448.)
+
+Deux préfaces inédites d'Abailard, publiées par M. Lenoble dans les
+Annales de philosophie chrétienne, janvier 1844.
+
+Les poésies qui se trouvent disséminées dans divers recueils, savoir:
+
+1° l'édition des Oeuvres donnée par d'Amboise, p. 1136;
+
+2° _Veterum scriptorum et monumentorum amplissima Collectio_, t. IX, p.
+1091;
+
+3° _Gallia Christiana_, t. VII, p. 595;
+
+4° _Les Fragments philosophiques_ de M. Cousin, 1840, t. III, p. 440;
+
+5° _Spicilegium vaticanum. Beitraege zur naehern Kenntniss der
+Vatikanischen Bibliothek für deutsche Poesie des Mittelalters, von Carl
+Greith._, Frauenfield, 1838;
+
+6° _Bibliothèque de l'école des Chartes_, t. III, 2e livr. 1842.
+
+Le dernier recueil a fait connaître les hymnes découverts dans un
+manuscrit de Bruxelles, dont nous avons eu sous les yeux une copie et un
+spécimen par M. Th. Oehler, et qui est intitulé: _P. Ab. sequentiae et
+hymni per totum anni circulum in virginum monast. paraclet_.
+
+IV.--Les ouvrages de controverse des contemporains d'Abélard, savoir:
+
+Les lettres de saint Bernard, _S. Bernardi Opera omnia_, édition de
+Mabillon, 1690, vol. I, _passim_. Les lettres directement relatives à
+Abélard se retrouvent dans le recueil de ses Oeuvres par d'Amboise.
+
+Les lettres de Pierre le Vénérable, _Vita S. Petri Vener. et Epistolae_.
+(Bibliotheca cluniacensis, p. 553 et 621; édition de Duchesne avec des
+notes, 1614.)
+
+La lettre de Guillaume de Saint-Thierry contre Abélard et la
+dissertation annexée, _Disputatio adversus P. Abaelardum_. (Bibliotheca
+patrum cistercensium, par Tissier, 1660-1669, t. IV, p. 112.)
+
+La dissertation d'un abbé anonyme (Geoffroy d'Auxerre?) contre le même,
+_Disputatio anonymi abbatis adversus dogmata P. Abaelardi_. (Même
+recueil, t. IV, p. 228.)
+
+La lettre de Gautier de Mortagne à Abélard, _Epistola Gualteri de
+Mauritania, episcopi laudunensis_. (Spicilegium, sive Collectio veterum
+aliquot scriptorum, D. Luc. d'Achery, édition de de la Barre, 1723, t.
+III, p. 520.)
+
+Les lettres de Hugues Metel adressées à Innocent II, à Abélard, à
+Héloïse, _Hugon. Metelli Epist._ IV, V, XVI et XVII. (Car. Lud. Hugo,
+Sacr. antiquit. Monum., t. II, p. 330 et 348.)
+
+L'ouvrage de Gautier de Saint-Victor contre les théologiens
+dialecticiens de son temps, écrit vers 1180, _Liber M. Walteri prior.
+S. Vict. Parisius contra manifestas et damnatas etiam in conciliis
+haereses_, manuscrit de l'abbaye de Saint-Victor, et dont on trouve
+de longs extraits dans Duboulai. (Hist. univ. parisiens., t. II, p.
+629-660.)
+
+V.--Les récits écrits par les contemporains ou dans le XIIIe siècle.
+
+Les vies de saint Bernard écrites de son temps, _Ex vita et rebus
+gestis S. Bernardi, lib. III, a Gaufrido autissiod. seu claraeval.
+monach.--Epistola ejusdem ad episcopum albanensem, ex vit. S. Bernardi_,
+ab Alano, episc. autissiod. (Recueil des historiens des Gaules et de la
+France, t. XIV, p. 327, 370 et suiv.)
+
+_Johannis Saresberensis Metalogicus_, lib. I, cap. I et V; lib. II, cap.
+X et _passim_. Jean de Salisbury avait entendu les leçons d'Abélard et
+fréquenté les principales écoles des Gaules.--_Ejusdem Policraticus,
+sive de Nugis curialium, cui accedit Metalog._, 1 vol. in-12, 1639, lib.
+II, cap. XXII, et lib. VII, cap. XII. (Voyez les extraits de cet auteur
+dans le Recueil des histor., t. XIV, p. 300 et suiv.)
+
+_Otto Frisingensis, de gestis Friderici I Caesaris Augusti_, lib. I, cap.
+XLVI, XLVII et seq. Othon, abbé de Morimond, de l'ordre de Cîteaux, puis
+évêque de Frisingen (Freising, en Bavière), neveu de l'empereur Henri
+V, a composé une chronique de l'empereur Frédéric Barberousse, dont
+il était oncle paternel, et il y raconte la vie et la condamnation
+d'Abélard, son contemporain. (1 vol. in-folio, Basil., 1569, et Recueil
+des histor., t. XIII, p. 654.)
+
+_Ex vita S. Gosvini aquicinctensis abbatis_ lib. I, cap. IV et XVIII.
+Gosvin, abbé d'Anchin, fut un des adversaires actifs d'Abélard; sa vie a
+été écrite par des moines de son couvent, ses contemporains.(Recueil des
+histor., t. XIV, p. 442.)
+
+Extraits de diverses chroniques composées au XIIe siècle ou dans les
+suivants; les plus importants sont tirés de:
+
+1° Guillaume de Nangis, _Ex Chronic. Guillielm. de Nangiaco_. (Recueil
+des histor., t. XX, p. 731, ou _Spicilegium_ de d'Achery, t. III, p.
+1-6.)
+
+2° Robert d'Auxerre, _Ex Chronologia Roberti monach. S. Marian.
+altissiod._ (Recueil des histor., t. XII, p. 293.)
+
+3° La Chronique d'un anonyme, _Ex Chronico ab initio mundi usque ad A.C.
+1160_. (_Id., ibid._, p. 120.) 4° Richard de Poitiers, moine de Cluni,
+_Ex Chronic. Richardi pict._ (_id., ibid._, p. 415.)
+
+5° L'appendice à la chronique de Sigebert, par Robert, _Ex Roberti
+proemonstr. appendice ad Sigeberti chronographiam._ (_id._, t. XIII,
+p. 330, ou dans le recueil intitulé: Illustrium veterum scriptorum qui
+rerum a Germ. gest., etc., t. I, p. 626; 2 vol. in-folio, Francfort,
+1573.)
+
+6° Alberic, moine de Trois-Fontaines, _Ex Chronic. Alberici Trium
+Fontium monachi._ (Recueil des histor., t. XIII, p. 700.)
+
+7° Guillaume Godelle, moine de Saint-Martial de Limoges, _Ex Chronic.
+Willelm. Godelli, mon. S. Mart. lemov._ (_id., ibid._, p. 675.)
+
+_Vincentius Burgundus proesul bellovacensis_. (Bibliotheca Mundi, 4 vol.
+in-folio, 1624.--T. IV, _Specul. historial._, lib. XXVII, cap. XVII.)
+Vincent de Beauvais vivait au milieu du XIIIe siècle.
+
+Il y a encore dans d'autres chroniques, comme dans quelques cartulaires,
+des lignes isolées où Abélard est nommé, et dont l'historien peut faire
+son profit, mais qui ne méritent point d'être rappelées. Je ne fais
+que mentionner un chant funèbre sur la mort d'Abélard, rapporté par M.
+Carrière dans son édition allemande des lettres (voyez ci-après, page
+262), et une curieuse chanson bretonne en dialecte de Cornouaille, où
+Héloïse, _Loiza_, raconte qu'instruite par son clerc, _ma o'hloarek, ma
+dousik Abalard_, elle est devenue, grâce à la connaissance des langues,
+une sorcière semblable aux druidesses celtiques. (_Barzas-Breiz_, Chants
+populaires de la Bretagne, publiés par M. Th. de la Villemarqué, t. I,
+p. 93. Paris, 1839.)
+
+
+II.
+
+AUTORITÉS POSTÉRIEURES AU XIIIe SIÈCLE.
+
+1.--Un grand nombre d'historiens qui ne s'occupaient point spécialement
+d'Abélard, ont été conduits par leur sujet à écrire sa vie ou à en
+donner le sommaire, particulièrement d'après l'_Historia calamitatum_ et
+Othon de Frisingen.
+
+Le premier me paraît être Bertrand d'Argentré, un des plus anciens
+historiens français de la Bretagne. (_L'Histoire de Bretaigne_, 1 vol.
+in-fol., 1538, liv. I, chap. XIV, p. 74; liv. III, chap. CIII, p. 236 et
+suiv.) C'est un court résumé de l'histoire d'Abélard, d'après Othon de
+Frisingen.
+
+Pasquier a donné un abrégé de l'_Historia calamitatum_, de son
+temps encore manuscrite, en y joignant quelques détails et quelques
+réflexions. (_Les Recherches de la France_, liv. VI, chap. XVII, p. 587
+et suiv.; liv. IX, chap. V, VI et XXI.)
+
+Tritheme, dans son Catalogue des écrivains ecclésiastiques, insère
+un article pris dans les chroniques déjà citées. (_De Scriptoribus
+ecclesiasticis, in J. Trithemii Span. Oper. histor._, in-folio, 1604,
+part. I, p. 276.)
+
+Duboulai, dans son Histoire de l'Université de Paris, compose en divers
+passages une biographie à peu près complète, d'après d'Amboise, Othon de
+Frisingen, Jean de Salisbury, saint Bernard et ses biographes. (_Coes.
+Egassii Buloei Historia Universitatis parisiensis_, 6 vol. in-folio,
+1665, t. I, p. 257, 272, 349, 445; t. II, p. 8 et suiv., 53, 68, 85,
+107, 157, 162, 168, 200, 242, 715, 733, 739, 753, 759 et suiv.)
+
+Le père Gérard Dubois raconte aussi, à leurs époques, dans l'Histoire de
+l'Église de Paris, les événements de la vie d'Abélard. (_Gerardi Dubois
+aurelianensis Historia Ecclesia parisiensis_, 2 vol. in-folio, 1690, t.
+I, lib. XI, cap. II, p. 709, etc.; cap. VII, p. 774, etc; t. II, lib.
+XII, cap. VII, p. 64 et 178, etc.)
+
+Jacques Thomasius a écrit une vie d'Abélard où il y a de l'érudition et
+des erreurs. (_Petri Abelardi vita in Hist. sapient. et stult. a Christ.
+Thomasio_, t. 1, p. 75-142, 1693, Hal. Magdeb.)
+
+Citons encore Dupin, dans sa Bibliothèque des auteurs ecclésiastiques.
+(_Hist. des controv. et des mat. ecclésiast. traitées dans le XIIe
+siècle_, 1696, chap. VII, p. 360, etc., 392 à 412.)
+
+Le père Noël Alexandre. (_Natalis Alexandri Historia ecclesiastica_, 7
+vol. in-folio, 1699, t. VI, dissertat, VII, p. 787 et seq.)
+
+L'abbé Fleury. (_Histoire ecclésiastique_, liv. LXVII et LXVIII, p. 307,
+etc., p. 406, etc., p. 547, etc., du t. XIV de l'édition in-4°.)
+
+Casimir Oudin. (_Commentarius de scriptoribus Ecclesioe antiquis_, 3
+vol. in-folio, 1723, t. II, sect. XII, p. 1160 et seq.)
+
+Dom Remy Ceillier. (_Histoire générale des auteurs sacrés et
+ecclésiastiques_, Paris, 1729, 23 vol. in-4°, t. XXII, chap. X, p.
+484-494.)
+
+Le père Longueval, jésuite. (_Histoire de l'Église gallicane_, Paris,
+1730-49, 18 vol. in-4°, t. VIII, liv. XXIII, p. 350 et suiv., 414 et
+suiv; t. IX, liv. XXV, p. 22 et suiv.)
+
+Dom Guy Alexis Lobineau, dans son _Histoire générale de Bretagne_, 2
+vol. in-folio, 1707, t. I, liv. V, p. 139 et suiv. C'est un récit assez
+complet, écrit avec modération et bienveillance, et que je regarde comme
+la base des récits postérieurs.
+
+Dom Hyacinthe Morice, dans l'ouvrage qui porte le même titre; autre
+récit plus sommaire et dans le même esprit. (_Hist. gén. de Bret_., 5
+vol. in-folio, 1744, t. I, liv. II, p. 96 et suiv.)
+
+Baronius, et surtout son commentateur Pagi, dans ses notes. (_Annales
+ecclesiastici_, 43 vol. in-folio; Lucques, 1738-57, t. XVIII. Voyez le
+texte à l'an 1140 et les notes aux années 1113, 1121, 1129, 1131, 1140
+et 1142.)
+
+On peut citer également l'_Histoire de la ville de Paris_, par les pères
+Félibien et Lobineau (5 vol. in-folio, 1725, t. I, liv. III et
+IV); l'article _Abélard_ du _Dictionnaire universel des sciences
+ecclésiastiques_, par le révérend père Richard (6 vol. in-folio, 1760),
+et le § II du liv. I de l'_Histoire de l'Université de Paris_, par
+Crevier. (T. I, p. 111-193, 7 vol. in-12; Paris, 1761.)
+
+Le père Niceron a publié une vie d'Abélard qui n'est guère que l'analyse
+de celle de D. Gervaise. (_Mémoires pour servir à l'histoire des hommes
+illustres dans la république des lettres_, 42 vol. in-12, 1729, t. IV,
+p. 1 et suiv.)
+
+Mabillon, ou son continuateur Martene, donne, dans les Annales
+bénédictines, une biographie par morceaux détachés qui vaut à beaucoup
+d'égards les précédentes, _Annales ordinis S. Benedicti_. (6 vol.
+in-folio, 1739, t. IV, lib. LXXIII, p. 63 et seq., 84 et seq., 324 et
+seq., 356 et seq., 991, 1085, etc.)
+
+L'article d'Abélard, dans l'Histoire de la philosophie, de Brucker,
+mérite aussi d'être lu, tant pour la critique que pour la biographie.
+(_Jacobi Bruckeri Historia critica philosophiae_, 6 vol. in-4°, Lipsiae,
+1766, t. III, pars II, lib. II, cap. III, sect. II, p. 716, 734, etc.)
+
+Nous ne faisons que mentionner l'histoire d'Abélard par Diderot, dans
+l'article _Scolastique_ de l'_Encyclopédie_.
+
+II.--Parmi les biographies proprement dites, nous citerons
+particulièrement:
+
+_La Vie de Pierre Abeillard, abbé de Saint-Gildas, et celle d'Héloise,
+son épouse_, 2 vol. in-12, 1720, par D. Gervaise (François-Armand). Cet
+ouvrage est intéressant: l'auteur, quoique ancien abbé de la Trappe, est
+un apologiste enthousiaste; le récit est fait avec soin, même avec
+assez d'exactitude quant aux faits essentiels, mais enjolivé de détails
+romanesques. Il est vrai que Gervaise a été accusé par Saint-Simon
+d'avoir eu lui-même une intrigue galante avec une religieuse.
+
+L'article Abélard, dans le Dictionnaire de Moreri, dans le Dictionnaire
+critique de Bayle, ainsi que les articles _Héloïse, Paraclet, Foulque,
+Bérenger, Fr. d'Amboise_.
+
+_The History of the lives of Abeillard and Heloisa_, by the rev. Joseph
+Berington, 2 vol. in-8°, Basil, 1793. Cet ouvrage fort estimé contient,
+avec une biographie étendue, une traduction et le texte des lettres
+d'Héloïse et d'Abélard. Il est intéressant, mais il n'a pas été
+composé d'après les autorités contemporaines, et l'auteur a pris pour
+historiques tous les détails romanesques inventés par D. Gervaise.
+
+_Abailard et Héloïse, avec un aperçu du XIIe siècle_, par F.C. Turlot, 1
+vol. in-8°, 1822.
+
+L'article d'Abélard dans _l'Histoire littéraire de la France_, ainsi
+que celui d'Héloïse. Ces articles ont été rédigés par dom Clément avec
+beaucoup de soin et de critique, mais avec une sévérité qui tombe dans
+l'injustice. Ils ont été réimprimés, l'Académie des inscriptions ayant
+donné une nouvelle édition du volume où ils sont insérés, et M. Daunou
+y a joint quelques notes. (_Histoire littéraire de la France_, t. XII,
+1830, p. 86 et suiv., p. 629 et suiv.)
+
+L'_Essai sur la vie et les écrits d'Abailard et d'Héloïse_, par madame
+Guizot. (oeuvres diverses et inédites de madame Guizot, 1828, t. II, p.
+319.) L'ouvrage qui n'est pas fini est le plus remarquable pour le fond
+des idées et pour les vues qu'il contient; il a été terminé par
+M. Guizot et placé à la tête de l'édition _illustrée_ des Lettres
+d'Abailard et d'Héloïse, traduites par M. Oddoul. (2 vol. in-8°, Paris,
+1839.) Cette dernière édition renferme un assez grand nombre de pièces
+et de témoignages, le spécimen d'un des manuscrits des lettres, quelques
+fragments de MM. de Chateaubriand, Michelet, Quinet, etc.
+
+Les dictionnaires et recueils biographiques, qui tous en général
+contiennent un article _Abélard_. Nous citerons celui de M. d'Eckstein,
+dans l'_Encyclopédie des gens du monde_, t. I; celui de M.P. Leroux,
+dans l'_Encyclopédie nouvelle_, t. I; celui de M. Géruzez, dans le
+_Plutarque français_, t. I; M. Barrière y a donné l'article _Héloïse_.
+
+La traduction des lettres d'Héloïse et d'Abélard, par le bibliophile
+Jacob, insérée dans la Bibliothèque d'élite, in-12, Paris, 1840. Cette
+traduction, fort bien faite, est précédée d'une notice intéressante et
+détaillée qu'on doit à M. Villenave, sous ce titre: Abélard et Héloïse,
+leurs amours, leurs malheurs et leurs ouvrages.
+
+Parmi les anciennes traductions, assez peu remarquables, on ne doit
+conserver que celle de Bussy-Rabutin, réimprimée avec de nombreuses
+compositions poétiques sous ce titre: _Lettres d'Héloïse et d'Abélard_,
+traduites librement d'après les lettres originales latines, par le
+comte de Bussy-Rabutin, avec les imitations en vers par de Beauchamps,
+Colardeau, etc., etc., précédées d'une nouvelle préface par M.E.
+Martineault, in-12, Paris, 1841.
+
+Une biographie universelle publiée en Angleterre contient un bon article
+sur Abélard, _The biographical Dictionary of the Society for the
+diffusion of useful knowledge_, in-8°, t. I, London, 1842.
+
+Les Allemands se sont peu occupés d'Abélard. On cite les deux ouvrages
+suivants, dont nous ne connaissons que des extraits:
+
+F. C. Schlosser, _Abaelard und Dulcin, oder Leben und Meinungen eines
+Schwaermers und eines Philosophen_, in-8°, Gotha, 1807.
+
+Fessler, _Abaelard und Heloisa_, 2 vol. in-8°, Berlin, 1808.
+
+_Abaelard und Heloise oder der Schriftsteller und der Mensch_, par M.
+Feuerbach (Leipzig, 1844), est un mince recueil de pensées détachées qui
+ne m'ont paru avoir aucun rapport avec le titre[1].
+
+[Note 1: Voici au vrai le sens tout allemand de ce titre. Il s'agit
+d'une Comparaison entre la vie littéraire et la vie active. Je crois
+qu'Abélard désigne l'une et Héloïse l'autre. C'est un recueil dont le
+titre revient à peu près à ceci, _l'art et humanité_. Les deux noms
+propres ne se rencontrent pas dans le cours du livre.]
+
+_Abaelard und Heloise. Ihre Briefe und die Leidensgeschichte übersetzt
+und eingeleitet durch eine Darstellung von Abaelards Philosophie und
+seinem Kampf mit der Kirche_, von Moriz Carriere, in-12, Giessen, 1844.
+C'est une traduction des lettres, mais l'auteur l'a fait précéder d'une
+introduction qui se lit avec intérêt, et où il se montre au courant des
+plus récentes publications qui concernent Abélard.
+
+III.--On trouve des renseignements sur les manuscrits d'Abélard, sur ses
+ouvrages inédits, sur la publication de ceux qui sont imprimés, dans le
+_Thésaurus_ de Durand et Martene et dans celui de Pez, aux lieux cités;
+dans Casimir Oudin (t. II, p. 1169); l'_Histoire littéraire_ (t. XII, p.
+103, 129, 134 et 706); Fabricius (_Biblioth. lat. med. et infim. aetat.,
+ed. a P.J. Mansi_, t. V, lib. XV, p. 232 et seq.); Olearius, (_Joann.
+Gotfr. Olearii Biblioth. scriptor. ecclesiast._, t. I, p. 2-4); le
+recueil intitulé: _Historia rei litterariae ordin. S. Benedicti_, par
+Ziegelbauer et Legipontanus (t. I et IV); celui de Guillaume Cave,
+(_Scriptor. ecclesiast. Historia litteraria_, t. II, p. 203); le Voyage
+littéraire de deux bénédictins (part. I, p. 245), et l'Introduction aux
+_Ouvrages inédits d'Abélard_, par M. Cousin.
+
+Les opinions religieuses d'Abélard ont été exposées et discutées par
+d'Amboise, D. Gervaise, Dupin, le père Noèl Alexandre, Oudin, Lobineau,
+Bayle, les éditeurs des deux _Thesaurus_, Mabillon, dans l'édition de
+saint Bernard, son continuateur, dans les Annales bénédictines, l'auteur
+du tome XII de l'_Histoire littéraire_, Duplessis d'Argentré (_Collectio
+judiciorum de novis erroribus_, t. I, p. 49 et seq.), M. Neander et M.
+l'abbé Ratisbonne, chacun dans son _Histoire de saint Bernard_; (l'une
+traduite par M. Th. Vial, 1 vol. in-12, 1842; l'autre, 2 vol. in-12,
+1840, t. II, chap. XXVII, XXVIII et XXIX.)
+
+Les opinions philosophiques d'Abélard ont été incomplètement exposées
+par les divers historiens de la philosophie, qui jusqu'à ces derniers
+temps, ne connaissaient pas ceux de ses ouvrages où elles sont exposées.
+Voyez pourtant, outre Brucker déjà cité, Tennemann (_Geschichte der
+Philosophie_, t. VIII, part. I, chap. V, p. 170, Leipzig, 1810);
+Degerando (Histoire comparée des systèmes de philosophie, t. IV, ch.
+XXVI, p. 397), et la note du commencement du chap. III de notre livre
+II. Mais les doctrines d'Abélard ne commencent à être bien connues que
+depuis l'introduction de M. Cousin (_Ouvr. inéd., ou Fragments philos._,
+t. III). On peut consulter aussi l'ouvrage intitulé: _Études sur
+la philosophie dans le moyen âge_, par M. Rousselot (3 vol. in-8°,
+1840-1842). Il a paru quelques dissertations en Allemagne que nous
+citons en leur lieu.
+
+
+
+
+ABÉLARD.
+
+
+
+LIVRE PREMIER.
+
+
+
+
+
+VIE D'ABÉLARD.
+
+
+
+Lorsqu'on suit, en quittant Nantes, la route de Poitiers, on traverse,
+avant d'arriver à Clisson, un bourg formé d'une longue rue et qui se
+nomme le Pallet. Après les dernières maisons, on aperçoit à gauche
+au-dessus du chemin une église, remarquable seulement par sa simplicité
+et par la vétusté de quelques-unes de ses parties. Derrière cette église
+et sur une hauteur, des restes de murs épais, avec des vestiges de
+fossés, indiquent sous le lierre qui les couvre une ancienne et forte
+construction, et renferment maintenant un carré d'arbustes et de grandes
+herbes, cimetière abandonné où s'élève une vieille croix de pierre parmi
+quelques modestes tombeaux. Ces ruines sont celles de la demeure des
+seigneurs du Pallet, détruite en 1420, lors des guerres qui suivirent
+l'attentat commis sur Jean V, duc de Bretagne, par Marguerite de
+Clisson. C'était là, qu'au XIe siècle, un petit château fortifié
+dominait le bourg, du haut d'une éminence à pic sur l'étroite rivière de
+la Sanguèze, ainsi nommée, dit-on, pour avoir été souvent rougie du
+sang des combattants, au temps des luttes acharnées des Bretons et des
+Anglais.
+
+En 1079, Philippe Ier était roi des Français, et Hoël IV, duc de
+Bretagne, lorsque dans ce bourg et dans ce château, son domaine, un
+personnage noble, Bérenger, eut de sa femme Lucie un fils qu'il nomma
+Pierre[2]. C'était l'aîné de sa famille, qui s'augmenta bientôt de
+plusieurs enfants; ses autres fils s'appelèrent Raoul, peut-être
+Porcaire et Dagobert, et sa fille, Denyse. Le père, avant de prendre le
+métier des armes, avait reçu de l'instruction, et il en conservait un
+tel goût pour les lettres qu'il voulut le transmettre à ses enfants et
+faire précéder par quelques études leur éducation guerrière. L'amour
+qu'il portait à son fils aîné lui inspira des soins particuliers,
+auxquels celui-ci répondit par delà toute espérance. Il annonçait des
+dispositions brillantes. Dans cette vieille Armorique qui passait
+pour devoir son nom de Bretagne à la brutalité de ses habitants, on
+remarquait dès lors une singulière aptitude aux choses qui demandent
+la subtilité de l'esprit, et le jeune Pierre tenait du lieu natal, ou
+plutôt de sa race, une remarquable facilité[3]. Ses progrès furent
+bientôt tels qu'il s'éprit d'une passion vive pour l'étude, et, dans son
+ardeur, il résolut de se consacrer aux lettres tout entier. Renonçant
+à la gloire militaire, et abandonnant à ses frères son héritage et
+son droit d'aînesse, il s'adonna surtout à la philosophie, et dans
+la philosophie, à la science de la dialectique, cet art de la guerre
+intellectuelle dont il préférait à tout les armes, les combats et les
+trophées.
+
+[Note 2: Le Pallet, _Palatium_ (on trouve aussi Palet, Palais,
+Paletz, Palez), est situé à 19 ou 20 kilomètres au sud-est de Nantes,
+sur la route de Chollet et de Poitiers, «oppidum ... ab urbe Nannetica
+versus orientem octo miliariis remotum.» L'église est sur le penchant
+d'une butte, appelée encore la butte d'Abélard. C'est l'ancienne
+chapelle du château, donnée á la commune, comme je l'ai appris du curé
+en 1843, par le dernier seigneur Barin de Froidmanteau, de la même
+famille que les La Galissonnière, dont la résidence se voit à moins
+d'une demi-lieue en avant. Les ruines du château, détruit d'abord en
+1420, puis sous Louis XIII, ou quatre pans de murs, hauts de 1 mètre
+environ, renfermant un carré d'à peu près 30 mètres de côté, passent
+pour la maison d'Abélard, qu'on a dit aussi né dans une autre maison
+plus modeste, démolie il y a sept ou huit ans par M. Dufrêne, procureur
+du roi. Bérenger peut avoir été châtelain du lieu, quoiqu'il fût
+Poitevin, suivant l'unique témoignage d'une des épitaphes d'Abélard (_ex
+Chron. Rich. Pictav._), Namque oritur patre Pictavis et Britone matre,
+ si toutefois on n'a pas fait confusion avec Bérenger de Poitiers, dont
+il sera question plus bas. Mais rien n'empêche de voir en lui l'ancêtre
+de ces seigneurs du Pallet qui, jusqu'au XVe siècle, figurent dans les
+annales de la Bretagne. Son fils est souvent désigné sous le nom de
+_Palatinus_ et quelquefois de _Nannetensis_. (_Ab. Op._, ep. I, p.
+4.--Johan. Saresb. _Policrat_., l. II, c. XXII, et _Metal._, l. I, c. V,
+et l. II, c. X.--_Rec. des Hist. des Gaules_, t. XII, p. 115, et t.
+XIV, p. 303-304.--_Hist. de Bret._, par D. Lobineau, t. I, l. III, p.
+106-107; l. IX, p. 298; l. XIX, p. 651, 1143, 1162 et 1235.--_Abail. et
+Hél._, par Turlot, p. 143.--_Voy. pitt. de Clisson_, par Thienon, pl.
+II et III.--_Notice sur Clisson_, in-18, Nantes, 1841, p.
+7.--Renseignements manuscrits transmis par M. Chaper, préfet de la
+Loire-Inférieure, et par MM. de la Jarriette et Demangeat, de Nantes.)]
+
+[Note 3: C'est Abélard qui dit que _Breton_ vient de _brute_. «
+Brito dictas est quasi brutus. Licet enim non omnes vel soli sint
+stolidi, hoc (_sic_) tamen qui nomen Britonis composuit secundum
+affinitatem nominis bruti, in intentione habuit quod maxima pars
+Britonum fatua esset.» Et on lit, en effet, dans le roman de Brut, que
+  Brutus Apela de Bruto Bretons
+  Les Troyens ses compaignons.
+  (V. 1211 et 1212.)
+Il s'agit, il est vrai, de la Grande-Bretagne, mais elle donna son nom
+à l'Armorique. Les savants pensent que le nom de Bretons vient de
+_Vrezonze_ ou _Brazonce_, les _peints_, les tatoués, comme les _Pictes_
+de l'Angleterre. Cependant l'esprit pénétrant des clercs bretons est
+attesté par Othon de Frisingen, mais i1 veut qu'en toute autre chose que
+les arts (la rhétorique et la dialectique), les Bretons soient presque
+stupides. C'est en faisant allusion à cette subtilité particulière
+qu'Abélard dit de lui même: «Natura terrae meae vel generis animo
+levis.» Car je crois qu'ici _animo levis_ signifie plutôt l'esprit
+prompt que la légèreté du caractère: ce n'est pas l'usage d'Abélard
+de parler modestement de lui-même, et la légèreté n'est pas le défaut
+breton. (Ouvr. inéd. d'Ab. _Dialectic._, p. 222 et 591.--_De Gest. Frid.
+I imper._, l. I, c. XLVII.--_Ab. Op._, ep. I, p. 4.)]
+
+Très-jeune encore, il affronta les chances et les épreuves de cette
+stratégie du raisonnement et de la parole. Il s'y exerça de bonne heure,
+et ses rapides succès lui donnèrent une telle confiance que, quittant la
+maison paternelle, il alla voyager, parcourant les provinces,
+cherchant les maîtres et les adversaires, marchant de controverses en
+controverses, et renouvelant ainsi, sous une autre forme et dans un plus
+vaste espace, la coutume attribuée aux péripatéticiens de discuter en se
+promenant[4]. La philosophie avait alors ses chevaliers errants.
+
+[Note 4: _Ab. Op._, ep. I, p. 4.]
+
+La France ne manquait pas de maîtres et d'écrivains qui cultivaient la
+dialectique. Des sciences qui occupaient les esprits, c'était celle qui
+commençait à faire le plus de bruit et à donner le plus de renommée.
+Elle rivalisait d'importance et presque de pouvoir avec la théologie
+qu'elle servait et inquiétait tour à tour. La grammaire et la rhétorique
+qui, unies à ces deux sciences et à quelques études mathématiques,
+composaient presque tout l'enseignement de l'époque, ne venaient que
+loin après la dialectique dans l'estime des hommes instruits. La
+dialectique, c'était alors la philosophie proprement dite. On l'appelait
+un art, parce qu'on ne l'enseignait pas sans la pratiquer, et que
+l'étude du raisonnement ne va pas sans le besoin d'en montrer les
+ressources, d'en essayer les procédés, d'en éprouver les forces[5]. On
+apprenait, sous le nom de cet art, une grande partie de ce que contient
+la Logique d'Aristote, que l'on connaissait par des traductions
+incomplètes et surtout par l'intermédiaire de Porphyre et de Boèce.
+L'introduction que le premier a jointe aux catégories, c'est-à-dire aux
+prolégomènes de la Logique, faisait corps avec elle; on n'en séparait
+pas les versions et les commentaires du second. Ainsi l'on ne savait la
+dialectique qu'à la condition d'avoir appris tout ce qui regarde les
+cinq voix ou les rapports généraux des idées et des choses entre elles,
+exprimés par les noms de genre, d'espèce, de différence, de propriété et
+d'accident; les catégories ou prédicaments, c'est-à-dire les idées les
+plus générales auxquelles puisse être ramené tout ce que nous savons
+ou pensons des choses; la théorie de la proposition ou les principes
+universels du langage; le raisonnement et la démonstration, ou la
+théorie et les formes du syllogisme; les règles de la division et de la
+définition; la science enfin de la discussion et de la réfutation, ou la
+connaissance du sophisme. En étudiant toutes ces choses, on trouvait,
+chemin faisant, de nombreuses questions qui permettaient de joindre
+l'exemple au précepte; c'étaient des questions d'abord de logique pure,
+puis de physique, de métaphysique, de morale, et souvent de théologie.
+Sur ces questions s'échauffaient les esprits, s'animaient les passions,
+et brillaient ceux qui se livraient à l'enseignement et à la dispute;
+sur ces questions se partageaient les professeurs, les lettrés, les
+écoles, et quelquefois l'Église et le public.
+
+[Note 5: On sait que notre faculté des lettres s'appelait autrefois
+la faculté des arts; d'où le titre de maître ès arts. Le nom d'_artista_
+fut donné dans le XIe siècle aux philosophes, qui à Rome étaient aussi
+appelés [Grec: technikoi], quand ils s'adonnaient à l'enseignement et à
+la controverse. Budaeus, _Observ. select._ XIV et XVI, t. VI, p. 121 et
+130. Hall., 1702.]
+
+A l'époque où le jeune Pierre se mit à courir le pays pour chercher les
+aventures philosophiques, un homme s'était fait dans les écoles une
+grande renommée. C'était Jean Roscelin, né comme lui en Bretagne, et
+chanoine de Compiègne. Ce maître avait trouvé assez répandue cette
+doctrine, qui n'était pas cependant toujours explicite, que les noms
+appelés plus tard abstraits par les grammairiens désignent, pour le
+plus grand nombre, des réalités, tout comme les noms des choses
+individuelles, et que ces réalités, pour être inaccessibles à nos
+perceptions immédiates, n'en sont pas moins les objets sérieux et
+substantiels d'une véritable science. Il combattit cette idée qu'il
+contraignit à se développer et à s'éclaircir; et il soutint que tous les
+noms abstraits, c'est-à-dire tous les noms des choses qui ne sont pas
+des substances individuelles, que par conséquent les noms des espèces et
+des genres qui n'existent point hors des individus qui les composent,
+et les noms des qualités et des parties qui ne peuvent être isolées des
+sujets ou des touts auxquels on les rattache, les unes sans disparaître,
+les autres sans cesser d'être des parties, n'étaient en effet que des
+noms. Puisqu'ils n'étaient pas les désignations de réalités distinctes
+et représentables, ils ne pouvaient être, selon lui, que des produits ou
+des éléments du langage, des mots, des sons, des souffles de la voix,
+_flatus vocis_. Cette doctrine fut appelée la doctrine des noms, le
+système des mots, _sententia vocum_; les historiens de la philosophie
+l'appellent le _nominalisme_[6].
+
+[Note 6: Voyez le l. II de cet ouvrage, c. II, VIII, IX et X.]
+
+Cette doctrine illustra son auteur qui ne l'avait pas inventée tout
+entière, mais qui, la rencontrant en principe dans Aristote, l'avait,
+après Raban-Maur et Jean le Sourd, hardiment poussée à ses extrêmes
+conséquences et rédigée en termes absolus; mais elle compromit le repos
+et la sûreté de Roscelin. L'Église s'était alarmée; saint Anselme, alors
+abbé du Bec en Normandie, en attendant qu'il succédât à Lanfranc dans
+l'archevêché de Cantorbery, et qui jouissait d'un grand crédit comme
+religieux et d'une grande réputation comme philosophe, avait combattu le
+nominalisme, en soutenant à outrance la réalité de ce qu'exprimaient
+les termes abstraits et généraux, ou ce qu'on appelle _la réalité des
+universaux_. Devançant même cette polémique, un concile tenu à Soissons,
+en 1092, avait condamné la doctrine de Roscelin, comme fausse en
+elle-même, et comme incompatible avec le dogme de la Trinité, puisqu'en
+n'attribuant l'existence qu'aux individus, elle annulait celle des trois
+personnes, ou les réalisait en trois essences individuelles, ce qui
+était admettre trois dieux.
+
+Roscelin avait été forcé de s'exiler en Angleterre. On croit que dans
+le cours de ses voyages notre Pierre fut un de ses auditeurs; mais on
+ignore quand il le rencontra. Il est certain qu'il suiv

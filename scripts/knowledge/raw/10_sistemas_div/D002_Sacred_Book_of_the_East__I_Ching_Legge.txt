@@ -1,0 +1,885 @@
+# Sacred Book of the East — I Ching (Legge)
+Author: James Legge
+Category: 10_sistemas_div
+Source: Gutenberg #32449
+Downloaded: 2026-03-08T14:24:12.770984
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+Produced by Juliet Sutherland, S.D., and the Online
+Distributed Proofreading Team at https://www.pgdp.net
+
+
+
+
+
+
+
+
+
+[Transcriber's Note:
+
+
+Page numbers from the original book have been added to asterisks that
+indicate notes in the Appendix (e.g. [*3]) in order to make it easier to
+match them to their corresponding notes. Page 61 has two notes: [*61a]
+and [*61b]. Footnotes are in the same format, without the asterisks
+(e.g. [1], [2])
+
+Please see the end of this book for more detailed notes on the text.]
+
+
+
+
+By Alice M. Bacon
+
+
+IN THE LAND OF THE GODS. 12mo, $1.50.
+
+JAPANESE GIRLS AND WOMEN. 16mo, $1.25. In Riverside Library for Young
+People. 16mo, 75 cents.
+
+_Holiday Edition._ With 12 full-page Illustrations in color and 43
+outline drawings by Japanese artists. Crown 8vo, gilt top, $4.00.
+
+A JAPANESE INTERIOR. 16mo, $1.25. In Riverside School Library. 16mo, 60
+cents, _net_.
+
+  HOUGHTON MIFFLIN COMPANY
+  BOSTON AND NEW YORK
+
+
+
+
+  JAPANESE GIRLS AND
+  WOMEN
+
+  BY
+
+  ALICE MABEL BACON
+
+  _REVISED AND ENLARGED EDITION_
+
+  [Illustration]
+
+  BOSTON AND NEW YORK
+  HOUGHTON MIFFLIN COMPANY
+  The Riverside Press Cambridge
+
+
+  Copyright, 1891, 1902,
+  BY ALICE MABEL BACON.
+
+  _All rights reserved._
+
+
+  To
+
+  STEMATZ, THE MARCHIONESS OYAMA,
+
+  IN THE NAME OF OUR GIRLHOOD'S FRIENDSHIP, UNCHANGED AND
+  UNSHAKEN BY THE CHANGES AND SEPARATIONS OF OUR
+  MATURER YEARS,
+
+  This Volume
+
+  _IS AFFECTIONATELY DEDICATED_.
+
+
+
+
+CONTENTS.
+
+
+  CHAPTER                              PAGE
+
+     I. CHILDHOOD                         1
+
+    II. EDUCATION                        37
+
+   III. MARRIAGE AND DIVORCE             57
+
+    IV. WIFE AND MOTHER                  84
+
+     V. OLD AGE                         119
+
+    VI. COURT LIFE                      138
+
+   VII. LIFE IN CASTLE AND YASHIKI      169
+
+  VIII. SAMURAI WOMEN                   196
+
+    IX. PEASANT WOMEN                   228
+
+     X. LIFE IN THE CITIES              262
+
+    XI. DOMESTIC SERVICE                299
+
+   XII. WITHIN THE HOME                 327
+
+  XIII. TEN YEARS OF PROGRESS           371
+
+        APPENDIX                        423
+
+        INDEX                           473
+
+
+
+
+PREFACE TO REVISED EDITION.
+
+
+In offering a revised edition of a book which has been before the public
+for more than ten years, there is little to say that has not been said
+in the original Preface. The work as published before, however, was
+always, to its author's mind, unfinished, for the reason that a chapter
+on household customs, which was necessary for the completion of the
+plan, had to be omitted because it could not be written in America.
+
+This defect has now been remedied, and the chapter "Within the Home"
+contains the supplementary matter necessary to complete the picture of a
+Japanese woman's life. In addition to this a thorough revision has been
+made of the whole book, and the subjects discussed in each chapter have
+been brought up to date by means of notes in an Appendix. The reader
+will find these notes referred to by asterisks in the text.
+
+Finally, a second supplementary chapter has been added, in which an
+effort has been made to analyze present conditions. From its nature,
+this chapter is only a rapid survey of the progress of ten years. It is
+not easy to write with judgment of conditions actually present. A little
+perspective is necessary to make sure that one sees things in their
+proper proportions. It is therefore with some hesitation that I offer to
+the public the result of two years' experience of the present state of
+affairs. If subsequent events show that my observation has been
+incorrect, I can only say that what I have written has been the
+"Thing-as-I-see-It," and does not lay claim to being the
+"Thing-as-It-is."
+
+In closing, I would thank once more the friends whose names appear in
+the previous Preface, and would add to their number the names of Mr. H.
+Sakurai and Mr. and Mrs. Seijiro Saito, who have rendered me valuable
+aid in gathering material.
+
+                                          A. M. B.
+
+NEW HAVEN, CONNECTICUT,
+   _November, 1902_.
+
+
+
+
+PREFACE TO FIRST EDITION.
+
+
+It seems necessary for a new author to give some excuse for her boldness
+in offering to the public another volume upon a subject already so well
+written up as Japan. In a field occupied by Griffis, Morse, Greey,
+Lowell, and Rein, what unexplored corner can a woman hope to enter? This
+is the question that will be asked, and that accordingly the author must
+answer.
+
+While Japan as a whole has been closely studied, and while much and
+varied information has been gathered about the country and its people,
+one half of the population has been left entirely unnoticed, passed over
+with brief mention, or altogether misunderstood. It is of this neglected
+half that I have written, in the hope that the whole fabric of Japanese
+social life will be better comprehended when the women of the country,
+and so the homes that they make, are better known and understood.
+
+The reason why Japanese home-life is so little understood by foreigners,
+even by those who have lived long in Japan, is that the Japanese, under
+an appearance of frankness and candor, hides an impenetrable reserve in
+regard to all those personal concerns which he believes are not in the
+remotest degree the concerns of his foreign guest. Only life in the home
+itself can show what a Japanese home may be; and only by intimate
+association--such as no foreign man can ever hope to gain--with the
+Japanese ladies themselves can much be learned of the thoughts and daily
+lives of the best Japanese women.
+
+I have been peculiarly fortunate in having enjoyed the privilege of long
+and intimate friendship with a number of Japanese ladies, who have
+spoken with me as freely, and shown the details of their lives to me as
+openly, as if bound by closest ties of kindred. Through them, and only
+through them, I have been enabled to study life from the point of view
+of the refined and intelligent Japanese women, and have found the study
+so interesting and instructive that I have felt impelled to offer to
+others some part of what I have received through the aid of these
+friends. I have, moreover, been encouraged in my work by reading, when
+it was already more than half completed, the following words from
+Griffis's "Mikado's Empire:"--
+
+"The whole question of the position of Japanese women--in history,
+social life, education, employments, authorship, art, marriage,
+concubinage, prostitution, benevolent labor, the ideals of literature,
+popular superstitions, etc.--discloses such a wide and fascinating field
+of inquiry that I wonder no one has as yet entered it."
+
+In closing, I should say that this work is by no means entirely my own.
+It is, in the first place, largely the result of the interchange of
+thought through many and long conversations with Japanese ladies upon
+the topics herein treated. It has also been carefully revised and
+criticised; and many valuable additions have been made to it by Miss Umé
+Tsuda, teacher of English in the Peeresses' School in Tōkyō, and an old
+and intimate friend. Miss Tsuda is at present in this country, on a two
+years' leave, for purposes of further study. She has, amid her many
+duties as a student at Bryn Mawr College, given much time and thought to
+this work; and a large part of whatever value it may possess is due to
+her.
+
+I would say, too, that in the verification of dates, names, and
+historical incidents, I have relied altogether upon Griffis's "Mikado's
+Empire" and Rein's "Japan," knowing that those two authors represent the
+best that has been done by foreigners in the field of Japanese history.
+
+This work also owes much, not only to the suggestions and historical
+aids contained in the "Mikado's Empire," but to Mr. Griffis himself,
+for his careful reading of my manuscript, and for his criticisms and
+suggestions. No greater encouragement can be given to an inexperienced
+author than the helpful criticism of one who has already distinguished
+himself in the same field of labor; and for just such friendly aid my
+warmest thanks are due to Mr. Griffis.
+
+                                          A. M. B.
+
+HAMPTON, VA., _February, 1891_.
+
+
+
+
+JAPANESE GIRLS AND WOMEN.
+
+CHAPTER I.
+
+CHILDHOOD.
+
+
+To the Japanese baby the beginning of life is not very different from
+its beginning to babies in the Western world. Its birth, whether it be
+girl or boy, is the cause of much rejoicing. As boys alone can carry on
+the family name and inherit titles and estates, they are considered of
+more importance, but many parents' hearts are made glad by the addition
+of a daughter to the family circle.
+
+As soon as the event takes place, a special messenger is dispatched to
+notify relatives and intimate friends, while formal letters of
+announcement are sent to those less closely related. All persons thus
+notified must make an early visit to the newcomer, in order to welcome
+it into the world, and must either take with them or send before them
+some present. Toys, pieces of cotton, silk, or crêpe for the baby's
+dress are regarded as suitable; and everything must be accompanied by
+fish or eggs, for good luck. Where eggs are sent, they are neatly
+arranged in a covered box, which may contain thirty, forty, or even one
+hundred eggs.[1] The baby, especially if it be the first one in a
+family, receives many presents in the first few weeks of its life, and
+at a certain time proper acknowledgment must be made and return presents
+sent. This is done when the baby is about thirty days old.
+
+[1] All presents in Japan must be wrapped in white paper, although,
+except for funerals, this paper must have some writing on it, and must
+be tied with a peculiar red and white paper string, in which is inserted
+the _noshi_, or bit of dried fish, daintily folded in a piece of colored
+paper, which is an indispensable accompaniment of every present.
+
+Both baby and mother have a hard time of it for the first few weeks of
+its life. The baby is passed from hand to hand, fussed over, and talked
+to so much by the visitors that come in, that it must think this world a
+trying place. The mother, too, is denied the rest and quiet she needs,
+and wears herself out in the excitement of seeing her friends, and the
+physical exercise of going through, so far as possible, the ceremonious
+bows and salutations that etiquette prescribes.
+
+Before the seventh day the baby receives its name.[2] There is no
+especial ceremony connected with this, but the child's birth must be
+formally registered, together with its name, at the district office of
+registration, and the household keep holiday in honor of the event. A
+certain kind of rice, cooked with red beans, a festival dish denoting
+good fortune, is usually partaken of by the family on the seventh day.
+
+[2] A child is rarely given the name of a living member of the family,
+or of any friend. The father's name, slightly modified, is frequently
+given to a son, and those of ancestors long ago dead are sometimes used.
+One reason for this is probably the inconvenience of similar names in
+the same family, and middle names, as a way of avoiding this difficulty,
+are unknown. The father usually names the child, but some friend or
+patron of the family may be asked to do it. Names of beautiful objects
+in nature, such as Plum, Snow, Sunshine, Lotos, Gold, are commonly used
+for girls, while boys of the lower classes often rejoice in such
+appellations as Stone, Bear, Tiger, etc. To call a child after a person
+would not be considered any especial compliment.[*3]
+
+The next important event in the baby's life is the _miya mairi_, a
+ceremony which corresponds roughly with our christening. On the
+thirtieth day after birth,[*4] the baby is taken for its first visit to
+the temple. For this visit great preparations are made, and the baby is
+dressed in finest silk or crêpe, gayly figured,--garments made
+especially for the occasion. Upon the dress appears in various places
+the crest of the family, as on all ceremonial dresses, whether for young
+or old, for every Japanese family has its crest. Thus arrayed, and
+accompanied by members of the family, the young baby is carried to one
+of the Shinto temples, and there placed under the protection of the
+patron deity of the temple. This god, chosen from a great number of
+Shinto deities, is supposed to become the special guardian of the child
+through life. Offerings are made to the god and to the priest, and a
+blessing is obtained; and the baby is thus formally placed under the
+care of a special deity. This ceremony over, there is usually an
+entertainment of some kind at the home of the parents, especially if the
+family be one of high rank. Friends are invited, and if there are any
+who have not as yet sent in presents, they may give them at this time.
+
+It is usually on this day that the family send to their friends some
+acknowledgment of the presents received. This sometimes consists of the
+red bean rice, such as is prepared for the seventh day celebration, and
+sometimes of cakes of _mochi_, or rice paste. A letter of thanks usually
+accompanies the return present. If rice is sent, it is put in a handsome
+lacquered box, the box placed on a lacquered tray, and the whole covered
+with a square of crêpe or silk, richly decorated. The box, the tray, and
+the cover are of course returned, and, curious to say, the box must be
+returned unwashed, as it would be very unlucky to send it back clean. A
+piece of Japanese paper must be slipped into the box after its contents
+have been removed, and box and tray must be given back, just as they
+are, to the messenger. Sometimes a box of eggs, or a peculiar kind of
+dried fish, called _katsuobushi_, is sent with this present, when it is
+desired to make an especially handsome return. When as many as fifty or
+one hundred return presents of this kind are to be sent, it is no slight
+tax on the mistress of the house to see that no one is forgotten, and
+that all is properly done. As special messengers are sent, a number of
+men are sometimes kept busy for two or three days.
+
+After all these festivities, a quiet, undisturbed life begins for the
+baby,--a life which is neither unpleasant nor unhealthful. It is not
+jolted, rocked, or trotted to sleep; it is allowed to cry if it chooses,
+without anybody's supposing that the world will come to an end because
+of its crying; and its dress is loose and easily put on, so that very
+little time is spent in the tiresome process of dressing and undressing.
+Under these conditions the baby thrives and grows strong and fat; learns
+to take life with some philosophy, even at a very early age; and is not
+subject to fits of hysterical or passionate crying, brought on by much
+jolting or trotting, or by the wearisome process of pinning, buttoning,
+tying of strings, and thrusting of arms into tight sleeves.
+
+The Japanese baby's dress, though not as pretty as that of our babies,
+is in many ways much more sensible. It consists of as many wide-sleeved,
+straight, silk, cotton, or flannel garments as the season of the year
+may require,--all cut after nearly the same pattern, and that pattern
+the same in shape as the grown-up _kimono_. These garments are fitted,
+one inside of the other, before they are put on; then they are laid down
+on the floor and the baby is laid into them; a soft belt, attached to
+the outer garment or dress, is tied around the waist, and the baby is
+dressed without a shriek or a wail, as simply and easily as possible.
+The baby's dresses, like those of our babies, are made long enough to
+cover the little bare feet; and the sleeves cover the hands as well, so
+preventing the unmerciful scratching that most babies give to their
+faces, as well as keeping the hands warm and dry.
+
+Babies of the lower classes, within a few weeks after birth, are carried
+about tied upon the back of some member of the family, frequently an
+older sister or brother, who is sometimes not more than five or six
+years old. The poorer the family, the earlier is the young baby thus put
+on some one's back, and one frequently sees babies not more than a month
+old, with bobbing heads and blinking eyes, tied by long bands of cloth
+to the backs of older brothers or sisters, and living in the streets in
+all weathers. When it is cold, the sister's _haori_, or coat, serves as
+an extra covering for the baby as well; and when the sun is hot, the
+sister's parasol keeps off its rays from the bobbing bald head.[*8]
+Living in public, as the Japanese babies do, they soon acquire an
+intelligent, interested look, and seem to enjoy the games of the elder
+children, upon whose backs they are carried, as much as the players
+themselves. Babies of the middle classes do not live in public in this
+way, but ride about upon the backs of their nurses until they are old
+enough to toddle by themselves, and they are not so often seen in the
+streets; as few but the poorest Japanese, even in the large cities, are
+unable to have a pleasant bit of garden in which the children can play
+and take the air. The children of the richest families, the nobility,
+and the imperial family, are never carried about in this way. The young
+child is borne in the arms of an attendant, within doors and without;
+but as this requires the care of some one constantly, and prevents the
+nurse from doing anything but care for the child, only the richest can
+afford this luxury. With the baby tied to her back, a woman is able to
+care for a child, and yet go on with her household labors, and baby
+watches over mother's or nurse's shoulder, between naps taken at all
+hours, the processes of drawing water, washing and cooking rice, and all
+the varied work of the house. Imperial babies are held in the arms of
+some one night and day, from the moment of birth until they have learned
+to walk, a custom which seems to render the lot of the high-born infant
+less comfortable in some ways than that of the plebeian child.
+
+The flexibility of the knees, which is required for comfort in the
+Japanese method of sitting, is gained in very early youth by the habit
+of setting a baby down with its knees bent under it, instead of with its
+legs out straight before it, as seems to us the natural way. To the
+Japanese, the normal way for a baby to sit is with its knees bent under
+it, and so, at a very early age, the muscles and tendons of the knees
+are accustomed to what seems to us a most unnatural and uncomfortable
+posture.[3]
+
+[3] That the position of the Japanese in sitting is really unnatural and
+unhygienic, is shown by recent measurements taken by the surgeons of the
+Japanese army. These measurements prove that the small stature of the
+Japanese is due largely to the shortness of the lower limbs, which are
+out of proportion to the rest of the body. The sitting from early
+childhood upon the legs bent at the knee, arrests the development of
+that part of the body, and produces an actual deformity in the whole
+nation. This deformity is less noticeable among the peasants, who stand
+and walk so much as to secure proper development of the legs; but among
+merchants, literary men, and others of sedentary habits, it is most
+plainly to be seen. The introduction of chairs and tables, as a
+necessary adjunct of Japanese home life, would doubtless in time alter
+the physique of the Japanese as a people.
+
+Among the lower classes, where there are few bathing facilities in the
+houses, babies of a few weeks old are often taken to the public bath
+house and put into the hot bath. These Japanese baths are usually heated
+to a temperature of a hundred to a hundred and twenty Fahrenheit,--a
+temperature that most foreigners visiting Japan find almost unbearable.
+To a baby's delicate skin, the first bath or two is usually a severe
+trial, but it soon becomes accustomed to the high temperature, and takes
+its bath, as it does everything else, placidly and in public. Born into
+a country where cow's milk is never used, the Japanese baby is wholly
+dependent upon its mother for milk,[4] and is not weaned entirely until
+it reaches the age of three or four years, and is able to live upon the
+ordinary food of the class to which it belongs. There is no intermediate
+stage of bread and milk, oatmeal and milk, gruel, or pap of some kind;
+for the all-important factor--milk--is absent from the bill of fare, in
+a land where there is neither "milk for babes" nor "strong meat for them
+that are full of age."
+
+[4] Sometimes, in the old days, rice water was given to babies instead
+of milk, but it was nearly impossible to bring up a baby on this alone.
+Now both fresh and condensed milk are used, where the mother's milk is
+insufficient, but only in those parts of Japan where the foreign
+influence is felt.[*11]
+
+In consequence, partly, of the lack of proper nourishment after the
+child is too old to live wholly upon its mother's milk, and partly,
+perhaps, because of the poor food that the mothers, even of the higher
+classes, live upon, many babies in Japan are afflicted with disagreeable
+skin troubles, especially of the scalp and face,--troubles which usually
+disappear as soon as the child becomes accustomed to the regular food of
+the adult. Another consequence, as I imagine, of the lack of proper
+food at the teething period, is the early loss of the child's first
+teeth, which usually turn black and decay some time before the second
+teeth begin to show themselves. With the exception of these two
+troubles, Japanese babies seem healthy, hearty, and happy to an
+extraordinary degree, and show that most of the conditions of their
+lives are wholesome. The constant out-of-door life and the healthful
+dress serve to make up in considerable measure for the poor food, and
+the Japanese baby, though small after the manner of the race, is usually
+plump, and of firm, hard flesh. One striking characteristic of the
+Japanese baby is, that at a very early age it learns to cling like a
+kitten to the back of whoever carries it, so that it is really difficult
+to drop it through carelessness, for the baby looks out for its own
+safety like a young monkey. The straps that tie it to the back are
+sufficient for safety; but the baby, from the age of one month, is
+dependent upon its own exertions to secure a comfortable position, and
+it soon learns to ride its bearer with considerable skill, instead of
+being merely a bundle tied to the shoulders. Any one who has ever
+handled a Japanese baby can testify to the amount of intelligence shown
+in this direction at a very early age; and this clinging with arms and
+legs is, perhaps, a valuable part of the training which gives to the
+whole nation the peculiar quickness of motion and hardness of muscle
+that characterize them from childhood. It is the agility and muscular
+quality that belong to wild animals, that we see something of in the
+Indian, but to a more marked degree in the Japanese, especially of the
+lower classes.
+
+The Japanese baby's first lessons in walking are taken under favorable
+circumstances. With feet comfortably shod in the soft _tabi_, or
+mitten-like sock, babies can tumble about as they like, with no bump nor
+bruise, upon the soft matted floors of the dwelling houses. There is no
+furniture to fall against, and nothing about the room to render falling
+a thing to be feared. After learning the art of walking in the house,
+the baby's first attempts out of doors are hampered by the _zori_ or
+_géta_,--a light straw sandal or small wooden clog attached to the foot
+by a strap passing between the toes. At the very beginning the sandal
+or clog is tied to the baby's foot by bits of string fastened around the
+ankle, but this provision for security is soon discarded, and the baby
+patters along like the grown people, holding on the _géta_ by the strap
+passing between the toes. This somewhat cumbersome and inconvenient foot
+gear must cause many falls at first, but baby's experience in the art of
+balancing upon people's backs now aids in this new art of balancing upon
+the little wooden clogs. Babies of two or three trot about quite
+comfortably in _géta_ that seem to give most insecure footing, and older
+children run, jump, hop on one foot, and play all manner of active games
+upon heavy clogs that would wrench our ankles and toes out of all
+possibility of usefulness. This foot gear, while producing an awkward,
+shuffling gait, has certain advantages over our own, especially for
+children whose feet are growing rapidly. The _géta_, even if outgrown,
+can never cramp the toes nor compress the ankles. If the foot is too
+long for the clog the heel laps over behind, but the toes do not suffer,
+and the use of the _géta_ strengthens the ankles by affording no
+artificial aid or support, and giving to all the muscles of foot and
+leg free play, with the foot in a natural position. The toes of the
+Japanese retain their prehensile qualities to a surprising degree, and
+are used, not only for grasping the foot gear, but among mechanics
+almost like two supplementary hands, to aid in holding the thing worked
+upon. Each toe knows its work and does it, and they are not reduced to
+the dull uniformity of motion that characterizes the toes of a
+leather-shod nation.
+
+The distinction between the dress of the boy and the girl, that one
+notices from childhood, begins in babyhood. A very young baby wears red
+and yellow, but soon the boy is dressed in sober colors,--blues, grays,
+greens, and browns; while the little girl still wears the most gorgeous
+of colors and the largest of patterns in her garments, red being the
+predominant hue. The sex, even of a young baby, may be distinguished by
+the color of its clothing. White, the garb of mourning in Japan, is
+never used for children, but the minutest babies are dressed in
+bright-colored garments, and of the same materials--wadded cotton, silk,
+or crêpe--as those worn by adults of their social grade. As these
+dresses are not as easily washed as our own cambric and flannel baby
+clothes, there is a loss among the poorer classes in the matter of
+cleanliness; and the gorgeous soiled gowns are not as attractive as the
+more washable white garments in which our babies are dressed. For model
+clothing for a baby, I would suggest a combination of the Japanese style
+with the foreign, easily washed materials,--a combination that I have
+seen used in their own families by Japanese ladies educated abroad, and
+one in which the objections to the Japanese style of dress are entirely
+obviated.
+
+The Japanese baby begins to practice the accomplishment of talking at a
+very early age, for its native language is singularly happy in easy
+expressions for children; and little babies will be heard chattering
+away in soft, easily spoken words long before they are able to venture
+alone from their perches on their mothers' or nurses' backs. A few
+simple words express much, and cover all wants. _Iya_ expresses
+discontent or dislike of any kind, and is also used for "no"; _mam ma_
+means food; _bé bé_ is the dress; _ta ta_ is the sock, or house shoe,
+etc. We find many of the same sounds as in the baby language of
+English, with meanings totally different. The baby is not troubled with
+difficult grammatical changes, for the Japanese language has few
+inflections; and it is too young to be puzzled with the intricacies of
+the various expressions denoting different degrees of politeness, which
+are the snare and the despair of the foreigner studying Japanese.
+
+As our little girl emerges from babyhood she finds the life opening
+before her a bright and happy one, but one hedged about closely by the
+proprieties, and one in which, from babyhood to old age, she must expect
+to be always under the control of one of the stronger sex. Her position
+will be an honorable and respected one only as she learns in her youth
+the lesson of cheerful obedience, of pleasing manners, and of personal
+cleanliness and neatness. Her duties must be always either within the
+house, or, if she belongs to the peasant class, on the farm. There is no
+career or vocation open to her: she must be dependent always upon either
+father, husband, or son, and her greatest happiness is to be gained, not
+by cultivation of the intellect, but by the early acquisition of the
+self-control which is expected of all Japanese women to an even greater
+degree than of the men. This self-control must consist, not simply in
+the concealment of all the outward signs of any disagreeable
+emotion,--whether of grief, anger, or pain,--but in the assumption of a
+cheerful smile and agreeable manner under even the most distressing of
+circumstances. The duty of self-restraint is taught to the little girls
+of the family from the tenderest years; it is their great moral lesson,
+and is expatiated upon at all times by their elders. The little girl
+must sink herself entirely, must give up always to others, must never
+show emotions except such as will be pleasing to those about her: this
+is the secret of true politeness, and must be mastered if the woman
+wishes to be well thought of and to lead a happy life. The effect of
+this teaching is seen in the attractive but dignified manners of the
+Japanese women, and even of the very little girls. They are not forward
+nor pushing, neither are they awkwardly bashful; there is no
+self-consciousness, neither is there any lack of _savoir faire_; a
+childlike simplicity is united with a womanly consideration for the
+comfort of those around them. A Japanese child seems to be the product
+of a more perfect civilization than our own, for it comes into the world
+with little of the savagery and barbarian bad manners that distinguish
+children in this country, and the first ten or fifteen years of its life
+do not seem to be passed in one long struggle to acquire a coating of
+good manners that will help to render it less obnoxious in polite
+society. How much of the politeness of the Japanese is the result of
+training, and how much is inherited from generations of civilized
+ancestors, it is difficult to tell; but my impression is, that babies
+are born into the world with a good start in the matter of manners, and
+that the uniformly gentle and courteous treatment that they receive from
+those about them, together with the continual verbal teaching of the
+principle of self-restraint and thoughtfulness of others, produce with
+very little difficulty the universally attractive manners of the people.
+One curious thing in a Japanese household is to see the formalities that
+pass between brothers and sisters, and the respect paid to age by every
+member of the family. The grandfather and grandmother come first of all
+in everything,--no one at table must be helped before them in any case;
+after them come the father and mother; and lastly, the children
+according to their ages. A younger sister must always wait for the elder
+and pay her due respect, even in the matter of walking into the room
+before her. The wishes and convenience of the elder, rather than of the
+younger, are to be consulted in everything, and this lesson must be
+learned early by children. The difference in years may be slight, but
+the elder-born has the first right in all cases.
+
+Our little girl's place in the family is a pleasant one: she is the pet
+and plaything of father and elder brothers, and she is never saluted by
+any one in the family, except her parents, without the title of respect
+due to her position. If she is the eldest daughter, to the servants she
+is _O Jō Sama_, literally, young lady; to her own brothers and sisters,
+_Né San_, elder sister. Should she be one of the younger ones, her given
+name, preceded by the honorific _O_ and followed by _San_, meaning Miss,
+will be the name by which she will be called by younger brothers and
+sisters, and by the servants. As she passes from babyhood to girlhood,
+and from girlhood to womanhood, she is the object of much love and care
+and solicitude; but she does not grow up irresponsible or untrained to
+meet the duties which womanhood will surely bring to her. She must learn
+all the duties that fall upon the wife and mother of a Japanese
+household, as well as obtain the instruction in books and mathematics
+that is coming to be more and more a necessity for the women of Japan.
+She must take a certain responsibility in the household; must see that
+tea is made for the guests who may be received by her parents,--in all
+but the families of highest rank, must serve it herself. Indeed, it is
+quite the custom in families of the higher classes, should a guest, whom
+it is desired to receive with especial honor, dine at the house, to
+serve the meal, not with the family, but separately for the father and
+his visitor; and it is the duty of the wife or daughter, oftener the
+latter, to wait on them. This is in honor of the guest, not on account
+of the lack of servants, for there may be any number of them within
+call, or even in the back part of the room, ready to receive from the
+hands of the young girl what she has removed. She must, therefore, know
+the proper etiquette of the table, how to serve carefully and neatly,
+and, above all, have the skill to ply the _saké_ bottle, so that the
+house may keep up its reputation for hospitality. Should guests arrive
+in the absence of her parents, she must receive and entertain them until
+the master or mistress of the house returns. She also feels a certain
+care about the behavior of the younger members of the family, especially
+in the absence of the parents. In these various ways she is trained for
+taking upon herself the cares of a household when the time comes. In all
+but the very wealthiest and most aristocratic families, the daughters of
+the house do a large part of the simple housework. In a house with no
+furniture, no carpets, no bric-à-brac, no mirrors, picture frames or
+glasses to be cared for, no stoves or furnaces, no windows to wash, a
+large part of the cooking to be done outside, and no latest styles to be
+imitated in clothing, the amount of work to be done by women is
+considerably diminished, but still there remains enough to take a good
+deal of time. Every morning there are the beds to be rolled up and
+stored away in the closet, the mosquito nets to be taken down, the rooms
+to be swept, dusted, and aired before breakfast. Besides this, there is
+the washing and polishing of the _engawa_, or piazza, which runs around
+the outside of a Japanese house between the _shoji_, or paper screens
+that serve as windows, and the _amado_, or sliding shutters, that are
+closed only at night, or during heavy, driving rains. Breakfast is to be
+cooked and served, dishes to be washed (in cold water); and then perhaps
+there is marketing to be done, either at shops outside or from the
+vendors of fish and vegetables who bring their huge baskets of
+provisions to the door; but after these duties are performed, it is
+possible to sit down quietly to the day's work of sewing, studying, or
+whatever else may suit the taste or necessities of the housewife. Of
+sewing there is always a good deal to be done, for many Japanese dresses
+must be taken to pieces whenever they are washed, and are turned, dyed,
+and made over again and again, so long as there is a shred of the
+original material left to work upon. There is washing, too, to be done,
+although neither with hot water nor soap; and in the place of ironing,
+the cotton garments, which are usually washed without ripping, must be
+hung up on a bamboo pole passed through the armholes, and pulled smooth
+and straight before they dry; and the silk, always ripped into breadths
+before washing, must be smoothed while wet upon a board which is set in
+the sun until the silk is dry.
+
+Then there are the every day dishes which our Japanese maiden must learn
+to prepare. The proper boiling of rice is in itself a study. The
+construction of the various soups which form the staple in the Japanese
+bill of fare; the preparation of _mochi_, a kind of rice dough, which is
+prepared at the New Year, or to send to friends on various festival
+occasions: these and many other branches of the culinary art must be
+mastered before the young girl is prepared to assume the cares of
+married life.
+
+But though the little girl's life is not without its duties and
+responsibilities, it is also not at all lacking in simple and innocent
+pleasures.[*24] First among the annual festivals, and bringing with it
+much mirth and frolic, comes the Feast of the New Year. At this time
+father, mother, and all older members of the family lay aside their work
+and their dignity, and join in the fun and sports that are
+characteristic of this season. Worries and anxieties are set aside with
+the close of the year, and the first beams of the New Year's sun bring
+in a season of unlimited joy for the children. For about one week the
+festival lasts, and the festal spirit remains through the whole month,
+prompting to fun and amusements of all kinds. From early morning until
+bedtime the children wear their prettiest clothes, in which they play
+without rebuke. Guests come and go, bringing congratulations to the
+family, and often gifts for all. The children's stock of toys is thus
+greatly increased, and the house overflows with the good things of the
+season, of which _mochi_, or cake made from rice dough, prepared always
+especially for this time, is one of the most important articles.
+
+The children are taken with their parents to make New Year's visits to
+their friends and to offer them congratulations, and much they enjoy
+this, as, dressed in their best, they ride from house to house in
+_jinrikishas_.[5]
+
+[5] _Jinrikisha_, or _kuruma_, a small, light carriage, usually with a
+broad top, which is drawn by a man. The _jinrikisha_ is the commonest of
+all vehicles now in use in Japan. _Jinrikisha_-man and _kurumaya_ are
+terms commonly used for the runner who draws the carriage.
+
+And then, during the long, happy evenings, the whole family, including
+even the old grandfather and grandmother, join in merry games; the
+servants, too, are invited to join the family party, and, without
+seeming forward or out of place, enter into the games with zest. One of
+the favorite games is "_Hyaku nin isshu_," literally "The poems of a
+hundred poets." It consists of two hundred cards, on each of which is
+printed either the first or last half of one of the hundred famous
+Japanese poems which give the name to the game. The poems are well known
+to all Japanese, of whatever sort or condition. All Japanese poems are
+short, containing only thirty-one syllables, and have a natural division
+into two parts. The one hundred cards containing the latter halves of
+the poems are dealt and laid out in rows, face upward, before the
+players. One person is appointed reader. To him are given the remaining
+hundred cards, and he reads the beginnings of the poems in whatever
+order they come from the shuffled pack. Skill in the game consists in
+remembering quickly the line following the one read, and rapidly finding
+the card on which it is written. Especially does the player watch his
+own cards, and if he finds there the end of the poem, the beginning of
+which has just been read, he must pick it up before any one sees it and
+lay it aside. If some one else spies the card first, he seizes it and
+gives to the careless player several cards from his own hand. Whoever
+first disposes of all his cards is the winner. The players usually
+arrange themselves in two lines down the middle of the room, and the two
+sides play against each other, the game not being ended until either one
+side or the other has disposed of all its cards. The game requires great
+quickness of thought and of motion, and is invaluable in giving to all
+young people an education in the classical poetry of their own nation,
+as well as being a source of great merriment and jollity among young and
+old.
+
+Scattered throughout the year are various flower festivals, when, often
+with her whole family, our little girl visits the famous gardens where
+the plum, the cherry, the chrysanthemum, the iris, or the azalea attain
+their greatest loveliness, and spends the day out of doors in æsthetic
+enjoyment of the beauties of nature supplemented by art. And then there
+is the feast most loved in the whole year, the Feast of Dolls, when on
+the third day of the third month the great fire-proof storehouse gives
+forth its treasures of dolls,--in an old family, many of them hundreds
+of years old,--and for three days, with all their belongings of tiny
+furnishings in silver, lacquer, and porcelain, they reign supreme,
+arranged on red-covered shelves in the finest room of the house. Most
+prominent among the dolls are the effigies of the Emperor and Empress in
+antique court costume, seated in dignified calm, each on a lacquered
+dais. Near them are the figures of the five court musicians in their
+robes of office, each with his instrument. Beside these dolls, which are
+always present and form the central figures at the feast, numerous
+others, more plebeian, but more lovable, find places on the lower
+shelves, and the array of dolls' furnishings which is brought out on
+these occasions is something marvelous. It was my privilege to be
+present at the Feast of Dolls in the house of one of the _Tokugawa
+daimiōs_, a house in which the old forms and ceremonies were strictly
+observed, and over which the wave of foreign innovation had passed so
+slightly that even the calendar still remained unchanged, and the feast
+took place upon the third day of the third month of the old Japanese
+year, instead of on the third day of March, which is the usual time for
+it now. At this house, where the dolls had been accumulating for
+hundreds of years, five or six broad, red-covered shelves, perhaps
+twenty feet long or more, were completely filled with them and with
+their belongings. The Emperor and Empress appeared again and again, as
+well as the five court musicians, and the tiny furnishings and utensils
+were wonderfully costly and beautiful. Before each Emperor and Empress
+was set an elegant lacquered table service,--tray, bowls, cups, _saké_
+pots, rice buckets, etc., all complete; and in each utensil was placed
+the appropriate variety of food. The _saké_ used on this occasion is a
+sweet, white liquor, brewed especially for this feast, as different from
+the ordinary _saké_ as sweet cider is from the hard cider upon which a
+man may drink himself into a state of intoxication.[*30] Besides the
+table service, everything that an imperial doll can be expected to need
+or desire is placed upon the shelves. Lacquered _norimono_, or
+palanquins; lacquered bullock carts, drawn by bow-legged black
+bulls,--these were the conveyances of the great in Old Japan, and these,
+in minute reproductions, are placed upon the red-covered shelves. Tiny
+silver and brass _hibachi_, or fire boxes, are there, with their
+accompanying tongs and charcoal baskets,--whole kitchens, with
+everything required for cooking the finest of Japanese feasts, as finely
+made as if for actual use; all the necessary toilet apparatus,--combs,
+mirrors, utensils for blackening the teeth, for shaving the eyebrows,
+for reddening the lips and whitening the face,--all these things are
+there to delight the souls of all the little girls who may have the
+opportunity to behold them. For three days the imperial effigies are
+served sumptuously at each meal, and the little girls of the family
+take pleasure in serving their imperial majesties; but when the feast
+ends, the dolls and their belongings are packed away in their boxes, and
+lodged in the fire-proof warehouse for another year.
+
+The Tokugawa collection, of which I have spoken, is remarkably full and
+costly, for it has been making for hundreds of years in one of the
+younger branches of a family which for two and a half centuries was
+possessed of almost imperial power, and lived in more than imperial
+luxury; but there are few households so poor that they do not from year
+to year accumulate a little store of toys wherewith to celebrate the
+feast, and, whether the toys are many or few, the feast is the event of
+the year in the lives of the little girls of Japan.[*31]
+
+Beside the regular feasts at stated seasons, our little girl has a great
+variety of toys and games, some belonging to particular seasons, some
+played at any time during the year. At the New Year the popular
+out-of-door games are battledoor and shuttlecock, and ball. There is no
+prettier sight, to my mind, than a group of little girls in their
+many-colored wide-sleeved dresses playing with battledoor or ball. The
+graceful, rhythmic motion of their bodies, the bright upturned eyes, the
+laughing faces, are set off to perfection by the coloring of their
+flowing drapery; and their agility on their high, lacquered clogs is a
+constant source of wonder and admiration to any one who has ever made an
+effort to walk upon the clumsy things. There are dolls, too, that are
+not relegated to the storehouse when the Feast of Dolls is ended, but
+who are the joy and comfort of their little mothers during the whole
+year; and at every _kwan-ko-ba_, or bazaar, an endless variety of games,
+puzzles, pictures to be cut out and glued together, and amusements of
+all kinds, may be purchased at extremely low rates. There is no dearth
+of games for our little girl, and many pleasant hours are spent in the
+household sitting room with games, or conundrums, or stories, or the
+simple girlish chatter that elicits constant laughter from sheer
+youthful merriment.
+
+As for fairy tales, so dear to the hearts of children in every country,
+the Japanese child has her full share. Often she listens, half asleep,
+while cuddling under the warm quilted cover of the _kotatsu_,[6] in the
+cold winter evenings, to the drowsy voice of the old grandmother or
+nurse, who carries her away on the wings of imagination to the wonderful
+palace of the sea gods, or to the haunts of the terrible _oni_, monsters
+with red, distorted faces and fearful horns. Momotaro, the Peach Boy,
+with his wonderful feats in the conquest of the _oni_, is her hero,
+until he is supplanted by the more real ones of Japanese history.
+
+[6] _Kotatsu_, a charcoal fire in a brazier or a small fireplace in the
+floor, over which a wooden frame is set and the whole covered by a
+quilt. The family sit about it in cold weather with the quilt drawn up
+over the feet and knees.
+
+There are occasional all-day visits to the theatre, too, where, seated
+on the floor in a box, railed off from those adjoining, our little girl,
+in company with her mother and sisters, enjoys, though with paroxysms of
+horror and fear, the heroic historical plays which are now almost all
+that is left of the heroic old Japan. Here she catches the spirit of
+passionate loyalty that belonged to those days, forms her ideals of what
+a noble Japanese woman should be willing to do for parents or husband,
+and comes away taught, as she could be by no other teaching, what the
+spirit was that animated her ancestors,--what spirit must animate her,
+should she wish to be a worthy descendant of the women of old.
+
+Among these surroundings, with these duties and amusements, our little
+girl grows to womanhood. The unconscious and beautiful spirit of her
+childhood is not driven away at the dawn of womanhood by thoughts of
+beaux, of coming out in society, of a brief career of flirtation and
+conquest, and at the end as fine a marriage, either for love or money,
+as her imagination can picture. She takes no thought for these things
+herself, and her intercourse with young men, though free and
+unconstrained, has about it no grain of flirtation or romantic interest.
+When the time comes for her to marry, her father will have her meet some
+eligible young man, and both she and the young man will know, when they
+are brought together, what is the end in view, and will make up their
+minds about the matter. But until that time comes, the modest Japanese
+maiden carries on no flirtations, thinks little of men except as higher
+beings to be deferred to and waited on, and preserves the childlike
+innocence of manner, combined with a serene dignity under all
+circumstances, that is so noticeable a trait in the Japanese woman from
+childhood to old age.
+
+The Japanese woman is, under this discipline, a finished product at the
+age of sixteen or eighteen. She is pure, sweet, and amiable, with great
+power of self-control, and a knowledge of what to do upon all occasions.
+The higher part of her nature is little developed; no great religious
+truths have lifted her soul above the world into a clearer and higher
+atmosphere; but as far as she goes, in regard to all the little things
+of daily life, she is bright, industrious, sweet-tempered, and
+attractive, and prepared to do well her duty, when that duty comes to
+her, as wife and mother and mistress of a household. The highest
+principle upon which she is taught to act is obedience, even to the
+point of violating all her finest feminine instincts, at the command of
+father or husband; and acting under that principle, she is capable of an
+entire self-abnegation such as few women of any race can achieve.
+
+With the close of her childhood, the happiest period in the life of a
+Japanese woman closes. The discipline that she has received so far,
+repressive and constant as it has often been, has been

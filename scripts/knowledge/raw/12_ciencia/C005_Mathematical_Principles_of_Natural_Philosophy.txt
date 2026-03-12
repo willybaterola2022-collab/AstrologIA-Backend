@@ -1,0 +1,948 @@
+# Mathematical Principles of Natural Philosophy
+Author: Isaac Newton
+Category: 12_ciencia
+Source: Gutenberg #28233
+Downloaded: 2026-03-08T14:25:24.744844
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+Produced by Jonathan Ingram, Keith Edkins and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+Transcriber's note: A few typographical errors have been corrected: they
+are listed at the end of the text.
+
+{Braces} are inserted by the Transcriber to clarify the meaning of maths
+expressions. Overlining is the method of grouping used in the original and
+is marked [=like this]. In Lib. I. Lemma XVIII. & XX. [r] is upright r
+distinguished from italics, in Lemma XVIII. [s] is long-s distinguished
+from short-s, and in Prop. XXII. [D] is small-caps distinguished from
+normal font size.
+
+       *       *       *       *       *
+
+
+PHILOSOPHIÆ
+
+NATURALIS
+
+PRINCIPIA
+
+MATHEMATICA
+
+       *       *       *       *       *
+
+
+Autore _IS. NEWTON_, _Trin. Coll. Cantab. Soc._ Matheseos
+Professore _Lucasiano_, & Societatis Regalis Sodali.
+
+       *       *       *       *       *
+
+
+IMPRIMATUR.
+
+S. PEPYS, _Reg. Soc._ PRÆSES.
+
+_Julii 5. 1686._
+
+       *       *       *       *       *
+
+
+_LONDINI,_
+
+Jussu _Societatis Regiæ_ ac Typis _Josephi Streater_. Prostat apud
+plures Bibliopolas. _Anno_ MDCLXXXVII.
+
+       *       *       *       *       *
+
+
+ILLUSTRISSIMÆ
+
+SOCIETATI REGALI
+
+a Serenissimo
+
+REGE CAROLO II.
+
+AD
+
+PHILOSOPHIAM PROMOVENDAM
+
+FUNDATÆ,
+
+ET AUSPICIIS
+
+POTENTISSIMI MONARCHÆ
+
+JACOBI II.
+
+FLORENTI.
+
+Tractatum hunc humillime _D.D.D._
+
+_IS. NEWTON._
+
+       *       *       *       *       *
+
+
+PRÆFATIO
+
+AD
+
+LECTOREM.
+
+_Cum Veteres _Mechanicam_ (uti Author est _Pappus_) in verum Naturalium
+investigatione maximi fecerint, & recentiores, missis formis
+substantialibus & qualitatibus occultis, Phænomena Naturæ ad leges
+Mathematicas revocare aggressi sint: Visum est in hoc Tractatu _Mathesin_
+excolere quatenus ea ad _Philosophiam_ spectat. _Mechanicam_ vero duplicem
+Veteres constituerunt: _Rationalem_ quæ per Demonstrationes accurate
+procedit, & _Practicam_. Ad practicam spectant Artes omnes Manuales, a
+quibus utiq; _Mechanica_ nomen mutuata est. Cum autem Artifices parum
+accurate operari soleant, fit ut _Mechanica_ omnis a _Geometria_ ita
+distinguatur, ut quicquid accuratum sit ad _Geometriam_ referatur, quicquid
+minus accuratum ad _Mechanicam_. Attamen errores non sunt Artis sed
+Artificum. Qui minus accurate operatur, imperfectior est Mechanicus, & si
+quis accuratissime operari posset, hic foret Mechanicus omnium
+perfectissimus. Nam & Linearum rectarum & Circulorum descriptiones in
+quibus _Geometria_ fundatur, ad _Mechanicam_ pertinent. Has lineas
+describere _Geometria_ non docet sed postulat. Postulat enim ut Tyro easdem
+accurate describere prius didicerit quam limen attingat _Geometriæ_; dein,
+quomodo per has operationes Problemata solvantur, docet. Rectas & circulos
+describere Problemata sunt sed non Geometrica. Ex _Mechanica_ postulatur
+horum solutio, in _Geometria_ docetur solutorum usus. Ac gloriatur
+_Geometria_ quod tam paucis principiis aliunde petitis tam multa præstet.
+Fundatur igitur _Geometria_ in praxi Mechanica, & nihil aliud est quam
+_Mechanicæ universalis_ pars illa quæ artem mensurandi accurate proponit ac
+demonstrat. Cum autem artes Manuales in corporibus movendis præcipue
+versentur, fit ut _Geometria_ ad magnitudinem, _Mechanica_ ad motum vulgo
+reseratur. Quo sensu _Mechanica rationalis_ erit Scientia Motuum qui ex
+viribus quibuscunq; resultant, & virium quæ ad motus quoscunq; requiruntur,
+accurate proposita ac demonstrata. Pars hæc _Mechanicæ_ a Veteribus in
+_Potentiis quinque_ ad artes manuales spectantibus exculta fuit, qui
+Gravitatem (cum potentia manualis non sit) vix aliter quam in ponderibus
+per potentias illas movendis considerarunt. Nos autem non Artibus sed
+Philosophiæ consulentes, deq; potentiis non manualibus sed naturalibus
+scribentes, ea maxime tractamus quæ ad Gravitatem, levitatem, vim
+Elasticam, resistentiam Fluidorum & ejusmodi vires seu attractivas seu
+impulsivas spectant: Et ea propter hæc nostra tanquam Philosophiæ principia
+Mathematica proponimus. Omnis enim Philosophiæ difficultas in eo versari
+videtur, ut a Phænomenis motuum investigemus vires Naturæ, deinde ab his
+viribus demonstremus phænomena reliqua. Et hac spectant Propositiones
+generales quas Libro primo & secundo pertractavimus. In Libro autem tertio
+exemplum hujus rei proposuimus per explicationem Systematis mundani. Ibi
+enim, ex phænomenis cælestibus, per Propositiones in Libris prioribus
+Mathematice demonstratas, derivantur vires gravitatis quibus corpora ad
+Solem & Planetas singulos tendunt. Deinde ex his viribus per Propositiones
+etiam Mathematicas deducuntur motus Planetarum, Cometarum, Lunæ & Maris.
+Utinam cætera Naturæ phænomena ex principiis Mechanicis eodem argumentandi
+genere derivare liceret. Nam multa me movent ut nonnihil suspicer ea omnia
+ex viribus quibusdam pendere posse, quibus corporum particulæ per causas
+nondum cognitas vel in se mutuo impelluntur & secundum figuras regulares
+cohærent, vel ab invicem fugantur & recedunt: quibus viribus ignotis,
+Philosophi hactenus Naturam frustra tentarunt. Spero autem quod vel huic
+Philosophandi modo, vel veriori alicui, Principia hic posita lucem aliquam
+præbebunt._
+
+_In his edendis, Vir acutissimus & in omni literarum genere eruditissimus
+_Edmundus Halleius_ operam navavit, nec solum Typothetarum Sphalmata
+correxit & Schemata incidi curavit, sed etiam Author fuit ut horum
+editionem aggrederer. Quippe cum demonstratam a me figuram Orbium cælestium
+impetraverat, rogare non destitit ut eadem cum _Societate Regali_
+communicarem, Quæ deinde hortatibus & benignis suis auspiciis effecit ut de
+eadem in lucem emittenda cogitare inciperem. At postquam Motuum Lunarium
+inæqualitates aggressus essem, deinde etiam alia tentare cæpissem quæ ad
+leges mensuras Gravitatis & aliarum virium, ad figuras a corporibus
+secundum datas quascunque leges attractis describendas, ad motus corporum
+plurium inter se, ad motus corporum in Mediis resistentibus, ad vires,
+densitates & motus Mediorum, ad Orbes Cometarum & similia spectant,
+editionem in aliud tempus differendam esse putavi, ut cætera rimarer & una
+in publicum darem. Quæ ad motus Lunares spectant, (imperfecta cum sint,) in
+Corollariis Propositionis _LXVI._ simul complexus sum, ne singula methodo
+prolixiore quam pro rei dignitate proponere, & sigillatim demonstrare
+tenerer, & seriem reliquarum Propositionum interrumpere. Nonnulla sero
+inventa locis minus idoneis inserere malui, quam numerum Propositionum &
+citationes mutare. Ut omnia candide legantur, & defectus, in materia tam
+difficili non tam reprehendantur, quam novis Lectorum conatibus
+investigentur, & benigne suppleantur, enixe rogo._
+
+       *       *       *       *       *
+
+
+IN
+
+VIRI PRÆSTANTISSIMI
+
+D. ISAACI NEWTONI
+
+OPUS HOCCE
+
+MATHEMATICO-PHYSICUM
+
+_Sæculi Gentisque nostræ Decus egregium._
+
+  En tibi norma Poli, & divæ libramina Molis,
+  Computus atque Jovis; quas, dum primordia rerum
+  Pangeret, omniparens Leges violare Creator
+  Noluit, æternique operis fundamina fixit.
+  Intima panduntur victi penetralia cæli,
+  Nec latet extremos quæ Vis circumrotat Orbes.
+  Sol solio residens ad se jubet omnia prono
+  Tendere descensu, nec recto tramite currus
+  Sidereos patitur vastum per inane moveri;
+  Sed rapit immotis, se centro, singula Gyris.
+  Jam patet horrificis quæ sit via flexa Cometis;
+  Jam non miramur barbati Phænomena Astri.
+  Discimus hinc tandem qua causa argentea Phoebe
+  Passibus haud æquis graditur; cur subdita nulli
+  Hactenus Astronomo numerorum fræna recuset:
+  Cur remeant Nodi, curque Auges progrediuntur.
+  Discimus & quantis refluum vaga Cynthia Pontum
+  Viribus impellit, dum fractis fluctibus Ulvam
+  Deserit, ac Nautis suspectas nudat arenas;
+  Alternis vicibus suprema ad littora pulsans.
+  Quæ toties animos veterum torsere Sophorum,
+  Quæque Scholas frustra rauco certamine vexant
+  Obvia conspicimus nubem pellente Mathesi.
+  Jam dubios nulla caligine prægravat error
+  Queis Superum penetrare domos atque ardua Coeli
+  Scandere sublimis Genii concessit acumen.
+
+  Surgite Mortales, terrenas mittite curas
+  Atque hinc coeligenæ vires dignoscite Mentis
+  A pecudum vita longe lateque remotæ.
+  Qui scriptis jussit Tabulis compescere Cædes
+  Furta & Adulteria, & perjuræ crimina Fraudis;
+  Quive vagis populis circumdare moenibus Urbes
+  Autor erat; Cererisve beavit munere gentes;
+  Vel qui curarum lenimen pressit ab Uva;
+  Vel qui Niliaca monstravit arundine pictos
+  Consociare sonos, oculisque exponere Voces;
+  Humanam sortem minus extulit; utpote pauca
+  Respiciens miseræ solummodo commoda vitæ.
+  Jam vero Superis convivæ admittimur, alti
+  Jura poli tractare licet, jamque abdita coecæ
+  Claustra patent Terræ rerumque immobilis ordo,
+  Et quæ præteriti latuerunt sæcula mundi.
+
+  Talia monstrantem mecum celebrate Camænis,
+  Vos qui coelesti gaudetis nectare vesci,
+  _NEWTONVM_ clausi reserantem scrinia Veri,
+  _NEWTONVM_ Musis charum, cui pectore puro
+  Phoebus adest, totoque incessit Numine mentem:
+  Nec fas est propius Mortali attingere Divos.
+
+                  _EDM. HALLEY._
+
+       *       *       *       *       *
+
+
+PHILOSOPHIÆ
+
+NATURALIS
+
+Principia
+
+MATHEMATICA.
+
+       *       *       *       *       *
+
+
+Definitiones.
+
+       *       *       *       *       *
+
+
+Def. I.
+
+_Quantitas Materiæ est mensura ejusdem orta ex illius Densitate &
+Magnitudine conjunctim._
+
+Aer duplo densior in duplo spatio quadruplus est. Idem intellige de Nive et
+Pulveribus per compressionem vel liquefactionem condensatis. Et par est
+ratio corporum omnium, quæ per causas quascunq; diversimode condensantur.
+Medii interea, si quod fuerit, interstitia partium libere pervadentis, hic
+nullam rationem habeo. Hanc autem quantitatem sub nomine corporis vel Massæ
+in sequentibus passim intelligo. Innotescit ea per corporis cujusq; pondus.
+Nam ponderi proportionalem esse reperi per experimenta pendulorum
+accuratissime instituta, uti posthac docebitur.
+
+Def. II.
+
+_Quantitas motus est mensura ejusdem orta ex Velocitate et quantitate
+Materiæ conjunctim._
+
+Motus totius est summa motuum in partibus singulis, adeoq; in corpore duplo
+majore æquali cum Velocitate duplus est, et dupla cum Velocitate
+quadruplus.
+
+Def. III.
+
+_Materiæ vis insita est potentia resistendi, qua corpus unumquodq;, quantum
+in se est, perseverat in statu suo vel quiescendi vel movendi uniformiter
+in directum._
+
+Hæc semper proportionalis est suo corpori, neq; differt quicquam ab inertia
+Massæ, nisi in modo concipiendi. Per inertiam materiæ fit ut corpus omne de
+statu suo vel quiescendi vel movendi difficulter deturbetur. Unde etiam vis
+insita nomine significantissimo vis inertiæ dici possit. Exercet vero
+corpus hanc vim solummodo in mutatione status sui per vim aliam in se
+impressam facta, estq; exercitium ejus sub diverso respectu et Resistentia
+et Impetus: Resistentia quatenus corpus ad conservandum statum suum
+reluctatur vi impressæ; Impetus quatenus corpus idem, vi resistentis
+obstaculi difficulter cedendo, conatur statum ejus mutare. Vulgus
+Resistentiam quiescentibus et Impetum moventibus tribuit; sed motus et
+quies, uti vulgo concipiuntur, respectu solo distinguuntur ab invicem, neq;
+semper vere quiescunt quæ vulgo tanquam quiescentia spectantur.
+
+Def. IV.
+
+_Vis impressa est actio in corpus exercita, ad mutandum ejus statum vel
+quiescendi vel movendi uniformiter in directum._
+
+Consistit hæc vis in actione sola, neq; post actionem permanet in corpore.
+Perseverat enim corpus in statu omni novo per solam vim inertiæ. Est autem
+vis impressa diversarum originum, ut ex ictu, ex pressione, ex vi
+centripeta.
+
+Def. V.
+
+_Vis centripeta est qua corpus versus punctum aliquod tanquam ad centrum
+trahitur, impellitur, vel utcunq; tendit._
+
+Hujus generis est gravitas, qua corpus tendit ad centrum Terræ: Vis
+magnetica, qua ferrum petit centrum Magnetis, et vis illa, quæcunq; sit,
+qua Planetæ perpetuo retrahuntur a motibus rectilineis, et in lineis curvis
+revolvi coguntur. Est autem vis centripetæ quantitas trium generum,
+absoluta, acceleratrix et motrix.
+
+Def. VI.
+
+_Vis centripetæ quantitas absoluta est mensura ejusdem major vel minor pro
+efficacia causæ eam propagantis a centro per regiones in circuitu._
+
+Uti virtus Magnetica major in uno magnete, minor in alio.
+
+Def. VII.
+
+_Vis centripetæ quantitas acceleratrix est ipsius mensura Velocitati
+proportionalis, quam dato tempore generat._
+
+Uti Virtus Magnetis ejusdem major in minori Distantia, minor in majori: vel
+vis gravitans major in Vallibus, minor in cacuminibus præaltorum montium
+(ut experimento pendulorum constat) atq; adhuc minor (ut posthac patebit)
+in majoribus distantiis a Terra; in æqualibus autem distantiis eadem undiq;
+propterea quod corpora omnia cadentia (gravia an levia, magna an parva)
+sublata Aeris resistentia, æqualiter accelerat.
+
+Def. VIII.
+
+_Vis centripetæ quantitas motrix est ipsius mensura proportionalis motui,
+quem dato tempore generat._
+
+Uti pondus majus in majori corpore, minus in minore; inq; corpore eodem
+majus prope terram, minus in cælis. Hæc vis est corporis totius
+centripetentia seu propensio in centrum & (ut ita dicam) pondus, &
+innotescit semper per vim ipsi contrariam & æqualem, qua descensus corporis
+impediri potest.
+
+Hasce virium quantitates brevitatis gratia nominare licet vires absolutas,
+acceleratrices & motrices, & distinctionis gratia referre ad corpora, ad
+corporum loca, & ad centrum virium: Nimirum vim motricem ad corpus, tanquam
+conatum & propensionem totius in centrum, ex propensionibus omnium partium
+compositum; & vim acceleratricem ad locum corporis, tanquam efficaciam
+quandam, de centro per loca singula in circuitu diffusam, ad movenda
+corpora quæ in ipsis sunt; vim autem absolutam ad centrum, tanquam causa
+aliqua præditum, sine qua vires motrices non propagantur per regiones in
+circuitu; sive causa illa sit corpus aliquod centrale (quale est Magnes in
+centro vis Magneticæ vel Terra in centro vis gravitantis) sive alia aliqua
+quæ non apparet. Mathematicus saltem est hic conceptus. Nam virium causas &
+sedes physicas jam non expendo.
+
+Est igitur vis acceleratrix ad vim motricem ut celeritas ad motum. Oritur
+enim quantitas motus ex celeritate ducta in quantitatem Materiæ, & vis
+motrix ex vi acceleratrice ducta in quantitatem ejusdem materiæ. Nam summa
+actionum vis acceleratricis in singulas corporis particulas est vis motrix
+totius. Unde juxta Superficiem Terræ, ubi gravitas acceleratrix seu vis
+gravitans in corporibus universis eadem est, gravitas motrix seu pondus est
+ut corpus: at si in regiones ascendatur ubi gravitas acceleratrix fit
+minor, pondus pariter minuetur, eritq; semper ut corpus in gravitatem
+acceleratricem ductum. Sic in regionibus ubi gravitas acceleratrix duplo
+minor est, pondus corporis duplo vel triplo minoris erit quadruplo vel
+sextuplo minus.
+
+Porro attractiones et impulsus eodem sensu acceleratrices & motrices
+nomino. Voces autem attractionis, impulsus vel propensionis cujuscunq; in
+centrum, indifferenter et pro se mutuo promiscue usurpo, has vires non
+physice sed Mathematice tantum considerando. Unde caveat lector ne per
+hujusmodi voces cogitet me speciem vel modum actionis causamve aut rationem
+physicam alicubi definire, vel centris (quæ sunt puncta Mathematica) vires
+vere et physice tribuere, si forte aut centra trahere, aut vires centrorum
+esse dixero.
+
+_Scholium._
+
+Hactenus voces minus notas, quo in sensu in sequentibus accipiendæ sunt,
+explicare visum est. Nam tempus, spatium, locum et motum ut omnibus
+notissima non definio. Dicam tamen quod vulgus quantitates hasce non aliter
+quam ex relatione ad sensibilia concipit. Et inde oriuntur præjudicia
+quædam, quibus tollendis convenit easdem in absolutas & relativas, veras &
+apparentes, Mathematicas et vulgares distingui.
+
+I. Tempus absolutum verum & Mathematicum, in se & natura sua absq;
+relatione ad externum quodvis, æquabiliter fluit, alioq; nomine dicitur
+Duratio; relativum apparens & vulgare est sensibilis & externa quævis
+Durationis per motum mensura, (seu accurata seu inæquabilis) qua vulgus
+vice veri temporis utitur; ut Hora, Dies, Mensis, Annus.
+
+II. Spatium absolutum natura sua absq; relatione ad externum quodvis semper
+manet similare & immobile; relativum est spatii hujus mensura seu dimensio
+quælibet mobilis, quæ a sensibus nostris per situm suum ad corpora
+definitur, & a vulgo pro spatio immobili usurpatur: uti dimensio spatii
+subterranei, aerei vel cælestis definita per situm suum ad Terram. Idem
+sunt spatium absolutum & relativum, specie & magnitudine, sed non permanent
+idem semper numero. Nam si Terra, verbi gratia, movetur, spatium Aeris
+nostri quod relative & respectu Terræ semper manet idem, nunc erit una pars
+spatii absoluti in quam Aer transit, nunc alia pars ejus, & sic absolute
+mutabitur perpetuo.
+
+III. Locus est pars spatii quam corpus occupat, estq; pro ratione spatii
+vel absolutus vel relativus. Partem dico spatii, non situm corporis vel
+superficiem ambientem. Nam solidorum æqualium æquales semper sunt loci;
+Superficies autem ob dissimilitudinem figurarum ut plurimum inæquales sunt;
+situs vero proprie loquendo quantitatem non habent, neq; tam sunt loca quam
+affectiones locorum. Motus totius idem est cum summa motuum partium, hoc
+est, translatio totius de ipsius loco eadem cum summa translationum partium
+de locis suis, adeoq; locus totius idem cum summa locorum partium, &
+propterea internus & in corpore toto.
+
+IV. Motus absolutus est translatio corporis de loco absoluto in locum
+absolutum, relativus de relativo in relativum. Sic in Navi quæ velis passis
+fertur, relativus corporis locus est navis regio illa in qua corpus
+versatur, seu cavitatis totius pars illa quam corpus implet, quæq; adeo
+movetur una cum Navi; & Quies relativa est permansio corporis in eadem illa
+navis regione vel parte cavitatis. At Quies vera est permansio corporis in
+eadem parte spatii illius immoti in qua Navis ipsa una cum cavitate sua &
+contentis universis movetur. Unde si Terra vere quiescit, corpus quod
+relative quiescit in Navi, movebitur vere et absolute ea cum Velocitate qua
+Navis movetur in Terra. Sin Terra etiam movetur, orietur verus et absolutus
+corporis motus partim ex Terræ motu vero in spatio immoto, partim ex Navis
+motu relativo in Terra; et si corpus etiam movetur relative in Navi,
+orietur verus ejus motus partim ex vero motu Terræ in spatio immoto, partim
+ex relativis motibus tum Navis in Terra, tum corporis in Navi, et ex his
+motibus relativis orietur corporis motus relativus in Terra. Ut si Terræ
+pars illa ubi Navis versatur moveatur vere in Orientem, cum Velocitate
+partium 10010, et velis ventoq; feratur Navis in Occidentem cum Velocitate
+partium decem, Nauta autem ambulet in Navi Orientem versus cum Velocitatis
+parte una, movebitur Nauta vere et absolute in spatio immoto cum
+Velocitatis partibus 10001 in Orientem, et relative in Terra Occidentem
+versus cum Velocitatis partibus novem.
+
+Tempus absolutum a relativo distinguitur in Astronomia per Æquationem
+Temporis vulgi. Inæquales enim sunt dies Naturales, qui vulgo tanquam
+æquales pro Mensura Temporis habentur. Hanc inæqualitatem corrigunt
+Astronomi ut ex veriore Tempore mensurent motus cælestes. Possibile est ut
+nullus sit motus æquabilis quo Tempus accurate mensuretur. Accelerari &
+retardari possunt motus omnes, sed fluxus Temporis absoluti mutari nequit.
+Eadem est duratio seu perseverantia existentiæ rerum, sive motus sint
+celeres, sive tardi, sive nulli; proinde hæc a mensuris suis sensibilibus
+merito distinguitur, & ex ijsdem colligitur per Æquationem Astronomicam.
+Hujus autem æquationis in determinandis Phænomenis necessitas, tum per
+experimentum Horologii oscillatorii, tum etiam per Eclipses Satellitum
+Jovis evincitur.
+
+Ut partium Temporis ordo est immutabilis, sic etiam ordo partium Spatii.
+Moveantur hæ de locis suis, & movebuntur (ut ita dicam) de seipsis. Nam
+Tempora & Spatia sunt sui ipsorum & rerum omnium quasi loca. In Tempore
+quoad ordinem successionis; in Spatio quoad ordinem situs locantur
+universa. De illorum Essentia est ut sint loca, & loca primaria moveri
+absurdum est. Hæc sunt igitur absoluta loca, & solæ translationes de his
+locis sunt absoluti motus.
+
+Verum quoniam hæ spatii partes videri nequeunt, & ab invicem per sensus
+nostros distingui, earum vice adhibemus mensuras sensibiles. Ex
+positionibus enim & distantiis rerum a corpore aliquo, quod spectamus ut
+immobile, definimus loca universa; deinde etiam & omnes motus æstimamus cum
+respectu ad prædicta loca, quatenus corpora ab iisdem transferri
+concipimus. Sic vice locorum & motuum absolutorum relativis utimur, nec
+incommode in rebus humanis: in Philosophicis autem abstrahendum est a
+sensibus. Fieri etenim potest ut nullum revera quiescat corpus, ad quod
+loca motusq; referantur.
+
+Distinguuntur autem Quies & Motus absoluti & relativi ab invicem per eorum
+proprietates, causas & effectus. Quietis proprietas est, quod corpora vere
+quiescentia quiescunt inter se. Ideoq; cum possibile sit ut corpus aliquod
+in regionibus fixarum, aut longe ultra, quiescat absolute; sciri autem non
+possit ex situ corporum ad invicem in regionibus nostris, utrum horum
+aliquod ad longinquum illud datam positionem servet, quies vera ex horum
+situ inter se definiri nequit.
+
+Motus proprietas est, quod partes quæ datas servant positiones ad tota,
+participant motus eorundem totorum. Nam gyrantium partes omnes conantur
+recedere de axe motus, et progredientium impetus oritur ex conjuncto impetu
+partium singularum. Igitur motis corporibus ambientibus, moventur quæ in
+ambientibus relative quiescunt. Et propterea motus verus et absolutus
+definiri nequit per translationem e vicinia corporum, quæ tanquam
+quiescentia spectantur. Debent corpora externa non solum tanquam
+quiescentia spectari, sed etiam vere quiescere. Alioquin inclusa omnia,
+præter translationem e vicinia ambientium, participabunt etiam ambientium
+motus veros, et sublata illa translatione non vere quiescent, sed tanquam
+quiescentia solummodo spectabuntur; sunt enim ambientia ad inclusa ut
+totius pars exterior ad partem interiorem, vel ut cortex ad nucleum. Moto
+autem cortice, nucleus etiam, absq; translatione de vicinia corticis, ceu
+pars totius, movetur.
+
+Præcedenti proprietati affinis est, quod moto loco movetur una locatum,
+adeoq; corpus, quod de loco moto movetur, participat etiam loci sui motum.
+Igitur motus omnes, qui de locis motis fiunt, sunt partes solummodo motuum
+integrorum et absolutorum, et motus omnis integer componitur ex motu
+corporis de loco suo primo, et motu loci hujus de loco suo, et sic
+deinceps, usq; dum perveniatur ad locum immotum, ut in exemplo Nautæ supra
+memorato. Unde motus integri et absoluti non nisi per loca immota definiri
+possunt, et propterea hos ad loca immota, relativos ad mobilia supra
+retuli: Loca autem immota non sunt, nisi quæ omnia ab infinito in infinitum
+datas servant positiones ad invicem, atq; adeo semper manent immota,
+spatiumq; constituunt quod immobile appello.
+
+Causæ, quibus motus veri et relativi distinguuntur ab invicem, sunt vires
+in corpora impressæ ad motum generandum. Motus verus nec generatur nec
+mutatur nisi per vires in ipsum corpus motum impressas: at motus relativus
+generari et mutari potest absq; viribus impressis in hoc corpus. Sufficit
+enim ut imprimantur in alia solum corpora ad quæ fit relatio, ut ijs
+cedentibus mutetur relatio illa in qua hujus quies vel motus relativus
+consistit. Rursus motus verus a viribus in corpus motum impressis semper
+mutatur, at motus relativus ab his viribus non mutatur necessario. Nam si
+eædem vires in alia etiam corpora, ad quæ fit relatio, sic imprimantur ut
+situs relativus conservetur, conservabitur relatio in qua motus relativus
+consistit. Mutari igitur potest motus omnis relativus ubi verus
+conservatur, et conservari ubi verus mutatur; et propterea motus verus in
+ejusmodi relationibus minime consistit.
+
+Effectus quibus motus absoluti et relativi distinguuntur ab invicem, sunt
+vires recedendi ab axe motus circularis. Nam in motu circulari nude
+relativo hæ vires nullæ sunt, in vero autem et absoluto majores vel minores
+pro quantitate motus. Si pendeat situla a filo prælongo, agaturq; perpetuo
+in orbem donec filum a contorsione admodum rigescat, dein impleatur aqua,
+et una cum aqua quiescat; tum vi aliqua subitanea agatur motu contrario in
+orbem, et filo se relaxante, diutius perseveret in hoc motu: superficies
+aquæ sub initio plana erit, quemadmodum ante motum vasis, at postquam, vi
+in aquam paulatim impressa, effecit vas, ut hæc quoq; sensibiliter revolvi
+incipiat, recedet ipsa paulatim e medio, ascendetq; ad latera vasis,
+figuram concavam induens, (ut ipse expertus sum) et incitatiore semper motu
+ascendet magis & magis, donec revolutiones in æqualibus cum vase temporibus
+peragendo, quiescat in eodem relative. Indicat hic ascensus conatum
+recedendi ab axe motus, & per talem conatum & innotescit & mensuratur motus
+aquæ circularis verus & absolutus, motuiq; relativo hic omnino contrarius.
+Initio ubi maximus erat aquæ motus relativus in vase, motus ille nullum
+excitabat conatum recedendi ab axe: Aqua non petebat circumferentiam
+ascendendo ad latera vasis, sed plana manebat, & propterea motus illius
+circularis verus nondum inceperat. Postea vero ut aquæ motus relativus
+decrevit, ascensus ejus ad latera vasis indicabat conatum recedendi ab axe,
+atq; hic conatus monstrabat motum illius circularem verum perpetuo
+crescentem, ac tandem maximum factum ubi aqua quiescebat in vase relative.
+Igitur conatus iste non pendet a translatione aquæ respectu corporum
+ambientium, & propterea motus circularis verus per tales translationes
+definiri nequit. Unicus est corporis cujusq; revolventis motus vere
+circularis, conatui unico tanquam proprio & adæquato effectui respondens;
+motus autem relativi pro varijs relationibus ad externa innumeri sunt, &
+relationum instar, effectibus veris omnino destituuntur, nisi quatenus de
+vero illo & unico motu participant. Unde & in Systemate eorum qui Cælos
+nostros infra Cælos fixarum in orbem revolvi volunt, & Planetas secum
+deferre; Planetæ & singulæ Cælorum partes, qui relative quidem in Cælis
+suis proximis quiescunt, moventur vere. Mutant enim positiones suas ad
+invicem (secus quam fit in vere quiescentibus) unaq; cum cælis delati
+participant eorum motus, & ut partes revolventium totorum, ab eorum axibus
+recedere conantur.
+
+Igitur quantitates relativæ non sunt eæ ipsæ quantitates quarum nomina præ
+se ferunt, sed earum mensuræ illæ sensibiles (veræ an errantes) quibus
+vulgus loco mensuratarum utitur. At si ex usu definiendæ sunt verborum
+significationes; per nomina illa Temporis, Spatij, Loci & Motus proprie
+intelligendæ erunt hæ mensuræ; & sermo erit insolens & pure Mathematicus si
+quantitates mensuratæ hic subintelligantur. Proinde vim inferunt Sacris
+literis qui voces hasce de quantitatibus mensuratis ibi interpretantur.
+Neq; minus contaminant Mathesin & Philosophiam qui quantitates veras cum
+ipsarum relationibus & vulgaribus mensuris confundunt.
+
+Motus quidem veros corporum singulorum cognoscere, & ab apparentibus actu
+discriminare, difficillimum est; propterea quod partes spatij illius
+immobilis in quo corpora vere moventur, non incurrunt in sensus. Causa
+tamen non est prorsus desperata. Nam suppetunt argumenta partim ex motibus
+apparentibus, qui sunt motuum verorum differentiæ, partim ex viribus quæ
+sunt motuum verorum causæ & effectus. Ut si globi duo ad datam ab invicem
+distantiam filo intercedente connexi, revolverentur circa commune
+gravitatis centrum; innotesceret ex tensione fili conatus globorum
+recedendi ab axe motus, & inde quantitas motus circularis computari posset.
+Deinde si vires quælibet æquales in alternas globorum facies ad motum
+circularem augendum vel minuendum simul imprimerentur, innotesceret ex
+aucta vel diminuta fili tensione augmentum vel decrementum motus; & inde
+tandem inveniri possent facies globorum in quas vires imprimi deberent, ut
+motus maxime augeretur, id est facies posticæ, sive quæ in motu circulari
+sequuntur. Cognitis autem faciebus quæ sequuntur & faciebus oppositis quæ
+præcedunt, cognosceretur determinatio motus. In hunc modum inveniri posset
+& quantitas & determinatio motus hujus circularis in vacuo quovis immenso,
+ubi nihil extaret externum & sensibile, quocum globi conferri possent. Si
+jam constituerentur in spatio illo corpora aliqua longinqua datam inter se
+positionem servantia, qualia sunt stellæ fixæ in regionibus nostris: sciri
+quidem non posset ex relativa globorum translatione inter corpora, utrum
+his an illis tribuendus esset motus. At si attenderetur ad filum &
+inveniretur tensionem ejus illam ipsam esse quam motus globorum requireret;
+concludere liceret motum esse globorum, & tum demum ex translatione
+globorum inter corpora, determinationem hujus motus colligere. Motus autem
+veros ex eorum causis, effectibus & apparentibus differentijs colligere, &
+contra, ex motibus seu veris seu apparentibus, eorum causas & effectus,
+docebitur fusius in sequentibus. Hunc enim in finem Tractatum sequentem
+composui.
+
+       *       *       *       *       *
+
+
+AXIOMATA
+
+SIVE
+
+LEGES MOTUS
+
+       *       *       *       *       *
+
+
+Lex. I.
+
+    _Corpus omne perseverare in statu suo quiescendi vel movendi
+    uniformiter in directum, nisi quatenus a viribus impressis cogitur
+    statum illum mutare._
+
+Projectilia perseverant in motibus suis nisi quatenus a resistentia aeris
+retardantur & vi gravitatis impelluntur deorsum. Trochus, cujus partes
+cohærendo perpetuo retrahunt sese a motibus rectilineis, non cessat rotari
+nisi quatenus ab aere retardatur. Majora autem Planetarum & Cometarum
+corpora motus suos & progressivos & circulares in spatiis minus
+resistentibus factos conservant diutius.
+
+Lex. II.
+
+    _Mutationem motus proportionalem esse vi motrici impressæ, & fieri
+    secundum lineam rectam qua vis illa imprimitur._
+
+Si vis aliqua motum quemvis generet, dupla duplum, tripla triplum
+generabit, sive simul & semel, sive gradatim & successive impressa suerit.
+Et hic motus quoniam in eandem semper plagam cum vi generatrice
+determinatur, si corpus antea movebatur, motui ejus vel conspiranti
+additur, vel contrario subducitur, vel obliquo oblique adjicitur, & cum eo
+secundum utriusq; determinationem componitur.
+
+Lex. III.
+
+    _Actioni contrariam semper & æqualem esse reactionem: sive corporum
+    duorum actiones in se mutuo semper esse æquales & in partes contrarias
+    dirigi._
+
+Quicquid premit vel trahit alterum, tantundem ab eo premitur vel trahitur.
+Siquis lapidem digito premit, premitur & hujus digitus a lapide. Si equus
+lapidem funi allegatum trahit, retrahetur etiam & equus æqualiter in
+lapidem: nam funis utrinq; distentus eodem relaxandi se conatu urgebit
+Equum versus lapidem, ac lapidem versus equum, tantumq; impediet progressum
+unius quantum promovet progressum alterius. Si corpus aliquod in corpus
+aliud impingens, motum ejus vi sua quomodocunq; mutaverit, idem quoque
+vicissim in motu proprio eandem mutationem in partem contrariam vi alterius
+(ob æqualitatem pressionis mutuæ) subibit. His actionibus æquales fiunt
+mutationes non velocitatum sed motuum, (scilicet in corporibus non aliunde
+impeditis:) Mutationes enim velocitatum, in contrarias itidem partes factæ,
+quia motus æqualiter mutantur, sunt corporibus reciproce proportionales.
+
+Corol. I.
+
+[Illustration]
+
+    _Corpus viribus conjunctis diagonalem parallelogrammi eodem tempore
+    describere, quo latera separatis._
+
+Si corpus dato tempore, vi sola M, ferretur ab A ad B, & vi sola N, ab A ad
+C, compleatur parallelogrammum ABDC, & vi utraq; feretur id eodem tempore
+ab A ad D. Nam quoniam vis N agit secundum lineam AC ipsi BD parallelam,
+hæc vis nihil mutabit velocitatem accedendi ad lineam illam BD a vi altera
+genitam. Accedet igitur corpus eodem tempore ad lineam BD sive vis N
+imprimatur, sive non, atq; adeo in fine illius temporis reperietur alicubi
+in linea illa BD. Eodem argumento in fine temporis ejusdem reperietur
+alicubi in linea CD, & idcirco in utriusq; lineæ concursu D reperiri
+necesse est.
+
+Corol. II.
+
+    _Et hinc patet compositio vis directæ AD ex viribus quibusvis obliquis
+    AB & BD, & vicissim resolutio vis cujusvis directæ AD in obliquas
+    quascunq; AB & BD. Quæ quidem Compositio & resolutio abunde confirmatur
+    ex Mechanica._
+
+[Illustration]
+
+Ut si de rotæ alicujus centro O exeuntes radij inæquales OM, ON filis MA,
+NP sustineant pondera A & P, & quærantur vires ponderum ad movendam rotam:
+per centrum O agatur recta KOL filis perpendiculariter occurrens in K & L,
+centroq; O & intervallorum OK, OL majore OL describatur circulus occurrens
+filo MA in D: & actæ rectæ OD parallela sit AC & perpendicularis DC.
+Quoniam nihil refert utrum filorum puncta K, L, D affixa sint vel non
+affixa ad planum rotæ, pondera idem valebunt ac si suspenderentur a punctis
+K & L vel D & L. Ponderis autem A exponatur vis tota per lineam AD, & hæc
+resolvetur in vires AC, CD, quarum AC trahendo radium OD directe a centro
+nihil valet ad movendam rotam; vis autem altera DC, trahendo radium DO
+perpendiculariter, idem valet ac si perpendiculariter traheret radium OL
+ipsi OD æqualem; hoc est idem atq; pondus P, quod sit ad pondus A ut vis DC
+ad vim DA, id est (ob similia triangula ADC, DOK,) ut OK ad OD seu OL.
+Pondera igitur A & P, quæ sunt reciproce ut radii in directum positi OK &
+OL, idem pollebunt & sic consistent in æquilibrio: (quæ est proprietas
+notissima Libræ, Vectis & Axis in Peritrochio:) sin pondus alterutrum sit
+majus quam in hac ratione, erit vis ejus ad movendam rotam tanto major.
+
+Quod si pondus p ponderi P æquale partim suspendatur silo Np, partim
+incumbat plano obliquo pG: agantur pH, NH, prior horizonti, posterior plano
+pG perpendicularis; & si vis ponderis p deorsum tendens, exponatur per
+lineam pH, resolvi potest hæc in vires pN, HN. Si filo pN perpendiculare
+esset planum aliquod pQ secans planum alterum pG in linea ad horizontem
+parallela; & pondus p his planis pQ, pG solummodo incumberet; urgeret illud
+hæc plana viribus pN, HN perpendiculariter, nimirum planum pQ vi pN &
+planum pG vi HN. Ideoque si tollatur planum pQ ut pondus tendat filum,
+quoniam filum sustinendo pondus, jam vicem præstat plani sublati, tendetur
+illud eadem vi pN, qua planum antea urgebatur. Unde tensio fili hujus
+obliqui erit ad tensionem fili alterius perpendicularis PN, ut pN ad pH.
+Ideoq; si pondus p sit ad pondus A in ratione quæ componitur ex ratione
+reciproca minimarum distantiarum filorum suorum AM, pN a centro rotæ, &
+ratione directa pH ad pN; pondera idem valebunt ad rotam movendam, atq;
+adeo se mutuo sustinebunt, ut quilibet experiri potest.
+
+Pondus autem p planis illis duobus obliquis incumbens, rationem habet cunei
+inter corporis fissi facies internas: & inde vires cunei & mallei
+innotescunt: utpote cum vis qua pondus p urget planum pQ sit ad vim, qua
+idem vel gravitate sua vel ictu mallei impellitur secundum lineam pH in
+plano, ut pN ad pH; atq; ad vim qua urget planum alterum pG ut pN ad NH.
+Sed & vis Cochleæ per similem virium divisionem colligitur; quippe quæ
+cuneus est a vecte impulsus. Usus igitur Corollarij hujus latissime patet,
+& late patendo veritatem ejus evincit, cum pendeat ex jam dictis Mechanica
+tota ab Authoribus diversimode demonstrata. Ex hisce enim facile derivantur
+vires Machinarum, quæ ex Rotis, Tympanis, Trochleis, Vectibus, radijs
+volubilibus, nervis tensis & ponderibus directe vel oblique ascendentibus,
+cæterisq; potentijs Mechanicis componi solent, ut & vires Nervorum ad
+animalium ossa movenda.
+
+Corol. III.
+
+    _Quantitas motus quæ colligitur capiendo summam motuum factorum ad
+    eandem partem, & differentiam factorum ad contrarias, non mutatur ab
+    actione corporum inter se._
+
+Etenim actio eiq; contraria reactio æquales sunt per Legem 3, adeoq; per
+legem 2, æquales in motibus efficiunt mutationes versus contrarias partes.
+Ergo si motus fiunt ad eandem partem, quicquid additur motui corporis
+fugientis subducetur motui corporis insequentis sic, ut summa maneat eadem
+quæ prius. Sin corpora obviam eant, æqualis erit subductio de motu
+utriusq;, adeoq; differentia motuum factorum in contrarias partes manebit
+eadem.
+
+Ut si corpus sphæricum A sit triplo majus corpore sphærico B, habeatq; duas
+velocitatis partes, et B sequatur in eadem recta cum velocitatis partibus
+decem, adeoq; motus ipsius A sit ad motum ipsius B ut sex ad decem;
+ponantur motus illis esse partium sex & decem, & summa erit partium
+sexdecim. In corporum igitur concursu, si corpus A lucretur motus partes
+tres vel quatuor vel quinq; corpus B amittet partes totidem, adeoq; perget
+corpus A post reflexionem cum partibus novem vel decem vel undecim; & B cum
+partibus septem vel sex vel quinq; existente semper summa partium sexdecim
+ut prius. Sin corpus A lucretur partes novem vel decem vel undecim vel
+duodecim, adeoq; progrediatur post concursum cum partibus quindecim vel
+sexdecim vel septendecim vel octodecim; corpus B amittendo, tot partes quot
+A lucratur, vel progredietur cum una parte, amissis partibus novem, vel
+quiescet amisso motu suo progressivo partium decem, vel regredietur cum una
+parte amisso motu suo & (ut ita dicam) una parte amplius, vel regredietur
+cum partibus duabus ob detractum motum progressivum partium duodecim. Atq;
+ita summæ motuum conspirantium 15 + 1 vel 16 + 0, differentiæ contrariorum
+17 - 1 & 18 - 2 semper erunt partium sexdecim ut ante concursum &
+reflexionem. Cognitis autem motibus quibuscum corpora post reflexionem
+pergent, invenietur cujusq; velocitas ponendo eam esse ad velocitatem ante
+reflexionem ut motus post ad motum ante. Ut in casu ultimo, ubi corporis A
+motus erat partium sex ante reflexionem; partium octodecim postea, &
+velocitas partium duarum ante reflexionem; invenietur ejus velocitas
+partium sex post reflexionem, dicendo, ut motus partes sex ante reflexionem
+ad motus partes octodecim postea, ita velocitatis partes duæ ante
+reflexionem ad velocitatis partes sex postea.
+
+Quod si corpora vel non Sphærica vel diversis in rectis moventia incidant
+in se mutuo oblique, & requirantur eorum motus post reflexionem,
+cognoscendus est situs plani a quo corpora concurrentia tanguntur in puncto
+concursus; dein corporis utriusq; motus (per Corol. 2.) distinguendus est
+in duos, unum huic plano perpendicularem, alterum eidem parallelum: motus
+autem paralleli, propterea quod corpora agant in se invicem secundum lineam
+huic plano perpendicularem, retinendi sunt iidem post reflexionem atq;
+antea, & motibus perpendicularibus mutationes æquales in partes contrarias
+tribuendæ sunt sic, ut summa conspirantium & differentia contrariorum
+maneat eadem quæ prius. Ex hujusmodi reflexionibus oriri etiam solent motus
+circulares corporum circa centra propria. Sed hos casus in sequentibus non
+considero, & nimis longum esset omnia huc spectantia demonstrare.
+
+Corol. IIII.
+
+    _Commune gravitatis centrum ab actionibus corporum inter se non mutat
+    statum suum vel motus vel quietis, & propterea corporum omnium in se
+    mutuo agentium (exclusis actionibus & impedimentis externis) commune
+    centrum gravitatis vel quiescit vel movetur uniformiter in directum._
+
+Nam si puncta duo progrediantur uniformi cum motu in lineis rectis &
+distantia eorum dividatur in ratione data, punctum dividens vel quiescet
+vel progredietur uniformiter in linea recta, Hoc postea in Lemmate xxiii
+demonstratur in plano, & eadem ratione demonstrari potest in loco solido.
+Ergo si corpora quotcunq; moventur uniformiter in lineis rectis, commune
+centrum gravitatis duorum quorumvis, vel quiescit vel progreditur
+uniformiter in linea recta, propterea quod linea horum corporum centra in
+rectis uniformiter progredientia jungens, dividitur ab hoc centro communi
+in ratione data: similiter & commune centrum horum duorum & tertii cujusvis
+vel quiescit vel progreditur uniformiter in linea recta, propterea quod ab
+eo dividitur distantia centri communis corporum duorum & centri corporis
+tertii in data ratione. Eodem modo & commune centrum horum trium & quarti
+cujusvis vel quiescit vel progreditur uniformiter in linea recta, propterea
+quod ab eo dividitur distantia inter centrum commune trium & centrum quarti
+in data ratione, & sic in infinitum. Igitur in systemate corporum quæ
+actionibus in se invicem, alijsq; omnibus in se extrinsecus impressis,
+omnino vacant, adeoq; moventur singula uniformiter in rectis singulis,
+commune omnium centrum gravitatis vel quiescit vel movetur uniformiter in
+directum.
+
+Porro in systemate duorum corporum in se invicem agentium, cum distantiæ
+centrorum utriusq; a communi gravitatis centro sint reciproce ut corpora,
+erunt motus relativi corporum eorundem vel accedendi ad centrum illud vel
+ab eodem recedendi, æquales inter se. Proinde centrum illud a motuum
+æqualibus mutationibus in partes contrarias factis, atq; adeo ab actionibus
+horum corporum inter se, nec promovetur nec retardatur nec mutationem
+patitur in statu suo quoad motum vel quietem. In systemate autem corporum
+plurium, quoniam duorum quorumvis in se mutuo agentium commune gravitatis
+centrum ob actionem illam nullatenus mutat statum suum; & reliquorum,
+quibuscum actio illa non intercedit, commune gravitatis centrum nihil inde
+patitur; distantia autem horum duorum centrorum dividitur, a communi
+corporum omnium centro, in partes summis totalibus corporum, quorum sunt
+centra, reciproce proportionales, adeoq; centris illis duobus statum suum
+movendi vel quiescendi servantibus, commune omnium centrum servat etiam
+statum suum; manifestum est quod commune illud omnium centrum, ob actiones
+binorum corporum inter se, nunquam mutat statum suum quoad motum & quietem.
+In tali autem systemate actiones omnes corporum inter se, vel inter bina
+sunt corpora, vel ab actionibus inter bina compositæ, & propterea communi
+omnium centro mutationem in statu motus ejus vel Quietis nunquam inducunt.
+Quare cum centrum illud ubi corpora non agunt in se invicem, vel quiescit,
+vel in recta aliqua progreditur uniformiter, perget idem, non obstantibus
+corporum actionibus inter se, vel semper quiescere, vel semper progredi
+uniformiter in directum, nisi a viribus in systema extrinsecus impressis
+deturbetur de hoc statu. Est igitur systematis corporum plurium Lex eadem
+quæ corporis solitarii, quoad perseverantiam in statu motus vel quietis.
+Motus enim progressivus seu corporis solitarii seu systematis corporum ex
+motu centri gravitatis æstimari semper debet.
+
+Corol. V.
+
+    _Corporum dato spatio inclusorum ijdem sunt motus inter se, sive
+    spatium illud quiescat, sive moveatur idem uniformiter in directum
+    absq; motu circulari._
+
+Nam differentiæ motuum tendentium ad eandem partem, & summæ tendentium ad
+contrarias, eadem sunt sub initio in utroq; casu (ex hypothesi) & ex his
+summis vel differentiis oriuntur congressus & impetus quibus corpora se
+mutuo feriunt. Ergo per Legem 2 æquales erunt congressuum effectus in
+utroq; casu, & propterea manebunt motus inter se in uno casu æquales
+motibus inter se in altero. Idem comprobatur experimento luculento. Motus
+omnes eodem modo se habent in Navi, sive ea quiescat, sive moveatur
+uniformiter in directum.
+
+Corol. VI.
+
+    _Si corpora moveantur quomodocunq; inter se & a viribus
+    acceleratricibus æqualibus secundum lineas parallelas urgeantur;
+    pergent omnia eodem modo moveri inter se ac si viribus illis non essent
+    incitata._
+
+Nam vires illæ æqualiter (pro quantitatibus movendorum corporum) & secundum
+lineas parallelas agendo, corpora omnia æqualiter (quoad velocitatem)
+movebunt (per Legem 2.) adeoq; nunquam mutabunt positiones & motus eorum
+inter se.
+
+_Scholium_
+
+[Illustration]
+
+Hactenus principia tradidi a Mathematicis recepta & experientia multiplici
+confirmata. Per leges duas primas & Corollaria duo prima adinvenit
+_Galilæus_ descensum gravium esse in duplicata ratione temporis, & motum
+projectilium fieri in Parabola, conspirante experientia, nisi quatenus
+motus illi per aeris resistentiam aliquantulum retardantur. Ab ijsdem
+Legibus & Corollariis pendent demonstrata de temporibus oscillantium
+Pendulorum, suffragante Horologiorum experientia quotidiana. Ex his ijsdem
+& Lege tertia _D. Christopherus Wrennus_ Eques auratus, _Johannes Wallisius
+S.T.D._ & _D. Christianus Hugenius_, hujus ætatis Geometrarum facile
+Principes, regulas congressuum & reflexionum duorum corporum seorsim
+adinvenerunt, & eodem fere tempore cum _Societate Regia_ communicarunt,
+inter se (quoad has leges) omnino conspirantes; Et primus quidem _D.
+Wallisius_ dein _D. Wrennus_ & _D. Hugenius_ inventum prodidit. Sed &
+veritas comprobata est a _D. Wrenno_ coram _Regia Societate_ per
+experimentum Pendulorum, quod etiam _Clarissimus Mariottus_ Libro integro
+exponere mox dignatus est. Verum ut hoc experimentum cum Theorijs ad
+amussim congruat, habenda est ratio tum resistentiæ aeris, tum etiam vis
+Elasticæ concurrentium corporum. Pendeant corpora A, B filis parallelis AC,
+BD a centris C, D. His centris & intervallis describantur semicirculi EAF,
+GBH radijs CA, DB bisecti. Trahatur corpus A ad arcus EAF punctum quodvis
+R, & (subducto corpore B) demittatur inde, redeatq; post unam oscillationem
+ad punctum V. Est RV retardatio ex resistentia aeris. Hujus RV fiat ST pars
+quarta sita in medio, & hæc exhibebit retardationem in descensu ab S ad A
+quam proxime. Restituatur corpus B in locum suum. Cadat corpus A de puncto
+S, & velocitas ejus in loco reflexionis A, absq; errore sensibili, tanta
+erit ac si in vacuo cecidisset de loco T. Exponatur igitur hæc velocitas
+per chordam arcus TA. Nam velocitatem Penduli in puncto infimo esse ut
+chorda arcus quem cadendo descripsit, Propositio est Geometris notissima.
+Post reflexionem perveniat corpus A ad locum s, & corpus B ad locum k.
+Tollatur corpus B & inveniatur locus v, a quo si corpus A demittatur & post
+unam oscillationem redeat ad locum r, sit st pars quarta ipsius rv sita in
+medio, & per chordam arcus tA exponatur velocitas quam corpus A proxime
+post reflexionem habuit in loco A. Nam t erit locus ille verus & correctus
+ad quem corpus A, sublata aeris resistentia, ascendere debuisset. Simili
+methodo corrigendus erit locus k, ad quem corpus B ascendit, & inveniendus
+locus l, ad quem corpus illud ascendere debuisset in vacuo. Hoc pacto
+experiri licet omnia perinde ac si in vacuo constituti essemus. Tandem
+ducendum erit corpus A in chordam arcus TA (quæ velocitatem ejus exhibet)
+ut habeatur motus ejus in loco A proxime ante reflexionem, deinde in
+chordam arcus tA ut habeatur motus ejus in loco A proxime post reflexionem.
+Et sic corpus B ducendum erit in chordam arcus Bl, ut habeatur motus ejus
+proxime post reflexionem. Et simili methodo ubi corpora duo simul
+demittuntur de locis diversis, inveniendi sunt motus utriusq; tam ante,
+quam post reflexionem; & tum demum conferendi sunt motus inter se &
+colligendi effectus reflexionis. Hoc modo in Pendulis pedum decem rem
+tentando, idq; in corporibus tam inæqualibus quam æqualibus, & faciendo ut
+corpora de intervallis amplissimis, puta pedum octo, duodecim vel sexdecim
+concurrerent, reperi semper sine errore trium digitorum in mensuris, ubi
+corpora sibi mutuo directe occurrebant quod in partes contrarias mutatio
+motus erat corpori utriq; illata, atq; adeo quod actio & reactio semper
+erant æquales. Ut si corpus A incidebat in corpus B cum novem partibus
+motus, & amissis septem partibus pergebat post reflexionem cum duabus,
+corpus B resiliebat cum partibus istis septem. Si corpora obviam ibant, A
+cum duodecim partibus & B cum sex & redibat A cum duabus, redibat B cum
+octo, facta detractione partium quatuordecim utrinque. De motu ipsius A
+subducantur partes duodecim & restabit nihil; subducantur aliæ partes duæ &
+fiet motus duarum partium in plagam contrariam. & sic de motu corporis B
+partium sex subducendo partes quatuordecim, fiunt partes octo in plagam
+contrariam. Quod si corpora ibant ad eandem plagam, A velocius cum partibus
+quatuordecim & B tardius cum partibus quinq; & post reflexionem pergebat A
+cum quinq; partibus, pergebat B cum quatuordecim, facta translatione
+partium novem de A in B. Et sic in reliquis. A congressu & collisione
+corporum nunquam mutabatur quantitas motus quæ ex summa motuum
+conspirantium & differentia contrariorum colligebatur. Namq; errorem digiti
+unius & alterius in mensuris tribuerim difficultati peragendi singula satis
+accurate. Difficile erat tum pendula simul demittere sic, ut corpora in se
+mutuo impingerent in loco infimo AB, tum loca s, k, notare ad quæ corpora
+ascendebant post concursum. Sed & in ipsis pilis inæqualis partium
+densitas, & textura aliis de causis irregularis, errores inducebant.
+
+Porro nequis objiciat Regulam ad quam probandam inventum est hoc
+experimentum præsupponere corpora vel absolute dura esse, vel saltem
+perfecte elastica, cujusmodi nulla reperiuntur in compositionibus
+naturalibus; addo quod experimenta jam descripta succedunt in corporibus
+mollibus æque ac in duris, nimirum a conditione duritiei neutiquam
+pendentia. Nam si conditio illa in corporibus non perfecte duris tentanda
+est, debebit solummodo reflexio minui in certa proportione pro quantitate
+vis Elasticæ. In Theoria _Wrenni_ & _Hugenij_ corpora absolute dura redeunt
+ab invicem

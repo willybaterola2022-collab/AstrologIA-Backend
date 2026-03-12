@@ -1,0 +1,976 @@
+# The Principles of Psychology
+Author: William James
+Category: 05_psicologia
+Source: Gutenberg #57628
+Downloaded: 2026-03-08T14:20:21.402291
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+THE PRINCIPLES OF PSYCHOLOGY
+
+BY
+
+WILLIAM JAMES
+
+PROFESSOR OF PSYCHOLOGY IN HARVARD UNIVERSITY
+
+
+IN TWO VOLUMES
+
+VOL. I
+
+
+NEW YORK
+HENRY HOLT AND COMPANY
+
+1918
+
+
+
+
+                                  TO
+                            MY DEAR FRIEND
+                           FRANÇOIS PILLON.
+                       AS A TOKEN OF AFFECTION,
+                  AND AN ACKNOWLEDGMENT OF WHAT I OWE
+                                TO THE
+                        CRITIQUE PHILOSOPHIQUE.
+
+
+
+
+PREFACE.
+
+
+The treatise which follows has in the main grown up in connection with
+the author's class-room instruction in Psychology, although it is true
+that some of the chapters are more 'metaphysical,' and others fuller of
+detail, than is suitable for students who are going over the subject
+for the first time. The consequence of this is that, in spite of the
+exclusion of the important subjects of pleasure and pain, and moral and
+æsthetic feelings and judgments, the work has grown to a length which
+no one can regret more than the writer himself. The man must indeed be
+sanguine who, in this crowded age, can hope to have many readers for
+fourteen hundred continuous pages from his pen. But _wer Vieles bringt
+wird Manchem etwas bringen_; and, by judiciously skipping according to
+their several needs, I am sure that many sorts of readers, even those
+who are just beginning the study of the subject, will find my book of
+use. Since the beginners are most in need of guidance, I suggest for
+their behoof that they omit altogether on a first reading chapters 6,
+7, 8, 10 (from page 330 to page 371), 12, 13, 15, 17, 20, 21, and 28.
+The better to awaken the neophyte's interest, it is possible that the
+wise order would be to pass directly from chapter 4 to chapters 23, 24,
+25, and 26, and thence to return to the first volume again. Chapter
+20, on Space-perception, is a terrible thing, which, unless written
+with all that detail, could not be fairly treated at all. An abridgment
+of it, called 'The Spatial Quale,' which appeared in the Journal of
+Speculative Philosophy, vol. xiii, p. 64, may be found by some persons
+a useful substitute for the entire chapter.
+
+I have kept close to the point of view of natural science throughout
+the book. Every natural science assumes certain data uncritically, and
+declines to challenge the elements between which its own 'laws' obtain,
+and from which its own deductions are carried on. Psychology, the
+science of finite individual minds, assumes as its data (1) _thoughts
+and feelings_, and (2) _a physical world_ in time and space with which
+they coexist and which (3) _they know_. Of course these data themselves
+are discussable; but the discussion of them (as of other elements) is
+called metaphysics and falls outside the province of this book. This
+book, assuming that thoughts and feelings exist and are vehicles of
+knowledge, thereupon contends that psychology when she has ascertained
+the empirical correlation of the various sorts of thought or feeling
+with definite conditions of the brain, can go no farther--can go
+no farther, that is, as a natural science. If she goes farther she
+becomes metaphysical. All attempts to _explain_ our phenomenally given
+thoughts as products of deeper-lying entities (whether the latter be
+named 'Soul,' 'Transcendental Ego,' 'Ideas,' or 'Elementary Units
+of Consciousness') are metaphysical. This book consequently rejects
+both the associationist and the spiritualist theories; and in this
+strictly positivistic point of view consists the only feature of it
+for which I feel tempted to claim originality. Of course this point of
+view is anything but ultimate. Men must keep thinking; and the data
+assumed by psychology, just like those assumed by physics and the other
+natural sciences, must some time be overhauled. The effort to overhaul
+them clearly and thoroughly is metaphysics; but metaphysics can only
+perform her task well when distinctly conscious of its great extent.
+Metaphysics fragmentary, irresponsible, and half-awake, and unconscious
+that she is metaphysical, spoils two good things when she injects
+herself into a natural science. And it seems to me that the theories
+both of a spiritual agent and of associated 'ideas' are, as they figure
+in the psychology-books, just such metaphysics as this. Even if their
+results be true, it would be as well to keep them, _as thus presented_,
+out of psychology as it is to keep the results of idealism out of
+physics.
+
+I have therefore treated our passing thoughts as integers, and
+regarded the mere laws of their coexistence with brain-states as the
+ultimate laws for our science. The reader will in vain seek for any
+closed system in the book. It is mainly a mass of descriptive details,
+running out into queries which only a metaphysics alive to the weight
+of her task can hope successfully to deal with. That will perhaps be
+centuries hence; and meanwhile the best mark of health that a science
+can show is this unfinished-seeming front.
+
+The completion of the book has been so slow that several chapters
+have been published successively in Mind, the Journal of Speculative
+Philosophy, the Popular Science Monthly, and Scribner's Magazine.
+Acknowledgment is made in the proper places.
+
+The bibliography, I regret to say, is quite unsystematic. I have
+habitually given my authority for special experimental facts; but
+beyond that I have aimed mainly to cite books that would probably
+be actually used by the ordinary American college-student in his
+collateral reading. The bibliography in W. Volkmann von Volkmar's
+Lehrbuch der Psychologie (1875) is so complete, up to its date,
+that there is no need of an inferior duplicate. And for more recent
+references, Sully's Outlines, Dewey's Psychology, and Baldwin's
+Handbook of Psychology may be advantageously used.
+
+Finally, where one owes to so many, it seems absurd to single out
+particular creditors; yet I cannot resist the temptation at the end of
+my first literary venture to record my gratitude for the inspiration I
+have got from the writings of J. S. Mill, Lotze, Renouvier, Hodgson,
+and Wundt, and from the intellectual companionship (to name only five
+names) of Chauncey Wright and Charles Peirce in old times, and more
+recently of Stanley Hall, James Putnam, and Josiah Royce.
+
+HARVARD UNIVERSITY, August 1890.
+
+
+
+
+CONTENTS.
+
+
+CHAPTER I.
+
+THE SCOPE OF PSYCHOLOGY,
+
+Mental Manifestations depend on Cerebral Conditions, 1. Pursuit of ends
+and choice are the marks of Mind's presence.
+
+
+CHAPTER II.
+
+THE FUNCTIONS OF THE BRAIN
+
+Reflex, semi-reflex, and voluntary acts. The Frog's nerve-centres.
+General notion of the hemispheres. Their Education--the Meynert
+scheme. The phrenological contrasted with the physiological
+conception. The localization of function in the hemispheres.
+The motor zone. Motor Aphasia. The sight-centre. Mental
+blindness. The hearing-centre. Sensory Aphasia. Centres
+for smell and taste. The touch-centre. Man's Consciousness
+limited to the hemispheres. The restitution of function. Final
+correction of the Meynert scheme. Conclusions.
+
+
+CHAPTER III.
+
+ON SOME GENERAL CONDITIONS OF BRAIN-ACTIVITY
+
+The summation of Stimuli. Reaction-time. Cerebral blood-supply,
+97. Cerebral Thermometry. Phosphorus and Thought.
+
+
+CHAPTER IV.
+
+HABIT
+
+Due to plasticity of neural matter. Produces ease of action.
+Diminishes attention, 115. Concatenated performances. Ethical
+implications and pedagogic maxims.
+
+
+CHAPTER V.
+
+THE AUTOMATON-THEORY
+
+The theory described. Reasons for it. Reasons against it.
+
+
+CHAPTER VI.
+
+THE MIND-STUFF THEORY
+
+Evolutionary Psychology demands a Mind-dust. Some alleged proofs
+that it exists. Refutation of these proofs. Self-compounding
+of mental facts is inadmissible. Can states of mind be
+unconscious? Refutation of alleged proofs of unconscious thought.
+Difficulty of stating the connection between mind and brain.
+'The Soul' is logically the least objectionable hypothesis.
+Conclusion.
+
+
+CHAPTER VII.
+
+THE METHODS AND SNARES OF PSYCHOLOGY
+
+Psychology is a natural Science. Introspection, 185. Experiment.
+Sources of error. The 'Psychologist's fallacy'.
+
+
+CHAPTER VIII.
+
+THE RELATIONS OF MINDS TO OTHER THINGS
+
+Time relations: lapses of Consciousness--Locke _v_. Descartes. The
+'unconsciousness' of hysterics not genuine. Minds may split into
+dissociated parts. Space-relations: the Seat of the Soul.
+Cognitive relations. The Psychologist's point of view. Two
+kinds of knowledge, acquaintance and knowledge about.
+
+
+CHAPTER IX.
+
+THE STREAM OF THOUGHT, 224
+
+Consciousness tends to the personal form. It is in constant
+change. It is sensibly continuous. 'Substantive' and
+'transitive' parts of Consciousness. Feelings of relation.
+Feelings of tendency. The 'fringe' of the object. The feeling
+of rational sequence. Thought possible in any kind of mental
+material. Thought and language. Consciousness is cognitive.
+The word Object. Every cognition is due to one integral pulse
+of thought. Diagrams of Thought's stream. Thought is always
+selective.
+
+
+CHAPTER X.
+
+THE CONSCIOUSNESS OF SELF
+
+The Empirical Self or Me. Its constituents. The material
+self. The Social Self. The Spiritual Self. Difficulty of
+apprehending Thought as a purely spiritual activity. Emotions of
+Self. Rivalry and conflict of one's different selves. Their
+hierarchy. What Self we love in 'Self-love'. The Pure Ego.
+The verifiable ground of the sense of personal identity. The
+passing Thought is the only Thinker which Psychology requires.
+Theories of Self-consciousness: 1) The theory of the Soul. 2) The
+Associationist theory. 3) The Transcendentalist theory. The
+mutations of the Self. Insane delusions. Alternating selves.
+Mediumships or possessions. Summary.
+
+
+CHAPTER XI.
+
+ATTENTION
+
+Its neglect by English psychologists. Description of it.
+To how many things can we attend at once? Wundt's experiments
+on displacement of date of impressions simultaneously attended to.
+Personal equation. The varieties of attention. Passive
+attention. Voluntary attention. Attention's effects on
+sensation;--on discrimination;--on recollection;--on
+reaction-time. The neural process in attention: 1) Accommodation
+of sense-organ. 2) Preperception. Is voluntary attention a
+resultant or a force? The effort to attend can be conceived as a
+resultant. Conclusion. Acquired Inattention.
+
+
+CHAPTER XII.
+
+CONCEPTION
+
+The sense of sameness. Conception defined. Conceptions are
+unchangeable. Abstract ideas, 468. Universals. The conception
+'of the same' is not the 'same state' of mind.
+
+
+CHAPTER XIII.
+
+DISCRIMINATION AND COMPARISON
+
+Locke on discrimination. Martineau _ditto_. Simultaneous
+sensations originally fuse into one object. The principle of
+mediate comparison. Not all differences are differences of
+composition. The conditions of discrimination. The sensation
+of difference. The transcendentalist theory of the perception
+of differences uncalled for. The process of analysis. The
+process of abstraction. The improvement of discrimination by
+practice. Its two causes. Practical interests limit our
+discrimination. Reaction-time after discrimination. The
+perception of likeness, 528. The magnitude of differences. The
+measurement of discriminative sensibility: Weber's law. Fechner's
+interpretation of this as the psycho-physic law. Criticism
+thereof.
+
+
+CHAPTER XIV.
+
+ASSOCIATION
+
+The problem of the connection of our thoughts. It depends on
+mechanical conditions. Association is of objects thought of,
+not of 'ideas'. The rapidity of association. The 'law of
+contiguity'. The elementary law of association. Impartial
+redintegration. Ordinary or mixed association. The law of
+interest. Association by similarity. Elementary expression of
+the difference between the three kinds of association. Association
+in voluntary thought. Similarity no elementary law. History
+of the doctrine of association.
+
+
+CHAPTER XV.
+
+THE PERCEPTION OF TIME, 605
+
+The sensible present. Its duration is the primitive
+time-perception. Accuracy of our estimate of short durations.
+We have no sense for empty time. Variations of our time-estimate.
+The feeling of past time is a present feeling. Its cerebral
+process.
+
+
+CHAPTER XVI.
+
+MEMORY
+
+Primary memory. Analysis of the phenomenon of memory.
+Retention and reproduction are both caused by paths of association
+in the brain. The conditions of goodness in memory. Native
+retentiveness is unchangeable. All improvement of memory consists
+in better _thinking_. Other conditions of good memory.
+Recognition, or the sense of familiarity. Exact measurements of
+memory. Forgetting. Pathological cases. Professor Ladd
+criticised.
+
+
+INDEX.
+
+
+
+
+PSYCHOLOGY.
+
+
+CHAPTER I.
+
+THE SCOPE OF PSYCHOLOGY.
+
+
+Psychology is the Science of Mental Life, both of its phenomena
+and of their conditions. The phenomena are such things as we call
+feelings, desires, cognitions, reasonings, decisions, and the like;
+and, superficially considered, their variety and complexity is such as
+to leave a chaotic impression on the observer. The most natural and
+consequently the earliest way of unifying the material was, first,
+to classify it as well as might be, and, secondly, to affiliate the
+diverse mental modes thus found, upon a simple entity, the personal
+Soul, of which they are taken to be so many facultative manifestations.
+Now, for instance, the Soul manifests its faculty of Memory, now of
+Reasoning, now of Volition, or again its Imagination or its Appetite.
+This is the orthodox 'spiritualistic' theory of scholasticism and of
+common-sense. Another and a less obvious way of unifying the chaos is
+to seek common elements in the divers mental facts rather than a common
+agent behind them, and to explain them constructively by the various
+forms of arrangement of these elements, as one explains houses by
+stones and bricks. The 'associationist' schools of Herbart in Germany,
+and of Hume the Mills and Bain in Britain have thus constructed a
+_psychology without a soul_ by taking discrete 'ideas,' faint or
+vivid, and showing how, by their cohesions, repulsions, and forms
+of succession, such things as reminiscences, perceptions, emotions,
+volitions, passions, theories, and all the other furnishings of an
+individual's mind may be engendered. The very Self or _ego_ of the
+individual comes in this way to be viewed no longer as the pre-existing
+source of the representations, but rather as their last and most
+complicated fruit.
+
+Now, if we strive rigorously to simplify the phenomena in either of
+these ways, we soon become aware of inadequacies in our method. Any
+particular cognition, for example, or recollection, is accounted for
+on the soul-theory by being referred to the spiritual faculties of
+Cognition or of Memory. These faculties themselves are thought of as
+absolute properties of the soul; that is, to take the case of memory,
+no reason is given why we should remember a fact as it happened, except
+that so to remember it constitutes the essence of our Recollective
+Power. We may, as spiritualists, try to explain our memory's failures
+and blunders by secondary causes. But its _successes_ can invoke no
+factors save the existence of certain objective things to be remembered
+on the one hand, and of our faculty of memory on the other. When,
+for instance, I recall my graduation-day, and drag all its incidents
+and emotions up from death's dateless night, no mechanical cause can
+explain this process, nor can any analysis reduce it to lower terms or
+make its nature seem other than an ultimate _datum_, which, whether we
+rebel or not at its mysteriousness, must simply be taken for granted if
+we are to psychologize at all. However the associationist may represent
+the present ideas as thronging and arranging themselves, still, the
+spiritualist insists, he has in the end to admit that _something_,
+be it brain, be it 'ideas,' be it 'association,' _knows_ past time
+_as_ past, and fills it out with this or that event. And when the
+spiritualist calls memory an 'irreducible faculty,' he says no more
+than this admission of the associationist already grants.
+
+And yet the admission is far from being a satisfactory simplification
+of the concrete facts. For why should this absolute god-given Faculty
+retain so much better the events of yesterday than those of last
+year, and, best of all, those of an hour ago? Why, again, in old
+age should its grasp of childhood's events seem firmest? Why should
+illness and exhaustion enfeeble it? Why should repeating an experience
+strengthen our recollection of it? Why should drugs, fevers, asphyxia,
+and excitement resuscitate things long since forgotten? If we content
+ourselves with merely affirming that the faculty of memory is so
+peculiarly constituted by nature as to exhibit just these oddities,
+we seem little the better for having invoked it, for our explanation
+becomes as complicated as that of the crude facts with which we
+started. Moreover there is something grotesque and irrational in the
+supposition that the soul is equipped with elementary powers of such an
+ingeniously intricate sort. Why _should_ our memory cling more easily
+to the near than the remote? Why should it lose its grasp of proper
+sooner than of abstract names? Such peculiarities seem quite fantastic;
+and might, for aught we can see _a priori_, be the precise opposites of
+what they are. Evidently, then, _the faculty does not exist absolutely,
+but works under conditions_; and _the quest of the conditions_ becomes
+the psychologist's most interesting task.
+
+However firmly he may hold to the soul and her remembering faculty, he
+must acknowledge that she never exerts the latter without a _cue_, and
+that something must always precede and _remind_ us of whatever we are
+to recollect. "An _idea_," says the associationist, "an idea associated
+with the remembered thing; and this explains also why things repeatedly
+met with are more easily recollected, for their associates on the
+various occasions furnish so many distinct avenues of recall." But this
+does not explain the effects of fever, exhaustion, hypnotism, old age,
+and the like. And in general, the pure associationist's account of our
+mental life is almost as bewildering as that of the pure spiritualist.
+This multitude of ideas, existing absolutely, yet clinging together,
+and weaving an endless carpet of themselves, like dominoes in ceaseless
+change, or the bits of glass in a kaleidoscope,--whence do they get
+their fantastic laws of clinging, and why do they cling in just the
+shapes they do?
+
+For this the associationist must introduce the order of experience in
+the outer world. The dance of the ideas is a copy, somewhat mutilated
+and altered, of the order of phenomena. But the slightest reflection
+shows that phenomena have absolutely no power to influence our ideas
+until they have first impressed our senses and our brain. The bare
+existence of a past fact is no ground for our remembering it. Unless
+we have seen it, or somehow _undergone_ it, we shall never know of its
+having been. The expediences of the body are thus one of the conditions
+of the faculty of memory being what it is. And a very small amount
+of reflection on facts shows that one part of the body, namely, the
+brain, is the part whose experiences are directly concerned. If the
+nervous communication be cut off between the brain and other parts,
+the experiences of those other parts are non-existent for the mind.
+The eye is blind, the ear deaf, the hand insensible and motionless.
+And conversely, if the brain be injured, consciousness is abolished or
+altered, even although every other organ in the body be ready to play
+its normal part. A blow on the head, a sudden subtraction of blood, the
+pressure of an apoplectic hemorrhage, may have the first effect; whilst
+a very few ounces of alcohol or grains of opium or hasheesh, or a whiff
+of chloroform or nitrous oxide gas, are sure to have the second. The
+delirium of fever, the altered self of insanity, are all due to foreign
+matters circulating through the brain, or to pathological changes in
+that organ's substance. The fact that the brain is the one immediate
+bodily condition of the mental operations is indeed so universally
+admitted nowadays that I need spend no more time in illustrating it,
+but will simply postulate it and pass on. The whole remainder of the
+book will be more or less of a proof that the postulate was correct.
+
+Bodily experiences, therefore, and more particularly brain-experiences,
+must take a place amongst those conditions of the mental life of which
+Psychology need take account. _The spiritualist and the associationist
+must both be 'cerebralists'_, to the extent at least of admitting that
+certain peculiarities in the way of working of their own favorite
+principles are explicable only by the fact that the brain laws are a
+codeterminant of the result. Our first conclusion, then, is that a
+certain amount of brain-physiology must be presupposed or included in
+Psychology.[1]
+
+       *       *       *       *       *
+
+In still another way the psychologist is forced to be something of a
+nerve-physiologist. Mental phenomena are not only conditioned _a parte
+ante_ by bodily processes; but they lead to them _a parte post_. That
+they lead to _acts_ is of course the most familiar of truths, but I do
+not merely mean acts in the sense of voluntary and deliberate muscular
+performances. Mental states occasion also changes in the calibre of
+blood-vessels, or alteration in the heart-beats, or processes more
+subtle still, in glands and viscera. If these are taken into account,
+as well as acts which follow at some _remote period_ because the mental
+state was once there, it will be safe to lay down the general law
+that _no mental modification ever occurs which is not accompanied or
+followed by a bodily change_. The ideas and feelings, _e.g_., which
+these present printed characters excite in the reader's mind not only
+occasion movements of his eyes and nascent movements of articulation in
+him, but will some day make him speak, or take sides in a discussion,
+or give advice, or choose a book to read, differently from what would
+have been the case had they never impressed his retina. Our psychology
+must therefore take account not only of the conditions antecedent to
+mental states, but of their resultant consequences as well.
+
+       *       *       *       *       *
+
+But actions originally prompted by conscious intelligence may grow
+so automatic by dint of habit as to be apparently unconsciously
+performed. Standing, walking, buttoning and unbuttoning, piano-playing,
+talking, even saying one's prayers, may be done when the mind is
+absorbed in other things. The performances of animal _instinct_ seem
+semi-automatic, and the _reflex acts_ of self-preservation certainly
+are so. Yet they resemble intelligent acts in bringing about the
+_same ends_ at which the animals' consciousness, on other occasions,
+deliberately aims. Shall the study of such machine-like yet purposive
+acts as these be included in Psychology?
+
+The boundary-line of the mental is certainly vague. It is better not
+to be pedantic, but to let the science be as vague as its subject,
+and include such phenomena as these if by so doing we can throw any
+light on the main business in hand. It will ere long be seen, I trust,
+that we can; and that we gain much more by a broad than by a narrow
+conception of our subject. At a certain stage in the development
+of every science a degree of vagueness is what best consists with
+fertility. On the whole, few recent formulas have done more real
+service of a rough sort in psychology than the Spencerian one that
+the essence of mental life and of bodily life are one, namely, 'the
+adjustment of inner to outer relations.' Such a formula is vagueness
+incarnate; but because it takes into account the fact that minds
+inhabit environments which act on them and on which they in turn
+react; because, in short, it takes mind in the midst of all its
+concrete relations, it is immensely more fertile than the old-fashioned
+'rational psychology,' which treated the soul as a detached existent,
+sufficient unto itself, and assumed to consider only its nature and
+properties. I shall therefore feel free to make any sallies into
+zoology or into pure nerve-physiology which may seem instructive
+for our purposes, but otherwise shall leave those sciences to the
+physiologists.
+
+       *       *       *       *       *
+
+Can we state more distinctly still the manner in which the mental life
+seems to intervene between impressions made from without upon the body,
+and reactions of the body upon the outer world again? Let us look at a
+few facts.
+
+If some iron filings be sprinkled on a table and a magnet brought near
+them, they will fly through the air for a certain distance and stick
+to its surface. A savage seeing the phenomenon explains it as the
+result of an attraction or love between the magnet and the filings.
+But let a card cover the poles of the magnet, and the filings will
+press forever against its surface without its ever occurring to them
+to pass around its sides and thus come into more direct contact with
+the object of their love. Blow bubbles through a tube into the bottom
+of a pail of water, they will rise to the surface and mingle with the
+air. Their action may again be poetically interpreted as due to a
+longing to recombine with the mother-atmosphere above the surface. But
+if you invert a jar full of water over the pail, they will rise and
+remain lodged beneath its bottom, shut in from the outer air, although
+a slight deflection from their course at the outset, or a re-descent
+towards the rim of the jar when they found their upward course impeded,
+would easily have set them free.
+
+If now we pass from such actions as these to those of living things,
+we notice a striking difference. Romeo wants Juliet as the filings
+want the magnet; and if no obstacles intervene he moves towards her by
+as straight a line as they. But Romeo and Juliet, if a wall be built
+between them, do not remain idiotically pressing their faces against
+its opposite sides like the magnet and the filings with the card. Romeo
+soon finds a circuitous way, by scaling the wall or otherwise, of
+touching Juliet's lips directly. With the filings the path is fixed;
+whether it reaches the end depends on accidents. With the lover it is
+the end which is fixed, the path may be modified indefinitely.
+
+Suppose a living frog in the position in which we placed our bubbles
+of air, namely, at the bottom of a jar of water. The want of breath
+will soon make him also long to rejoin the mother-atmosphere, and he
+will take the shortest path to his end by swimming straight upwards.
+But if a jar full of water be inverted over him, he will not, like the
+bubbles, perpetually press his nose against its unyielding roof, but
+will restlessly explore the neighborhood until by re-descending again
+he has discovered a path round its brim to the goal of his desires.
+Again the fixed end, the varying means!
+
+Such contrasts between living and inanimate performances end by leading
+men to deny that in the physical world final purposes exist at all.
+Loves and desires are to-day no longer imputed to particles of iron or
+of air. No one supposes now that the end of any activity which they
+may display is an ideal purpose presiding over the activity from its
+outset and soliciting or drawing it into being by a sort of _vis a
+fronte_. The end, on the contrary, is deemed a mere passive result,
+pushed into being _a tergo_, having had, so to speak, no voice in its
+own production. Alter the pre-existing conditions, and with inorganic
+materials you bring forth each time a different apparent end. But
+with intelligent agents, altering the conditions changes the activity
+displayed, but not the end reached; for here the idea of the yet
+unrealized end co-operates with the conditions to determine what the
+activities shall be.
+
+       *       *       *       *       *
+
+_The pursuance of future ends and the choice of means for their
+attainment are thus the mark and criterion of the presence of
+mentality_ in a phenomenon. We all use this test to discriminate
+between an intelligent and a mechanical performance. We impute no
+mentality to sticks and stones, because they never seem to move for
+_the sake of_ anything, but always when pushed, and then indifferently
+and with no sign of choice. So we unhesitatingly call them senseless.
+
+Just so we form our decision upon the deepest of all philosophic
+problems: Is the Kosmos an expression of intelligence rational in its
+inward nature, or a brute external fact pure and simple? If we find
+ourselves, in contemplating it, unable to banish the impression that it
+is a realm of final purposes, that it exists for the sake of something,
+we place intelligence at the heart of it and have a religion. If,
+on the contrary, in surveying its irremediable flux, we can think
+of the present only as so much mere mechanical sprouting from the
+past, occurring with no reference to the future, we are atheists and
+materialists.
+
+In the lengthy discussions which psychologists have carried on about
+the amount of intelligence displayed by lower mammals, or the amount
+of consciousness involved in the functions of the nerve-centres of
+reptiles, the same test has always been applied: Is the character of
+the actions such that we must believe them to be performed _for the
+sake_ of their result? The result in question, as we shall hereafter
+abundantly see, is as a rule a useful one,--the animal is, on the
+whole, safer under the circumstances for bringing it forth. So far
+the action has a teleological character; but such mere outward
+teleology as this might still be the blind result of _vis a tergo_.
+The growth and movements of plants, the processes of development,
+digestion, secretion, etc., in animals, supply innumerable instances
+of performances useful to the individual which may nevertheless be,
+and by most of us are supposed to be, produced by automatic mechanism.
+The physiologist does not confidently assert conscious intelligence
+in the frog's spinal cord until he has shown that the useful result
+which the nervous machinery brings forth under a given irritation
+_remains the same when the machinery is altered_. If, to take the stock
+instance, the right knee of a headless frog be irritated with acid, the
+right foot will wipe it off. When, however, this foot is amputated,
+the animal will often raise the _left_ foot to the spot and wipe the
+offending material away.
+
+Pflüger and Lewes reason from such facts in the following way: If the
+first reaction were the result of mere machinery, they say; if that
+irritated portion of the skin discharged the right leg as a trigger
+discharges its own barrel of a shot-gun; then amputating the right
+foot would indeed frustrate the wiping, but would not make the _left_
+leg move. It would simply result in the right stump moving through
+the empty air (which is in fact the phenomenon sometimes observed).
+The right trigger makes no effort to discharge the left barrel if the
+right one be unloaded; nor does an electrical machine ever get restless
+because it can only emit sparks, and not hem pillow-cases like a
+sewing-machine.
+
+If, on the contrary, the right leg originally moved for the _purpose_
+of wiping the acid, then nothing is more natural than that, when the
+easiest means of effecting that purpose prove fruitless, other means
+should be tried. Every failure must keep the animal in a state of
+disappointment which will lead to all sorts of new trials and devices;
+and tranquillity will not ensue till one of these, by a happy stroke,
+achieves the wished-for end.
+
+In a similar way Goltz ascribes intelligence to the frog's optic
+lobes and cerebellum. We alluded above to the manner in which a sound
+frog imprisoned in water will discover an outlet to the atmosphere.
+Goltz found that frogs deprived of their cerebral hemispheres would
+often exhibit a like ingenuity. Such a frog, after rising from the
+bottom and finding his farther upward progress checked by the glass
+bell which has been inverted over him, will not persist in butting
+his nose against the obstacle until dead of suffocation, but will
+often re-descend and emerge from under its rim as if, not a definite
+mechanical propulsion upwards, but rather a conscious desire to reach
+the air by hook or crook were the main-spring of his activity. Goltz
+concluded from this that the hemispheres are not the sole seal of
+intellect in frogs. He made the same inference from observing that a
+brainless frog will turn over from his back to his belly when one of
+his legs is sewed up, although the movements required are then very
+different from those excited under normal circumstances by the same
+annoying position. They seem determined, consequently, not merely by
+the antecedent irritant, but by the final end,--though the irritant of
+course is what makes the end desired.
+
+Another brilliant German author, Liebmann,[2] argues against the
+brain's mechanism accounting for mental action, by very similar
+considerations. A machine as such, he says, will bring forth right
+results when it is in good order, and wrong results if out of repair.
+But both kinds of result flow with equally fatal necessity from their
+conditions. We cannot suppose the clock-work whose structure fatally
+determines it to a certain rate of speed, noticing that this speed is
+too slow or too fast and vainly trying to correct it. Its conscience,
+if it have any, should be as good as that of the best chronometer, for
+both alike obey equally well the same eternal mechanical laws--laws
+from behind. But if the _brain_ be out of order and the man says "Twice
+four are two," instead of "Twice four are eight," or else "I must go to
+the coal to buy the wharf," instead of "I must go to the wharf to buy
+the coal," instantly there arises a consciousness of error. The wrong
+performance, though it obey the same mechanical law as the right, is
+nevertheless condemned,--condemned as contradicting the inner law--the
+law from in front, the purpose or ideal for which the brain _should_
+act, whether it do so or not.
+
+We need not discuss here whether these writers in drawing their
+conclusion have done justice to all the premises I involved in the
+cases they treat of. We quote their arguments only to show how they
+appeal to the principle that _no actions but such as are done for an
+end, and show a choice of means, can be called indubitable expressions
+of Mind_.
+
+I shall then adopt this as the criterion by which to circumscribe the
+subject-matter of this work so far as action enters into it. Many
+nervous performances will therefore be unmentioned, as being purely
+physiological. Nor will the anatomy of the nervous system and organs of
+sense be described anew. The reader will find in H. N. Martin's 'Human
+Body,' in G. T. Ladd's 'Physiological Psychology,' and in all the other
+standard Anatomies and Physiologies, a mass of information which we
+must regard as preliminary and take for granted in the present work.[3]
+Of the functions of the cerebral hemispheres, however, since they
+directly subserve consciousness, it will be well to give some little
+account.
+
+
+FOOTNOTES:
+
+[1] _Cf._ Geo. T. Ladd: Elements of Physiological Psychology (1887),
+pt. iii, chap. iii, §§ 9, 12.
+
+[2] Zur Analysis der Wirklichkeit, p. 489.
+
+[3] Nothing is easier than to familiarize one's self with the mammalian
+brain. Get a sheep's head, a small saw, chisel, scalpel and forceps
+(all three can best be had from a surgical-instrument maker), and
+unravel its parts either by the aid of a human dissecting book, such as
+Holden's 'Manual of Anatomy,' or by the specific directions _ad hoc_
+given in such books as Foster and Langley's 'Practical Physiology'
+(Macmillan) or Morrell's 'Comparative Anatomy and Dissection of
+Mammalia' (Longmans).
+
+
+
+
+CHAPTER II.
+
+THE FUNCTIONS OF THE BRAIN.
+
+
+If I begin chopping the foot of a tree, its branches are unmoved by my
+act, and its leaves murmur as peacefully as ever in the wind. If, on
+the contrary, I do violence to the foot of a fellow-man, the rest of
+his body instantly responds to the aggression by movements of alarm or
+defence. The reason of this difference is that the man has a nervous
+system whilst the tree has none; and the function of the nervous system
+is to bring each part into harmonious co-operation with every other.
+The afferent nerves, when excited by some physical irritant, be this
+as gross in its mode of operation as a chopping axe or as subtle as
+the waves of light, conveys the excitement to the nervous centres. The
+commotion set up in the centres does not stop there, but discharges
+itself, if at all strong, through the efferent nerves into muscles
+and glands, exciting movements of the limbs and viscera, or acts of
+secretion, which vary with the animal, and with the irritant applied.
+These acts of response have usually the common character of being of
+service. They ward off the noxious stimulus and support the beneficial
+one; whilst if, in itself indifferent, the stimulus be a sign of some
+distant circumstance of practical importance, the animal's acts are
+addressed to this circumstance so as to avoid its perils or secure its
+benefits, as the case may be. To take a common example, if I hear the
+conductor calling 'All aboard!' as I enter the depot, my heart first
+stops, then palpitates, and my legs respond to the air-waves falling
+on my tympanum by quickening their movements. If I stumble as I run,
+the sensation of falling provokes a movement of the hands towards the
+direction of the fall, the effect of which is to shield the body from
+too sudden a shock. If a cinder enter my eye, its lids close forcibly
+and a copious flow of tears tends to wash it out.
+
+These three responses to a sensational stimulus differ, however, in
+many respects. The closure of the eye and the lachrymation are quite
+involuntary, and so is the disturbance of the heart. Such involuntary
+responses we know as 'reflex' acts. The motion of the arms to break the
+shock of falling may also be called reflex, since it occurs too quickly
+to be deliberately intended. Whether it be instinctive or whether it
+result from the pedestrian education of childhood may be doubtful; it
+is, at any rate, less automatic than the previous acts, for a man might
+by conscious effort learn to perform it more skilfully, or even to
+suppress it altogether. Actions of this kind, into which instinct and
+volition enter upon equal terms, have been called 'semi-reflex.' The
+act of running towards the train, on the other hand, has no instinctive
+element about it. It is purely the result of education, and is preceded
+by a consciousness of the purpose to be attained and a distinct mandate
+of the will. It is a 'voluntary act.' Thus the animal's reflex and
+voluntary performances shade into each other gradually, being connected
+by acts which may often occur automatically, but may also be modified
+by conscious intelligence.
+
+An outside observer, unable to perceive the accompanying consciousness,
+might be wholly at a loss to discriminate between the automatic acts
+and those which volition escorted. But if the criterion of mind's
+existence be the choice of the proper means for the attainment of a
+supposed end, all the acts seem to be inspired by intelligence, for
+_appropriateness_ characterizes them all alike. This fact, now, has led
+to two quite opposite theories about the relation to consciousness of
+the nervous functions. Some authors, finding that the higher voluntary
+ones seem to require the guidance of feeling, conclude that over the
+lowest reflexes some such feeling also presides, though it may be a
+feeling of which _we_ remain unconscious. Others, finding that reflex
+and semi-automatic acts may, notwithstanding their appropriateness,
+take place with an unconsciousness apparently complete, fly to the
+opposite extreme and maintain that the appropriateness even of
+voluntary actions owes nothing to the fact that consciousness attends
+them. They are, according to these writers, results of physiological
+mechanism pure and simple. In a near chapter we shall return to this
+controversy again. Let us now look a little more closely at the brain
+and at the ways in which its states may be supposed to condition those
+of the mind.
+
+
+THE FROG'S NERVE-CENTRES.
+
+
+Both the minute anatomy and the detailed physiology of the brain are
+achievements of the present generation, or rather we may say (beginning
+with Meynert) of the past twenty years. Many points are still obscure
+and subject to controversy; but a general way of conceiving the organ
+has been reached on all hands which in its main feature seems not
+unlikely to stand, and which even gives a most plausible scheme of the
+way in which cerebral and mental operations go hand in hand.
+
+[Illustration: FIG. 1.--_C H_, cerebral Hemispheres; _O Th_, Optic
+Thalami; _O L_, Optic Lobes; _Cb_, Cerebellum; _M O_, Medulla
+Oblongata; _S C_, Spinal cord.]
+
+The best way to enter the subject will be to take a lower creature,
+like a frog, and study by the vivisectional method the functions of
+his different nerve-centres. The frog's nerve-centres are figured
+in the accompanying diagram, which needs no further explanation. I
+will first proceed to state what happens when various amounts of the
+anterior parts are removed, in different frogs, in the way in which an
+ordinary student removes them; that is, with no extreme precautions
+as to the purity of the operation. We shall in this way reach a very
+simple conception of the functions of the various centres, involving
+the strongest possible contrast between the cerebral hemispheres and
+the lower lobes. This sharp conception will have didactic advantages,
+for it is often very instructive to start with too simple a formula
+and correct it later on. Our first formula, as we shall later see,
+will have to be softened down somewhat by the results of more careful
+experimentation both on frogs and birds, and by those of the most
+recent observations on dogs, monkeys, and man. But it will put us,
+from the outset, in clear possession of some fundamental notions and
+distinctions which we could otherwise not gain so well, and none of
+which the later more completed view will overturn.
+
+If, then, we reduce the frog's nervous system to the spinal cord
+alone, by making a section behind the base of the skull, between the
+spinal cord and the medulla oblongata, thereby cutting off the brain
+from all connection with the rest of the body, the frog will still
+continue to live, but with a very peculiarly modified activity. It
+ceases to breathe or swallow; it lies flat on its belly, and does not,
+like a normal frog, sit up on its fore paws, though its hind legs
+are kept, as usual, folded against its body and immediately resume
+this position if drawn out. If thrown on its back, it lies there
+quietly, without turning over like a normal frog. Locomotion and voice
+seem entirely abolished. If we suspend it by the nose, and irritate
+different portions of its skin by acid, it performs a set of remarkable
+'defensive' movements calculated to wipe away the irritant. Thus, if
+the breast be touched, both fore paws will rub it vigorously; if we
+touch the outer side of the elbow, the hind foot of the same side
+will rise directly to the spot and wipe it. The back of the foot will
+rub the knee if that be attacked, whilst if the foot be cut away, the
+stump will make ineffectual movements, and then, in many frogs, a pause
+will come, as if for deliberation, succeeded by a rapid passage of the
+opposite unmutilated foot to the acidulated spot.
+
+The most striking character of all these movements, after their
+teleological appropriateness, is their precision. They vary, in
+sensitive frogs and with a proper amount of irritation, so little as
+almost to resemble in their machine-like regularity the performances of
+a jumping-jack, whose legs must twitch whenever you pull the string.
+The spinal cord of the frog thus contains arrangements of cells and
+fibres fitted to convert skin irritations into movements of defence. We
+may call it the _centre for defensive movements_ in this animal. We may
+indeed go farther than this, and by cutting the spinal cord in various
+places find that its separate segments are independent mechanisms,
+for appropriate activities of the head and of the arms and legs
+respectively. The segment governing the arms is especially active,
+in male frogs, in the breeding season; and these members alone with
+the breast and back appertaining to them, everything else being cut
+away, will then actively grasp a finger placed between them and remain
+hanging to it for a considerable time.
+
+The spinal cord in other animals has analogous powers. Even in man
+it makes movements of defence. Paraplegics draw up their legs when
+tickled; and Robin, on tickling the breast of a criminal an hour after
+decapitation, saw the arm and hand move towards the spot. Of the lower
+functions of the mammalian cord, studied so ably by Goltz and others,
+this is not the place to speak.
+
+If, in a second animal, the cut be made just behind the optic lobes so
+that the cerebellum and medulla oblongata remain attached to the cord,
+then swallowing, breathing, crawling, and a rather enfeebled jumping
+and swimming are added to the movements previously observed.[4] There
+are other reflexes too. The animal, thrown on his back, immediately
+turns over to his belly. Placed in a shallow bowl, which is floated on
+water and made to rotate, he responds to the rotation by first turning
+his head and then waltzing around with his entire body, in the opposite
+direction to the whirling of the bowl. If his support be tilted so that
+his head points downwards, he points it up; he points it down if it be
+pointed upwards, to the right if it be pointed to the left, etc. But
+his reactions do not go farther than these movements of the head. He
+will not, like frogs whose thalami are preserved, climb up a board if
+the latter be tilted, but will slide off it to the ground.
+
+If the cut be made on another frog between the thalami and the optic
+lobes, the locomotion both on land and water becomes quite normal, and,
+in addition to the reflexes already shown by the lower centres, he
+croaks regularly whenever he is pinched under the arms. He compensates
+rotations, etc., by movements of the head, and turns over from his
+back; but still drops off his tilted board. As his optic nerves are
+destroyed by the usual operation, it is impossible to say whether he
+will avoid obstacles placed in his path.
+
+When, finally, a frog's cerebral hemispheres alone are cut off by a
+section between them and the thalami which preserves the latter, an
+unpractised observer would not at first suspect anything abnormal
+about the animal. Not only is he capable, on proper instigation, of
+all the acts already described, but he guides himself by sight, so
+that if an obstacle be set up between him and the light, and he be
+forced to move forward, he either jumps over it or swerves to one
+side. He manifests sexual passion at the proper season, and, unlike an
+altogether brainless frog, which embraces anything placed between his
+arms, postpones this reflex act until a female of his own species is
+provided. Thus far, as aforesaid, a person unfamiliar with frogs might
+not suspect a mutilation; but even such a person would soon remark the
+almost entire absence of spontaneous motion--that is, motion unprovoked
+by any _present_ incitation of sense. The continued movements of
+swimming, performed by the creature in the water, seem to be the fatal
+result of the contact of that fluid with its skin. They cease when a
+stick, for example, touches his hands. This is a sensible irritant
+towards which the feet are automatically drawn by reflex action, and
+on which the animal remains sitting. He manifests no hunger, and will
+suffer a fly to crawl over his nose unsnapped at. Fear, too, seems
+to have deserted him. In a word, he is an extremely complex machine
+whose actions, so far as they go, tend to self-preservation; but still
+a _machine_, in this sense--that it seems to contain no incalculable
+element. By applying the right sensory stimulus to him we are almost
+as certain of getting a fixed response as an organist is of hearing a
+certain tone when he pulls out a certain stop.
+
+But now if to the lower centres we add the cerebral hemispheres,
+or if, in other words, we make an intact animal the subject of our
+observations, all this is changed. In addition to the previous
+responses to present incitements of sense, our frog now goes through
+long and complex acts of locomotion _spontaneously_, or as if moved by
+what in ourselves we should call an idea. His reactions to outward
+stimuli vary their form, too. Instead of making simple defensive
+movements with his hind legs like a headless frog if touched, or of
+giving one or two leaps and then sitting still like a hemisphereless
+one, he makes persistent and varied efforts at escape, as if, not the
+mere contact of the physiologist's hand, but the notion of danger
+suggested by it were now his spur. Led by the feeling of hunger, too,
+he goes in search of insects, fish, or smaller frogs, and varies his
+procedure with each species of victim. The physiologist cannot by
+manipulating him elicit croaking, crawling up a board, swimming or
+stopping, at will. His conduct has become incalculable. We can no
+longer foretell it exactly. Effort to escape is his dominant reaction,
+but he _may_ do anything else, even swell up and become perfectly
+passive in our hands.
+
+       *       *       *       *       *
+
+Such are the phenomena commonly observed, and such the impressions
+which one naturally receives. Certain general conclusions follow
+irresistibly. First of all the following:
+
+_The acts of all the centres involve the use of the same muscles._ When
+a headless frog's hind leg wipes the acid, he calls into play all the
+leg-muscles which a frog with his full medulla oblongata and cerebellum
+uses when he turns from his back to his belly. Their contractions are,
+however, _combined_ differently in the two cases, so that the results
+vary

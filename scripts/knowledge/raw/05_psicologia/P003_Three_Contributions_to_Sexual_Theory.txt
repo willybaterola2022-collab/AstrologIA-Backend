@@ -1,0 +1,928 @@
+# Three Contributions to Sexual Theory
+Author: Sigmund Freud
+Category: 05_psicologia
+Source: Gutenberg #14969
+Downloaded: 2026-03-08T14:20:13.324263
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+Produced by Audrey Longhurst, Joel Schlosberg and the PG Online
+Distributed Proofreading Team.
+
+
+
+
+
+
+NERVOUS AND MENTAL DISEASE MONOGRAPH SERIES NO. 7
+
+THREE CONTRIBUTIONS TO THE THEORY OF SEX
+
+_SECOND EDITION_
+_SECOND REPRINTING_
+
+BY
+
+PROF. SIGMUND FREUD, LL.D.
+VIENNA
+
+AUTHORIZED TRANSLATION BY
+
+A.A. BRILL, PH.B., M.D.
+CLINICAL ASSISTANT, DEPARTMENT OF PSYCHIATRY AND NEUROLOGY, COLUMBIA
+UNIVERSITY; ASSISTANT IN MENTAL DISEASES, BELLEVUE HOSPITAL; ASSISTANT
+VISITING PHYSICIAN, HOSPITAL FOR NERVOUS DISEASES
+
+WITH INTRODUCTION BY
+
+JAMES J. PUTNAM, M.D.
+
+NERVOUS AND MENTAL DISEASE PUBLISHING CO.
+NEW YORK AND WASHINGTON
+1920
+
+
+
+
+NERVOUS AND MENTAL DISEASE MONOGRAPH SERIES
+
+Edited by
+
+Drs. SMITH ELY JELLIFFE and WM. A. WHITE
+
+Numbers Issued
+
+1. Outlines of Psychiatry. (7th Edition.) $3.00. By Dr. William A.
+     White.
+2. Studies in Paranoia. (Out of Print.) By Drs. N. Gierlich and M.
+     Friedman.
+3. The Psychology of Dementia Praecox. (Out of Print.) By Dr. C.G. Jung.
+4. Selected Papers on Hysteria and other Psychoneuroses. (3d Edition.)
+     $3.00. By Prof. Sigmund Freud.
+5. The Wassermann Serum Diagnosis in Psychiatry. $2.00. By Dr. Felix
+     Plaut.
+6. Epidemic Poliomyelitis. New York, 1907. (Out of Print.)
+7. Three Contributions to Sexual Theory. (3d Edition.) $2.00. By Prof.
+     Sigmund Freud.
+8. Mental Mechanisms. (Out of Print.) $2.00. By Dr. Wm. A. White.
+9. Studies in Psychiatry. $2.00. New York Psychiatrical Society.
+10. Handbook of Mental Examination Methods. $2.00. (Out of Print.) By
+     Shepherd Ivory Franz.
+11. The Theory of Schizophrenic Negativism. $1.00. By Professor E.
+     Bleuler.
+12. Cerebellar Functions. $3.00. By Dr. Andre-Thomas.
+13. History of Prison Psychoses. $1.25. By Drs. P. Nitsche and K.
+     Wilmanns.
+14. General Paresis. $3.00. By Prof. E. Kraepelin.
+15. Dreams and Myths. $1.00. By Dr. Karl Abraham.
+16. Poliomyelitis. $3.00. By Dr. I. Wickmann.
+17. Freud's Theories of the Neuroses. $2.00. By Dr. E. Hitschmann.
+18. The Myth of the Birth of the Hero. $1.00. By Dr. Otto Rank.
+19. The Theory of Psychoanalysis. $1.50. (Out of Print.) By Dr. C.G.
+     Jung.
+20. Vagotonia. $1.00. (3d Edition.) By Drs. Eppinger and Hess.
+21. Wishfulfillment and Symbolism in Fairy Tales. $1.00. By Dr. Ricklin.
+22. The Dream Problem. $1.00. By Dr. A.E. Maeder.
+23. The Significance of Psychoanalysis for the Mental Sciences. $1.50.
+     By Drs. O. Rank and D.H. Sachs.
+24. Organ Inferiority and its Psychical Compensation. $1.50. By Dr.
+     Alfred Adler.
+25. The History of the Psychoanalytic Movement. $1.00. By Prof. S.
+     Freud.
+26. Technique of Psychoanalysis. $2.00. By Dr. Smith Ely Jelliffe.
+27. Vegetative Neurology. $2.00. By Dr. H. Higier.
+28. The Autonomic Functions and the Personality. $2.00. By Dr. Edward J.
+     Kemp.
+29. A Study of the Mental Life of the Child, $2.00. By Dr. H. Von
+     Hug-Hellmuth.
+30. Internal Secretions and the Nervous System. $1.00. By Dr. M. Laignel
+     Lavastine.
+31. Sleep Walking and Moon Walking. $2.00. By Dr. J. Sadger.
+
+NERVOUS AND MENTAL DISEASE PUBLISHING COMPANY 3617 10th St. N.W.,
+Washington, D.C.
+
+
+
+
+TABLE OF CONTENTS
+
+                                                             PAGE
+INTRODUCTION TO TRANSLATION                                     v
+AUTHOR'S PREFACE TO THE SECOND EDITION                         ix
+AUTHOR'S PREFACE TO THE THIRD EDITION                           x
+  I. THE SEXUAL ABERRATIONS                                     1
+ II. THE INFANTILE SEXUALITY                                   36
+III. THE TRANSFORMATION OF PUBERTY                             68
+
+
+
+
+INTRODUCTION TO TRANSLATION
+
+
+The somewhat famous "Three Essays," which Dr. Brill is here bringing to
+the attention of an English-reading public, occupy--brief as they
+are--an important position among the achievements of their author, a
+great investigator and pioneer in an important line. It is not claimed
+that the facts here gathered are altogether new. The subject of the
+sexual instinct and its aberrations has long been before the scientific
+world and the names of many effective toilers in this vast field are
+known to every student. When one passes beyond the strict domains of
+science and considers what is reported of the sexual life in folkways
+and art-lore and the history of primitive culture and in romance, the
+sources of information are immense. Freud has made considerable
+additions to this stock of knowledge, but he has done also something of
+far greater consequence than this. He has worked out, with incredible
+penetration, the part which this instinct plays in every phase of human
+life and in the development of human character, and has been able to
+establish on a firm footing the remarkable thesis that psychoneurotic
+illnesses never occur with a perfectly normal sexual life. Other sorts
+of emotions contribute to the result, but some aberration of the sexual
+life is always present, as the cause of especially insistent emotions
+and repressions.
+
+The instincts with which every child is born furnish desires or cravings
+which must be dealt with in some fashion. They may be refined
+("sublimated"), so far as is necessary and desirable, into energies of
+other sorts--as happens readily with the play-instinct--or they may
+remain as the source of perversions and inversions, and of cravings of
+new sorts substituted for those of the more primitive kinds under the
+pressure of a conventional civilization. The symptoms of the functional
+psychoneuroses represent, after a fashion, some of these distorted
+attempts to find a substitute for the imperative cravings born of the
+sexual instincts, and their form often depends, in part at least, on the
+peculiarities of the sexual life in infancy and early childhood. It is
+Freud's service to have investigated this inadequately chronicled period
+of existence with extraordinary acumen. In so doing he made it plain
+that the "perversions" and "inversions," which reappear later under such
+striking shapes, belong to the normal sexual life of the young child and
+are seen, in veiled forms, in almost every case of nervous illness.
+
+It cannot too often be repeated that these discoveries represent no
+fanciful deductions, but are the outcome of rigidly careful observations
+which any one who will sufficiently prepare himself can verify. Critics
+fret over the amount of "sexuality" that Freud finds evidence of in the
+histories of his patients, and assume that he puts it there. But such
+criticisms are evidences of misunderstandings and proofs of ignorance.
+
+Freud had learned that the amnesias of hypnosis and of hysteria were not
+absolute but relative and that in covering the lost memories, much more,
+of unexpected sort, was often found. Others, too, had gone as far as
+this, and stopped. But this investigator determined that nothing but the
+absolute impossibility of going further should make him cease from
+urging his patients into an inexorable scrutiny of the unconscious
+regions of their memories and thoughts, such as never had been made
+before. Every species of forgetfulness, even the forgetfulness of
+childhood's years, was made to yield its hidden stores of knowledge;
+dreams, even though apparently absurd, were found to be interpreters of
+a varied class of thoughts, active, although repressed as out of harmony
+with the selected life of consciousness; layer after layer, new sets of
+motives underlying motives were laid bare, and each patient's interest
+was strongly enlisted in the task of learning to know himself in order
+more truly and wisely to "sublimate" himself. Gradually other workers
+joined patiently in this laborious undertaking, which now stands, for
+those who have taken pains to comprehend it, as by far the most
+important movement in psychopathology.
+
+It must, however, be recognized that these essays, of which Dr. Brill
+has given a translation that cannot but be timely, concern a subject
+which is not only important but unpopular. Few physicians read the works
+of v. Krafft-Ebing, Magnus Hirschfeld, Moll, and others of like sort.
+The remarkable volumes of Havelock Ellis were refused publication in his
+native England. The sentiments which inspired this hostile attitude
+towards the study of the sexual life are still active, though growing
+steadily less common. One may easily believe that if the facts which
+Freud's truth-seeking researches forced him to recognize and to publish
+had not been of an unpopular sort, his rich and abundant contributions
+to observational psychology, to the significance of dreams, to the
+etiology and therapeutics of the psychoneuroses, to the interpretation
+of mythology, would have won for him, by universal acclaim, the same
+recognition among all physicians that he has received from a rapidly
+increasing band of followers and colleagues.
+
+May Dr. Brill's translation help toward this end.
+
+There are two further points on which some comments should be made. The
+first is this, that those who conscientiously desire to learn all that
+they can from Freud's remarkable contributions should not be content to
+read any one of them alone. His various publications, such as "The
+Selected Papers on Hysteria and Other Psychoneuroses,"[1] "The
+Interpretation of Dreams,"[2] "The Psychopathology of Everyday Life,"[3]
+"Wit and its Relation to the Unconscious,"[4] the analysis of the case
+of the little boy called Hans, the study of Leonardo da Vinci,[4a] and
+the various short essays in the four Sammlungen kleiner Schriften, not
+only all hang together, but supplement each other to a remarkable
+extent. Unless a course of study such as this is undertaken many critics
+may think various statements and inferences in this volume to be far
+fetched or find them too obscure for comprehension.
+
+The other point is the following: One frequently hears the
+psychoanalytic method referred to as if it was customary for those
+practicing it to exploit the sexual experiences of their patients and
+nothing more, and the insistence on the details of the sexual life,
+presented in this book, is likely to emphasize that notion. But the fact
+is, as every thoughtful inquirer is aware, that the whole progress of
+civilization, whether in the individual or the race, consists largely in
+a "sublimation" of infantile instincts, and especially certain portions
+of the sexual instinct, to other ends than those which they seemed
+designed to serve. Art and poetry are fed on this fuel and the evolution
+of character and mental force is largely of the same origin. All the
+forms which this sublimation, or the abortive attempts at sublimation,
+may take in any given case, should come out in the course of a thorough
+psychoanalysis. It is not the sexual life alone, but every interest and
+every motive, that must be inquired into by the physician who is seeking
+to obtain all the data about the patient, necessary for his reeducation
+and his cure. But all the thoughts and emotions and desires and motives
+which appear in the man or woman of adult years were once crudely
+represented in the obscure instincts of the infant, and among these
+instincts those which were concerned directly or indirectly with the
+sexual emotions, in a wide sense, are certain to be found in every case
+to have been the most important for the end-result.
+
+                                                      JAMES J. PUTNAM.
+
+BOSTON, August 23, 1910.
+
+[1] Translated by A.A. Brill, NERVOUS AND MENTAL DISEASE MONOGRAPH
+SERIES, NO. 4.
+
+[2] Translated by A.A. Brill, The Macmillan Co., New York, and Allen &
+Unwin, London.
+
+[3] Translated by A.A. Brill, The Macmillan Co., New York.
+
+[4] Translated by A.A. Brill, Moffatt, Yard & Co., New York.
+
+[4a] Translated by A.A. Brill, Moffatt, Yard & Co., New York.
+
+
+
+
+AUTHOR'S PREFACE TO THE SECOND EDITION
+
+
+Although the author is fully aware of the gaps and obscurities contained
+in this small volume, he has, nevertheless, resisted a temptation to add
+to it the results obtained from the investigations of the last five
+years, fearing that thus its unified and documentary character would be
+destroyed. He accordingly reproduces the original text with but slight
+modifications, contenting himself with the addition of a few footnotes.
+For the rest, it is his ardent wish that this book may speedily become
+antiquated--to the end that the new material brought forward in it may
+be universally accepted, while the shortcomings it displays may give
+place to juster views.
+
+VIENNA, December, 1909.
+
+
+
+
+AUTHOR'S PREFACE TO THE THIRD EDITION
+
+
+After watching for ten years the reception accorded to this book and the
+effect it has produced, I wish to provide the third edition of it with
+some prefatory remarks dealing with the misunderstandings of the book
+and the demands, insusceptible of fulfillment, made against it. Let me
+emphasize in the first place that whatever is here presented is derived
+entirely from every-day medical experience which is to be made more
+profound and scientifically important through the results of
+psychoanalytic investigation. The "Three Contributions to the Theory of
+Sex" can contain nothing except what psychoanalysis obliges them to
+accept or what it succeeds in corroborating. It is therefore excluded
+that they should ever be developed into a "theory of sex," and it is
+also quite intelligible that they will assume no attitude at all towards
+some important problems of the sexual life. This should not however give
+the impression that these omitted chapters of the great theme were
+unfamiliar to the author, or that they were neglected by him as
+something of secondary importance.
+
+The dependence of this work on the psychoanalytic experiences which have
+determined the writing of it, shows itself not only in the selection but
+also in the arrangement of the material. A certain succession of stages
+was observed, the occasional factors are rendered prominent, the
+constitutional ones are left in the background, and the ontogenetic
+development receives greater consideration than the phylogenetic. For
+the occasional factors play the principal role in analysis, and are
+almost completely worked up in it, while the constitutional factors only
+become evident from behind as elements which have been made functional
+through experience, and a discussion of these would lead far beyond the
+working sphere of psychoanalysis.
+
+A similar connection determines the relation between ontogenesis and
+phylogenesis. Ontogenesis may be considered as a repetition of
+phylogenesis insofar as the latter has not been varied by a more recent
+experience. The phylogenetic disposition makes itself visible behind the
+ontogenetic process. But fundamentally the constitution is really the
+precipitate of a former experience of the species to which the newer
+experience of the individual being is added as the sum of the occasional
+factors.
+
+Beside its thoroughgoing dependence on psychoanalytic investigation I
+must emphasize as a character of this work of mine its intentional
+independence of biological investigation. I have carefully avoided the
+inclusion of the results of scientific investigation in general sex
+biology or of particular species of animals in this study of human
+sexual functions which is made possible by the technique of
+psychoanalysis. My aim was indeed to find out how much of the biology of
+the sexual life of man can be discovered by means of psychological
+investigation; I was able to point to additions and agreements which
+resulted from this examination, but I did not have to become confused if
+the psychoanalytic methods led in some points to views and results which
+deviated considerably from those merely based on biology.
+
+I have added many passages in this edition, but I have abstained from
+calling attention to them, as in former editions, by special marks. The
+scientific work in our sphere has at present been retarded in its
+progress, nevertheless some supplements to this work were indispensable
+if it was to remain in touch with our newer psychoanalytic literature.
+
+VIENNA, October, 1914.
+
+
+
+
+I
+
+THE SEXUAL ABERRATIONS[1]
+
+
+The fact of sexual need in man and animal is expressed in biology by the
+assumption of a "sexual impulse." This impulse is made analogous to the
+impulse of taking nourishment, and to hunger. The sexual expression
+corresponding to hunger not being found colloquilly, science uses the
+expression "libido."[2]
+
+Popular conception makes definite assumptions concerning the nature and
+qualities of this sexual impulse. It is supposed to be absent during
+childhood and to commence about the time of and in connection with the
+maturing process of puberty; it is supposed that it manifests itself in
+irresistible attractions exerted by one sex upon the other, and that its
+aim is sexual union or at least such actions as would lead to union.
+
+But we have every reason to see in these assumptions a very
+untrustworthy picture of reality. On closer examination they are found
+to abound in errors, inaccuracies and hasty conclusions.
+
+If we introduce two terms and call the person from whom the sexual
+attraction emanates the _sexual object_, and the action towards which
+the impulse strives the _sexual aim_, then the scientifically examined
+experience shows us many deviations in reference to both sexual object
+and sexual aim, the relations of which to the accepted standard require
+thorough investigation.
+
+
+1. DEVIATION IN REFERENCE TO THE SEXUAL OBJECT
+
+The popular theory of the sexual impulse corresponds closely to the
+poetic fable of dividing the person into two halves--man and woman--who
+strive to become reunited through love. It is therefore very surprising
+to hear that there are men for whom the sexual object is not woman but
+man, and that there are women for whom it is not man but woman. Such
+_persons_ are called contrary sexuals, or better, inverts; the
+_condition_, that of inversion. The number of such individuals is
+considerable though difficult of accurate determination.[3]
+
+
+A. _Inversion_
+
+*The Behavior of Inverts.*--The above-mentioned persons behave in many
+ways quite differently.
+
+(_a_) They are absolutely inverted; _i.e._, their sexual object must be
+always of the same sex, while the opposite sex can never be to them an
+object of sexual longing, but leaves them indifferent or may even evoke
+sexual repugnance. As men they are unable, on account of this
+repugnance, to perform the normal sexual act or miss all pleasure in its
+performance.
+
+(_b_) They are amphigenously inverted (psychosexually hermaphroditic);
+_i.e._, their sexual object may belong indifferently to either the same
+or to the other sex. The inversion lacks the character of exclusiveness.
+
+(_c_) They are occasionally inverted; _i.e._, under certain external
+conditions, chief among which are the inaccessibility of the normal
+sexual object and initiation, they are able to take as the sexual
+object a person of the same sex and thus find sexual gratification.
+
+The inverted also manifest a manifold behavior in their judgment about
+the peculiarities of their sexual impulse. Some take the inversion as a
+matter of course, just as the normal person does regarding his libido,
+firmly demanding the same rights as the normal. Others, however, strive
+against the fact of their inversion and perceive in it a morbid
+compulsion.[4]
+
+Other variations concern the relations of time. The characteristics of
+the inversion in any individual may date back as far as his memory goes,
+or they may become manifest to him at a definite period before or after
+puberty.[5] The character is either retained throughout life, or it
+occasionally recedes or represents an episode on the road to normal
+development. A periodical fluctuation between the normal and the
+inverted sexual object has also been observed. Of special interest are
+those cases in which the libido changes, taking on the character of
+inversion after a painful experience with the normal sexual object.
+
+These different categories of variation generally exist independently of
+one another. In the most extreme cases it can regularly be assumed that
+the inversion has existed at all times and that the person feels
+contented with his peculiar state.
+
+Many authors will hesitate to gather into a unit all the cases
+enumerated here and will prefer to emphasize the differences rather than
+the common characters of these groups, a view which corresponds with
+their preferred judgment of inversions. But no matter what divisions may
+be set up, it cannot be overlooked that all transitions are abundantly
+met with, so that the formation of a series would seem to impose itself.
+
+*Conception of Inversion.*--The first attention bestowed upon inversion
+gave rise to the conception that it was a congenital sign of nervous
+degeneration. This harmonized with the fact that doctors first met it
+among the nervous, or among persons giving such an impression. There are
+two elements which should be considered independently in this
+conception: the congenitality, and the degeneration.
+
+*Degeneration.*--This term _degeneration_ is open to the objections
+which may be urged against the promiscuous use of this word in general.
+It has in fact become customary to designate all morbid manifestations
+not of traumatic or infectious origin as degenerative. Indeed, Magnan's
+classification of degenerates makes it possible that the highest general
+configuration of nervous accomplishment need not exclude the application
+of the concept of degeneration. Under the circumstances, it is a
+question what use and what new content the judgment of "degeneration"
+still possesses. It would seem more appropriate not to speak of
+degeneration: (1) Where there are not many marked deviations from the
+normal; (2) where the capacity for working and living do not in general
+appear markedly impaired.[6]
+
+That the inverted are not degenerates in this qualified sense can be
+seen from the following facts:
+
+1. The inversion is found among persons who otherwise show no marked
+deviation from the normal.
+
+2. It is found also among persons whose capabilities are not disturbed,
+who on the contrary are distinguished by especially high intellectual
+development and ethical culture.[7]
+
+3. If one disregards the patients of one's own practice and strives to
+comprehend a wider field of experience, he will in two directions
+encounter facts which will prevent him from assuming inversions as a
+degenerative sign.
+
+(_a_) It must be considered that inversion was a frequent manifestation
+among the ancient nations at the height of their culture. It was an
+institution endowed with important functions. (_b_) It is found to be
+unusually prevalent among savages and primitive races, whereas the term
+degeneration is generally limited to higher civilization (I. Bloch).
+Even among the most civilized nations of Europe, climate and race have a
+most powerful influence on the distribution of, and attitude toward,
+inversion.[8]
+
+*Innateness.*--Only for the first and most extreme class of inverts, as
+can be imagined, has innateness been claimed, and this from their own
+assurance that at no time in their life has their sexual impulse
+followed a different course. The fact of the existence of two other
+classes, especially of the third, is difficult to reconcile with the
+assumption of its being congenital. Hence, the propensity of those
+holding this view to separate the group of absolute inverts from the
+others results in the abandonment of the general conception of
+inversion. Accordingly in a number of cases the inversion would be of a
+congenital character, while in others it might originate from other
+causes.
+
+In contradistinction to this conception is that which assumes inversion
+to be an _acquired_ character of the sexual impulse. It is based on the
+following facts. (1) In many inverts (even absolute ones) an early
+affective sexual impression can be demonstrated, as a result of which
+the homosexual inclination developed. (2) In many others outer
+influences of a promoting and inhibiting nature can be demonstrated,
+which in earlier or later life led to a fixation of the inversion--among
+which are exclusive relations with the same sex, companionship in war,
+detention in prison, dangers of hetero-sexual intercourse, celibacy,
+sexual weakness, etc. (3) Hypnotic suggestion may remove the inversion,
+which would be surprising in that of a congenital character.
+
+In view of all this, the existence of congenital inversion can certainly
+be questioned. The objection may be made to it that a more accurate
+examination of those claimed to be congenitally inverted will probably
+show that the direction of the libido was determined by a definite
+experience of early childhood, which has not been retained in the
+conscious memory of the person, but which can be brought back to memory
+by proper influences (Havelock Ellis). According to that author
+inversion can be designated only as a frequent variation of the sexual
+impulse which may be determined by a number of external circumstances of
+life.
+
+The apparent certainty thus reached is, however, overthrown by the
+retort that manifestly there are many persons who have experienced even
+in their early youth those very sexual influences, such as seduction,
+mutual onanism, without becoming inverts, or without constantly
+remaining so. Hence, one is forced to assume that the alternatives
+congenital and acquired are either incomplete or do not cover the
+circumstances present in inversions.
+
+*Explanation of Inversion.*--The nature of inversion is explained
+neither by the assumption that it is congenital nor that it is acquired.
+In the first case, we need to be told what there is in it of the
+congenital, unless we are satisfied with the roughest explanation,
+namely, that a person brings along a congenital sexual impulse connected
+with a definite sexual object. In the second case it is a question
+whether the manifold accidental influences suffice to explain the
+acquisition unless there is something in the individual to meet them
+half way. The negation of this last factor is inadmissible according to
+our former conclusions.
+
+*The Relation of Bisexuality.*--Since the time of Frank Lydston,
+Kiernan, and Chevalier, a new series of ideas has been introduced for
+the explanation of the possibility of sexual inversion. This contains a
+new contradiction to the popular belief which assumes that a human being
+is either a man or a woman. Science shows cases in which the sexual
+characteristics appear blurred and thus the sexual distinction is made
+difficult, especially on an anatomical basis. The genitals of such
+persons unite the male and female characteristics (hermaphroditism). In
+rare cases both parts of the sexual apparatus are well developed (true
+hermaphroditism), but usually both are stunted.[9]
+
+The importance of these abnormalities lies in the fact that they
+unexpectedly facilitate the understanding of the normal formation. A
+certain degree of anatomical hermaphroditism really belongs to the
+normal. In no normally formed male or female are traces of the apparatus
+of the other sex lacking; these either continue functionless as
+rudimentary organs, or they are transformed for the purpose of assuming
+other functions.
+
+The conception which we gather from this long known anatomical fact is
+the original predisposition to bisexuality, which in the course of
+development has changed to monosexuality, leaving slight remnants of the
+stunted sex.
+
+It was natural to transfer this conception to the psychic sphere and to
+conceive the inversion in its aberrations as an expression of psychic
+hermaphroditism. In order to bring the question to a decision, it was
+only necessary to have one other circumstance, viz., a regular
+concurrence of the inversion with the psychic and somatic signs of
+hermaphroditism.
+
+But this second expectation was not realized. The relations between the
+assumed psychical and the demonstrable anatomical androgyny should never
+be conceived as being so close. There is frequently found in the
+inverted a diminution of the sexual impulse (H. Ellis) and a slight
+anatomical stunting of the organs. This, however, is found frequently
+but by no means regularly or preponderately. Thus we must recognize that
+inversion and somatic hermaphroditism are totally independent of each
+other.
+
+Great importance has also been attached to the so-called secondary and
+tertiary sex characters and their aggregate occurrence in the inverted
+has been emphasized (H. Ellis). There is much truth in this but it
+should not be forgotten that the secondary and tertiary sex
+characteristics very frequently manifest themselves in the other sex,
+thus indicating androgyny without, however, involving changes in the
+sexual object in the sense of an inversion.
+
+Psychic hermaphroditism would gain in substantiality if parallel with
+the inversion of the sexual object there should be at least a change in
+the other psychic qualities, such as in the impulses and distinguishing
+traits characteristic of the other sex. But such inversion of character
+can be expected with some regularity only in inverted women; in men the
+most perfect psychic manliness may be united with the inversion. If one
+firmly adheres to the hypothesis of a psychic hermaphroditism, one must
+add that in certain spheres its manifestations allow the recognition of
+only a very slight contrary determination. The same also holds true in
+the somatic androgyny. According to Halban, the appearance of individual
+stunted organs and secondary sex characters are quite independent of
+each other.[10]
+
+A spokesman of the masculine inverts stated the bisexual theory in its
+crudest form in the following words: "It is a female brain in a male
+body." But we do not know the characteristics of a "female brain." The
+substitution of the anatomical for the psychological is as frivolous as
+it is unjustified. The tentative explanation by v. Krafft-Ebing seems to
+be more precisely formulated than that of Ulrich but does not
+essentially differ from it. v. Krafft-Ebing thinks that the bisexual
+predisposition gives to the individual male and female brain centers as
+well as somatic sexual organs. These centers develop first towards
+puberty mostly under the influence of the independent sex glands. We
+can, however, say the same of the male and female "centers" as of the
+male and female brains; and, moreover, we do not even know whether we
+can assume for the sexual functions separate brain locations ("centers")
+such as we may assume for language.
+
+After this discussion, two notions, at all events, persist; first, that
+a bisexual predisposition is to be presumed for the inversion also, only
+we do not know of what it consists beyond the anatomical formations;
+and, second, that we are dealing with disturbances which are experienced
+by the sexual impulse during its development.[11]
+
+*The Sexual Object of Inverts.*--The theory of psychic hermaphroditism
+presupposed that the sexual object of the inverted is the reverse of the
+normal. The inverted man, like the woman, succumbs to the charms
+emanating from manly qualities of body and mind; he feels himself like a
+woman and seeks a man.
+
+But however true this may be for a great number of inverts, it by no
+means indicates the general character of inversion. There is no doubt
+that a great part of the male inverted have retained the psychic
+character of virility, that proportionately they show but little of the
+secondary characters of the other sex, and that they really look for
+real feminine psychic features in their sexual object. If that were not
+so it would be incomprehensible why masculine prostitution, in offering
+itself to inverts, copies in all its exterior, to-day as in antiquity,
+the dress and attitudes of woman. This imitation would otherwise be an
+insult to the ideal of the inverts. Among the Greeks, where the most
+manly men were found among inverts, it is quite obvious that it was not
+the masculine character of the boy which kindled the love of man, but it
+was his physical resemblance to woman as well as his feminine psychic
+qualities, such as shyness, demureness, and the need of instruction and
+help. As soon as the boy himself became a man he ceased to be a sexual
+object for men and in turn became a lover of boys. The sexual object in
+this case as in many others is therefore not of the like sex, but it
+unites both sex characters, a compromise between the impulses striving
+for the man and for the woman, but firmly conditioned by the masculinity
+of body (the genitals).[12]
+
+The conditions in the woman are more definite; here the active inverts,
+with special frequency, show the somatic and psychic characters of man
+and desire femininity in their sexual object; though even here greater
+variation will be found on more intimate investigation.
+
+*The Sexual Aim of Inverts.*--The important fact to bear in mind is that
+no uniformity of the sexual aim can be attributed to inversion.
+Intercourse per anum in men by no means goes with inversion;
+masturbation is just as frequently the exclusive aim; and the limitation
+of the sexual aim to mere effusion of feelings is here even more
+frequent than in hetero-sexual love. In women, too, the sexual aims of
+the inverted are manifold, among which contact with the mucous membrane
+of the mouth seems to be preferred.
+
+*Conclusion.*--Though from the material on hand we are by no means in a
+position satisfactorily to explain the origin of inversion, we can say
+that through this investigation we have obtained an insight which can
+become of greater significance to us than the solution of the above
+problem. Our attention is called to the fact that we have assumed a too
+close connection between the sexual impulse and the sexual object. The
+experience gained from the so called abnormal cases teaches us that a
+connection exists between the sexual impulse and the sexual object which
+we are in danger of overlooking in the uniformity of normal states where
+the impulse seems to bring with it the object. We are thus instructed to
+separate this connection between the impulse and the object. The sexual
+impulse is probably entirely independent of its object and is not
+originated by the stimuli proceeding from the object.
+
+
+B. _The Sexually Immature and Animals as Sexual Objects_
+
+Whereas those sexual inverts whose sexual object does not belong to the
+normally adapted sex, appear to the observer as a collective number of
+perhaps otherwise normal individuals, the persons who choose for their
+sexual object the sexually immature (children) are apparently from the
+first sporadic aberrations. Only exceptionally are children the
+exclusive sexual objects. They are mostly drawn into this role by a
+faint-hearted and impotent individual who makes use of such substitutes,
+or when an impulsive urgent desire cannot at the time secure the proper
+object. Still it throws some light on the nature of the sexual impulse,
+that it should suffer such great variation and depreciation of its
+object, a thing which hunger, adhering more energetically to its object,
+would allow only in the most extreme cases. The same may be said of
+sexual relations with animals--a thing not at all rare among
+farmers--where the sexual attraction goes beyond the limits of the
+species.
+
+For esthetic reasons one would fain attribute this and other excessive
+aberrations of the sexual impulse to the insane, but this cannot be
+done. Experience teaches that among the latter no disturbances of the
+sexual impulse can be found other than those observed among the sane, or
+among whole races and classes. Thus we find with gruesome frequency
+sexual abuse of children by teachers and servants merely because they
+have the best opportunities for it. The insane present the aforesaid
+aberration only in a somewhat intensified form; or what is of special
+significance is the fact that the aberration becomes exclusive and takes
+the place of the normal sexual gratification.
+
+This very remarkable relation of sexual variations ranging from the
+normal to the insane gives material for reflection. It seems to me that
+the fact to be explained would show that the impulses of the sexual life
+belong to those which even normally are most poorly controlled by the
+higher psychic activities. He who is in any way psychically abnormal, be
+it in social or ethical conditions, is, according to my experience,
+regularly so in his sexual life. But many are abnormal in their sexual
+life who in every other respect correspond to the average; they have
+followed the human cultural development, but sexuality remained as their
+weak point.
+
+As a general result of these discussions we come to see that, under
+numerous conditions and among a surprising number of individuals, the
+nature and value of the sexual object steps into the background. There
+is something else in the sexual impulse which is the essential and
+constant.[13]
+
+
+2. DEVIATION IN REFERENCE TO THE SEXUAL AIM
+
+The union of the genitals in the characteristic act of copulation is
+taken as the normal sexual aim. It serves to loosen the sexual tension
+and temporarily to quench the sexual desire (gratification analogous to
+satisfaction of hunger). Yet even in the most normal sexual process
+those additions are distinguishable, the development of which leads to
+the aberrations described as _perversions_. Thus certain intermediary
+relations to the sexual object connected with copulation, such as
+touching and looking, are recognized as preliminary to the sexual aim.
+These activities are on the one hand themselves connected with pleasure
+and on the other hand they enhance the excitement which persists until
+the definite sexual aim is reached. One definite kind of contiguity,
+consisting of mutual approximation of the mucous membranes of the lips
+in the form of a kiss, has received among the most civilized nations a
+sexual value, though the parts of the body concerned do not belong to
+the sexual apparatus but form the entrance to the digestive tract. This
+therefore supplies the factors which allow us to bring the perversions
+into relation with the normal sexual life, and which are available also
+for their classification. The perversions are either (_a_) anatomical
+_transgressions_ of the bodily regions destined for sexual union, or (_b_)
+a _lingering_ at the intermediary relations to the sexual object which
+should normally be rapidly passed on the way to the definite sexual aim.
+
+
+(_a_) _Anatomical Transgression_
+
+*Overestimation of the Sexual Object.*--The psychic estimation in which
+the sexual object as a goal of the sexual impulse shares is only in the
+rarest cases limited to the genitals; generally it embraces the whole
+body and tends to include all sensations emanating from the sexual
+object. The same overestimation spreads over the psychic sphere and
+manifests itself as a logical blinding (diminished judgment) in the face
+of the psychic attainments and perfections of the sexual object, as well
+as a blind obedience to the judgments issuing from the latter. The full
+faith of love thus becomes an important, if not the primordial source of
+authority.[14]
+
+It is this sexual overvaluation, which so ill agrees with the
+restriction of the sexual aim to the union of the genitals only, that
+assists other parts of the body to participate as sexual aims.[15] In
+the development of this most manifold anatomical overestimation there is
+an unmistakable desire towards variation, a thing denominated by Hoche
+as "excitement-hunger" (Reiz-hunger).[16]
+
+*Sexual Utilization of the Mucous Membrane of the Lips and Mouth.*--The
+significance of the factor of sexual overestimation can be best studied
+in the man, in whom alone the sexual life is accessible to
+investigation, whereas in the woman it is veiled in impenetrable
+darkness, partly in consequence of cultural stunting and partly on
+account of the conventional reticence and dishonesty of women.
+
+The employment of the mouth as a sexual organ is considered as a
+perversion if the lips (tongue) of the one are brought into contact with
+the genitals of the other, but not when the mucous membrane of the lips
+of both touch each other. In the latter exception we find the connection
+with the normal. He who abhors the former as perversions, though these
+since antiquity have been common practices among mankind, yields to a
+distinct _feeling of loathing_ which protects him from adopting such
+sexual aims. The limit of such loathing is frequently purely
+conventional; he who kisses fervently the lips of a pretty girl will
+perhaps be able to use her tooth brush only with a sense of loathing,
+though there is no reason to assume that his own oral cavity for which
+he entertains no loathing is cleaner than that of the girl. Our
+attention is here called to the factor of loathing which stands in the
+way of the libidinous overestimation of the sexual aim, but which may
+in turn be vanquished by the libido. In the loathing we may observe one
+of the forces which have brought about the restrictions of the sexual
+aim. As a rule these forces halt at the genitals; there is, however, no
+doubt that even the genitals of the other sex themselves may be an
+object of loathing. Such behavior is characteristic of all hysterics,
+especially women. The force of the sexual impulse prefers to occupy
+itself with the overcoming of this loathing (see below).
+
+*Sexual Utilization of the Anal Opening.*--It is even more obvious than
+in the former case that it is the loathing which stamps as a perversion
+the use of the anus as a sexual aim. But it should not be interpreted as
+espousing a cause when I observe that the basis of this
+loathing--namely, that this part of the body serves for the excretion
+and comes in contact with the loathsome excrement--is not more plausible
+than the basis which hysterical girls have for the disgust which they
+entertain for the male genital because it serves for urination.
+
+The sexual role of the mucous membrane of the anus is by no means
+limited to intercourse between men; its preference has nothing
+characteristic of the inverted feeling. On the contrary, it seems that
+the _pedicatio_ of the man owes its role to the analogy with the act in
+the woman, whereas among inverts it is mutual masturbation which is the
+most common sexual aim.
+
+*The Significance of Other Parts of the Body.*--Sexual infringement on
+the other parts of the body, in all its variations, offers nothing new;
+it adds nothing to our knowledge of the sexual impulse which herein only
+announces its intention to dominate the sexual object in every way.
+Besides the sexual overvaluation, a second and generally unknown factor
+may be mentioned among the anatomical transgressions. Certain parts of
+the body, like the mucous membrane of the mouth and anus, which
+repeatedly appear in such practices, lay claim as it were to be
+considered and treated as genitals. We shall hear how this claim is
+justified by the development of the sexual impulse, and how it is
+fulfilled in the symptomatology of certain morbid conditions.
+
+*Unfit Substitutes for the Sexual Object. Fetichism.*--We are especially
+impressed by those cases in which for the normal sexual object another
+is substituted which is related to it but which is totally unfit for the
+normal sexual aim. According to the scheme of the introduction we should
+have done better to mention this most interesting group of aberrations
+of the sexual impulse among the deviations in reference to the sexual
+object, but we have deferred mention of these until we became acquainted
+with the factor of sexual overestimation, upon which these
+manifestations, connected with the relinquishing of the sexual aim,
+depend.
+
+The substitute for the sexual object is generally a part of the body but
+little adapted for sexual purposes, such as the foot, or hair, or an
+inanimate object which is in demonstrable relation with the sexual
+person, and preferably with the sexuality of the same (fragments of
+clothing, white underwear). This substitution is not unjustly compared
+with the fetich in which the savage sees the embodiment of his god.
+
+The transition to the cases of fetichism, with a renunciation of a
+normal or of a perverted sexual aim, is formed by cases in which a
+fetichistic determination is demanded in the sexual object if the sexual
+aim is to be attained (definite color of hair, clothing, even physical
+blemishes). No other variation of the sexual impulse verging on the
+pathological claims our interest as much as this one, owing to the
+peculiarity occasioned by its manifestations. A certain diminution in
+the striving for the normal sexual aim may be presupposed in all these
+cases (executive weakness of the sexual apparatus).[17] The connection
+with the normal is occasioned by the psychologically necessary
+overestimation of the sexual object, which inevitably encroaches upon
+everything associatively related to it (sexual object). A certain degree
+of such fetichism therefore regularly belong to the normal, especially
+during those stages of wooing when the normal sexual aim seems
+inaccessible or its realization deferred.
+
+     "Get me a handkerchief from her bosom--a garter of my love."
+                                                        --FAUST.
+
+The case becomes pathological only when the striving for the fetich
+fixes itself beyond such determinations and takes the place of the
+normal sexual aim; or again, when the fetich disengages itself from the
+person concerned and itself becomes a sexual object. These are the
+general determinations for the transition of mere variations of the
+sexual impulse into pathological aberrations.
+
+The persistent influence of a sexual impress mostly received in early
+childhood often shows itself in the selection of a fetich, as Binet
+first asserted, and as was later proven by many illustrations,--a thing
+which may be placed parallel to the proverbial attachment to a first
+love in the normal ("On revient toujours a ses premiers amours"). Such a
+connection is especially seen in cases with only fetichistic
+determinations of the sexual object. The significance of early sexual
+impressions will be met again in other places.
+
+In other cases it was mostly a symbolic thought association, unconscious
+to the person concerned, which led to the replacing of the object by
+means of a fetich. The paths of these connections can not always be
+definitely demonstrated. The foot is a very primitive sexual symbol
+already found in myths.[18] Fur is used as a fetich probably on account
+of its association with the hairiness of the mons veneris. Such
+symbolism seems often to depend on sexual experiences in childhood.[19]
+
+
+(_b_) _Fixation of Precursory Sexual Aims_
+
+*The Appearance of New Intentions.*--All the outer and inner
+determinations which impede or hold at a distance the attainment of the
+normal sexual aim, such as impotence, costliness of the sexual object,
+and dangers of the sexual act, will conceivably strengthen the
+inclination to linger at the preparatory acts and to form them into new
+sexual aims which may take the place of the normal. On closer
+investigation it is always seen that the ostensibly most peculiar of
+these new intentions have already been indicated in the normal sexual
+act.
+
+*Touching and Looking.*--At least a certain amount of touching is
+indispensable for a person in order to attain the normal sexual aim. It
+is also generally known that the touching of the skin of the sexual
+object causes much pleasure and produces a supply of new excitement.
+Hence, the lingering at the touching can hardly be considered a
+perversion if the sexual act is proceeded with.
+
+The same holds true in the end with looking which is analogous to
+touching. The manner in which the libidinous excitement is frequently
+awakened is by the optical impression, and selection takes account of
+this circumstance--if this teleological mode of thinking be
+permitted--by making the sexual object a thing of beauty. The covering
+of the body, which keeps abreast with civilization, serves to arouse
+sexual inquisitiveness, which always strives to restore for itself the
+sexual object by uncovering the hidden parts. This can be turned into
+the artistic ("sublimation") if the interest is turned from the genitals
+to the form of the body.[20] The tendency to linger at this intermediary
+sexual aim of the sexually accentuated looking is found to a certain
+degree in most normals; indeed it gives them the possibility of
+directing a certain amount of their libido to a higher artistic aim. On
+the other hand, the fondness for looking becomes a perversion (_a_) when
+it limits itself entirely to the genitals; (_b_) when it becomes connected
+with the overcoming of loathing (voyeurs and onlookers at the functions
+of excretion); and (_c_) when instead of preparing for the normal sexual
+aim it suppresses it. The latter, if I may draw conclusions from a
+single analysis, is in a most pronounced way true of exhibitionists, who
+expose their genitals so as in turn to bring to view the genitals of
+others.
+
+In the perversion which consists in striving to look and be looked at we
+are confronted with a very remarkable character which will occupy us
+even more intensively in the following

@@ -1,0 +1,794 @@
+# Timaeus
+Author: Plato
+Category: 06_filosofia
+Source: Gutenberg #1572
+Downloaded: 2026-03-08T14:21:21.983287
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+TIMAEUS
+
+      by Plato
+
+      Translated by Benjamin Jowett
+
+
+      Contents
+
+ INTRODUCTION AND ANALYSIS.
+ Section 1.
+ Section 2.
+ Section 3.
+ Section 4.
+ Section 5.
+ Section 6.
+ Section 7.
+ Section 8.
+
+ TIMAEUS
+
+
+
+
+      INTRODUCTION AND ANALYSIS.
+
+      Of all the writings of Plato the Timaeus is the most obscure and
+      repulsive to the modern reader, and has nevertheless had the
+      greatest influence over the ancient and mediaeval world. The
+      obscurity arises in the infancy of physical science, out of the
+      confusion of theological, mathematical, and physiological
+      notions, out of the desire to conceive the whole of nature
+      without any adequate knowledge of the parts, and from a greater
+      perception of similarities which lie on the surface than of
+      differences which are hidden from view. To bring sense under the
+      control of reason; to find some way through the mist or labyrinth
+      of appearances, either the highway of mathematics, or more
+      devious paths suggested by the analogy of man with the world, and
+      of the world with man; to see that all things have a cause and
+      are tending towards an end—this is the spirit of the ancient
+      physical philosopher. He has no notion of trying an experiment
+      and is hardly capable of observing the curiosities of nature
+      which are ‘tumbling out at his feet,’ or of interpreting even the
+      most obvious of them. He is driven back from the nearer to the
+      more distant, from particulars to generalities, from the earth to
+      the stars. He lifts up his eyes to the heavens and seeks to guide
+      by their motions his erring footsteps. But we neither appreciate
+      the conditions of knowledge to which he was subjected, nor have
+      the ideas which fastened upon his imagination the same hold upon
+      us. For he is hanging between matter and mind; he is under the
+      dominion at the same time both of sense and of abstractions; his
+      impressions are taken almost at random from the outside of
+      nature; he sees the light, but not the objects which are revealed
+      by the light; and he brings into juxtaposition things which to us
+      appear wide as the poles asunder, because he finds nothing
+      between them. He passes abruptly from persons to ideas and
+      numbers, and from ideas and numbers to persons,—from the heavens
+      to man, from astronomy to physiology; he confuses, or rather does
+      not distinguish, subject and object, first and final causes, and
+      is dreaming of geometrical figures lost in a flux of sense. He
+      contrasts the perfect movements of the heavenly bodies with the
+      imperfect representation of them (Rep.), and he does not always
+      require strict accuracy even in applications of number and figure
+      (Rep.). His mind lingers around the forms of mythology, which he
+      uses as symbols or translates into figures of speech. He has no
+      implements of observation, such as the telescope or microscope;
+      the great science of chemistry is a blank to him. It is only by
+      an effort that the modern thinker can breathe the atmosphere of
+      the ancient philosopher, or understand how, under such unequal
+      conditions, he seems in many instances, by a sort of inspiration,
+      to have anticipated the truth.
+
+      The influence with the Timaeus has exercised upon posterity is
+      due partly to a misunderstanding. In the supposed depths of this
+      dialogue the Neo-Platonists found hidden meanings and connections
+      with the Jewish and Christian Scriptures, and out of them they
+      elicited doctrines quite at variance with the spirit of Plato.
+      Believing that he was inspired by the Holy Ghost, or had received
+      his wisdom from Moses, they seemed to find in his writings the
+      Christian Trinity, the Word, the Church, the creation of the
+      world in a Jewish sense, as they really found the personality of
+      God or of mind, and the immortality of the soul. All religions
+      and philosophies met and mingled in the schools of Alexandria,
+      and the Neo-Platonists had a method of interpretation which could
+      elicit any meaning out of any words. They were really incapable
+      of distinguishing between the opinions of one philosopher and
+      another— between Aristotle and Plato, or between the serious
+      thoughts of Plato and his passing fancies. They were absorbed in
+      his theology and were under the dominion of his name, while that
+      which was truly great and truly characteristic in him, his effort
+      to realize and connect abstractions, was not understood by them
+      at all. Yet the genius of Plato and Greek philosophy reacted upon
+      the East, and a Greek element of thought and language overlaid
+      and partly reduced to order the chaos of Orientalism. And kindred
+      spirits, like St. Augustine, even though they were acquainted
+      with his writings only through the medium of a Latin translation,
+      were profoundly affected by them, seeming to find ‘God and his
+      word everywhere insinuated’ in them (August. Confess.)
+
+      There is no danger of the modern commentators on the Timaeus
+      falling into the absurdities of the Neo-Platonists. In the
+      present day we are well aware that an ancient philosopher is to
+      be interpreted from himself and by the contemporary history of
+      thought. We know that mysticism is not criticism. The fancies of
+      the Neo-Platonists are only interesting to us because they
+      exhibit a phase of the human mind which prevailed widely in the
+      first centuries of the Christian era, and is not wholly extinct
+      in our own day. But they have nothing to do with the
+      interpretation of Plato, and in spirit they are opposed to him.
+      They are the feeble expression of an age which has lost the power
+      not only of creating great works, but of understanding them. They
+      are the spurious birth of a marriage between philosophy and
+      tradition, between Hellas and the East—(Greek) (Rep.). Whereas
+      the so-called mysticism of Plato is purely Greek, arising out of
+      his imperfect knowledge and high aspirations, and is the growth
+      of an age in which philosophy is not wholly separated from poetry
+      and mythology.
+
+      A greater danger with modern interpreters of Plato is the
+      tendency to regard the Timaeus as the centre of his system. We do
+      not know how Plato would have arranged his own dialogues, or
+      whether the thought of arranging any of them, besides the two
+      ‘Trilogies’ which he has expressly connected; was ever present to
+      his mind. But, if he had arranged them, there are many
+      indications that this is not the place which he would have
+      assigned to the Timaeus. We observe, first of all, that the
+      dialogue is put into the mouth of a Pythagorean philosopher, and
+      not of Socrates. And this is required by dramatic propriety; for
+      the investigation of nature was expressly renounced by Socrates
+      in the Phaedo. Nor does Plato himself attribute any importance to
+      his guesses at science. He is not at all absorbed by them, as he
+      is by the IDEA of good. He is modest and hesitating, and
+      confesses that his words partake of the uncertainty of the
+      subject (Tim.). The dialogue is primarily concerned with the
+      animal creation, including under this term the heavenly bodies,
+      and with man only as one among the animals. But we can hardly
+      suppose that Plato would have preferred the study of nature to
+      man, or that he would have deemed the formation of the world and
+      the human frame to have the same interest which he ascribes to
+      the mystery of being and not-being, or to the great political
+      problems which he discusses in the Republic and the Laws. There
+      are no speculations on physics in the other dialogues of Plato,
+      and he himself regards the consideration of them as a rational
+      pastime only. He is beginning to feel the need of further
+      divisions of knowledge; and is becoming aware that besides
+      dialectic, mathematics, and the arts, there is another field
+      which has been hitherto unexplored by him. But he has not as yet
+      defined this intermediate territory which lies somewhere between
+      medicine and mathematics, and he would have felt that there was
+      as great an impiety in ranking theories of physics first in the
+      order of knowledge, as in placing the body before the soul.
+
+      It is true, however, that the Timaeus is by no means confined to
+      speculations on physics. The deeper foundations of the Platonic
+      philosophy, such as the nature of God, the distinction of the
+      sensible and intellectual, the great original conceptions of time
+      and space, also appear in it. They are found principally in the
+      first half of the dialogue. The construction of the heavens is
+      for the most part ideal; the cyclic year serves as the connection
+      between the world of absolute being and of generation, just as
+      the number of population in the Republic is the expression or
+      symbol of the transition from the ideal to the actual state. In
+      some passages we are uncertain whether we are reading a
+      description of astronomical facts or contemplating processes of
+      the human mind, or of that divine mind (Phil.) which in Plato is
+      hardly separable from it. The characteristics of man are
+      transferred to the world-animal, as for example when intelligence
+      and knowledge are said to be perfected by the circle of the Same,
+      and true opinion by the circle of the Other; and conversely the
+      motions of the world-animal reappear in man; its amorphous state
+      continues in the child, and in both disorder and chaos are
+      gradually succeeded by stability and order. It is not however to
+      passages like these that Plato is referring when he speaks of the
+      uncertainty of his subject, but rather to the composition of
+      bodies, to the relations of colours, the nature of diseases, and
+      the like, about which he truly feels the lamentable ignorance
+      prevailing in his own age.
+
+      We are led by Plato himself to regard the Timaeus, not as the
+      centre or inmost shrine of the edifice, but as a detached
+      building in a different style, framed, not after the Socratic,
+      but after some Pythagorean model. As in the Cratylus and
+      Parmenides, we are uncertain whether Plato is expressing his own
+      opinions, or appropriating and perhaps improving the
+      philosophical speculations of others. In all three dialogues he
+      is exerting his dramatic and imitative power; in the Cratylus
+      mingling a satirical and humorous purpose with true principles of
+      language; in the Parmenides overthrowing Megarianism by a sort of
+      ultra-Megarianism, which discovers contradictions in the one as
+      great as those which have been previously shown to exist in the
+      ideas. There is a similar uncertainty about the Timaeus; in the
+      first part he scales the heights of transcendentalism, in the
+      latter part he treats in a bald and superficial manner of the
+      functions and diseases of the human frame. He uses the thoughts
+      and almost the words of Parmenides when he discourses of being
+      and of essence, adopting from old religion into philosophy the
+      conception of God, and from the Megarians the IDEA of good. He
+      agrees with Empedocles and the Atomists in attributing the
+      greater differences of kinds to the figures of the elements and
+      their movements into and out of one another. With Heracleitus, he
+      acknowledges the perpetual flux; like Anaxagoras, he asserts the
+      predominance of mind, although admitting an element of necessity
+      which reason is incapable of subduing; like the Pythagoreans he
+      supposes the mystery of the world to be contained in number.
+      Many, if not all the elements of the Pre-Socratic philosophy are
+      included in the Timaeus. It is a composite or eclectic work of
+      imagination, in which Plato, without naming them, gathers up into
+      a kind of system the various elements of philosophy which
+      preceded him.
+
+      If we allow for the difference of subject, and for some growth in
+      Plato’s own mind, the discrepancy between the Timaeus and the
+      other dialogues will not appear to be great. It is probable that
+      the relation of the ideas to God or of God to the world was
+      differently conceived by him at different times of his life. In
+      all his later dialogues we observe a tendency in him to personify
+      mind or God, and he therefore naturally inclines to view creation
+      as the work of design. The creator is like a human artist who
+      frames in his mind a plan which he executes by the help of his
+      servants. Thus the language of philosophy which speaks of first
+      and second causes is crossed by another sort of phraseology: ‘God
+      made the world because he was good, and the demons ministered to
+      him.’ The Timaeus is cast in a more theological and less
+      philosophical mould than the other dialogues, but the same
+      general spirit is apparent; there is the same dualism or
+      opposition between the ideal and actual—the soul is prior to the
+      body, the intelligible and unseen to the visible and corporeal.
+      There is the same distinction between knowledge and opinion which
+      occurs in the Theaetetus and Republic, the same enmity to the
+      poets, the same combination of music and gymnastics. The doctrine
+      of transmigration is still held by him, as in the Phaedrus and
+      Republic; and the soul has a view of the heavens in a prior state
+      of being. The ideas also remain, but they have become types in
+      nature, forms of men, animals, birds, fishes. And the attribution
+      of evil to physical causes accords with the doctrine which he
+      maintains in the Laws respecting the involuntariness of vice.
+
+      The style and plan of the Timaeus differ greatly from that of any
+      other of the Platonic dialogues. The language is weighty, abrupt,
+      and in some passages sublime. But Plato has not the same mastery
+      over his instrument which he exhibits in the Phaedrus or
+      Symposium. Nothing can exceed the beauty or art of the
+      introduction, in which he is using words after his accustomed
+      manner. But in the rest of the work the power of language seems
+      to fail him, and the dramatic form is wholly given up. He could
+      write in one style, but not in another, and the Greek language
+      had not as yet been fashioned by any poet or philosopher to
+      describe physical phenomena. The early physiologists had
+      generally written in verse; the prose writers, like Democritus
+      and Anaxagoras, as far as we can judge from their fragments,
+      never attained to a periodic style. And hence we find the same
+      sort of clumsiness in the Timaeus of Plato which characterizes
+      the philosophical poem of Lucretius. There is a want of flow and
+      often a defect of rhythm; the meaning is sometimes obscure, and
+      there is a greater use of apposition and more of repetition than
+      occurs in Plato’s earlier writings. The sentences are less
+      closely connected and also more involved; the antecedents of
+      demonstrative and relative pronouns are in some cases remote and
+      perplexing. The greater frequency of participles and of absolute
+      constructions gives the effect of heaviness. The descriptive
+      portion of the Timaeus retains traces of the first Greek prose
+      composition; for the great master of language was speaking on a
+      theme with which he was imperfectly acquainted, and had no words
+      in which to express his meaning. The rugged grandeur of the
+      opening discourse of Timaeus may be compared with the more
+      harmonious beauty of a similar passage in the Phaedrus.
+
+      To the same cause we may attribute the want of plan. Plato had
+      not the command of his materials which would have enabled him to
+      produce a perfect work of art. Hence there are several new
+      beginnings and resumptions and formal or artificial connections;
+      we miss the ‘callida junctura’ of the earlier dialogues. His
+      speculations about the Eternal, his theories of creation, his
+      mathematical anticipations, are supplemented by desultory remarks
+      on the one immortal and the two mortal souls of man, on the
+      functions of the bodily organs in health and disease, on sight,
+      hearing, smell, taste, and touch. He soars into the heavens, and
+      then, as if his wings were suddenly clipped, he walks
+      ungracefully and with difficulty upon the earth. The greatest
+      things in the world, and the least things in man, are brought
+      within the compass of a short treatise. But the intermediate
+      links are missing, and we cannot be surprised that there should
+      be a want of unity in a work which embraces astronomy, theology,
+      physiology, and natural philosophy in a few pages.
+
+      It is not easy to determine how Plato’s cosmos may be presented
+      to the reader in a clearer and shorter form; or how we may supply
+      a thread of connexion to his ideas without giving greater
+      consistency to them than they possessed in his mind, or adding on
+      consequences which would never have occurred to him. For he has
+      glimpses of the truth, but no comprehensive or perfect vision.
+      There are isolated expressions about the nature of God which have
+      a wonderful depth and power; but we are not justified in assuming
+      that these had any greater significance to the mind of Plato than
+      language of a neutral and impersonal character... With a view to
+      the illustration of the Timaeus I propose to divide this
+      Introduction into sections, of which the first will contain an
+      outline of the dialogue: (2) I shall consider the aspects of
+      nature which presented themselves to Plato and his age, and the
+      elements of philosophy which entered into the conception of them:
+      (3) the theology and physics of the Timaeus, including the soul
+      of the world, the conception of time and space, and the
+      composition of the elements: (4) in the fourth section I shall
+      consider the Platonic astronomy, and the position of the earth.
+      There will remain, (5) the psychology, (6) the physiology of
+      Plato, and (7) his analysis of the senses to be briefly commented
+      upon: (8) lastly, we may examine in what points Plato approaches
+      or anticipates the discoveries of modern science.
+
+
+
+
+      Section 1.
+
+
+      Socrates begins the Timaeus with a summary of the Republic. He
+      lightly touches upon a few points,—the division of labour and
+      distribution of the citizens into classes, the double nature and
+      training of the guardians, the community of property and of women
+      and children. But he makes no mention of the second education, or
+      of the government of philosophers.
+
+      And now he desires to see the ideal State set in motion; he would
+      like to know how she behaved in some great struggle. But he is
+      unable to invent such a narrative himself; and he is afraid that
+      the poets are equally incapable; for, although he pretends to
+      have nothing to say against them, he remarks that they are a
+      tribe of imitators, who can only describe what they have seen.
+      And he fears that the Sophists, who are plentifully supplied with
+      graces of speech, in their erratic way of life having never had a
+      city or house of their own, may through want of experience err in
+      their conception of philosophers and statesmen. ‘And therefore to
+      you I turn, Timaeus, citizen of Locris, who are at once a
+      philosopher and a statesman, and to you, Critias, whom all
+      Athenians know to be similarly accomplished, and to Hermocrates,
+      who is also fitted by nature and education to share in our
+      discourse.’
+
+      HERMOCRATES: ‘We will do our best, and have been already
+      preparing; for on our way home, Critias told us of an ancient
+      tradition, which I wish, Critias, that you would repeat to
+      Socrates.’ ‘I will, if Timaeus approves.’ ‘I approve.’ Listen
+      then, Socrates, to a tale of Solon’s, who, being the friend of
+      Dropidas my great-grandfather, told it to my grandfather Critias,
+      and he told me. The narrative related to ancient famous actions
+      of the Athenian people, and to one especially, which I will
+      rehearse in honour of you and of the goddess. Critias when he
+      told this tale of the olden time, was ninety years old, I being
+      not more than ten. The occasion of the rehearsal was the day of
+      the Apaturia called the Registration of Youth, at which our
+      parents gave prizes for recitation. Some poems of Solon were
+      recited by the boys. They had not at that time gone out of
+      fashion, and the recital of them led some one to say, perhaps in
+      compliment to Critias, that Solon was not only the wisest of men
+      but also the best of poets. The old man brightened up at hearing
+      this, and said: Had Solon only had the leisure which was required
+      to complete the famous legend which he brought with him from
+      Egypt he would have been as distinguished as Homer and Hesiod.
+      ‘And what was the subject of the poem?’ said the person who made
+      the remark. The subject was a very noble one; he described the
+      most famous action in which the Athenian people were ever
+      engaged. But the memory of their exploits has passed away owing
+      to the lapse of time and the extinction of the actors. ‘Tell us,’
+      said the other, ‘the whole story, and where Solon heard the
+      story.’ He replied—There is at the head of the Egyptian Delta,
+      where the river Nile divides, a city and district called Sais;
+      the city was the birthplace of King Amasis, and is under the
+      protection of the goddess Neith or Athene. The citizens have a
+      friendly feeling towards the Athenians, believing themselves to
+      be related to them. Hither came Solon, and was received with
+      honour; and here he first learnt, by conversing with the Egyptian
+      priests, how ignorant he and his countrymen were of antiquity.
+      Perceiving this, and with the view of eliciting information from
+      them, he told them the tales of Phoroneus and Niobe, and also of
+      Deucalion and Pyrrha, and he endeavoured to count the generations
+      which had since passed. Thereupon an aged priest said to him: ‘O
+      Solon, Solon, you Hellenes are ever young, and there is no old
+      man who is a Hellene.’ ‘What do you mean?’ he asked. ‘In mind,’
+      replied the priest, ‘I mean to say that you are children; there
+      is no opinion or tradition of knowledge among you which is white
+      with age; and I will tell you why. Like the rest of mankind you
+      have suffered from convulsions of nature, which are chiefly
+      brought about by the two great agencies of fire and water. The
+      former is symbolized in the Hellenic tale of young Phaethon who
+      drove his father’s horses the wrong way, and having burnt up the
+      earth was himself burnt up by a thunderbolt. For there occurs at
+      long intervals a derangement of the heavenly bodies, and then the
+      earth is destroyed by fire. At such times, and when fire is the
+      agent, those who dwell by rivers or on the seashore are safer
+      than those who dwell upon high and dry places, who in their turn
+      are safer when the danger is from water. Now the Nile is our
+      saviour from fire, and as there is little rain in Egypt, we are
+      not harmed by water; whereas in other countries, when a deluge
+      comes, the inhabitants are swept by the rivers into the sea. The
+      memorials which your own and other nations have once had of the
+      famous actions of mankind perish in the waters at certain
+      periods; and the rude survivors in the mountains begin again,
+      knowing nothing of the world before the flood. But in Egypt the
+      traditions of our own and other lands are by us registered for
+      ever in our temples. The genealogies which you have recited to us
+      out of your own annals, Solon, are a mere children’s story. For
+      in the first place, you remember one deluge only, and there were
+      many of them, and you know nothing of that fairest and noblest
+      race of which you are a seed or remnant. The memory of them was
+      lost, because there was no written voice among you. For in the
+      times before the great flood Athens was the greatest and best of
+      cities and did the noblest deeds and had the best constitution of
+      any under the face of heaven.’ Solon marvelled, and desired to be
+      informed of the particulars. ‘You are welcome to hear them,’ said
+      the priest, ‘both for your own sake and for that of the city, and
+      above all for the sake of the goddess who is the common foundress
+      of both our cities. Nine thousand years have elapsed since she
+      founded yours, and eight thousand since she founded ours, as our
+      annals record. Many laws exist among us which are the counterpart
+      of yours as they were in the olden time. I will briefly describe
+      them to you, and you shall read the account of them at your
+      leisure in the sacred registers. In the first place, there was a
+      caste of priests among the ancient Athenians, and another of
+      artisans; also castes of shepherds, hunters, and husbandmen, and
+      lastly of warriors, who, like the warriors of Egypt, were
+      separated from the rest, and carried shields and spears, a custom
+      which the goddess first taught you, and then the Asiatics, and we
+      among Asiatics first received from her. Observe again, what care
+      the law took in the pursuit of wisdom, searching out the deep
+      things of the world, and applying them to the use of man. The
+      spot of earth which the goddess chose had the best of climates,
+      and produced the wisest men; in no other was she herself, the
+      philosopher and warrior goddess, so likely to have votaries. And
+      there you dwelt as became the children of the gods, excelling all
+      men in virtue, and many famous actions are recorded of you. The
+      most famous of them all was the overthrow of the island of
+      Atlantis. This great island lay over against the Pillars of
+      Heracles, in extent greater than Libya and Asia put together, and
+      was the passage to other islands and to a great ocean of which
+      the Mediterranean sea was only the harbour; and within the
+      Pillars the empire of Atlantis reached in Europe to Tyrrhenia and
+      in Libya to Egypt. This mighty power was arrayed against Egypt
+      and Hellas and all the countries bordering on the Mediterranean.
+      Then your city did bravely, and won renown over the whole earth.
+      For at the peril of her own existence, and when the other
+      Hellenes had deserted her, she repelled the invader, and of her
+      own accord gave liberty to all the nations within the Pillars. A
+      little while afterwards there were great earthquakes and floods,
+      and your warrior race all sank into the earth; and the great
+      island of Atlantis also disappeared in the sea. This is the
+      explanation of the shallows which are found in that part of the
+      Atlantic ocean.’
+
+      Such was the tale, Socrates, which Critias heard from Solon; and
+      I noticed when listening to you yesterday, how close the
+      resemblance was between your city and citizens and the ancient
+      Athenian State. But I would not speak at the time, because I
+      wanted to refresh my memory. I had heard the old man when I was a
+      child, and though I could not remember the whole of our
+      yesterday’s discourse, I was able to recall every word of this,
+      which is branded into my mind; and I am prepared, Socrates, to
+      rehearse to you the entire narrative. The imaginary State which
+      you were describing may be identified with the reality of Solon,
+      and our antediluvian ancestors may be your citizens. ‘That is
+      excellent, Critias, and very appropriate to a Panathenaic
+      festival; the truth of the story is a great advantage.’ Then now
+      let me explain to you the order of our entertainment; first,
+      Timaeus, who is a natural philosopher, will speak of the origin
+      of the world, going down to the creation of man, and then I shall
+      receive the men whom he has created, and some of whom will have
+      been educated by you, and introduce them to you as the lost
+      Athenian citizens of whom the Egyptian record spoke. As the law
+      of Solon prescribes, we will bring them into court and
+      acknowledge their claims to citizenship. ‘I see,’ replied
+      Socrates, ‘that I shall be well entertained; and do you, Timaeus,
+      offer up a prayer and begin.’
+
+      TIMAEUS: All men who have any right feeling, at the beginning of
+      any enterprise, call upon the Gods; and he who is about to speak
+      of the origin of the universe has a special need of their aid.
+      May my words be acceptable to them, and may I speak in the manner
+      which will be most intelligible to you and will best express my
+      own meaning!
+
+      First, I must distinguish between that which always is and never
+      becomes and which is apprehended by reason and reflection, and
+      that which always becomes and never is and is conceived by
+      opinion with the help of sense. All that becomes and is created
+      is the work of a cause, and that is fair which the artificer
+      makes after an eternal pattern, but whatever is fashioned after a
+      created pattern is not fair. Is the world created or
+      uncreated?—that is the first question. Created, I reply, being
+      visible and tangible and having a body, and therefore sensible;
+      and if sensible, then created; and if created, made by a cause,
+      and the cause is the ineffable father of all things, who had
+      before him an eternal archetype. For to imagine that the
+      archetype was created would be blasphemy, seeing that the world
+      is the noblest of creations, and God is the best of causes. And
+      the world being thus created according to the eternal pattern is
+      the copy of something; and we may assume that words are akin to
+      the matter of which they speak. What is spoken of the unchanging
+      or intelligible must be certain and true; but what is spoken of
+      the created image can only be probable; being is to becoming what
+      truth is to belief. And amid the variety of opinions which have
+      arisen about God and the nature of the world we must be content
+      to take probability for our rule, considering that I, who am the
+      speaker, and you, who are the judges, are only men; to
+      probability we may attain but no further.
+
+      SOCRATES: Excellent, Timaeus, I like your manner of approaching
+      the subject—proceed.
+
+      TIMAEUS: Why did the Creator make the world?...He was good, and
+      therefore not jealous, and being free from jealousy he desired
+      that all things should be like himself. Wherefore he set in order
+      the visible world, which he found in disorder. Now he who is the
+      best could only create the fairest; and reflecting that of
+      visible things the intelligent is superior to the unintelligent,
+      he put intelligence in soul and soul in body, and framed the
+      universe to be the best and fairest work in the order of nature,
+      and the world became a living soul through the providence of God.
+
+      In the likeness of what animal was the world made?—that is the
+      third question...The form of the perfect animal was a whole, and
+      contained all intelligible beings, and the visible animal, made
+      after the pattern of this, included all visible creatures.
+
+      Are there many worlds or one only?—that is the fourth
+      question...One only. For if in the original there had been more
+      than one they would have been the parts of a third, which would
+      have been the true pattern of the world; and therefore there is,
+      and will ever be, but one created world. Now that which is
+      created is of necessity corporeal and visible and
+      tangible,—visible and therefore made of fire,—tangible and
+      therefore solid and made of earth. But two terms must be united
+      by a third, which is a mean between them; and had the earth been
+      a surface only, one mean would have sufficed, but two means are
+      required to unite solid bodies. And as the world was composed of
+      solids, between the elements of fire and earth God placed two
+      other elements of air and water, and arranged them in a
+      continuous proportion—
+
+      fire:air::air:water, and air:water::water:earth,
+
+      and so put together a visible and palpable heaven, having harmony
+      and friendship in the union of the four elements; and being at
+      unity with itself it was indissoluble except by the hand of the
+      framer. Each of the elements was taken into the universe whole
+      and entire; for he considered that the animal should be perfect
+      and one, leaving no remnants out of which another animal could be
+      created, and should also be free from old age and disease, which
+      are produced by the action of external forces. And as he was to
+      contain all things, he was made in the all-containing form of a
+      sphere, round as from a lathe and every way equidistant from the
+      centre, as was natural and suitable to him. He was finished and
+      smooth, having neither eyes nor ears, for there was nothing
+      without him which he could see or hear; and he had no need to
+      carry food to his mouth, nor was there air for him to breathe;
+      and he did not require hands, for there was nothing of which he
+      could take hold, nor feet, with which to walk. All that he did
+      was done rationally in and by himself, and he moved in a circle
+      turning within himself, which is the most intellectual of
+      motions; but the other six motions were wanting to him; wherefore
+      the universe had no feet or legs.
+
+      And so the thought of God made a God in the image of a perfect
+      body, having intercourse with himself and needing no other, but
+      in every part harmonious and self-contained and truly blessed.
+      The soul was first made by him—the elder to rule the younger; not
+      in the order in which our wayward fancy has led us to describe
+      them, but the soul first and afterwards the body. God took of the
+      unchangeable and indivisible and also of the divisible and
+      corporeal, and out of the two he made a third nature, essence,
+      which was in a mean between them, and partook of the same and the
+      other, the intractable nature of the other being compressed into
+      the same. Having made a compound of all the three, he proceeded
+      to divide the entire mass into portions related to one another in
+      the ratios of 1, 2, 3, 4, 9, 8, 27, and proceeded to fill up the
+      double and triple intervals thus—
+
+  - over 1, 4/3, 3/2, - over 2, 8/3, 3, - over 4, 16/3, 6,  - over 8:
+  - over 1, 3/2, 2,   - over 3, 9/2, 6, - over 9, 27/2, 18, - over 27;
+
+      in which double series of numbers are two kinds of means; the one
+      exceeds and is exceeded by equal parts of the extremes, e.g. 1,
+      4/3, 2; the other kind of mean is one which is equidistant from
+      the extremes—2, 4, 6. In this manner there were formed intervals
+      of thirds, 3:2, of fourths, 4:3, and of ninths, 9:8. And next he
+      filled up the intervals of a fourth with ninths, leaving a
+      remnant which is in the ratio of 256:243. The entire compound was
+      divided by him lengthways into two parts, which he united at the
+      centre like the letter X, and bent into an inner and outer circle
+      or sphere, cutting one another again at a point over against the
+      point at which they cross. The outer circle or sphere was named
+      the sphere of the same—the inner, the sphere of the other or
+      diverse; and the one revolved horizontally to the right, the
+      other diagonally to the left. To the sphere of the same which was
+      undivided he gave dominion, but the sphere of the other or
+      diverse was distributed into seven unequal orbits, having
+      intervals in ratios of twos and threes, three of either sort, and
+      he bade the orbits move in opposite directions to one
+      another—three of them, the Sun, Mercury, Venus, with equal
+      swiftness, and the remaining four—the Moon, Saturn, Mars,
+      Jupiter, with unequal swiftness to the three and to one another,
+      but all in due proportion.
+
+      When the Creator had made the soul he made the body within her;
+      and the soul interfused everywhere from the centre to the
+      circumference of heaven, herself turning in herself, began a
+      divine life of rational and everlasting motion. The body of
+      heaven is visible, but the soul is invisible, and partakes of
+      reason and harmony, and is the best of creations, being the work
+      of the best. And being composed of the same, the other, and the
+      essence, these three, and also divided and bound in harmonical
+      proportion, and revolving within herself—the soul when touching
+      anything which has essence, whether divided or undivided, is
+      stirred to utter the sameness or diversity of that and some other
+      thing, and to tell how and when and where individuals are
+      affected or related, whether in the world of change or of
+      essence. When reason is in the neighbourhood of sense, and the
+      circle of the other or diverse is moving truly, then arise true
+      opinions and beliefs; when reason is in the sphere of thought,
+      and the circle of the same runs smoothly, then intelligence is
+      perfected.
+
+      When the Father who begat the world saw the image which he had
+      made of the Eternal Gods moving and living, he rejoiced; and in
+      his joy resolved, since the archetype was eternal, to make the
+      creature eternal as far as this was possible. Wherefore he made
+      an image of eternity which is time, having an uniform motion
+      according to number, parted into months and days and years, and
+      also having greater divisions of past, present, and future. These
+      all apply to becoming in time, and have no meaning in relation to
+      the eternal nature, which ever is and never was or will be; for
+      the unchangeable is never older or younger, and when we say that
+      he ‘was’ or ‘will be,’ we are mistaken, for these words are
+      applicable only to becoming, and not to true being; and equally
+      wrong are we in saying that what has become IS become and that
+      what becomes IS becoming, and that the non-existent IS
+      non-existent...These are the forms of time which imitate eternity
+      and move in a circle measured by number.
+
+      Thus was time made in the image of the eternal nature; and it was
+      created together with the heavens, in order that if they were
+      dissolved, it might perish with them. And God made the sun and
+      moon and five other wanderers, as they are called, seven in all,
+      and to each of them he gave a body moving in an orbit, being one
+      of the seven orbits into which the circle of the other was
+      divided. He put the moon in the orbit which was nearest to the
+      earth, the sun in that next, the morning star and Mercury in the
+      orbits which move opposite to the sun but with equal
+      swiftness—this being the reason why they overtake and are
+      overtaken by one another. All these bodies became living
+      creatures, and learnt their appointed tasks, and began to move,
+      the nearer more swiftly, the remoter more slowly, according to
+      the diagonal movement of the other. And since this was controlled
+      by the movement of the same, the seven planets in their courses
+      appeared to describe spirals; and that appeared fastest which was
+      slowest, and that which overtook others appeared to be overtaken
+      by them. And God lighted a fire in the second orbit from the
+      earth which is called the sun, to give light over the whole
+      heaven, and to teach intelligent beings that knowledge of number
+      which is derived from the revolution of the same. Thus arose day
+      and night, which are the periods of the most intelligent nature;
+      a month is created by the revolution of the moon, a year by that
+      of the sun. Other periods of wonderful length and complexity are
+      not observed by men in general; there is moreover a cycle or
+      perfect year at the completion of which they all meet and
+      coincide...To this end the stars came into being, that the
+      created heaven might imitate the eternal nature.
+
+      Thus far the universal animal was made in the divine image, but
+      the other animals were not as yet included in him. And God
+      created them according to the patterns or species of them which
+      existed in the divine original. There are four of them: one of
+      gods, another of birds, a third of fishes, and a fourth of
+      animals. The gods were made in the form of a circle, which is the
+      most perfect figure and the figure of the universe. They were
+      created chiefly of fire, that they might be bright, and were made
+      to know and follow the best, and to be scattered over the
+      heavens, of which they were to be the glory. Two kinds of motion
+      were assigned to them—first, the revolution in the same and
+      around the same, in peaceful unchanging thought of the same; and
+      to this was added a forward motion which was under the control of
+      the same. Thus then the fixed stars were created, being divine
+      and eternal animals, revolving on the same spot, and the
+      wandering stars, in their courses, were created in the manner
+      already described. The earth, which is our nurse, clinging around
+      the pole extended through the universe, he made to be the
+      guardian and artificer of night and day, first and eldest of gods
+      that are in the interior of heaven. Vain would be the labour of
+      telling all the figures of them, moving as in dance, and their
+      juxta-positions and approximations, and when and where and behind
+      what other stars they appear to disappear—to tell of all this
+      without looking at a plan of them would be labour in vain.
+
+      The knowledge of the other gods is beyond us, and we can only
+      accept the traditions of the ancients, who were the children of
+      the gods, as they said; for surely they must have known their own
+      ancestors. Although they give no proof, we must believe them as
+      is customary. They tell us that Oceanus and Tethys were the
+      children of Earth and Heaven; that Phoreys, Cronos, and Rhea came
+      in the next generation, and were followed by Zeus and Here, whose
+      brothers and children are known to everybody.
+
+      When all of them, both those who show themselves in the sky, and
+      those who retire from view, had come into being, the Creator
+      addressed them thus:—‘Gods, sons of gods, my works, if I will,
+      are indissoluble. That which is bound may be dissolved, but only
+      an evil being would dissolve that which is harmonious and happy.
+      And although you are not immortal you shall not die, for I will
+      hold you together. Hear me, then:—Three tribes of mortal beings
+      have still to be created, but if created by me they would be like
+      gods. Do ye therefore make them; I will implant in them the seed
+      of immortality, and you shall weave together the mortal and
+      immortal, and provide food for them, and receive them again in
+      death.’ Thus he spake, and poured the remains of the elements
+      into the cup in which he had mingled the soul of the universe.
+      They were no longer pure as before, but diluted; and the mixture
+      he distributed into souls equal in number to the stars, and
+      assigned each to a star—then having mounted them, as in a
+      chariot, he showed them the nature of the universe, and told them
+      of their future birth and human lot. They were to be sown in the
+      planets, and out of them was to come forth the most religious of
+      animals, which would hereafter be called man. The souls were to
+      be implanted in bodies, which were in a perpetual flux, whence,
+      he said, would arise, first, sensation; secondly, love, which is
+      a mixture of pleasure and pain; thirdly, fear and anger, and the
+      opposite affections: and if they conquered these, they would live
+      righteously, but if they were conquered by them, unrighteously.
+      He who lived well would return to his native star, and would
+      there have a blessed existence; but, if he lived ill, he would
+      pass into the nature of a woman, and if he did not then alter his
+      evil ways, into the likeness of some animal, until the reason
+      which was in him reasserted her sway over the elements of fire,
+      air, earth, water, which had engrossed her, and he regained his
+      first and better nature. Having given this law to his creatures,
+      that he might be guiltless of their future evil, he sowed them,
+      some in the earth, some in the moon, and some in the other
+      planets; and he ordered the younger gods to frame human bodies
+      for them and to make the necessary additions to them, and to
+      avert from them all but self-inflicted evil.
+
+      Having given these commands, the Creator remained in his own
+      nature. And his children, receiving from him the immortal
+      principle, borrowed from the world portions of earth, air, fire,
+      water, hereafter to be returned, which they fastened together,
+      not with the adamantine bonds which bound themselves, but by
+      little invisible pegs, making each separate body out of all the
+      elements, subject to influx and efflux, and containing the
+      courses of the soul. These swelling and surging as in a river
+      moved irregularly and irrationally in all the six possible ways,
+      forwards, backwards, right, left, up and down. But violent as
+      were the internal and alimentary fluids, the tide became still
+      more violent when the body came into contact with flaming fire,
+      or the solid earth, or gliding waters, or the stormy wind; the
+      motions produced by these impulses pass through the body to the
+      soul and have the name of sensations. Uniting with the
+      ever-flowing current, they shake the courses of the soul,
+      stopping the revolution of the same and twisting in all sorts of
+      ways the nature of the other, and the harmonical ratios of twos
+      and threes and the mean terms which connect them, until the
+      circles are bent and disordered and their motion becomes
+      irregular. You may imagine a position of the body in which the
+      head is resting upon the ground, and the legs are in the air, and
+      the top is bottom and the left right. And something similar
+      happens when the disordered motions of the soul come into contact
+      with any external thing; they say the same or the other in a
+      manner which is the very opposite of the truth, and they are
+      false and foolish, and have no guiding principle in them. And
+      when external impressions enter in, they are really conquered,
+      though they seem to conquer.
+
+      By reason of these affections the soul is at first without
+      intelligence, but as time goes on the stream of nutriment abates,
+      and the courses of the soul regain their proper motion, and
+      apprehend the same and the other rightly, and become rational.
+      The soul of him who has education is whole and perfect and
+      escapes the worst disease, but, if a man’s education be
+      neglected, he walks lamely through life and returns good for
+      nothing to the world below. This, however, is an after-stage—at
+      present, we are only concerned with the creation of the body and
+      soul.
+
+      The two divine courses were encased by the gods in a sphere which
+      is called the head, and is the god and lord of us. And to this
+      they gave the body to be a vehicle, and the members to be
+      instruments, having the power of flexion and extension. Such was
+      the origin of legs and arms. In the next place, the gods gave a
+      forward motion to the human body, because the front part of man
+      was the more honourable and had authority. And they put in a face

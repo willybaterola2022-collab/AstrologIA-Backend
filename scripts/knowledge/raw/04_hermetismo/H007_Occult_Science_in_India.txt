@@ -1,0 +1,950 @@
+# Occult Science in India
+Author: Louis Jacolliot
+Category: 04_hermetismo
+Source: Gutenberg #5775
+Downloaded: 2026-03-08T14:19:34.388646
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+Produced by Charles Aldarondo, Charles Franks
+and the Online Distributed Proofreading Team
+
+
+
+
+PROBLEMS OF CONDUCT
+
+AN INTRODUCTORY SURVEY OF ETHICS
+
+BY
+
+DURANT DRAKE
+
+A.M. (Harvard) Ph.D. (Columbia)
+
+Associate Professor of Ethics and Philosophy of Religion at Wesleyan
+University
+
+BOSTON NEW YORK CHICAGO
+
+1914
+
+
+
+
+TO THE DEAR TWO WHOSE INTEREST IN PROBLEMS OF CONDUCT FIRST AWAKENED
+MINE AND WHOSE EAGERNESS TO KNOW AND DO REMAINS UNDIMMED BY THE
+YEARS MY FATHER AND MY MOTHER
+
+
+
+
+
+PREFACE
+
+This book represents in substance a course of lectures and discussions
+given first at the University of Illinois and later at Wesleyan
+University. It was written to meet the needs both of the college
+student who has the added guidance of an instructor, and of the
+generalreader who has no such assistance. The attempt has been
+made to keep the presentation simple and clear enough to need no
+interpreter, and by the list of readings appended to each chapter,
+to make a self directed further study of any point easy and alluring.
+These references are for the most part to books in English, easily
+accessible, and both intelligible and interesting to the ordinary
+untrained reader or undergraduate. Some articles from the popular
+reviews have been included, which, if not always authoritative,
+are interesting and suggestive.
+
+The function of the instructor who should use this as a textbook would
+consist, first, in making sure that the text was thoroughly read and
+understood; secondly, in raising doubts, suggesting opposing views,
+conducting a discussion with the object of making the student think
+for himself; and, thirdly, in adding new material and illustration
+and directing the outside readings which should supplement this
+purposely brief and summary treatment. The books to which reference
+is made in the lists of readings, and other books approved by the
+instructor, should be kept upon reserved shelves for the constant
+use of the class in the further study of questions suggested by
+the text or raised in the classroom.
+
+It will be noticed that the disputes and the technical language of
+theorists have been throughout so far as possible avoided. The
+discussion of historical theories and isms' is unnecessarily
+bewildering to the beginner; and the aim has been rather to keep as
+close as possible to the actual experience of the student and the
+language of everyday life. Far more attention is given than in most
+books on ethics to concrete contemporary problems. After all, an
+insight into the fallacies of the reasoning of the various ethical
+schools, an ability to know what they are talking about and glibly
+refute them, is of less importance than an acquaintance with, and a
+firm, intelligent attitude toward, the vital moral problems and
+movements of the day. I have prayed to be saved from academic
+abstractness and remoteness, and to go as straight as I could to the
+real perplexities from which men suffer in deciding upon their conduct.
+The purpose of a study of ethics is, primarily, to get light for the
+guidance of life. And so, while referring to authors who differ from
+the views here expressed, I have sought to impart a definite conception
+of relative values, to offer a thread for guidance through the
+labyrinth of moral problems, and to effect a heightened realization
+of the importance and the possibilities of right living.
+
+It is necessary, indeed, in order to justify and clarify our concrete
+moral judgments, that we should reach clear and firmly grounded
+conclusions upon the underlying abstract questions. And the habit of
+laying aside upon occasion one's instinctive or habitual moral
+preferences and discussing with open mind their justification and
+rationality is of great value to the individual and to society. Hence
+the first two Parts of this volume take up, as simply as is consonant
+with the really intricate questions involved, the history of the
+development of human morality and the psychological foundation of moral
+obligations and ideals. The exposition of the meaning of right and
+wrong there unfolded serves as a basis for the sound solution of the
+confused concrete issues, private and then public, which are discussed
+in the remainder of the volume.
+
+An introductory outline of any subject must inevitably be superficial.
+To explain all the discriminations that are important to the
+specialist, to justify thoroughly all the positions taken, to do
+adequate justice to opposing views, would require ten volumes instead
+of one. And though there is a crying need of scholarly and elaborate
+discussion of the endless problems of morality, there is a prior need
+for the student of surveying the field, seeing what the problems are,
+how they are related, and what is approximately certain. The impression
+left by many ethical treatises, that everything is matter for dispute
+and no moral judgments are reliable, seems to me unfortunate; I have
+preferred to incur the charge of dogmatism rather than to fall into
+that error to offer a clear cut set of standards, to which exception
+will be taken by this critic or that, rather than to hold out to the
+student a chaos of confused possibilities.
+
+No originality of viewpoint is claimed for this book. Its raison d'etre
+is simply to provide a clearer, more concrete, and more concisely
+comprehensive view of the nature of morality and its summons to men
+than has seemed to me available. I have drawn freely upon the thoughts
+of ethical teachers, classic and contemporary. These ideas are, or
+ought to be, common property; and it has been impracticable to trace
+them to their sources and offer detailed acknowledgment. Nothing has
+been presented here that has not first passed through the crucible
+of my own thinking and experience; and where the sparks came from that
+kindled each particular thought I am sure I do not know.
+
+Portions of chapters xxi and xxix have appeared in the Forum and North
+American Review respectively; to the editors of these periodicals my
+thanks are due for permission to reprint.
+
+DURANT DRAKE.
+
+MlDDLETOWN, CONN, August 3, 1914.
+
+
+
+
+
+
+CONTENTS
+
+
+
+
+
+INTRODUCTORY.
+What is the field of ethics? Why should we study ethics?
+
+PART I. THE EVOLUTION OF MORALITY
+
+CHAPTER I. THE ORIGIN OF PERSONAL MORALITY...
+How early in the evolutionary process did personal morality
+of some sort emerge?
+What were the main causes that produced personal morality? How far
+has the moralizing process been blind and how far conscious?
+
+CHAPTER II. THE ORIGIN OF SOCIAL MORALITY...
+How early was social morality developed?
+By what means was social morality produced?
+How has morality been fostered by the tribe?
+
+CHAPTER III. OUTWARD DEVELOPMENT-MORALS...
+What is the difference between morals and non-moral customs?
+What, in general, has been the direction of moral progress?
+What definition of morality emerges from this?
+Is moral progress certain?
+
+CHAPTER IV. INWARD DEVELOPMENT-CONSCIENCE...
+What are the stages in the history of moral guidance?
+Out of what has conscience developed?
+What is conscience now?
+What is the value of conscience?
+
+CHAPTER V. THE INDIVIDUALIZING OF CONSCIENCE...
+Why did not the individualizing of conscience occur earlier?
+What forces made against custom-morality?
+Conservatism vs. radicalism. What are the dangers of conventional
+morality?
+
+CHAPTER VI. CAN WE BASE MORALITY UPON CONSCIENCE...
+What is the meaning of "moral intuitionism"?
+Do the deliverances of different people's consciences agree?
+If conscience everywhere agreed in its dictates, could we base
+morality upon it?
+What is the plausibility of moral intuitionism?
+
+PART II. THE THEORY OF MORALITY
+
+CHAPTER VII. THE BASIS OF RIGHT AND WRONG...
+What is the nature of that intrinsic goodness upon which ultimately
+all valuations rest?
+What is extrinsic goodness?
+What sort of conduct, then, is good?
+And how shall we define virtue?
+
+CHAPTER VIII. THE MEANING OF DUTY...
+Why are there conflicts between duty and inclination?
+Must we deny that duty is the servant of happiness?
+Does the end justify the means?
+What is the justification of justice and chivalry?
+
+CHAPTER IX. THE JUDGMENT OF CHARACTER...
+ Wherein consists goodness of character?
+Can we say, with Kant, that the only good is the Good Will?
+What evils may go with conscientiousness?
+What is the justification of praise and blame?
+What is responsibility?
+
+CHAPTER X. THE SOLUTION OF PERSONAL PROBLEMS...
+What are the inadequacies of instinct and impulse that necessitate
+morality?
+What factors are to be considered in estimating the worth
+of personal moral ideals?
+Epicureanism vs. Puritanism.
+What are the evils in undue self-indulgence?
+What are the evils in undue self-repression?
+
+CHAPTER XI. THE SOLUTION OF SOCIAL PROBLEMS...
+Why should we be altruistic?
+What is the exact meaning of selfishness and unselfishness?
+Are altruistic impulses always right?
+What mental and moral obstacles hinder altruistic action?
+How can we reconcile egoism and altruism?
+
+CHAPTER XII. OBJECTIONS AND MISUNDERSTANDINGS...
+Do men always act for pleasure or to avoid pain?
+Are pleasures and pains incommensurable?
+Are some pleasures worthier than others?
+Is morality merely subjective and relative?
+
+CHAPTER XIII. ALTEBNATIVE THEORIES...
+Is morality "categorical," beyond need of justification?
+Should we live "according to nature," and adjust ourselves
+to the evolutionary process?
+Is self-development, or self-realization, the ultimate end?
+Is the source of duty the will of God?
+
+CHAPTER XIV. THE WORTH OF MORALITY...
+Morality as the organization of human interests.
+Do moral acts always bring happiness somewhere?
+Is there anything better than morality?
+
+PART III. PERSONAL MORALITY
+
+CHAPTER XV. HEALTH AND EFFICIENCY...
+What is the moral importance of health?
+Can we attain to greater health and efficiency?
+Is continued idleness ever justifiable?
+Are competitive athletics desirable? Is it wrong to smoke?
+
+CHAPTER XVI. THE ALCOHOL PROBLEM...
+What are the causes of the use of alcoholic drinks?
+What are the evils that result from alcoholic liquors?
+What should be the attitude of the individual toward
+alcoholic liquors? What should be our attitude toward the use of
+alcoholic liquors by others?
+
+CHAPTER XVII. CHASTITY AND MARRIAGE...
+What are the reasons for chastity before and fidelity after
+marriage? What safeguards against unchastity are necessary?
+What are the factors in an ideal marriage? 1Is divorce morally
+justifiable?
+
+CHAPTER XVIII. FELLOWSHIP, LOYALTY, AND LUXURY...
+what social relationships impose claims upon us?
+What general duties do we owe our fellows?
+Are the rich justified in living in luxury?
+Is it wrong to gamble, bet, or speculate?
+
+CHAPTER XIX. TRUTHFULNESS AND ITS PROBLEMS...
+What are the reasons for the obligation of truthfulness?
+What exceptions are allowable to the duty of truthfulness?
+In what directions are our standards of truthfulness low?
+The ethics of journalism.
+
+CHAPTER XX. CULTURE AND ART...
+What is the value of culture and art?
+What is most important in cultural education?
+What dangers are there in culture and art for life?
+Should art be censored in the interests of morality?
+
+CHAPTER XXI. THE MECHANISM OF SELF-CONTROL...
+What are our potentialities of greater self-control?
+A practicable mechanism of self-control.
+Various accessories and safeguards.
+
+CHAPTER XXII. THE ATTAINABILITY OF HAPPINESS...
+The threefold key to happiness:
+I. Hearty allegiance to duty.
+II. Hearty acquiescence in our lot.
+III. Hearty appreciation of the wonder and beauty in life.
+Can we maintain a steady under glow of happiness?
+
+PART IV. PUBLIC MORALITY
+
+CHAPTER XXIII. PATRIOTISM AND WORLD-PEACE...
+What is the meaning and value of patriotism? How should patriotism
+be directed and qualified? What have been the benefits of war? What
+are the evils of war? What can we do to hasten world-peace?
+
+CHAPTER XXIV. POLITICAL PURITY AND EFFICIENCY...
+What are the forces making for corruption in politics?
+What are the evil results of political corruption?
+What is the political duty of the citizen?
+What legislative checks to corruption are possible?
+
+CHAPTER XXV. SOCIAL ALLEVIATION...
+What is the duty of the State in regard to:
+I. Sickness and preventable death?
+II. Poverty and inadequate living conditions?
+III. Commercialized vice?
+IV. Crime?
+
+CHAPTER XXVI. INDUSTRIAL WRONGS...
+In our present organization of industry, what are the duties of
+businessmen:
+I. To the public?
+II. To investors?
+III. To competitors?
+IV. To employees?
+What general remedies for industrial wrongs are feasible?
+
+CHAPTER XXVII. INDUSTRIAL RECONSTRUCTION...
+Ought the trusts to be broken up, or regulated?
+What are the ethics of the following schemes:
+I. Trade-unions and strikes?
+II. Profit-sharing, cooperation, consumers' leagues?
+III. Government regulation of prices, profits, and wages?
+IV. Socialism?
+
+CHAPTER XXVIII. LIBERTY AND LAW...
+What are the essential aspects of the ideal of liberty?
+The ideal of individualism. The ideal of legal control.
+Should existing laws always be obeyed?
+
+CHAPTER XXIX. EQUALITY AND PRIVILEGE...
+What flagrant forms of inequality exist in our society?
+What methods of equalizing opportunity are possible?
+What are the ethics of:
+I. The single tax?
+II. Free trade and protection?
+III. The control of immigration?
+IV. The woman's movement?
+
+CHAPTER XXX. THE FUTURE OF THE RACE...
+In what ways should the State seek to better human environment?
+What should be done in the way of public education?
+hat can be done by eugenics?
+What are the gravest moral dangers of our times?
+
+
+
+
+PROBLEMS OF CONDUCT
+
+
+INTRODUCTORY
+
+What is the field of ethics?
+
+To know what exists, in its stark reality, is the concern of natural
+science and natural philosophy; to know what matters, is the field
+of moral philosophy, or ethics. The one group of studies deals with
+facts simply as facts, the other with their values. Human life is
+checkered with the sunshine and shadow of good and evil, joy and pain;
+it is these qualitative differences that make it something more than
+a meaningless eddy in the cosmic whirl. Natural philosophy (including
+the physical and psychological sciences), drawing its impartial map
+of existence, is interesting and important; it informs us about our
+environment and ourselves, shows us our resources and our powers, what
+we can do and how to do it. Moral philosophy asks the deeper and more
+significant question, What SHALL we do? For the momentous fact about
+life is that it has differences in value, and, more than that, that
+we can MAKE differences in value. Caught as we are by the irresistible
+flux of existence, we find ourselves able so to steer our lives as
+to change the proportion of light and shade, to give greater value
+to a life that might have had less. This possibility makes our moral
+problem. What shall we choose and from what refrain? To what aims shall
+we give our allegiance? What shall we fight for and what against?
+
+For the savage practically all of his activity is determined by his
+imperative needs, so that there is little opportunity for choice or
+reflection upon the aims of his life. He must find food, and
+shelter, and clothing to keep himself warm and dry; he must protect
+himself from the enemies that menace him, and rest when he is tired.
+Nor are most of us today far removed from that primitive condition;
+the moments when we consciously choose and steer our course are few
+and fleeting. Yet with the development of civilization the elemental
+burdens are to some extent lifted; men come to have superfluous
+strength, leisure hours, freedom to do something more than merely
+earn their living. And further, with the development of
+intelligence, new ways of fulfilling the necessary tasks suggest
+themselves, moral problems arise where none were felt before. Men
+learn that they have not made the most of their opportunities or
+lived the best possible lives; they have veered this way and that
+according to the moment's impulse, they have been misled by
+ingrained habits and paralyzed by inertia, they have wandered at
+random for lack of a clear vision of their goal. The task of the
+moralist is to attain such a clear vision; to understand, first, the
+basis of all preference, and then, in detail, the reasons for
+preferring this concrete act to that. Here are a thousand impulses
+and instincts drawing us, with infinite further possibilities
+suggesting themselves to reflection; the more developed our natures
+the more frequently do our desires conflict. Why is any one better
+than another? How can we decide between them? Or shall we perhaps
+disown them all for some other and better way.
+
+Man's effort to solve these problems is revealed outwardly in a
+multitude of precepts and laws, in customs and conventions; and
+inwardly in the sense of duty and shame, in aspiration, in the
+instinctive reactions of praise, blame, contentment, and remorse. The
+leadings of these forces are, however, often divergent, sometimes
+radically so. We must seek a completer insight. There must be some
+best way of solving the problem of life, some happiest, most useful
+way of living; its pursuit constitutes the field of ethics. Nothing
+could be more practical, more vital, more universally human.
+
+Why should we study ethics?
+
+(1) The most obvious reason for the study of ethics is that we may
+get more light for our daily problems. We are constantly having to
+choose how we shall act and being perplexed by opposing advantages.
+Decide one way or the other we must. On what grounds shall we decide?
+How shall we feel assured that we are following a real duty, pursuing
+an actual good, and not being led astray by a mere prejudice or
+convention? The alternative is, to decide on impulse, at haphazard,
+after some superficial and one-sided reflection; or to think the matter
+through, to get some definite criteria for judgments, and to face the
+recurrent question, what shall we do? In the steady light of those
+principles. [Footnote: Cf. Matthew Arnold, Essays in Criticism, vol.
+i: "Marcus Aurelius," opening paragraph: "The object of systems of
+morality is to take possession of human life, to save it from being
+abandoned to passion or allowed to drift at hazard, to give it happiness
+by establishing it in the practice of virtue; and this object they
+seek to attain by presenting to human life fixed principles of action,
+fixed rules of conduct. In its uninspired as well as in its inspired
+moments, in its days of languor or gloom as well as in its days of
+sunshine and energy, human life has thus always a clue to follow, and
+may always be making way towards its goal."]
+
+(2) In addition to the fact that we all have unavoidable problems which
+we must solve one way or another, a little familiarity with life, an
+acquaintance with the biographies of great and good men, should lead
+us to suspect that beyond the horizon of these immediate needs lie
+whole ranges of beautiful and happy living to which comparatively few
+ever attain. There are better ways of doing things than most of us
+have dreamed. The study of ethics should reveal these vistas and
+stimulate us to a noble discontent with our inferior morals. [Footnote:
+Cf. Emerson, in a letter to Fraulein Gisela von Arnim: "In reading
+your letter, I felt, as when I read rarely a good novel, rebuked that
+I do not use in my life these delicious relations; or that I accept
+anything inferior or ugly."] Such a forward look and development of
+ideals not only adds greatly to the worth of life but prepares a man
+to meet perplexities and temptations which may some day arise. It pays
+to educate one's self for future emergencies by meditating not only
+upon present problems but upon the further potentialities of conduct,
+right and wrong, that may lie ahead, and building up a code for one's
+self that will make life not only richer but steadier and more secure.
+
+(3) Another advantage of a systematic study of ethics is that it can
+make clearer to us WHY one act is better than another; why duty is
+justified in thwarting our inclinations and conscience is to be obeyed.
+Not only is this an intellectual gain, but it is an immense
+fortification to the will. There comes a time in the experience of
+every thinking man when a command not reinforced by a reason breeds
+distrust, and when until he can intelligently defend an ideal he will
+hesitate to give it his allegiance. Morality, to be depended upon,
+must be not a mere matter of breeding and convention, or of impulse
+and emotion, but the result of rational insight and conscious resolve.
+To many people morality seems nothing but convention, or an arbitrary
+tyranny, or a mysterious and awful necessity, something extraneous
+to their own desires, from which they would like to escape. To be able
+to refute these skeptics, expose the sophisms and specious arguments
+by which they support their wrongdoing, and show that they have chosen
+the lesser good, is a valuable help to the community and to one's own
+integrity of conduct. Too often the people perish for lack of vision;
+an understanding of the naturalness and enormous desirability of
+morality, together with an appreciation of its main injunctions, would
+enlist upon its side many restless spirits who now chafe under a sense
+of needless restraint and seek some delusory freedom which leads to
+pain and death. Morality is simply the best way of living; and the
+more fully men realize that, the more readily will they submit themselves
+to the sacrifices it requires.
+
+(4) Finally, a study of ethics should help us to see what are the
+prevalent sins and moral dangers of our day, and thus arouse us to
+put the weight of our blame and praise where they are needed. Widespread
+public opinion is a force of incalculable power, which is largely
+unused. Politics and business, and to a far greater extent than now
+private life, will become clean and honest and kind just so soon as
+a sufficient number of people wake up and demand it. We have the power
+to make sins which are now generally tolerated and respectable, so
+odious, so infamous, that they will practically disappear. There are
+certain of the older forms of sin which the race in its long struggle
+upward has so effectually blacklisted that only a few perverts now
+lapse into them; we have execrated out of existence whole classes of
+cruelty and vice. But with the changing and ever more complex relations
+of society new forms of sin continually creep in; these we have not
+yet come to brand with the odium they deserve. Leaders of society and
+pillars of the church are often, and usually without disturbance of
+conscience, guilty of wrongdoing as grave in its effects, or graver,
+than many of the faults we relentlessly chastise. On the other hand,
+many really useful reforms are blocked because they awaken old prejudices
+or cross silly and meaningless conventions. The air is full of proposals,
+invectives, causes, movements; how shall we know which to espouse and
+which to reject, or where best to lend a hand? We need a consistent
+and well-founded point of view from which to judge. To get such a sane
+and far-sighted moral perspective; to see the acts of our fellow men
+with a proper valuation; to be able to point out the insidious dangers
+of conduct which is not yet as generally rebuked as it ought to be;
+and at the same time to emancipate ourselves and others from the mistaken
+and merely arbitrary precepts that are intermingled with our genuine
+morality, and so attain the largest possible freedom of action, such
+should be the outcome of a thorough study of ethical principles and
+ideals.
+
+
+
+
+PART I
+
+
+THE EVOLUTION OF MORALITY
+
+
+
+
+CHAPTER I
+
+
+THE ORIGIN OP PERSONAL MORALITY
+
+In almost any field it is wise to precede definition by an impartial
+survey of the subject matter. So if we are to form an unbiased
+conception of what morality is, it will be safest to consider first
+what the morals of men actually have been, how they came into being,
+and what function they have served in human life. Thus we shall be
+sure that our theory is in touch with reality, and be saved from mere
+closet-philosophies and irrelevant speculations. Our task in this First
+Part will be not to criticize by reference to any ethical standards,
+but to observe and describe, as a mere bit of preliminary sociology,
+what it is in their lives to which men have given the name "morality,"
+of what use it has been, and through the action of what forces it has
+tended to develop. With these data in mind, we shall be the better
+able, in the Second Part, to formulate our criteria for judging the
+different codes of morality; we shall find that we are but making
+explicit and conscious the considerations that, unexpressed and
+unrealized, have been the persistent and underlying factors in their
+development. How early in the evolutionary process did personal
+morality of some sort emerge? Of course the words (in any language)
+and the explicit conceptions "morality," "duty," "right," "wrong," etc,
+are very late in appearance, presupposing as they do a power of
+reflection and abstraction which develops only in man and with a
+considerable civilization. Even in the Homeric poems, which reflect
+a degree of mental cultivation in some respects equal to our own, these
+concepts hardly appear. But ages earlier, far back in the course of
+animal evolution, there emerged phenomena which we may consider
+rudimentary forms of morality; and all early human history was replete
+writh unanalyzed and unformulated moral struggles. Concretely, we mean
+by personal morality courage, industriousness, self-control, prudence,
+temperance, and other similar phenomena, which have this in common,
+that they involve a crossing of earlier-developed impulses and
+redirection of the individual's conduct, with the result, normally,
+that his welfare is enhanced. Exceptions to this result will be
+considered later; but the point to be noted at the outset is that
+personal morality is not at first the outcome of reflection, or a
+purely human affair. If we were to take the term "morality" in a
+narrower sense, as meaning conscious obedience to a sense of duty or
+to the moral law, it would obviously be a late product. But morality
+in this sense is only an ultimate development of what in its less
+conscious and reflective forms dates far back in pre-human history.
+
+Take courage, for example, which may be briefly defined as action in
+spite of the instinct of fear and contrary to its leading. Nearly all
+of the higher animals exhibit courage in greater or less degree, and
+there are many touching instances of it recorded to the credit of those
+we best know. Industriousness, again, is proverbial in the case of
+bees and ants "Go to the ant, thou sluggard!"--and noteworthy in the
+case of many birds, of beavers, and a long list of other animals.
+Prudence may be illustrated by the case of the camel who fills himself
+with water enough to last for many desert days, or that of the bird
+who builds her nest with remarkable ingenuity and pains out of the
+reach of invaders. Whether or not we shall attribute self-control to
+the lower animals is a mere matter of definition; in the looser sense
+we may credit with it the hungry fox who does not touch the bait whose
+dangerous nature he vaguely suspects. Temperance is probably one of
+the latest of the virtues, and is rather conspicuously absent in much
+of human history and biography; but perhaps students of animal psychology
+can guarantee instances to which the name might fairly be given.
+
+In lesser degree, then, but unmistakably present, we find the same
+sort of conduct appearing in the animals to which we give in man the
+names courage, prudence, etc. Purely instinctive these acts usually
+are though we may see even in the animals the beginnings of mental
+conflicts, of reasoning, of reflection. But morality (if we keep to
+the wider sense of the term) is none the less morality when it is
+instinctive and natural. Morality is a general name for certain KINDS
+of conduct, certain redirections of impulse. These redirections
+appeared in animal life long before the emergence of what we may call
+man from his ape-like ancestry; and all of our self-conscious moral
+idealism is but a continuation and development of the process then
+begun. Any theory of right and wrong must take account of the fact
+that morality, unlike art, science, and religion, is not an exclusively
+human affair. In contrast with these late and purely human innovations,
+it is hoary with antiquity and the possession, in some rudimentary
+form or other, of nearly the whole realm of organic life.
+
+What were the main causes that produced personal morality?
+
+How did these germinal forms of courage, prudence, industriousness,
+etc, first come into existence? The answer to this question will also
+show what are the main underlying causes that promote these virtues
+today.
+
+(1) They are in part due to certain organic needs and cravings which
+exist independently of the individual's environment. Hunger and thirst
+imperiously check the tendency to laziness, or heedlessness, and
+stimulate to industriousness and prudence. To this day the mere need
+of food and clothing and shelter is the main bulwark of these virtues.
+The acquisitive impulse, which is also rather early in appearance,
+has an increasing share in this sort of moralization. The craving for
+action, which is the natural result of abundant nervous and muscular
+energy, the combative instinct, the joy of conquest and achievement,
+and the sexual impulse, go far in counteracting cowardice and inertia.
+The artistic impulse, when it emerges in man, long before the dawn
+of history, makes against caprice for orderliness, self-control, and
+patience. Ambition is a potent force in human affairs. The desire for
+the approval of others, which is prehuman, makes for all the virtues.
+
+(2) But in addition to these inward springs of morality there is the
+constant pressure of a hostile environment. Cold, storms, rivers that
+block journeys, forests that must be felled, treacherous seas that
+lure with promise and exact toll for carelessness, arouse men out of
+their torpor and aid the development of the virtues we have been
+considering. The necessity of rearing some sort of shelter makes against
+laziness for industry and perseverance. The dangers of wind or flood
+check heedlessness in the choice of location for the home and foster
+prudence and foresight. In the harsher climates man is more goaded
+by nature; hence more moral progress has, probably, been effected in
+the temperate than in the tropical zones.
+
+(3) A third and very important source lies in the mutual hostility
+of the animal species and of men. Slothfulness and recklessness mean
+for the great majority of animals the imminent risk of becoming the
+prey of some stronger animal. Among tribes of men the ceaseless struggles
+for supremacy have pricked cowardice into courage, demanded self-control
+instead of temper, supplanted gluttony and drunkenness by temperance.
+Cruel as has been the suffering caused by war, and deplorable as most
+of its effects, it did a great deal in the early stages of man's
+history to promote the personal virtues, alertness, moderation,
+caution, courage, and efficiency.
+
+In the latest stages of man's development, conscious regard for law
+and custom, the fear of gods, the explicit recognition of duty and
+conscience, and the direct pursuit of ideals-all the reflective
+considerations that we may lump together under the word
+"conscientiousness"-play their ever increasing part and complicate
+the psychological situation. But even in modern civilized man the
+underlying animal forces count for far more. And without them the later
+self-conscious forces would not have come into play at all. There is
+a small class of people who are dominated throughout their activities
+by consciously present ideals or obedience to religious injunctions.
+But the average man still acts mainly under the pressure of the more
+primitive forces which we have enumerated.
+
+How far has the moralizing process been blind and how far conscious?
+
+(1) To a very large extent the moralizing process has been a merely
+mechanical one. Through slight differences in nerve-structure
+individuals have varied a little in their response to the pressure
+of inward cravings and outward perils. The braver, the more prudent,
+the more industrious have had a better chance of survival. So by the
+process which we have come to call natural selection there has been
+a continual weeding-out of the relatively lazy, cowardly, reckless,
+and imprudent. Much of our morality is the result of tendencies thus
+long cultivated by the ruthless methods of nature; we inherit a complex
+nervous organization, the outcome of ages of molding and selection,
+which now instinctively and easily responds to stimuli with a certain
+degree of inbred morality. This is the case much more than is apparent
+upon the surface. The child seems very unmoral, the mere prey of
+passing impulses; but latent in his brain are many aptitudes and
+tendencies which will at the proper time ripen and manifest themselves.
+The period of adolescence is that during which the changes in mental
+structure which were effected during the later stages of evolution
+are being made in the mind of this new individual; he reenacts, as
+it were, in a few years, the history of the race, and emerges without
+any conscious effort, the possessor of the fruits of that long struggle
+of which he was always the heir.
+
+(2) In all the later stages of animal evolution, however, moral
+development is largely conscious, or semi-conscious. Besides our inner
+inheritance of altered brain-paths there is a social inheritance of
+habits which each generation adopts by imitation of its predecessors.
+Without any deliberate intention, the young of every species imitate
+their parents, and then the older members of the flock or herd.
+"Suggestion" is said by some to be the chief means of moralization;
+we are brave or industrious because we see others practicing these
+virtues and naturally do as they do. At any rate, whichever are more
+important, the inherited tendencies or those acquired by contagion,
+both of these factors play a large part in the development of the
+individual's morals.
+
+(3) The third method of moral development is that which we call
+"learning by experience." The pain or dissatisfaction which a wrong
+impulse brings in its train, the satisfaction which follows a moral
+act, are remembered, and recur with the recurrence of a similar
+situation, becoming perhaps the decisive factors in steering the animal
+or man toward his true welfare. Many animals quite low in the organic
+scale learn by experience; and though of course the degree of
+consciousness that accompanies these readjustments varies enormously,
+this method of moralization may be said to be always, like the
+preceding, a more or less conscious process. Learning by experience
+is subject, of course, to many mistaken judgments; the fallacy of post
+hoc propter hoc leads many learners to avoid perfectly innocent acts
+as supposedly involving some evil result with which they were once
+by chance connected; and the true causes of the evils are often
+overlooked. Even when dimly conscious readjustments become highly
+conscious deliberation, the results of that deliberation may be less
+forwarding morally than the unconscious and merciless grinding of
+natural selection.
+
+More and more, of course, as men grew in power of reflection, did they
+consciously shape their morals; and this intelligent selection, which
+has as yet played a comparatively small role, is bound, as men become
+more and more rational, to supersede in importance the other factors
+in moral evolution. But in the later phases of evolution all three
+of these processes blend together; and it would be impossible for the
+keenest analyst to tell how much of his conduct was determined in each
+of these ways.
+
+H. Spencer, Data of Ethics (also published as the first part of his
+Principles of Ethics), chap. I and chap. II, through sec. 4; or J.
+Fiske, Cosmic Philosophy, part II, chap, XXII, first half, to "We are
+now prepared to deal." L. T. Hobhouse, Morals in Evolution, part
+I, chap. I, secs. 1-4. I. King, Development of Religion, pp. 48-59
+A great mass of concrete material will be found in E. Westermarck's
+Origin and Development of Moral Ideas, H. O. Taylor's Ancient Ideals,
+W. E. H. Leeky's History of European Morals.
+
+
+
+
+CHAPTER II
+
+
+THE ORIGIN OF SOCIAL MORALITY
+
+How early was social morality developed?
+
+By social morality we mean, concretely, such virtues as tender and
+fostering love, sympathy, obedience, subordination of selfish instincts
+to group-demands, the service of other individuals or of the group.
+These habits are later in development than some of the personal
+virtues, but long antedate the differentiation of man from the other
+animals. Instances of self-sacrificing devotion of parent to offspring
+among birds and beasts are too common to need mention. Devotion to
+the mate, though less developed, is early present in many species.
+The strict subordination of ants and bees to the common welfare is
+a well-known marvel, the latter enthusiastically and poetically
+described by Maeterlinck in his delightful Life of the Bees. The stern
+requirements of obedience to the unwritten laws of the herd, which
+make powerful so many species of animals individually weak, are
+graphically, though of course with exaggeration, set forth by Kipling
+in his Jungle Book. Many sorts of animals, such as deer and antelopes,
+might long ago have been exterminated but for their mutual cooperation
+and service. Affection and sympathy in high degree are evident in some
+sub-human species. When we come to man, we find his earliest recorded
+life based upon a social morality which, if crude, was in some respects
+stricter than that of today. It is a mistake to think of the savage
+as Rousseau imagined him, a freehearted, happy-go-lucky individualist,
+only by a cramping civilization bowed under the yoke of laws and
+conventions. Savage life is essentially group-life; the individual
+is nothing, the tribe everything. The gods are tribal gods, warfare
+is tribal warfare, hunting, sowing, harvesting, are carried on by the
+community as a whole. There are few personal possessions, there is
+little personal will; obedience to the tribal customs, and mutual
+cooperation, are universal. [Footnote: As an example of the solidarity
+of barbarous tribes, note how Abimelech, seeking election as king,
+says to "all the men of Shechem": "Remember that I am your bone and
+your flesh." (Judges IX, 2.) Later, "all the tribes of Israel" say
+to David, "Behold, we are thy bone and thy flesh." (2 Sam. V, 1.) Of
+savage life as observed in modern times we have many reports like this:
+"Many strange customs and laws obtain in Zululand, but there is no
+moral code in all the world more rigidly observed than that of the
+Zulus." (R. H. Millward, quoted by Myers, History as Past Ethics, p.
+11.) Compare this: "A Kafir feels that the 'frame that binds him in'
+extends to the clan. The sense of solidarity of the family in Europe
+is thin and feeble compared to the full-blooded sense of corporate
+union of the Kafir clan. The claims of the clan entirely swamp the
+rights of the individual." (Kidd, Savage Childhood, p. 74.) An elaborate
+and stern social morality, then, long preceded verbally formulated
+laws; it was a matter of instinct and emotion long before it was a
+matter of calculation or conscience. The most primitive men acknowledge
+a duty to their neighbors; and the subsequent advance of social morality
+has consisted simply in more and more comprehensive answers to the
+questions, What is my duty? and Who is my neighbor? At first, the
+neighbor was the fellow tribesman only, all outsiders being deemed
+fair prey. Every member of the clan instinctively arose to avenge an
+injury to any other member, and rejoiced in triumphs over their common
+foes. We still have survivals of this primitive code in the Corsican
+vendettas and Kentucky feuds. With the growth of nations, the cooperative
+spirit came to embrace wider and wider circles; but even as yet there
+is little of it in international relations. The old double standard
+of morality persists in spite of the command to which we give theoretic
+allegiance-"Ye have heard that it hath been said, Thou shalt love
+thy neighbor, and hate thine enemy. But I say unto you, Love your
+enemies!" From the same lips came the final answer to the question,
+"Who is my neighbour?" It can be found in the tenth chapter of the
+Gospel according to Luke. By what means was social morality produced?
+
+(1) The earliest source of social morality lies in the maternal
+instinct; the first animal that took care of its young stood at the
+beginning of this wonderful advance. The originating causes of the
+first slight care of eggs or offspring lay, no doubt, in some obscure
+physiological readjustments, due to forces irrelevant to morality.
+But the young that had even such slight care had a survival advantage
+over their rivals, and would transmit the rudimentary instinct to their
+offspring. Thus, given a start in that direction, natural selection,
+steadily favoring the more maternally disposed, produced species with
+a highly developed and long continuing maternal love. In similar manner
+but in lesser degree a paternal instinct was developed. The existence
+of these instincts implied the power of sympathy and altruistic action
+that is, action by one individual for another's welfare. From sympathy
+for offspring to sympathy for mate and other members of the group was
+but a step; and all sympathetic action may have its ultimate source
+in mother love.
+
+(2) Not only was natural selection early at work in the rivalry for
+existence between individuals, protecting those stocks that had the
+stronger maternal and paternal instincts, but it played an important
+part in the struggle between groups. Those species that developed the
+ability to keep together for mutual protection or for advantage. And
+within a species those particular herds or flocks or tribes that
+cooperated best outlived the others. With the strongest animals, such
+as lions and tigers, and with the weakest, such as rabbits and mice,
+the instinct to stand by one another is of no value and so was never
+fostered by natural selection. But in many species of animals of
+intermediate strength, that by cooperation might be able to resist
+attack or overcome enemies that they would singly be impotent against,
+the cooperative instinct became strongly developed. Notably in such
+case was man; and we find group consciousness, tribal loyalty,
+continually enhanced by the killing off of the tribes in which it was
+feebler. The dominant races in man's internecine struggles have been
+those of passionate patriotism and capacity for working together.
+Nature has socialized man by a repeated application of the method
+hinted at in the adage "United we stand, divided we fall." Successful
+war demands loyalty and obedience, self-forgetfulness and mutual
+service. It demands also the cessation of internal squabbling, the
+restraint of individual greed, lust, and caprice. At first instinctive,
+these virtues came with clearing consciousness to be deliberately
+cultivated by the tribe, in ways which we shall in a moment indicate.
+
+(3) As in the development of personal morality, the hostility of
+inanimate nature, coupled with the urgency of inner needs, has also
+played its part in the socialization of man. The satisfying of hunger,
+protection against storm, flood, and other physical calamities, is
+greatly forwarded by cooperation. The rearing of a shelter, for
+example, that shall be at all comfortable and secure, demands the labor
+of several. With the development of civilization, mutual assistance
+and the division of labor become more and more imperative. As man
+developed more and more into a reflective animal, the comprehension
+of these advantages became clearer and clearer to him. Resentment against
+mere individualism grew keener; and any member whose laziness or passions
+led him to pull apart from the common good had to incur the anger of
+his fellows. Under these three heads--the selection of the maternal
+instinct, with its potentialities of universal sympathy, through the
+struggle between individuals; the selection of the various powers of
+loyalty and cooperation through the struggle between groups; and the
+production of cooperative habits through the struggle with inanimate
+nature-we may group the causes of social morality in man. How has
+morality been fostered by the tribe? Social morality, like personal
+morality, is passed on from generation to generation by heredity and
+by imitation. Both, in historic man, are also deliberately cultivated
+by the tribe. We have discriminated between the two aspects of morality
+for theoretic reasons which will later become apparent; but no
+discrimination is possible or needful for the savage. Courage and
+prudence and industriousness and temperance in its members are assets
+of the tribe, and are included among its requirements. We shall now
+consider in what ways the group brings pressure to bear upon the
+individual and influences his moral development.
+
+(1) It needs no great powers of observation to convince the members
+of a tribe severally that immorality of any sort-laziness, cowardice,
+unrestrained lust, recklessness, quarrelsomeness, insubordination,
+etc. in another member is detrimental to him personally. His own security
+and the satisfaction of his needs are thereby in some degree decreased.
+Contentment at the morality of the other members of the group, and
+anger at their immorality, are therefore among the earliest
+psychological reactions. No men, however savage, are insensitive to
+these attitudes of their fellows; and the emotional response of others
+to their acts is from the beginning a powerful force for morality.
+When contentment becomes explicitly expressed, becomes praise,
+commendation, honor; when anger becomes openly uttered blame, contempt,
+ridicule, rebuke, their power is well nigh irresistible. A civilized
+man, with his manifold resources, may defy public opinion; the savage,
+who cannot with safety live alone and has few personal interests to
+fill his mind, is unavoidably subject to its sting. His impulses and
+passions lead him often to immoral conduct, but he is pretty sure to
+suffer from the condemnation of his fellows. The memory of that penalty
+in his own case, or the sight of it in the case of others, may be a
+considerable deterrent; while, on the other hand, the craving for
+applause and esteem may be a powerful incentive.
+
+(2) Even among some of the animals, the resentment against the
+misconduct of a member of the herd finds expression in outward
+punishment maltreatment or death. Among men, punishments for the
+immoral and outward honors for the virtuous antedate history.
+Decorations, tattoos, songs, for the conspicuously brave and efficient,
+death or some lesser penalty for the cowardly, the traitorous, the
+insubordinate, figure largely in primitive life. These honors are
+capricious, uncertain, and transitory; but they are undoubtedly more
+stimulating to the savage, who lives in the moment, than they are in
+the more complex existence of the modern man. And while in general
+the savage is more callous to punishments, he has to fear much severer
+penalties than our humane conscience allows. They are inflicted, of
+course, with greatest frequency for those sins which instinctively
+arouse the hottest anger; that in turn varies with different types
+of men and various accidental circumstances that have determined the
+tribal points of view. But in general it is the virtues that most
+obviously benefit the tribe that are rewarded, and those that most
+obviously harm it that are punished.
+
+(3) Another important means of securing morality in the tribe is the
+education of the young. This includes not only deliberate instruction,
+encouragement, and warning, but various symbolic rites and customs,
+whose value in impressing the plastic minds of the boys and girls of
+the tribe is only half realized. Initiation into manhood is accompanied
+in many races of men by solemn ceremonies, which instill into the youth
+the necessity and glory of courage, endurance, self-control, and other
+virtues. The maidens are taught by equally solemn rites the
+obligatoriness of chastity. The lowest races studied by anthropologists
+which, however, represent, of course, the result of ages of evolution
+have commonly an elaborate provision for the guidance of the young
+into the paths of the tribal morals.
+
+(4) Further, all occasions upon which the tribe gets together for
+common work or play strengthen the group loyalty and make the group
+welfare appeal to the member as his own good. Hunting expeditions and
+wars, the sowing and reaping of the communal harvest, births,
+marriages, and deaths, in which usually the group as a whole takes
+a keen interest, feasts and dances, bard recitals, in common
+undertakings, dangers, calamities, triumphs, and celebrations, merge
+the individuality of the separate members into a unity. In many
+primitive races these influences are so strong that the individual
+has

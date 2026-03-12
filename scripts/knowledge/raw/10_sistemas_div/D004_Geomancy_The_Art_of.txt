@@ -1,0 +1,1871 @@
+# Geomancy (The Art of)
+Author: Franz Hartmann
+Category: 10_sistemas_div
+Source: Gutenberg #39741
+Downloaded: 2026-03-08T14:24:22.377939
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+Produced by Katherine Ward, Matthew Wheaton and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/American Libraries.)
+
+
+
+
+
+
+
+
+
+    IN MY NURSERY.
+
+    BY
+    LAURA E. RICHARDS,
+
+
+    AUTHOR OF
+    "THE JOYOUS STORY OF TOTO," "TOTO'S MERRY WINTER," ETC.
+
+    BOSTON:
+    LITTLE, BROWN, AND COMPANY.
+
+
+    _Copyright, 1890,_
+    BY ROBERTS BROTHERS
+
+    _All rights reserved._
+
+    Printers
+    S. J. PARKHILL & CO., BOSTON, U.S.A.
+
+
+    To my Mother,
+
+    JULIA WARD HOWE.
+
+    _Sweet! when first my baby ear
+    Curled itself and learned to hear,
+    'Twas your silver-singing voice
+    Made my baby heart rejoice._
+
+    _Hushed upon your tender breast,
+    Soft you sang me to my rest;
+    Waking, when I sought my play,
+    Still your singing led the way._
+
+    _Cradle songs, more soft and low
+    Than the bird croons on the bough;
+    Olden ballads, grave and gay,
+    Warrior's chant, and lover's lay._
+
+    _So my baby hours went
+    In a cadence of content,
+    To the music and the rhyme
+    Keeping tune and keeping time._
+
+    _So you taught me, too, ere long,
+    All our life should be a song,--
+    Should a faltering prelude be
+    To the heavenly harmony;_
+
+    _And with gracious words and high,
+    Bade me look beyond the sky,
+    To the Glory throned above,
+    To th' eternal Light and Love._
+
+    _Many years have blossomed by:
+    Far and far from childhood I;
+    Yet its sunrays on me fall,
+    Here among my children all._
+
+    _So among my babes I go,
+    Singing high and singing low;
+    Striving for the silver tone
+    Which my memory holds alone._
+
+    _If I chant my little lays
+    Tunefully, be yours the praise;
+    If I fail, 'tis I must rue
+    Not t' have closelier followed you._
+
+
+
+
+CONTENTS.
+
+
+    Dedication
+    In my Nursery
+    The Baby's Future
+    Baby's Hand
+    The First Tooth
+    Johnny's By-low Song
+    Baby's Valentine
+    The Rain
+    The Ballad of the Fairy Spoon
+    Song of the Little Winds
+    Good-night Song
+    Another "Good-night"
+    "A Bee came tumbling"
+    Jingle
+    Little Old Baby
+    Baby's Journey
+    The Bumble-bee
+    The Owl and the Eel and the Warming-pan
+    Young (one)'s Night Thoughts
+    Little Sunbeam
+    Baby's Belongings
+    Infantry Tactics
+    Baby Bo
+    The Difference
+    Little John Bottlejohn
+    Jemima Brown
+    Alice's Supper
+    Toddlekins
+    Bobbily Boo and Wollypotump
+    Sleepyland
+    Little Brown Bobby
+    Phil's Secret
+    A Song for Hal
+    The Fairies
+    The Queen of the Orkney Islands
+    Baby's Ways
+    Pot and Kettle
+    Punkydoodle and Jollapin
+    Mrs. Snipkin and Mrs. Wobblechin
+    My Sunbeams
+    In the Closet
+    Bed-time
+    Bird-song
+    Geographi
+    Higgledy-piggledy
+    Belinda Blonde
+    Tommy's Dream; or, The Geography Demon
+    Polly's Year
+    What the Robins sing in the Morning
+    The Eve of the Glorious Fourth
+    The Dandy Cat
+    A Party
+    Jumbo Jee
+    An Indian Ballad
+    The Egg
+    Wouldn't
+    Will-o'-the-wisp
+    Nonsense Verses
+    An Old Rat's Tale
+    To the Little Girl who wriggles
+    The Forty little Ducklings
+    The Mouse
+    A Valentine
+    Jamie in the Garden
+    Somebody's Boy (not mine)
+    Bogy
+    The Mermaidens
+    The Phrisky Phrog
+    The Ambitious Chicken
+    The Boy and the Brook
+    The Shark
+    The Easter Hen
+    Pump and Planet
+    The Postman
+    Hopsy Upsy
+    Little Black Monkey
+    Jippy and Jimmy
+    Master Jack's Song
+    Mother Rosebush
+    The Five Little Princesses
+    The Hornet and the Bee
+    The Three Little Chickens who went out to Tea
+    A Legend of Lake Okeefinokee
+    Grandpapa's Valentine
+    Alibazan
+    The Three Fishers
+    Peepsy
+    May Song
+    Two Little Valentines
+    A Howl about an Owl
+    Our Celebration
+    The Song of the Corn-popper
+    What Bobby said
+    Master Jack's Views
+    Emily Jane
+    Song of the Mother whose Children are Fond of Drawing
+    The Seven Little Tigers and the Aged Cook
+    Agamemnon
+    The Wedding
+    Swing Song
+    The Little Cossack
+    What a Very Rude Little Bird said to Johnny this Morning
+    The Monkeys and the Crocodile
+    Painted Ladies
+    Some Fishy Nonsense
+    Lady's Slipper
+    A Little Song to sing to a Little Maid in a Swing
+    Betty in Blossom-time
+    Betty's Song
+    A Nonsense Tragedy
+    From New York to Boston
+    Sandy Godolphin
+    My Clock
+    My Uncle Jehoshaphat
+    Rosy Posy
+    Sick-room Fancies.
+          I. My Wall Paper
+          II. My Japanese Fan
+    Marjorie's Knitting
+    He and His Family
+    Easter-time
+    Easter
+    Jacky Frost
+    Subtraction
+    Grandfather Dear
+    Gathering Apples
+    The Ballad of the Beach
+    The Boots of a Household
+    The Palace
+    Bunker Hill Monument
+    May
+    Gregory Griggs
+    A Nursery Tragedy
+    The Umbrella Brigade
+    The Princess in Saturn and the Red Man in Mars
+    Wiggle and Waggle
+    Gret Gran'f'ther
+    Day Dreams
+    The Battle
+    The Strange Beast
+    A Garden Jingle
+    The Baby goes to Boston
+    The Flag in the Schoolroom
+    Johnny Jump-up
+    The Outlandishman
+    A Sleigh-ride
+    The Little Gnome
+    The Little Dutchess
+
+
+
+
+IN MY NURSERY.
+
+
+    In my nursery as I sit,
+    To and fro the children flit:
+    Rosy Alice, eldest born,
+    Rosalind like summer morn,
+    Sturdy Hal, as brown as berry,
+    Little Julia, shy and merry,
+    John the King, who rules us all,
+    And the Baby sweet and small.
+
+    Flitting, flitting to and fro,
+    Light they come and light they go:
+    And their presence fair and young
+    Still I weave into my song.
+    Here rings out their merry laughter,
+    Here their speech comes tripping after:
+    Here their pranks, their sportive ways,
+    Flash along the lyric maze,
+    Till I hardly know, in fine,
+    What is theirs and what is mine:
+    Can but say, through wind and weather,
+    They and I have wrought together.
+
+
+
+
+THE BABY'S FUTURE.
+
+
+    What will the baby be, Mamma,
+    (With a kick and a crow, and a hushaby-low).
+    What will the baby be, Mamma,
+    When he grows up into a man?
+    Will he always kick, and always crow,
+    And flourish his arms and his legs about so,
+    And make up such horrible faces, you know,
+    As ugly as ever he can?
+
+    The baby he may be a soldier, my dear,
+    With a fife and a drum, and a rum-tiddy-tum!
+    The baby he may be a soldier, my dear,
+    When he grows up into a man.
+    He will draw up his regiment all in a row,
+    And flourish his sword in the face of the foe,
+    Who will hie them away on a tremulous toe,
+    As quickly as ever they can.
+
+    The baby he may be a sailor, my dear,
+    With a fore and an aft, and a tight little craft
+    The baby he may be a sailor, my dear,
+    When he grows up into a man.
+    He will hoist his sails with a "Yo! heave, ho!"
+    And take in his reefs when it comes on to blow,
+    And shiver his timbers and so forth, you know,
+    On a genuine nautical plan.
+
+    The baby he may be a doctor, my dear,
+    With a powder and pill, and a nice little bill.
+    The baby he may be a doctor, my dear,
+    When he grows up into a man.
+    He will dose you with rhubarb, and calomel too,
+    With draughts that are black and with pills that are blue;
+    And the chances will be, when he's finished with you,
+    You'll be worse off than when he began.
+
+    The baby he may be a lawyer, my dear,
+    With a bag and a fee, and a legal decree.
+    The baby he may be a lawyer, my dear,
+    When he grows up into a man.
+    But, oh! dear me, should I tell to you
+    The terrible things that a lawyer can do,
+    You would take to your heels when he came into view,
+    And run from Beersheba to Dan.
+
+
+
+
+BABY'S HAND.
+
+
+    Like a little crumpled roseleaf
+    It lies on my bosom now,
+    Like a tiny sunset cloudlet,
+    Like a flake of rose-tinted snow;
+    And the pretty, helpless fingers
+    Are never a moment at rest,
+    But ever are moving and straying
+    About on the mother's breast:
+    Trying to grasp the sunbeam
+    That streams through the window high;
+    Trying to catch the white garments
+    Of the angels hovering by.
+    And as she pats and caresses
+    The dear little lovely hand,
+    The mother's thoughts go forward
+    Toward the future's shadowy land.
+    And ever her anxious vision
+    Strives to pierce each coming year,
+    With a mother's height of rapture,
+    With a mother's depth of fear,
+    As she thinks, "In the years that are coming,
+    Be they many or be they few,
+    What work is the good God sending
+    For this little hand to do?
+    Will it always be open in giving,
+    And always strong for the right?
+    Will it always be ready for labor,
+    Yet always gentle and light?
+    Will it wield the brush or the chisel
+    In the magical realms of Art?
+    Will it waken the loveliest music
+    To gladden the weary heart?
+    Will it smooth the sufferer's pillow,
+    Bring rest to his aching head?
+    Will it proffer the cup of cold water?
+    By it shall the hungry be fed?
+    Oh! in the years that are coming,
+    Be they many or be they few,
+    What now is the good God sending
+    For this little hand to do?"
+    Thus the mother's anxious vision
+    Strives to pierce each coming year,
+    With a mother's height of rapture,
+    With a mother's depth of fear.
+    Ah! whatever may be its fortunes,
+    Whatever in life its part,
+    This little wee hand will never loose
+    Its hold on the mother's heart.
+
+
+
+
+THE FIRST TOOTH.
+
+
+    My own little beautiful Baby,
+    You're weeping most bitterly, dear!
+    There'd soon be a lake, if we treasured
+    Each sweet little silvery tear.
+
+    A lake? Nay! an ocean of sorrow
+    Would murmur and sigh at your feet,
+    And you would be drowned in your tear-drops,
+    My own little Baby sweet.
+
+    But, darling, as in the wide ocean
+    The divers plunge boldly down,
+    And bring up the radiant pearl-drops
+    To set in some royal crown,
+
+    E'en so from the sea of your sorrow,
+    This dolorous "fountain of youth,"
+    Will come, ere a week be over,
+    A little wee pearly tooth.
+
+    And then the tears will all vanish,
+    Dried up by the sunshine of smiles;
+    And we'll have back our own little Alice,
+    With her merriest frolics and wiles.
+
+    And whenever you laugh, my Baby,
+    Through all your life's happy years,
+    You'll show us the radiant pearl-drop
+    That you brought from the ocean of tears.
+
+
+
+
+JOHNNY'S BY-LOW SONG.
+
+
+    Here on our rock-away horse we go,
+    Johnny and I, to a land we know,--
+    Far away in the sunset gold,
+    A lovelier land than can be told.
+
+    _Chorus._ Where all the flowers go niddlety nod,
+    Nod, nod, niddlety nod!
+    Where all the flowers go niddlety nod,
+    And all the birds sing by-low!
+    Lullaby, lullaby, by-low.
+
+    The gates are ivory set with pearls,
+    One for the boys, and one for the girls:
+    So shut your bonny two eyes of blue,
+    Or else they never will let you through.
+
+    _Chorus._ Where all the flowers go niddlety nod,
+    Nod, nod, niddlety nod!
+    Where all the flowers go niddlety nod,
+    And all the birds sing by-low!
+    Lullaby, lullaby, by-low.
+
+    But what are the children all about?
+    There's never a laugh and never a shout.
+    Why, they all fell asleep, dear, long ago;
+    For how could they keep awake, you know?
+
+    _Chorus._ When all the flowers went niddlety nod,
+    Nod, nod, niddlety nod!
+    When all the flowers went niddlety nod,
+    And all the birds sang by-low!
+    Lullaby, lullaby, by-low.
+
+    And each little brown or golden head
+    Is pillowed soft in a satin bed,--
+    A satin bed with sheets of silk,
+    As soft as down and as white as milk.
+
+    _Chorus_. And all the flowers go niddlety nod,
+    Nod, nod, niddlety nod!
+    And all the flowers go niddlety nod,
+    And all the birds sing by-low!
+    Lullaby, lullaby, by-low.
+
+    The brook in its sleep goes babbling by,
+    And the fat little clouds are asleep in the sky;
+    And now little Johnny is sleeping too,
+    So open the gates and pass him through.
+
+    _Chorus_. Where all the flowers go niddlety nod,
+    Nod, nod, niddlety nod!
+    Where all the flowers go niddlety nod,
+    And all the birds sing by-low!
+    Lullaby, lullaby, by-low.
+
+
+
+
+BABY'S VALENTINE.
+
+
+    Valentine, O Valentine,
+    Pretty little Love of mine;
+    Little Love whose yellow hair
+    Makes the daffodils despair;
+    Little Love whose shining eyes
+    Fill the stars with sad surprise:
+    Hither turn your ten wee toes,
+    Each a tiny shut-up rose,
+    End most fitting and complete
+    For the rosy-pinky feet;
+    Toddle, toddle here to me,
+    For I'm waiting, do you see?--
+    Waiting for to call you mine,
+    Valentine, O Valentine!
+
+    Valentine, O Valentine,
+    I will dress you up so fine!
+    Here's a frock of tulip-leaves,
+    Trimmed with lace the spider weaves;
+    Here's a cap of larkspur blue,
+    Just precisely made for you;
+    Here's a mantle scarlet-dyed,
+    Once the tiger-lily's pride,
+    Spotted all with velvet black
+    Like the fire-beetle's back;
+    Lady-slippers on your feet,
+    Now behold you all complete!
+    Come and let me call you mine,
+    Valentine, O Valentine!
+
+    Valentine, O Valentine,
+    Now a wreath for you I'll twine.
+    I will set you on a throne
+    Where the damask rose has blown,
+    Dropping all her velvet bloom,
+    Carpeting your leafy room:
+    Here while you shall sit in pride,
+    Butterflies all rainbow-pied,
+    Dandy beetles gold and green,
+    Creeping, flying, shall be seen,
+    Every bird that shakes his wings,
+    Every katydid that sings,
+    Wasp and bee with buzz and hum.
+    Hither, hither see them come,
+    Creeping all before your feet,
+    Rendering their homage meet.
+    But 'tis I that call you mine,
+    Valentine, O Valentine!
+
+
+
+
+THE RAIN.
+
+
+    The rain came down from the sky,
+    And we asked it the reason why
+        It would ne'er stay away
+        On washing day,
+    To let our poor clothes get dry.
+
+    The rain came down on the ground,
+    With a clattering, pelting sound,
+        "Indeed, if I stayed
+        Till you called me," it said,
+    "I should not come all the year round!"
+
+
+
+THE BALLAD OF THE FAIRY SPOON.
+
+
+    The little wee baby came tripping
+      All out of the fairy land,
+    With a nosegay of fairy flowers
+      Clasped close in each little wee hand;
+
+    The flower of baby beauty,
+      The flower of baby health,
+    And all the blossomy sweetness
+      That makes up a baby's wealth.
+
+    But still he kept sighing and sobbing,
+      Sighing and sobbing away,
+    Till I said, "Now what ails my Baby,
+      And why does he cry all day?"
+
+    And he answered, "Oh! as I came tripping,
+      I spied a rose by the way:
+    And on it the loveliest dewdrop
+      I'd seen since I came away.
+
+    "But as I was stooping to sip it,
+      A wind came up from the south;
+    And it blew my little wee spoonie
+      Away from my little wee mouth."
+
+    "And what was your little wee spoonie?
+      And what does my Baby mean?"
+    "Oh! the little wee fairy spoonie
+      That was given me by the queen.
+
+    "For whenever a baby leaves her,
+      The queen she grants him a boon,--
+    She fills both his hands with flowers,
+      And puts in his mouth a spoon.
+
+    "And some are made of the hazel,
+      And some are made of the horn;
+    And some are made of the silver white,
+      For the good-luck babes that are born."
+
+    "But what are they for, my Baby?"
+      "Nay! that part I cannot tell!
+    But send for the fairy Spoonman,
+      For he knows it all right well.
+
+    "Oh! the little old fairy Spoonman,
+      He lives in the white, white moon.
+    Send a whisper up by a moonbeam,
+      And he will be down here soon."
+
+    Then I whispered along a moonbeam
+      That silvered the grass so clear,
+    "Oh! little old fairy Spoonman,
+      Come down and comfort my dear!"
+
+    Then something came sliding, sliding
+      Down out of the white, white moon.
+    And something came gliding, gliding
+      Straight in at my window soon.
+
+    And there stood a little old fairy,
+      All bent and withered and black,
+    With a leathern apron about him,
+      And a bundle of spoons at his back.
+
+    And first he looked at my baby,
+      And then he looked at me;
+    And then he looked at his apron,
+      But never a word spake he.
+
+    "Oh! Spoonman dear," said the baby,
+      "The wind blew my spoon away.
+    So now will you give me another,
+      You little black Spoonman, pray?
+
+    "For I did not lose my spoonie,
+      Nor drop it carelessly;
+    But a wind came up to my poor little mouth,
+      And blew it away from me."
+
+    "Now well for you," said the Spoonman,
+      "Little Baby, if this be so.
+    For if you had carelessly lost your spoon,
+      Without it through life you'd go.
+
+    "And well for you, little Baby,
+      If you know your spoon again.
+    For but if you know the very same one,
+      Your asking will be in vain.
+
+    "So say: was it made of the hazel,
+      Or was it made of the horn,
+    Or was it made of the silver white,
+      If a good-luck babe you were born?"
+
+    "Oh! it was nor horn nor hazel,
+      But all of the silver bright;
+    For a good-luck babe I was born indeed,
+      To be my Mammy's delight."
+
+    "Then take your spoon, little Baby,
+      With the fairies' blessing free,
+    For the south wind blew it around the world,
+      And blew it again to me."
+
+    With that he gave to my baby
+      The tiniest silver spoon.
+    Then out he slipped in the moonlight,
+      And we lost him from sight right soon.
+
+    Now some may think I am foolish,
+      And some may think I am mad;
+    But never once since that very night
+      Has my baby been cross or sad.
+
+    And I counsel all anxious mothers
+      Whose babies are crying in pain,
+    To send for the fairy Spoonman,
+      And get them their spoons again.
+
+
+
+
+SONG OF THE LITTLE WINDS.
+
+
+    The birdies may sleep, but the winds must wake
+    Early and late, for the birdies' sake.
+    Kissing them, fanning them, soft and sweet,
+    E'en till the dark and the dawning meet.
+
+    The flowers may sleep, but the winds must wake
+    Early and late, for the flowers' sake.
+    Rocking the buds on the rose-mother's breast,
+    Swinging the hyacinth-bells to rest.
+
+    The children may sleep, but the winds must wake
+    Early and late, for the children's sake.
+    Singing so sweet in each little one's ear,
+    He thinks his mother's own song to hear.
+
+
+
+
+GOOD-NIGHT SONG.
+
+
+    Good-night, Sun! go to bed!
+    Take your crown from your shining head.
+    Now put on your gray night-cap,
+    And shut your eyes for a good long nap.
+
+    Good-night, Sky, bright and blue!
+    Not a wink of sleep for you.
+    You must watch us all the night,
+    With your twinkling eyes so bright.
+
+    Good-night, flowers! now shut up
+    Every swinging bell and cup.
+    Take your sleeping-draught of dew:
+    Pleasant dreams to all of you!
+
+    Good-night, birds, that sweetly sing!
+    Little head 'neath little wing!
+    Every leaf upon the tree
+    Soft shall sing your lullaby.
+
+    Last to you, little child,
+    Sleep is coming soft and mild.
+    Now he shuts your blue eyes bright:
+    Little Baby dear, good-night!
+
+
+
+
+ANOTHER "GOOD-NIGHT."
+
+
+    Birds, birds, in the linden-tree,
+    Low, low let your music be!
+    Bees, bees, in the garden bloom,
+    Hushed, hushed be your drowsy hum!
+    Wind, wind, through the lattice waft
+    Still, still, thy breathing soft!
+    Flowers, sweet be the breath you shed:
+    Two little children are going to bed.
+
+    Eyes, eyes, 'neath your curtains white,
+    Veiled, veiled be the sunny light!
+    Lips, lips, like the roses red,
+    Soft, soft be your sweet prayers said!
+    Feet, feet, that have danced all day,
+    Now, now must your dancing stay.
+    Low, low lay each golden head!
+    Two little children are going to bed.
+
+
+
+
+"A BEE CAME TUMBLING"
+
+
+    A bee came tumbling into my ear,
+    And what do you think he remarked, my dear?
+    He said that two tens make up a score,
+    And really and truly I knew that before.
+
+
+
+
+JINGLE.
+
+
+    I jumped on the back of a dragon-fly,
+    And flew and flew till I reached the sky.
+
+    I pulled down a cloud that was hiding the blue,
+    And all the wee stars came tumbling through.
+
+    They tumbled down and they tumbled round,
+    And turned into flowers as they touched the ground.
+
+    So come with me, little children, come,
+    And down in the meadow I'll pick you some.
+
+
+
+
+LITTLE OLD BABY.
+
+
+    Little old baby, pretty old baby,
+      Screams and cries at his little old bath,
+    Pours on the head of his little old mother
+      All the full vials of baby wrath.
+
+    Little old baby, pretty old baby,
+      If you could see just how queer you look,--
+    Arms and legs in a knot together,
+      Face twisted up in a terrible crook,--
+
+    How you would straighten out every feature,
+      Masculine vanity all aflame!
+    Fie! what a noise from a little wee creature!
+      _Did_ they abuse him! and _was_ it a shame!
+
+    Little old baby, pretty old baby,
+      Curls himself over and goes to sleep.
+    Ah! such is life, my little old baby,
+      Sleep and forget it, or wake and weep!
+
+
+
+
+BABY'S JOURNEY.
+
+
+    Hoppety hoppety ho!
+    Where shall the baby go?
+    Over dale and down,
+    To Limerick town,
+    And there shall the baby go.
+
+    Hoppety hoppety ho!
+    _How_ shall the baby go?
+    In a coach-and-seven,
+    With grooms eleven,
+    And so shall the baby go.
+
+    Hoppety hoppety ho!
+    _When_ shall the baby go?
+    In the afternoon,
+    By the light of the moon,
+    And then shall the baby go.
+
+    Hoppety hoppety ho!
+    _Why_ shall the baby go?
+    To dance a new jig,
+    And to buy a new wig,
+    And _that's_ why the baby shall go.
+
+
+
+
+THE BUMBLEBEE.
+
+
+    The bumblebee, the bumblebee,
+    He flew to the top of the tulip-tree.
+    He flew to the top, but he could not stop,
+    For he had to get home to his early tea.
+
+    The bumblebee, the bumblebee,
+    He flew away from the tulip-tree;
+    But he made a mistake, and flew into the lake,
+    And he never got home to his early tea.
+
+
+
+
+THE OWL AND THE EEL AND THE WARMING-PAN.
+
+
+    The owl and the eel and the warming-pan,
+    They went to call on the soap-fat man.
+    The soap-fat man he was not within:
+    He'd gone for a ride on his rolling-pin.
+    So they all came back by the way of the town,
+    And turned the meeting-house upside down.
+
+
+
+
+YOUNG (ONE)'S NIGHT THOUGHTS.
+
+
+    "Hi!" said the baby.
+    "Ho!" said the baby.
+    "Ha!" said the baby,
+    "I won't go to sleep!
+    Naughty old mother,
+    You make such a pother,
+    Just for to bother
+    You, awake I will keep.
+
+    "Dance!" said the baby.
+    "Prance!" said the baby.
+    "Perchance," said the baby,
+    "You think I'm a goose.
+    Vainly you're dreaming
+    Of rest, and your scheming
+    To silence my screaming
+    Is all of no use.
+
+    "Sing!" said the baby.
+    "Ring!" said the baby.
+    "Bring," said the baby,
+    "My rattles and toys.
+    Still I will weep, oh!
+    Awake I will keep, oh!
+    _Won't_ go to sleep, oh!
+    _Will_ make a noise!
+
+    "Walk!" said the baby.
+    "Talk!" said the baby.
+    "I'll balk," said the baby,
+    "Your efforts, one and all.
+
+    Still I'll be scorning,
+    When, towards the morning,
+    Without any warning
+    Asleep I will fall."
+
+
+
+
+LITTLE SUNBEAM.
+
+
+    Little yellow Sunbeam,
+    Waking up one day,
+    Down into the garden
+    Took her shining way;
+    Merrily went dancing
+    Down the morning air,
+    Shaking out the sparkles
+    From her golden hair.
+
+    Little yellow Sunbeam
+    Twinkled all about,
+    Down among the green leaves
+    Flitting in and out.
+    Waking up the daisies
+    From their morning doze,
+    Ringing up the lily-bells,
+    Knocking up the rose.
+
+    Little yellow Sunbeam,
+    Climbing up the wall,
+    On the baby's window
+    Happened for to fall.
+    In the little chamber
+    As she took a peep,
+    There she saw the Lovely One
+    Lying fast asleep.
+
+    Little yellow Sunbeam
+    Tripped into the room,
+    Sweeping out the darkness
+    With her golden broom.
+    All the little shadows,
+    Glimmering and gray,
+    Gathered up their dusky skirts,
+    Softly slid away.
+
+    Little yellow Sunbeam,
+    Flitting to the bed,
+    Merrily went dancing
+    Round the baby's head.
+    Suddenly there flashed out,
+    To her great surprise,
+    Other little sunbeams
+    From the baby's eyes.
+
+    Little yellow Sunbeam
+    Said, "How can this be?
+    Whence these little sparklers
+    So unlike to me?
+    Scarce I think they can be
+    Sunbeams real and true,
+    For we all are yellow;
+    These are lovely blue."
+
+    Little yellow Sunbeam
+    Flew back to the sky.
+    Running to her father,
+    She began to cry:
+    "Father, you must vanish!
+    Run and hide your head!
+    There's a brighter sun than you
+    In the baby's bed."
+
+
+
+
+BABY'S BELONGINGS.
+
+
+    Here are the baby's bonny blue eyes.
+      What shall we give her to see?
+    A calico doll and a parrotty poll,
+      As funny as funny can be.
+
+    Here are the baby's little pink ears.
+      What shall we give her to hear?
+    A bell that will ring, and a bird that will sing,
+      And a brook that goes tinkling clear.
+
+    Here is the baby's little wee nose.
+      What shall we give her to smell?
+    A hyacinth blue and a violet too,
+      And roses and lilies as well.
+
+    Here is the baby's pretty red mouth.
+      What shall we give her to eat?
+    A sugary heart and a raspberry tart,
+      And everything else that is sweet.
+
+    And here are the baby's little fat hands.
+      What shall we give her to hold?
+    A sunbeam? That's right! and a rainbow bright,
+      And plenty of silver and gold.
+
+
+
+
+INFANTRY TACTICS.
+
+
+    _Present arms!_ There they are,
+      Both stretched out to me.
+    Strong and sturdy, smooth and white,
+      Fair as arms may be.
+
+    _Ground arms!_ on the floor,
+      Picking up his toys:
+    Breaking all within his reach,
+      Busiest of boys.
+
+    _Right wheel!_ off his cart,
+      Left wheel too is gone.
+    Horsey's head is broken off,
+      Horsey's tail is torn.
+
+    _Quick step_, forward march!
+      Crying, too, he comes.
+    Had a battle with the cat.
+      "Scratched off bofe my fums!"
+
+    _Shoulder arms!_ Here at last,
+      Round my neck they close.
+    Poor little soldier boy
+      Off to quarters goes.
+
+
+
+
+BABY BO.
+
+
+    Fly away, fly away, Birdie oh!
+    Bring something home to my Baby Bo!
+    Bring him a feather and bring him a song,
+    And sing to him sweetly all the day long.
+
+    Hoppety, kickety, Grasshopper oh!
+    Bring something home to my Baby Bo!
+    Bring him a thistle and bring him a thorn,
+    Hop over his head and then be gone.
+
+    Howlibus, gowlibus, Doggibus oh!
+    Bring something home to my Baby Bo!
+    Bring him a snarl and bring him a snap,
+    And bring him a posy to put in his cap.
+
+    Twinkily, winkily, Firefly oh!
+    Bring something home to my Baby Bo!
+    Bring him a moonbeam and bring him a star,
+    Then twinkily, winkily, fly away far.
+
+
+
+
+THE DIFFERENCE.
+
+
+    Eight fingers,
+      Ten toes,
+    Two eyes,
+      And one nose.
+    Baby said
+      When she smelt the rose,
+    "Oh! what a pity
+      I've only one nose!"
+
+    Ten teeth
+      In even rows,
+    Three dimples,
+      And one nose.
+    Baby said
+      When she smelt the snuff,
+    "Deary me!
+      One nose is enough."
+
+
+
+
+LITTLE JOHN BOTTLEJOHN.
+
+
+    Little John Bottlejohn lived on the hill,
+      And a blithe little man was he.
+    And he won the heart of a pretty mermaid
+      Who lived in the deep blue sea.
+    And every evening she used to sit
+      And sing on the rocks by the sea,
+    "Oh! little John Bottlejohn, pretty John Bottlejohn,
+      Won't you come out to me?"
+
+    Little John Bottlejohn heard her song,
+      And he opened his little door.
+    And he hopped and he skipped, and he skipped and he hopped,
+      Until he came down to the shore.
+    And there on the rocks sat the little mermaid,
+      And still she was singing so free,
+    "Oh! little John Bottlejohn, pretty John Bottlejohn,
+      Won't you come out to me?"
+
+    Little John Bottlejohn made a bow,
+      And the mermaid, she made one too,
+    And she said, "Oh! I never saw any one half
+      So perfectly sweet as you!
+    In my lovely home 'neath the ocean foam,
+      How happy we both might be!
+    Oh! little John Bottlejohn, pretty John Bottlejohn,
+      Won't you come down with me?"
+
+    Little John Bottlejohn said, "Oh yes!
+      I'll willingly go with you.
+    And I never shall quail at the sight of your tail,
+      For perhaps I may grow one too."
+    So he took her hand, and he left the land,
+      And plunged in the foaming main.
+    And little John Bottlejohn, pretty John Bottlejohn,
+      Never was seen again.
+
+
+
+
+JEMIMA BROWN.
+
+
+    I.
+
+    Bring her here, my little Alice,
+      Poor Jemima Brown!
+    Make the little cradle ready!
+      Softly lay her down!
+    Once she lived in ease and comfort,
+      Slept on couch of down;
+    Now upon the floor she's lying,
+      Poor Jemima Brown!
+
+
+    II.
+
+    Once she was a lovely dolly,
+      Rosy-cheeked and fair,
+    With her eyes of brightest azure
+      And her golden hair;
+    Now, alas! no hair's remaining
+      On her poor old crown;
+    And the crown itself is broken,
+      Poor Jemima Brown!
+
+
+    III.
+
+    Once her legs were smooth and comely,
+      And her nose was straight;
+    And that arm, now hanging lonely,
+      Had, methinks, a mate.
+    And she was as finely dressed as
+      Any doll in town.
+    Now she's old, forlorn, and ragged,
+      Poor Jemima Brown!
+
+
+    IV.
+
+    Yet be kind to her, my Alice;
+      'Tis no fault of hers
+    If her wilful little mistress
+      Other dolls prefers.
+    Did _she_ pull her pretty hair out?
+      Did _she_ break her crown?
+    Did _she_ pull her arms and legs off,
+      Poor Jemima Brown?
+
+
+    V.
+
+    Little hands that did the mischief,
+      You must do your best
+    Now to give the poor old dolly
+      Comfortable rest.
+    So we'll make the cradle ready,
+      And we'll lay her down;
+    And we'll ask Papa to mend her,
+      Poor Jemima Brown!
+
+
+
+
+ALICE'S SUPPER.
+
+
+    Far down in the meadow the wheat grows green,
+    And the reapers are whetting their sickles so keen;
+    And this is the song that I hear them sing,
+    While cheery and loud their voices ring:
+    "'Tis the finest wheat that ever did grow!
+    And it is for Alice's supper, ho! ho!"
+
+    Far down in the valley the old mill stands,
+    And the miller is rubbing his dusty white hands;
+    And these are the words of the miller's lay,
+    As he watches the millstones a-grinding away:
+    "'Tis the finest flour that money can buy,
+    And it is for Alice's supper, hi! hi!"
+
+    Downstairs in the kitchen the fire doth glow,
+    And Maggie is kneading the soft white dough,
+    And this is the song that she's singing to-day,
+    While merry and busy she's working away:
+    "'Tis the finest dough, by near or by far,
+    And it is for Alice's supper, ha! ha!"
+
+    And now to the nursery comes Nannie at last,
+    And what in her hand is she bringing so fast?
+    'Tis a plate full of something all yellow and white,
+    And she sings as she comes with her smile so bright:
+    "'Tis the best bread-and-butter I ever did see!
+    And it is for Alice's supper, he! he!"
+
+
+
+
+TODDLEKINS.
+
+
+    Butterfly,
+    Flutter by,
+    Through the summer air;
+    Roses bloom,
+    Sweet perfume
+    Shedding everywhere;
+    Robins sing,
+    Bluebells ring
+    Greeting to my dear,
+    When her sweet
+    Tiny feet
+    Bring her toddling here.
+
+    Pitapat!
+    Little fat
+    Funny baby toes!
+    Do not stumble,
+    Or she'll tumble
+    On her baby nose.
+    Closer cling,
+    Little thing,
+    To your mother's side,
+    Baby mine,
+    Fair and fine,
+    Mother's joy and pride.
+
+
+
+
+BOBBILY BOO AND WOLLYPOTUMP.
+
+
+    Bobbily Boo, the king so free,
+    He used to drink the Mango tea.
+    Mango tea and coffee, too,
+    He drank them both till his nose turned blue.
+
+    Wollypotump, the queen so high,
+    She used to eat the Gumbo pie.
+    Gumbo pie and Gumbo cake,
+    She ate them both till her teeth did break.
+
+    Bobbily Boo and Wollypotump,
+    Each called the other a greedy frump.
+    And when these terrible words were said,
+    They sat and cried till they both were dead.
+
+
+
+
+SLEEPYLAND.
+
+
+    Baby's been in Sleepyland,
+    Over the hills, over the hills.
+    Baby's been in Sleepyland
+    All the rainy morning.
+    From the cradle where she lay,
+    Up she jumped and flew away,
+    For Sleepyland is bright and gay
+    Every rainy morning.
+
+    What did you see in Sleepyland,
+    Baby littlest, Baby prettiest?
+    What did you see in Sleepyland,
+    All the rainy morning?
+    Saw the sun that shone so twinkily,
+    Saw the grass that waved so crinkily,
+    Saw the brook that flowed so tinkily,
+    All the lovely morning.
+
+    What did you hear in Sleepyland,
+    Over the hills, over the hills?
+    What did you hear in Sleepyland,
+    All the rainy morning?
+    Heard the winds that wooed so wooingly,
+    Heard the doves that cooed so cooingly,
+    Heard the cows that mooed so mooingly,
+    All the lovely morning.
+
+    What did you do in Sleepyland,
+    Baby littlest, Baby prettiest?
+    What did you do in Sleepyland,
+    All the rainy morning?
+    Sang a song with a blue canary,
+    Danced a dance with a golden fairy,
+    Rode about on a cinnamon beary,
+    All the lovely morning.
+
+    Would I could go to Sleepyland,
+    Over the hills, over the hills;
+    Would I could go to Sleepyland,
+    Every rainy morning.
+    But to Sleepyland, as I have been told,
+    No one may go after three years old,
+    So poor old Mammy stays out in the cold,
+    Every rainy morning.
+
+
+
+
+Little Brown Bobby.
+
+
+    Little Brown Bobby sat on the barn floor
+    Little Brown Bobby looked in at the door,
+    Little Brown Bobby   said "Lackaday!
+    Who'll drive me this little brown bobby away?"
+    Little Brown Bobby said "Shoo! shoo! shoo!"
+    Little Brown Bobby said "Moo! moo! moo!"
+    This frightened them so that both of them cried,
+    And wished they were back at their Mammy's side!
+
+
+
+
+PHIL'S SECRET.
+
+
+    I know a little girl,
+    But I won't tell who!
+    Her hair is of the gold,
+    And her eyes are of the blue.
+    Her smile is of the sweet,
+    And her heart is of the true.
+    Such a pretty little girl!--
+    But I won't tell who.
+
+    I see her every day,
+    But I won't tell where!
+    It may be in the lane,
+    By the thorn-tree there.
+    It may be in the garden,
+    By the rose-beds fair.
+    Such a pretty little girl!--
+    But I won't tell where.
+
+    I'll marry her some day,
+    But I won't tell when!
+    The very smallest boys
+    Make the very biggest men.
+    When I'm as tall as father,
+    You may ask about it then.
+    Such a pretty little girl!--
+    But I won't tell when.
+
+
+
+
+A SONG FOR HAL.
+
+
+    Once I saw a little boat, and a pretty, pretty boat,
+    When daybreak the hills was adorning,
+    And into it I jumped, and away I did float,
+    So very, very early in the morning.
+
+    _Chorus._   And every little wave had its nightcap on,
+    Its nightcap, white cap, nightcap on.
+    And every little wave had its nightcap on,
+    So very, very early in the morning.
+
+    All the fishes were asleep in their caves cool and deep,
+    When the ripple round my keel flashed a warning.
+    Said the minnow to the skate, "We must certainly be late,
+    Though I thought 'twas very early in the morning."
+
+    _Chorus._   For every little wave has its nightcap on,
+    Its nightcap, white cap, nightcap on.
+    For every little wave has its nightcap on,
+    So very, very early in the morning.
+
+    The lobster darkly green soon appeared upon the scene,
+    And pearly drops his claws were adorning.
+    Quoth he, "May I be boiled, if I'll have my slumber spoiled,
+    So very, very early in the morning!"
+
+    _Chorus._   For every little wave has its nightcap on,
+    Its nightcap, white cap, nightcap on,
+    For every little wave has its nightcap on,
+    So very, very early in the morning.
+
+    Said the sturgeon to the eel, "Just imagine how I feel,
+    Thus roused without a syllable of warning.
+    People ought to let us know when a-sailing they would go,
+    So very, very early in the morning."
+
+    _Chorus._   When every little wave has its nightcap on,
+    Its nightcap, white cap, nightcap on.
+    When every little wave has its nightcap on,
+    So very, very early in the morning.
+
+    Just then up jumped the sun, and the fishes every one
+    For their laziness at once fell a-mourning.
+    But I stayed to hear no more, for my boat had reached the shore,
+    So very, very early in the morning.
+
+    _Chorus._   And every little wave took its nightcap off,
+    Its nightcap, white cap, nightcap off.
+    And every little wave took its nightcap off,
+    And courtesied to the sun in the morning.
+
+
+
+
+THE FAIRIES.
+
+
+    Is it true, my mother?
+    Can it really be,
+    That the little fairies
+    Every day you see?
+    Oh! the little fairies,
+    Wonderful and wise,
+    Have you really seen them
+    With your own two eyes?
+
+    Tell me where their home is,
+    Dearest mother mine.
+    Is it in the garden
+    'Neath the clustering vine?
+    Is it in the meadow,
+    'Mid the grasses tall?
+    Is it by the brookside,
+    Sweetest place of all?
+
+    Deep within the woodland,
+    Shall I find them then,--
+    Pretty little maidens,
+    Pretty little men;
+    Curled among the roseleaves,
+    Stretched along the fern,
+    Where no wind can shake them,
+    And no sunbeams burn?
+
+    Does the little queen live
+    In a great red rose,
+    Twenty elves to fan her
+    When to sleep she goes;
+    Coverlet of lilies
+    Sprinkled o'er with pearls,
+    Golden stars a-twinkling
+    In her golden curls?
+
+    Do they paint the flowers?
+    Do they teach the birds
+    All their lovely music,
+    With its strange, sweet words?
+    Oh! but tell me, mother!
+    Is it really true?
+    And when next you seek them,
+    Will you take me too?
+
+    True it is, my darling,
+    True as true can be,
+    That the little fairies
+    Every day I see,
+    Not within the meadow,
+    Not in woodland gloom,
+    But in brightest sunshine,
+    In this very room.
+
+    Singing like the robin,
+    Chirping like the wren,
+    Pretty little maidens,
+    Pretty little men;
+    Leaning o'er my shoulder,
+    Swinging on my chair,
+    Oh! the little fairies,
+    I see them everywhere.
+
+    Peeping at the window,
+    Peeping at the door,
+    If I bid them scamper,
+    Peeping all the more.
+    Little sweetest voices
+    Laughing merrily,
+    Oh! the little fairies,
+    They'll never let me be.
+
+    Tugging at my apron,
+    Twitching at my gown,
+    Climbing up into my lap,
+    Rumble-tumbling down.
+    Naughty little blue eyes,
+    Full of impish glee,
+    Oh! the little fairies,
+    They'll never let me be!
+
+    All are kings and queens, dear,
+    Every smallest one;
+    And on mother's knee here
+    Is their regal throne.
+    Look into the glass, dear!
+    One of them you'll see.
+    Oh! the little fairies,
+    God bless them all for me!
+
+
+
+
+THE QUEEN OF THE ORKNEY ISLANDS.
+
+
+    Oh! the Queen of the Orkney Islands,
+    She's travelling over the sea:
+    She's bringing a beautiful cuttlefish,
+    To play with my baby and me.
+
+    Oh! his head is three miles long, my dear,
+    His tail is three miles short.
+    And when he goes out he wriggles his snout,
+    In a way that no cuttlefish ought.
+
+    Oh! the Queen of the Orkney Islands,
+    She rides on a sea-green whale.
+    He takes her a mile, with an elegant smile,
+    At every flip of his tail.
+
+    He can snuffle and snore like a Highlandman,
+    And swear like a Portugee;
+    He can amble and prance like a peer of France,
+    And lie like a heathen Chinee.
+
+    [Illustration: QUEEN OF THE ORKNEY ISLANDS.]
+
+    Oh! the Queen of the Orkney Islands,
+    She dresses in wonderful taste.
+    The sea-serpent coils, all painted in oils,
+    Around her bee-yu-tiful waist.
+
+    Oh! her gown is made of the green sea-kale;
+    And though she knows nothing of feet,
+    She can manage her train, with an air of disdain,
+    In a way that is perfectly sweet.
+
+    Oh! the Queen of the Orkney Islands,
+    She's travelling over the main.
+    So we'll hire a hack, and we'll take her straight back
+    To her beautiful Islands again.
+
+
+
+
+BABY'S WAYS.
+
+
+    Toddle, toddle, waddle, waddle,
+    On her little pinky toes.
+    Stumble, stumble, pitch and tumble,
+    That's the way the baby goes.
+
+    Prattle, prattle, rattle, rattle,
+    Little shouts and little shrieks,
+    Tears, with laughter coming after,
+    That's the way the baby speaks.
+
+    Playing, toying, still enjoying
+    Every sweet that Nature gives.
+    Smiling, weeping, waking, sleeping,
+    That's the way the baby lives.
+
+
+
+
+POT AND KETTLE.
+
+     [_To be read to little boys and girls who quarrel with each
+     other._]
+
+
+    "Oho! Oho!" said the pot to the kettle,
+      "You're dirty and ugly and black!
+    Sure no one would think you were made of metal,
+      Except when you're given a crack."
+
+    "Not so! not so!" kettle said to the pot.
+      "'Tis your own dirty image you see.
+    For I am so clear, without blemish or blot,
+      That your blackness is mirrored in me."
+
+
+
+
+PUNKYDOODLE AND JOLLAPIN.
+
+
+    Oh, Pillykin Willykin Winky Wee!
+    How does the Emperor take his tea?
+    He takes it with melons, he takes it with milk,
+    He takes it with syrup and sassafras silk.
+    He takes it without, he takes it within.
+    Oh, Punkydoodle and Jollapin!
+
+    Oh, Pillykin Willykin Winky Wee!
+    How does the Cardinal take his tea?
+    He takes it in Latin, he takes it in Greek,
+    He takes it just seventy times in the week.
+    He takes it so strong that it makes him grin.
+    Oh, Punkydoodle and Jollapin!
+
+    Oh, Pillykin Willykin Winky Wee!
+    How does the Admiral take his tea?
+    He takes it with splices, he takes it with spars,
+    He takes it with jokers and jolly jack tars.
+    And he stirs it round with a dolphin's fin.
+    Oh, Punkydoodle and Jollapin!
+
+    Oh, Pillykin Willykin Winky Wee!
+    How does the President take his tea?
+    He takes it in bed, he takes it in school,
+    He takes it in Congress against the rule.
+    He takes it with brandy, and thinks it no sin.
+    Oh, Punkydoodle and Jollapin!
+
+
+
+
+MRS. SNIPKIN AND MRS. WOBBLECHIN.
+
+
+                Skinny Mrs. Snipkin,
+                With her little pipkin,
+    Sat by the fireside a-warming of her toes.
+                Fat Mrs. Wobblechin,
+                With her little doublechin,
+    Sat by the window a-cooling of her nose.
+
+                Says this one to that one,
+                "Oh! you silly fat one,
+    _Will_ you shut the window down? You're freezing me to death!"
+                Says that one to t'other one,
+                "Good gracious, how you bother one!
+    There isn't air enough for me to draw my precious breath!"
+
+                Skinny Mrs. Snipkin,
+                Took her little pipkin,
+    Threw it straight across the room as hard as she could throw;
+                Hit Mrs. Wobblechin
+                On her little doublechin,
+    And out of the window a-tumble she did go.
+
+
+
+
+MY SUNBEAMS.
+
+
+    Oh, what shall we do for the Lovely
+      This rainy, rainy day?
+    Oh! how shall we make the baby laugh,
+      When everything's dull and gray?
+
+    The sun has gone on a picnic,
+      The moon has gone to bed,
+    The tiresome sky does nothing but cry,
+      As if its best friend were dead.
+
+    Come hither, come hither, my Sunbeams!
+      Come one, and two, and three;
+    And now in a trice we'll have the room
+      As sunny as sunny can be.
+
+    Come, dimpling, dimpling Dumpling,
+      Come, Rosy, Posy Rose,
+    Come, little boy Billy a-toddling round
+      On little fat tottering toes.
+
+    Now twinkle, now twinkle, my Sunbeams!
+      Now twinkle and laugh and dance,
+    And brush me the gloom straight out of the room,
+      Nor leave it the ghost of a chance.
+
+    Aha! see the Lovely smile now!
+      Aha! see her jump and crow!
+    As round and round, with laugh and dance,
+      My three merry Sunbeams go.
+
+    And who cares now for the raindrops?
+      Who cares for the gloomy day,
+    When each little heart is doing its part
+      To make us all glad and gay?
+
+    You moon, you may stay in bed now;
+      You sun, you may wander and roam;
+    And cry away, cry, you tiresome sky!
+      We've plenty of sunshine at home!
+
+
+
+
+IN THE CLOSET.
+
+
+    They've took away the ball,
+          Oh dear!
+    And I'll never get it back,
+          I fear.
+    And now they've gone away,
+    And left me for to stay
+    All alone the livelong day,
+          In here.
+
+    It was my ball, anyhow,
+          Not his:
+    For he never had a ball
+          Like this.
+    Such a coward you'll not see,
+    E'en if you should live to be
+    Old as Deuteronomy,
+          As he is.
+
+    I'm sure I meant no harm,
+          None at all!
+    I just held out my hand
+          For the ball,
+    And--somehow--it hit his head.
+    Then his nose it went and bled,
+    And as if I 'd killed him dead
+          He did bawl.
+
+    Mother said I was a naughty
+          Little wretch.
+    And Aunt Jane said the police
+          She would fetch.
+    And that nurse, who's always glad
+    Of a chance to make me mad,
+    Said, "indeed she never _had_
+          Seen sech!"
+
+    No! I never, never _will_
+          Be good!
+    I'll go and be a babe
+          In the wood.
+    I'll run away to sea,
+    And a pirate I will be.
+    Then they'll never _dare_ call me
+          Rough and rude.
+
+    How hungry I am getting!
+          Let me see!
+    I wonder what they're going to have
+          For tea.
+    Of course there will be jam
+    And--oh! that potted ham!
+    How unfortunate I am!
+          Dear me!
+
+    Oh! it's growing very dark
+          In here.
+    And that shadow in the corner
+          Looks so queer!
+    Won't they bring me any light?
+    Must I stay in here all night?
+    I shall surely die of fright.
+          Oh dear!
+
+    Mother, darling, will you _never_
+          Come back?
+    _Oh! I'm sorry that I hit him
+          Such a crack!_
+    Hark! yes, 'tis her voice I hear!
+    Now good-by to every fear!
+    For she's calling me her dear
+          Little Jack!
+
+
+
+
+BED-TIME.
+
+
+    How many toes has the tootsey foot?
+    One, two, three, four, five.
+    Shut them all up in the little red sock,
+    Snugger than bees in a hive.
+
+    How many fingers has little wee hand?
+    Four, and a little wee thumb.
+    Shut them up under the bedclothes tight,
+    For fear that Jack Frost should come.
+
+    How many eyes has the Baby Bo?
+    Two, so shining and bright.
+    Shut them up under the little white lids.
+    And kiss them a loving good-night.
+
+
+
+
+BIRD-SONG.
+
+
+    Sweet! sweet! sweet! sweet!
+      Sing we in the morning,
+    Sending up to heaven's blue our happy waking song;
+      Daily, gayly, our tiny home adorning,
+    Working all so merrily the whole day long.
+
+    Sweet! sweet! sweet! sweet!
+      Sing we in the noontide;
+    Half the day is over now, half our work is done;
+      Neatly, featly, the moss and twigs are blended,
+    Feather, flower, leaf, and stems, all added one by one.
+
+    Sweet! sweet! sweet! sweet!
+      Sing we in the evening;
+    Happy day is past, past, happy night begun;
+      Wooing, cooing, we nestle 'mid the branches,
+    Sinking down to rest with the sinking of the sun.
+
+    Soft, soft, soft, soft,
+      Sleep we through the still night;
+    Tiny head 'neath tiny wing comfortably curled,
+      Singing, springing, with the breath of morning,
+    Waking up once more to all the wonder of the world.
+
+
+
+
+GEOGRAPHI.
+
+     [AIR: _There was a maid in my countree._]
+
+
+    There was a man in Manitoba,
+    The only man that ever was thar;
+    His name was Nicholas Jones McGee,
+    And he loved a maid in Mirimichi.
+
+    _Chorus._
+
+    Sing ha! ha! ha! for Manitoba!
+    Sing he! h

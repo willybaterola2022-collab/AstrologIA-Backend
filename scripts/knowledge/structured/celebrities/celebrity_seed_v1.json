@@ -1,0 +1,367 @@
+{
+  "version": "1.0",
+  "total": 20,
+  "generated_at": "2026-03-08T09:15:31.721898",
+  "celebrities": [
+    {
+      "name": "Elon Musk",
+      "born": "1971-06-28",
+      "sun": "Cáncer",
+      "moon": "Capricornio",
+      "asc": "Capricornio",
+      "notes": "Marte en Acuario (innovación), Nodo Norte Capricornio",
+      "slug": "elon-musk",
+      "url": "/carta-natal-de-famosos/elon-musk",
+      "seeded_at": "2026-03-08T09:15:31.720398",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Cáncer para Elon Musk]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Capricornio para Elon Musk]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Capricornio para Elon Musk]",
+        "key_aspects": "Marte en Acuario (innovación), Nodo Norte Capricornio",
+        "cta": "¿Tu signo Cáncer tiene algo de Elon?"
+      }
+    },
+    {
+      "name": "Steve Jobs",
+      "born": "1955-02-24",
+      "sun": "Piscis",
+      "moon": "Aries",
+      "asc": "Virgo",
+      "notes": "Virgo Ascendente, perfeccionismo estético",
+      "slug": "steve-jobs",
+      "url": "/carta-natal-de-famosos/steve-jobs",
+      "seeded_at": "2026-03-08T09:15:31.720423",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Piscis para Steve Jobs]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Aries para Steve Jobs]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Virgo para Steve Jobs]",
+        "key_aspects": "Virgo Ascendente, perfeccionismo estético",
+        "cta": "¿Tu signo Piscis tiene algo de Steve?"
+      }
+    },
+    {
+      "name": "Jeff Bezos",
+      "born": "1964-01-12",
+      "sun": "Capricornio",
+      "moon": "Sagitario",
+      "asc": "Escorpio",
+      "notes": "Capricornio Sol, construcción a largo plazo",
+      "slug": "jeff-bezos",
+      "url": "/carta-natal-de-famosos/jeff-bezos",
+      "seeded_at": "2026-03-08T09:15:31.720431",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Capricornio para Jeff Bezos]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Sagitario para Jeff Bezos]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Escorpio para Jeff Bezos]",
+        "key_aspects": "Capricornio Sol, construcción a largo plazo",
+        "cta": "¿Tu signo Capricornio tiene algo de Jeff?"
+      }
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "born": "1984-05-14",
+      "sun": "Tauro",
+      "moon": "Escorpio",
+      "asc": "Sagitario",
+      "notes": "Tauro/Escorpio — fijeza y transformación",
+      "slug": "mark-zuckerberg",
+      "url": "/carta-natal-de-famosos/mark-zuckerberg",
+      "seeded_at": "2026-03-08T09:15:31.720438",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Tauro para Mark Zuckerberg]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Escorpio para Mark Zuckerberg]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Sagitario para Mark Zuckerberg]",
+        "key_aspects": "Tauro/Escorpio — fijeza y transformación",
+        "cta": "¿Tu signo Tauro tiene algo de Mark?"
+      }
+    },
+    {
+      "name": "Taylor Swift",
+      "born": "1989-12-13",
+      "sun": "Sagitario",
+      "moon": "Cáncer",
+      "asc": "Escorpio",
+      "notes": "Nodo Norte Acuario, Plutón Escorpio generacional",
+      "slug": "taylor-swift",
+      "url": "/carta-natal-de-famosos/taylor-swift",
+      "seeded_at": "2026-03-08T09:15:31.720444",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Sagitario para Taylor Swift]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Cáncer para Taylor Swift]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Escorpio para Taylor Swift]",
+        "key_aspects": "Nodo Norte Acuario, Plutón Escorpio generacional",
+        "cta": "¿Tu signo Sagitario tiene algo de Taylor?"
+      }
+    },
+    {
+      "name": "Beyoncé",
+      "born": "1981-09-04",
+      "sun": "Virgo",
+      "moon": "Escorpio",
+      "asc": "Libra",
+      "notes": "Virgo perfeccionismo, Escorpio Luna transformadora",
+      "slug": "beyonce",
+      "url": "/carta-natal-de-famosos/beyoncé",
+      "seeded_at": "2026-03-08T09:15:31.720452",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Virgo para Beyoncé]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Escorpio para Beyoncé]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Libra para Beyoncé]",
+        "key_aspects": "Virgo perfeccionismo, Escorpio Luna transformadora",
+        "cta": "¿Tu signo Virgo tiene algo de Beyoncé?"
+      }
+    },
+    {
+      "name": "Bad Bunny",
+      "born": "1994-03-10",
+      "sun": "Piscis",
+      "moon": "Libra",
+      "asc": "Cáncer",
+      "notes": "Piscis creativo, Luna Libra — artista pop masivo",
+      "slug": "bad-bunny",
+      "url": "/carta-natal-de-famosos/bad-bunny",
+      "seeded_at": "2026-03-08T09:15:31.720459",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Piscis para Bad Bunny]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Libra para Bad Bunny]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Cáncer para Bad Bunny]",
+        "key_aspects": "Piscis creativo, Luna Libra — artista pop masivo",
+        "cta": "¿Tu signo Piscis tiene algo de Bad?"
+      }
+    },
+    {
+      "name": "Lady Gaga",
+      "born": "1986-03-28",
+      "sun": "Aries",
+      "moon": "Escorpio",
+      "asc": "Géminis",
+      "notes": "Aries audaz + Escorpio profundo = performance total",
+      "slug": "lady-gaga",
+      "url": "/carta-natal-de-famosos/lady-gaga",
+      "seeded_at": "2026-03-08T09:15:31.720465",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Aries para Lady Gaga]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Escorpio para Lady Gaga]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Géminis para Lady Gaga]",
+        "key_aspects": "Aries audaz + Escorpio profundo = performance total",
+        "cta": "¿Tu signo Aries tiene algo de Lady?"
+      }
+    },
+    {
+      "name": "Lionel Messi",
+      "born": "1987-06-24",
+      "sun": "Cáncer",
+      "moon": "Géminis",
+      "asc": "Géminis",
+      "notes": "Cáncer — el equipo como familia; Géminis — agilidad",
+      "slug": "lionel-messi",
+      "url": "/carta-natal-de-famosos/lionel-messi",
+      "seeded_at": "2026-03-08T09:15:31.720471",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Cáncer para Lionel Messi]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Géminis para Lionel Messi]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Géminis para Lionel Messi]",
+        "key_aspects": "Cáncer — el equipo como familia; Géminis — agilidad",
+        "cta": "¿Tu signo Cáncer tiene algo de Lionel?"
+      }
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "born": "1985-02-05",
+      "sun": "Acuario",
+      "moon": "Escorpio",
+      "asc": "Leo",
+      "notes": "Leo Ascendente — performativo, Escorpio obsesivo",
+      "slug": "cristiano-ronaldo",
+      "url": "/carta-natal-de-famosos/cristiano-ronaldo",
+      "seeded_at": "2026-03-08T09:15:31.720477",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Acuario para Cristiano Ronaldo]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Escorpio para Cristiano Ronaldo]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Leo para Cristiano Ronaldo]",
+        "key_aspects": "Leo Ascendente — performativo, Escorpio obsesivo",
+        "cta": "¿Tu signo Acuario tiene algo de Cristiano?"
+      }
+    },
+    {
+      "name": "Serena Williams",
+      "born": "1981-09-26",
+      "sun": "Libra",
+      "moon": "Virgo",
+      "asc": "Virgo",
+      "notes": "Virgo doble — precisión técnica extrema",
+      "slug": "serena-williams",
+      "url": "/carta-natal-de-famosos/serena-williams",
+      "seeded_at": "2026-03-08T09:15:31.720483",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Libra para Serena Williams]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Virgo para Serena Williams]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Virgo para Serena Williams]",
+        "key_aspects": "Virgo doble — precisión técnica extrema",
+        "cta": "¿Tu signo Libra tiene algo de Serena?"
+      }
+    },
+    {
+      "name": "Barack Obama",
+      "born": "1961-08-04",
+      "sun": "Leo",
+      "moon": "Géminis",
+      "asc": "Acuario",
+      "notes": "Leo-Acuario eje — individualidad al servicio colectivo",
+      "slug": "barack-obama",
+      "url": "/carta-natal-de-famosos/barack-obama",
+      "seeded_at": "2026-03-08T09:15:31.720489",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Leo para Barack Obama]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Géminis para Barack Obama]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Acuario para Barack Obama]",
+        "key_aspects": "Leo-Acuario eje — individualidad al servicio colectivo",
+        "cta": "¿Tu signo Leo tiene algo de Barack?"
+      }
+    },
+    {
+      "name": "Malala Yousafzai",
+      "born": "1997-07-12",
+      "sun": "Cáncer",
+      "moon": "Capricornio",
+      "asc": "Pisces",
+      "notes": "Cáncer-Capricornio — proteger a través de la estructura",
+      "slug": "malala-yousafzai",
+      "url": "/carta-natal-de-famosos/malala-yousafzai",
+      "seeded_at": "2026-03-08T09:15:31.720495",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Cáncer para Malala Yousafzai]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Capricornio para Malala Yousafzai]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Pisces para Malala Yousafzai]",
+        "key_aspects": "Cáncer-Capricornio — proteger a través de la estructura",
+        "cta": "¿Tu signo Cáncer tiene algo de Malala?"
+      }
+    },
+    {
+      "name": "Oprah Winfrey",
+      "born": "1954-01-29",
+      "sun": "Acuario",
+      "moon": "Sagitario",
+      "asc": "Sagitario",
+      "notes": "Acuario visión + Sagitario doble — expansión masiva",
+      "slug": "oprah-winfrey",
+      "url": "/carta-natal-de-famosos/oprah-winfrey",
+      "seeded_at": "2026-03-08T09:15:31.720501",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Acuario para Oprah Winfrey]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Sagitario para Oprah Winfrey]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Sagitario para Oprah Winfrey]",
+        "key_aspects": "Acuario visión + Sagitario doble — expansión masiva",
+        "cta": "¿Tu signo Acuario tiene algo de Oprah?"
+      }
+    },
+    {
+      "name": "Dalai Lama",
+      "born": "1935-07-06",
+      "sun": "Cáncer",
+      "moon": "Virgo",
+      "asc": "Capricornio",
+      "notes": "Cáncer compasión, Virgo servicio, Capricornio estructura institucional",
+      "slug": "dalai-lama",
+      "url": "/carta-natal-de-famosos/dalai-lama",
+      "seeded_at": "2026-03-08T09:15:31.720506",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Cáncer para Dalai Lama]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Virgo para Dalai Lama]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Capricornio para Dalai Lama]",
+        "key_aspects": "Cáncer compasión, Virgo servicio, Capricornio estructura institucional",
+        "cta": "¿Tu signo Cáncer tiene algo de Dalai?"
+      }
+    },
+    {
+      "name": "Meryl Streep",
+      "born": "1949-06-22",
+      "sun": "Cáncer",
+      "moon": "Tauro",
+      "asc": "Libra",
+      "notes": "Cáncer emocional, Tauro Luna — arraigo profundo en el personaje",
+      "slug": "meryl-streep",
+      "url": "/carta-natal-de-famosos/meryl-streep",
+      "seeded_at": "2026-03-08T09:15:31.720512",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Cáncer para Meryl Streep]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Tauro para Meryl Streep]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Libra para Meryl Streep]",
+        "key_aspects": "Cáncer emocional, Tauro Luna — arraigo profundo en el personaje",
+        "cta": "¿Tu signo Cáncer tiene algo de Meryl?"
+      }
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "born": "1974-11-11",
+      "sun": "Escorpio",
+      "moon": "Libra",
+      "asc": "Libra",
+      "notes": "Escorpio profundidad + Libra charme — el método actor",
+      "slug": "leonardo-dicaprio",
+      "url": "/carta-natal-de-famosos/leonardo-dicaprio",
+      "seeded_at": "2026-03-08T09:15:31.720518",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Escorpio para Leonardo DiCaprio]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Libra para Leonardo DiCaprio]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Libra para Leonardo DiCaprio]",
+        "key_aspects": "Escorpio profundidad + Libra charme — el método actor",
+        "cta": "¿Tu signo Escorpio tiene algo de Leonardo?"
+      }
+    },
+    {
+      "name": "Shakira",
+      "born": "1977-02-02",
+      "sun": "Acuario",
+      "moon": "Cáncer",
+      "asc": "Virgo",
+      "notes": "Acuario originalidad, Cáncer raíces, Virgo disciplina artística",
+      "slug": "shakira",
+      "url": "/carta-natal-de-famosos/shakira",
+      "seeded_at": "2026-03-08T09:15:31.720524",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Acuario para Shakira]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Cáncer para Shakira]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Virgo para Shakira]",
+        "key_aspects": "Acuario originalidad, Cáncer raíces, Virgo disciplina artística",
+        "cta": "¿Tu signo Acuario tiene algo de Shakira?"
+      }
+    },
+    {
+      "name": "Eckhart Tolle",
+      "born": "1948-02-16",
+      "sun": "Acuario",
+      "moon": "Acuario",
+      "asc": "Géminis",
+      "notes": "Acuario doble — el mensajero del presente",
+      "slug": "eckhart-tolle",
+      "url": "/carta-natal-de-famosos/eckhart-tolle",
+      "seeded_at": "2026-03-08T09:15:31.720530",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Acuario para Eckhart Tolle]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Acuario para Eckhart Tolle]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Géminis para Eckhart Tolle]",
+        "key_aspects": "Acuario doble — el mensajero del presente",
+        "cta": "¿Tu signo Acuario tiene algo de Eckhart?"
+      }
+    },
+    {
+      "name": "Paulo Coelho",
+      "born": "1947-08-24",
+      "sun": "Virgo",
+      "moon": "Sagitario",
+      "asc": "Escorpio",
+      "notes": "Virgo artesano + Sagitario buscador + Escorpio transformador",
+      "slug": "paulo-coelho",
+      "url": "/carta-natal-de-famosos/paulo-coelho",
+      "seeded_at": "2026-03-08T09:15:31.720536",
+      "interpretation": {
+        "sun_analysis": "[PENDIENTE: Twin.so — análisis Sol en Virgo para Paulo Coelho]",
+        "moon_analysis": "[PENDIENTE: Twin.so — análisis Luna en Sagitario para Paulo Coelho]",
+        "asc_analysis": "[PENDIENTE: Twin.so — análisis Asc en Escorpio para Paulo Coelho]",
+        "key_aspects": "Virgo artesano + Sagitario buscador + Escorpio transformador",
+        "cta": "¿Tu signo Virgo tiene algo de Paulo?"
+      }
+    }
+  ]
+}

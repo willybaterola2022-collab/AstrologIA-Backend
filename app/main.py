@@ -2,6 +2,11 @@ from fastapi import FastAPI, HTTPException, Depends, Security, Request
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from typing import Optional
+import pytz
+from geopy.geocoders import Nominatim
+from timezonefinder import TimezoneFinder
+from datetime import datetime
 import jwt
 import swisseph as swe
 from slowapi import Limiter, _rate_limit_exceeded_handler
@@ -11,6 +16,18 @@ from app.config import settings
 from app.content_db import get_interpretation, SIGN_NAMES
 from app.advanced_content_db import get_advanced_module, get_advanced_module_v2, get_sephirot_for_planet, PLANET_TO_SEPHIROT, get_dignity, get_chart_pattern
 from app.stripe_router import router as stripe_router
+
+# --- HELPER: Conversión Grados Decimales → Grados°Minutos'Segundos" ---
+def to_dms(decimal_degrees: float) -> str:
+    """Convierte grados decimales (ej: 8.9185) a formato DMS (ej: 8°55'06\")."""
+    d = int(decimal_degrees)
+    m = int((decimal_degrees - d) * 60)
+    s = round(((decimal_degrees - d) * 60 - m) * 60)
+    if s == 60:
+        m += 1; s = 0
+    if m == 60:
+        d += 1; m = 0
+    return f"{d}°{m:02d}'{s:02d}\""
 
 # --- RATE LIMITING ---
 limiter = Limiter(key_func=get_remote_address)
@@ -58,9 +75,12 @@ class NatalChartRequest(BaseModel):
     year: int
     month: int
     day: int
-    hour: float 
-    lat: float
-    lon: float
+    hour: float       # Hora LOCAL del nacimiento
+    timezone: Optional[float] = None  # UTC offset (ej: -3.0 para Buenos Aires, +1.0 para Madrid), calculado automatic si es None
+    lat: Optional[float] = None
+    lon: Optional[float] = None
+    city: Optional[str] = None
+    country: Optional[str] = None
 
 class TransitRequest(BaseModel):
     user_year: int
@@ -157,8 +177,45 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
     Incluye planetas, Nodos kármicos, Carta Dracónica y Matriz de Aspectos.
     """
     try:
-        # 1. Calcular Fecha Juliana
-        julian_day = swe.julday(req.year, req.month, req.day, req.hour)
+        # GEOLOCALIZACIÓN Y HUSO HORARIO AUTOMÁTICO (IANA Tzdata)
+        geolocator = Nominatim(user_agent="malka_astrology_1.0")
+        tf = TimezoneFinder()
+        
+        calc_lat, calc_lon = req.lat, req.lon
+        
+        if calc_lat is None or calc_lon is None:
+            if req.city and req.country:
+                location = geolocator.geocode(f"{req.city}, {req.country}")
+                if location:
+                    calc_lat, calc_lon = location.latitude, location.longitude
+                else:
+                    raise HTTPException(status_code=400, detail="No se pudo geolocalizar la ciudad y país. Reintroduce coordenadas exactas.")
+            else:
+                raise HTTPException(status_code=400, detail="Debe proporcionar lat/lon explícitamente o city/country para autocompletar.")
+                
+        calc_tz = req.timezone
+        if calc_tz is None:
+            # Obtener el huso horario IANA
+            tz_str = tf.timezone_at(lng=calc_lon, lat=calc_lat)
+            if tz_str:
+                local_tz = pytz.timezone(tz_str)
+                hh = int(req.hour)
+                mm = int((req.hour - hh) * 60)
+                try:
+                    dt_naive = datetime(req.year, req.month, req.day, hh, mm)
+                    dt_aware = local_tz.localize(dt_naive, is_dst=None)
+                    calc_tz = dt_aware.utcoffset().total_seconds() / 3600.0
+                except pytz.AmbiguousTimeError:
+                    dt_aware = local_tz.localize(datetime(req.year, req.month, req.day, hh, mm), is_dst=False)
+                    calc_tz = dt_aware.utcoffset().total_seconds() / 3600.0
+                except pytz.NonExistentTimeError:
+                    raise HTTPException(status_code=400, detail="Hora inexistente en ese país por cambio de horario verano/invierno.")
+            else:
+                calc_tz = 0.0 # Fallback UT
+                
+        # 1. Calcular Fecha Juliana (convertir hora local a UT)
+        ut_hour = req.hour - calc_tz 
+        julian_day = swe.julday(req.year, req.month, req.day, ut_hour)
         
         # 2. Definir Cuerpos Celestes (Añadido Kármico: Quirón, Nodos, Lilith)
         planets = {
@@ -177,10 +234,12 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
             speed = pos[3]
             sign_idx = int(lon / 30)
             dignity_data = get_dignity(name, sign_idx)
+            deg_in_sign = lon % 30
             results[name] = {
                 "longitude": round(lon, 4),
                 "sign": SIGN_NAMES[sign_idx],
-                "degree": round(lon % 30, 2),
+                "degree": round(deg_in_sign, 4),
+                "degree_dms": to_dms(deg_in_sign),
                 "is_retrograde": speed < 0,
                 "speed_deg_day": round(speed, 4),
                 "dignity": dignity_data.get("status", "Normal"),
@@ -190,9 +249,19 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
             }
         
         # 3. Calcular Ascendente y 12 Casas
-        cusps, ascmc = swe.houses_ex(julian_day, req.lat, req.lon, b'P')
-        results["Ascendant"] = {"longitude": ascmc[0], "sign": int(ascmc[0] / 30), "degree": ascmc[0] % 30}
-        results["Midheaven"] = {"longitude": ascmc[1], "sign": int(ascmc[1] / 30), "degree": ascmc[1] % 30}
+        cusps, ascmc = swe.houses_ex(julian_day, calc_lat, calc_lon, b'P')
+        results["Ascendant"] = {
+            "longitude": round(ascmc[0], 4),
+            "sign": SIGN_NAMES[int(ascmc[0] / 30)],
+            "degree": round(ascmc[0] % 30, 4),
+            "degree_dms": to_dms(ascmc[0] % 30)
+        }
+        results["Midheaven"] = {
+            "longitude": round(ascmc[1], 4),
+            "sign": SIGN_NAMES[int(ascmc[1] / 30)],
+            "degree": round(ascmc[1] % 30, 4),
+            "degree_dms": to_dms(ascmc[1] % 30)
+        }
 
         # 4. Cálculo Cármico: Carta Dracónica (Matemática del Alma)
         # Se calcula restando la longitud del Nodo Norte Verdadero a cada planeta
@@ -244,17 +313,32 @@ def calculate_natal_chart(request: Request, req: NatalChartRequest, user: dict =
         n_occupied = len(set(int(l/30) for l in lons_sorted))
         chart_pattern_data = get_chart_pattern(int(span), n_occupied, groups)
 
+        # Casas con DMS
+        houses_data = {}
+        for i in range(12):
+            cusp_deg = cusps[i] % 30
+            houses_data[f"House_{i+1}"] = {
+                "longitude": round(cusps[i], 4),
+                "sign": SIGN_NAMES[int(cusps[i] / 30)],
+                "degree": round(cusp_deg, 4),
+                "degree_dms": to_dms(cusp_deg)
+            }
+
         return {
             "status": "success",
             "metadata": {
                 "julian_day": julian_day,
+                "ut_hour": ut_hour,
+                "timezone_offset": calc_tz,
+                "calculated_lat": calc_lat,
+                "calculated_lon": calc_lon,
                 "user_authenticated": user.get("sub"),
                 "astrological_engine": "Swiss Ephemeris v2.10 (Ultra-Precision)"
             },
             "data": {
                 "tropical_positions": results,
                 "draconic_positions": draconic,
-                "houses_placidus": {f"House_{i+1}": cusps[i] for i in range(12)},
+                "houses_placidus": houses_data,
                 "major_aspects_matrix": aspect_results,
                 "chart_pattern": chart_pattern_data
             }

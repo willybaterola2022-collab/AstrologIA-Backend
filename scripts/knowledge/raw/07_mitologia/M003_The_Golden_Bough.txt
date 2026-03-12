@@ -1,0 +1,995 @@
+# The Golden Bough
+Author: James George Frazer
+Category: 07_mitologia
+Source: Gutenberg #3623
+Downloaded: 2026-03-08T14:22:16.893624
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+The Golden Bough: a study of magic and religion
+
+by Sir James George Frazer
+
+
+
+
+CONTENTS
+
+Preface
+
+Subject Index
+
+
+Chapter  1. The King of the Wood
+              1. Diana and Virbius
+              2. Artemis and Hippolytus
+              3. Recapitulation
+
+Chapter  2. Priestly Kings
+
+Chapter  3. Sympathetic Magic
+              1. The Principles of  Magic
+              2. Homoeopathic or Imitative Magic
+              3. Contagious Magic
+              4. The Magician's Progress
+
+Chapter  4. Magic and Religion
+
+Chapter  5. The Magical Control of the Weather
+              1. The Public Magician
+              2. The Magical Control of Rain
+              3. The Magical Control of the Sun
+              4. The Magical Control of the Wind
+
+Chapter  6. Magicians as Kings
+
+Chapter  7. Incarnate Human Gods
+
+Chapter  8. Departmental Kings of Nature
+
+Chapter  9. The Worship of Trees
+              1. Tree-spirits
+              2. Beneficent Powers of Tree-Spirits
+
+Chapter  10. Relics of Tree Worship in Modern Europe
+
+Chapter  11. The Influence of the Sexes on Vegetation
+
+Chapter  12. The Sacred Marriage
+              1. Diana as a Goddess of Fertility
+              2. The Marriage of the Gods
+
+Chapter  13. The Kings of Rome and Alba
+              1. Numa and Egeria
+              2. The King as Jupiter
+
+Chapter  14. Succession to the Kingdom in Ancient Latium
+
+Chapter  15. The Worship of the Oak
+
+Chapter  16. Dianus and Diana
+
+Chapter  17. The Burden of Royalty
+              1. Royal and Priestly Taboos
+              2. Divorce of the Spiritual from the Temporal Power
+
+Chapter  18. The Perils of the Soul
+              1. The Soul as a Mannikin
+              2. Absence and Recall of the Soul
+              3. The Soul as a Shadow and a Reflection
+
+Chapter  19. Tabooed Acts
+              1. Taboos on Intercourse with Strangers
+              2. Taboos on Eating and Drinking
+              3. Taboos on Showing the Face
+              4. Taboos on Quitting the House
+              5. Taboos on Leaving Food over
+
+Chapter  20. Tabooed Persons
+              1. Chiefs and Kings tabooed
+              2. Mourners tabooed
+              3. Women tabooed at Menstruation and Childbirth
+              4. Warriors tabooed
+              5. Manslayers tabooed
+              6. Hunters and Fishers tabooed
+
+Chapter  21. Tabooed Things
+              1. The Meaning of  Taboo
+              2. Iron tabooed
+              3. Sharp Weapons tabooed
+              4. Blood tabooed
+              5. The Head tabooed
+              6. Hair tabooed
+              7. Ceremonies at Hair-cutting
+              8. Disposal of Cut Hair and Nails
+              9. Spittle tabooed
+              10. Foods tabooed
+              11. Knots and Rings tabooed
+
+Chapter  22. Tabooed Words
+              1. Personal Names tabooed
+              2. Names of Relations tabooed
+              3. Names of the Dead tabooed
+              4. Names of Kings and other Sacred Persons tabooed
+              5. Names of Gods tabooed
+
+Chapter  23. Our Debt to the Savage
+
+Chapter  24. The Killing of the Divine King
+              1. The Mortality of the Gods
+              2. Kings killed when their Strength fails
+              3. Kings killed at the End of a Fixed Term
+
+Chapter  25. Temporary Kings
+
+Chapter  26. Sacrifice of the Kings Son
+
+Chapter  27. Succession to the Soul
+
+Chapter  28. The Killing of the Tree-Spirit
+              1. The Whitsuntide Mummers
+              2. Burying the Carnival
+              3. Carrying out Death
+              4. Bringing in Summer
+              5. Battle of Summer and Winter
+              6. Death and Resurrection of Kostrubonko
+              7. Death and Revival of Vegetation
+              8. Analogous Rites in India
+              9. The Magic Spring
+
+Chapter  29. The Myth of Adonis
+
+Chapter  30. Adonis in Syria
+
+Chapter  31. Adonis in Cyprus
+
+Chapter  32. The Ritual of Adonis
+
+Chapter  33. The Gardens of Adonis
+
+Chapter  34. The Myth and Ritual of Attis
+
+Chapter  35. Attis as a God of Vegetation
+
+Chapter  36. Human Representatives of Attis
+
+Chapter  37. Oriental Religions in the West
+
+Chapter  38. The Myth of Osiris
+
+Chapter  39. The Ritual of Osiris
+              1. The Popular Rites
+              2. The Official Rites
+
+Chapter  40. The Nature of Osiris
+              1. Osiris a Corn-god
+              2. Osiris a Tree-spirit
+              3. Osiris a God of Fertility
+              4. Osiris a God of the Dead
+
+Chapter  41. Isis
+
+Chapter  42. Osiris and the Sun
+
+Chapter  43. Dionysus
+
+Chapter  44. Demeter and Persephone
+
+Chapter  45. Corn-Mother and Corn-Maiden in N. Europe
+
+Chapter  46. Corn-Mother in Many Lands
+              1. The Corn-mother in America
+              2. The Rice-mother in the East Indies
+              3. The Spirit of the Corn embodied in Human Beings
+              4. The Double Personification of the Corn as Mother and Daughter
+
+Chapter  47. Lityerses
+              1. Songs of the Corn Reapers
+              2. Killing the Corn-spirit
+              3. Human Sacrifices for the Crops
+              4. The Corn-spirit slain in his Human Representatives
+
+Chapter  48. The Corn-Spirit as an Animal
+              1. Animal Embodiments of the Corn-spirit
+              2. The Corn-spirit as a Wolf or a Dog
+              3. The Corn-spirit as a Cock
+              4. The Corn-spirit as a Hare
+              5. The Corn-spirit as a Cat
+              6. The Corn-spirit as a Goat
+              7. The Corn-spirit as a Bull, Cow, or Ox
+              8. The Corn-spirit  as a Horse or Mare
+              9. The Corn-spirit  as a Pig (Boar or Sow)
+              10. On the Animal Embodiments of the Corn-spirit
+
+Chapter  49. Ancient Deities of Vegetation as Animals
+              1. Dionysus, the Goat and the Bull
+              2. Demeter, the Pig and the Horse
+              3. Attis, Adonis, and the Pig
+              4. Osiris, the Pig and the Bull
+              5. Virbius and the Horse
+
+Chapter  50. Eating the God
+              1. The Sacrament of First-Fruits
+              2. Eating the God among the Aztecs
+              3. Many Manii at Aricia
+
+Chapter  51. Homeopathic Magic of a Flesh Diet
+
+Chapter  52. Killing the Divine Animal
+              1. Killing the Sacred Buzzard
+              2. Killing the Sacred Ram
+              3. Killing the Sacred Serpent
+              4. Killing the Sacred Turtles
+              5. Killing the Sacred Bear
+
+Chapter  53. The Propitiation of Wild Animals By Hunters
+
+Chapter  54. Types of Animal Sacrament
+              1. The Egyptian and the Aino Types of Sacrament
+              2. Processions with Sacred Animals
+
+Chapter  55. The Transference of Evil
+              1. The Transference to Inanimate Objects
+              2. The Transference to Animals
+              3. The Transference to Men
+              4. The Transference of Evil in Europe
+
+Chapter  56. The Public Expulsion of Evils
+              1. The Omnipresence of Demons
+              2. The Occasional Expulsion of Evils
+              3. The Periodic Expulsion of Evils
+
+Chapter  57. Public Scapegoats
+              1. The Expulsion of Embodied Evils
+              2. The Occasional Expulsion of Evils in a Material Vehicle
+              3. The Periodic Expulsion of Evils in a Material Vehicle
+              4. On Scapegoats in General
+
+Chapter  58. Human Scapegoats in Classical Antiquity
+              1. The Human Scapegoat in Ancient Rome
+              2. The Human Scapegoat in Ancient Greece
+              3. The Roman Saturnalia
+
+Chapter  59. Killing the God in Mexico
+
+Chapter  60. Between Heaven and Earth
+              1. Not to touch the Earth
+              2. Not to see the Sun
+              3. The Seclusion of Girls at Puberty
+              4. Reasons for the Seclusion of Girls at Puberty
+
+Chapter  61. The Myth of Balder
+
+Chapter  62. The Fire-Festivals of Europe
+              1. The Fire-festivals in general
+              2. The Lenten Fires
+              3. The Easter Fires
+              4. The Beltane Fires
+              5. The Midsummer Fires
+              6. The Halloween Fires
+              7. The Midwinter Fires
+              8. The Need-fire
+
+Chapter  63. The Interpretation of the Fire-Festivals
+              1. On the Fire-festivals in general
+              2. The Solar Theory of the Fire-festivals
+              3. The Purificatory Theory of the Fire-festivals
+
+Chapter  64. The Burning of Human Beings in the Fires
+              1. The Burning of Effigies in the Fires
+              2. The Burning of Men and Animals in the Fires
+
+Chapter  65. Balder and the Mistletoe
+
+Chapter  66. The External Soul in Folk-Tales
+
+Chapter  67. The External Soul in Folk-Custom
+              1. The External Soul in Inanimate Things
+              2. The External Soul in Plants
+              3. The External Soul in Animals
+              4. The Ritual of Death and Resurrection
+
+Chapter  68. The Golden Bough
+
+Chapter  69. Farewell to Nemi
+
+
+
+
+Preface
+
+THE PRIMARY aim of this book is to explain the remarkable rule which
+regulated the succession to the priesthood of Diana at Aricia. When
+I first set myself to solve the problem more than thirty years ago,
+I thought that the solution could be propounded very briefly, but I
+soon found that to render it probable or even intelligible it was
+necessary to discuss certain more general questions, some of which
+had hardly been broached before. In successive editions the
+discussion of these and kindred topics has occupied more and more
+space, the enquiry has branched out in more and more directions,
+until the two volumes of the original work have expanded into
+twelve. Meantime a wish has often been expressed that the book
+should be issued in a more compendious form. This abridgment is an
+attempt to meet the wish and thereby to bring the work within the
+range of a wider circle of readers. While the bulk of the book has
+been greatly reduced, I have endeavoured to retain its leading
+principles, together with an amount of evidence sufficient to
+illustrate them clearly. The language of the original has also for
+the most part been preserved, though here and there the exposition
+has been somewhat condensed. In order to keep as much of the text as
+possible I have sacrificed all the notes, and with them all exact
+references to my authorities. Readers who desire to ascertain the
+source of any particular statement must therefore consult the larger
+work, which is fully documented and provided with a complete
+bibliography.
+
+In the abridgment I have neither added new matter nor altered the
+views expressed in the last edition; for the evidence which has come
+to my knowledge in the meantime has on the whole served either to
+confirm my former conclusions or to furnish fresh illustrations of
+old principles. Thus, for example, on the crucial question of the
+practice of putting kings to death either at the end of a fixed
+period or whenever their health and strength began to fail, the body
+of evidence which points to the wide prevalence of such a custom has
+been considerably augmented in the interval. A striking instance of
+a limited monarchy of this sort is furnished by the powerful
+mediaeval kingdom of the Khazars in Southern Russia, where the kings
+were liable to be put to death either on the expiry of a set term or
+whenever some public calamity, such as drought, dearth, or defeat in
+war, seemed to indicate a failure of their natural powers. The
+evidence for the systematic killing of the Khazar kings, drawn from
+the accounts of old Arab travellers, has been collected by me
+elsewhere.[1] Africa, again, has supplied several fresh examples of
+a similar practice of regicide. Among them the most notable perhaps
+is the custom formerly observed in Bunyoro of choosing every year
+from a particular clan a mock king, who was supposed to incarnate
+the late king, cohabited with his widows at his temple-tomb, and
+after reigning for a week was strangled.[2] The custom presents a
+close parallel to the ancient Babylonian festival of the Sacaea, at
+which a mock king was dressed in the royal robes, allowed to enjoy
+the real king's concubines, and after reigning for five days was
+stripped, scourged, and put to death. That festival in its turn has
+lately received fresh light from certain Assyrian inscriptions,[3]
+which seem to confirm the interpretation which I formerly gave of
+the festival as a New Year celebration and the parent of the Jewish
+festival of Purim.[4] Other recently discovered parallels to the
+priestly kings of Aricia are African priests and kings who used to
+be put to death at the end of seven or of two years, after being
+liable in the interval to be attacked and killed by a strong man,
+who thereupon succeeded to the priesthood or the kingdom.[5]
+
+[1] J. G. Frazer, "The Killing of the Khazar Kings," _Folk-lore,_
+xxviii. (1917), pp. 382-407.
+
+[2] Rev. J. Roscoe, _The Soul of Central Africa_ (London, 1922), p.
+200. Compare J. G. Frazer, &147;The Mackie Ethnological Expedition
+to Central Africa," _Man,_ xx. (1920), p. 181.
+
+[3] H. Zimmern, _Zum babylonischen Neujahrsfest_ (Leipzig, 1918).
+Compare A. H. Sayce, in _Journal of the Royal Asiatic Society,_ July
+1921, pp. 440-442.
+
+[4] _The Golden Bough,_ Part VI. _The Scapegoat,_ pp. 354 _sqq.,_
+412 _sqq._
+
+[5] P. Amaury Talbot in _Journal of the African Society,_ July 1916,
+pp. 309 _sq.; id.,_ in _Folk-lore, xxvi._ (1916), pp. 79 _sq.;_ H.
+R. Palmer, in _Journal of the African Society,_ July 1912, pp. 403,
+407 _sq._
+
+With these and other instances of like customs before us it is no
+longer possible to regard the rule of succession to the priesthood
+of Diana at Aricia as exceptional; it clearly exemplifies a
+widespread institution, of which the most numerous and the most
+similar cases have thus far been found in Africa. How far the facts
+point to an early influence of Africa on Italy, or even to the
+existence of an African population in Southern Europe, I do not
+presume to say. The pre-historic historic relations between the two
+continents are still obscure and still under investigation.
+
+Whether the explanation which I have offered of the institution is
+correct or not must be left to the future to determine. I shall
+always be ready to abandon it if a better can be suggested. Meantime
+in committing the book in its new form to the judgment of the public
+I desire to guard against a misapprehension of its scope which
+appears to be still rife, though I have sought to correct it before
+now. If in the present work I have dwelt at some length on the
+worship of trees, it is not, I trust, because I exaggerate its
+importance in the history of religion, still less because I would
+deduce from it a whole system of mythology; it is simply because I
+could not ignore the subject in attempting to explain the
+significance of a priest who bore the title of King of the Wood, and
+one of whose titles to office was the plucking of a bough--the
+Golden Bough--from a tree in the sacred grove. But I am so far from
+regarding the reverence for trees as of supreme importance for the
+evolution of religion that I consider it to have been altogether
+subordinate to other factors, and in particular to the fear of the
+human dead, which, on the whole, I believe to have been probably the
+most powerful force in the making of primitive religion. I hope that
+after this explicit disclaimer I shall no longer be taxed with
+embracing a system of mythology which I look upon not merely as
+false but as preposterous and absurd. But I am too familiar with the
+hydra of error to expect that by lopping off one of the monster's
+heads I can prevent another, or even the same, from sprouting again.
+I can only trust to the candour and intelligence of my readers to
+rectify this serious misconception of my views by a comparison with
+my own express declaration.
+
+J. G. FRAZER.
+
+1 BRICK COURT, TEMPLE, LONDON,
+June 1922.
+
+
+
+I. The King of the Wood
+
+
+1. Diana and Virbius
+
+WHO does not know Turner's picture of the Golden Bough? The scene,
+suffused with the golden glow of imagination in which the divine
+mind of Turner steeped and transfigured even the fairest natural
+landscape, is a dream-like vision of the little woodland lake of
+Nemi-- "Diana's Mirror," as it was called by the ancients. No one
+who has seen that calm water, lapped in a green hollow of the Alban
+hills, can ever forget it. The two characteristic Italian villages
+which slumber on its banks, and the equally Italian palace whose
+terraced gardens descend steeply to the lake, hardly break the
+stillness and even the solitariness of the scene. Diana herself
+might still linger by this lonely shore, still haunt these woodlands
+wild.
+
+In antiquity this sylvan landscape was the scene of a strange and
+recurring tragedy. On the northern shore of the lake, right under
+the precipitous cliffs on which the modern village of Nemi is
+perched, stood the sacred grove and sanctuary of Diana Nemorensis,
+or Diana of the Wood. The lake and the grove were sometimes known as
+the lake and grove of Aricia. But the town of Aricia (the modern La
+Riccia) was situated about three miles off, at the foot of the Alban
+Mount, and separated by a steep descent from the lake, which lies in
+a small crater-like hollow on the mountain side. In this sacred
+grove there grew a certain tree round which at any time of the day,
+and probably far into the night, a grim figure might be seen to
+prowl. In his hand he carried a drawn sword, and he kept peering
+warily about him as if at every instant he expected to be set upon
+by an enemy. He was a priest and a murderer; and the man for whom he
+looked was sooner or later to murder him and hold the priesthood in
+his stead. Such was the rule of the sanctuary. A candidate for the
+priesthood could only succeed to office by slaying the priest, and
+having slain him, he retained office till he was himself slain by a
+stronger or a craftier.
+
+The post which he held by this precarious tenure carried with it the
+title of king; but surely no crowned head ever lay uneasier, or was
+visited by more evil dreams, than his. For year in, year out, in
+summer and winter, in fair weather and in foul, he had to keep his
+lonely watch, and whenever he snatched a troubled slumber it was at
+the peril of his life. The least relaxation of his vigilance, the
+smallest abatement of his strength of limb or skill of fence, put
+him in jeopardy; grey hairs might seal his death-warrant. To gentle
+and pious pilgrims at the shrine the sight of him might well seem to
+darken the fair landscape, as when a cloud suddenly blots the sun on
+a bright day. The dreamy blue of Italian skies, the dappled shade of
+summer woods, and the sparkle of waves in the sun, can have accorded
+but ill with that stern and sinister figure. Rather we picture to
+ourselves the scene as it may have been witnessed by a belated
+wayfarer on one of those wild autumn nights when the dead leaves are
+falling thick, and the winds seem to sing the dirge of the dying
+year. It is a sombre picture, set to melancholy music--the
+background of forest showing black and jagged against a lowering and
+stormy sky, the sighing of the wind in the branches, the rustle of
+the withered leaves under foot, the lapping of the cold water on the
+shore, and in the foreground, pacing to and fro, now in twilight and
+now in gloom, a dark figure with a glitter of steel at the shoulder
+whenever the pale moon, riding clear of the cloud-rack, peers down
+at him through the matted boughs.
+
+The strange rule of this priesthood has no parallel in classical
+antiquity, and cannot be explained from it. To find an explanation
+we must go farther afield. No one will probably deny that such a
+custom savours of a barbarous age, and, surviving into imperial
+times, stands out in striking isolation from the polished Italian
+society of the day, like a primaeval rock rising from a
+smooth-shaven lawn. It is the very rudeness and barbarity of the
+custom which allow us a hope of explaining it. For recent researches
+into the early history of man have revealed the essential similarity
+with which, under many superficial differences, the human mind has
+elaborated its first crude philosophy of life. Accordingly, if we
+can show that a barbarous custom, like that of the priesthood of
+Nemi, has existed elsewhere; if we can detect the motives which led
+to its institution; if we can prove that these motives have operated
+widely, perhaps universally, in human society, producing in varied
+circumstances a variety of institutions specifically different but
+generically alike; if we can show, lastly, that these very motives,
+with some of their derivative institutions, were actually at work in
+classical antiquity; then we may fairly infer that at a remoter age
+the same motives gave birth to the priesthood of Nemi. Such an
+inference, in default of direct evidence as to how the priesthood
+did actually arise, can never amount to demonstration. But it will
+be more or less probable according to the degree of completeness
+with which it fulfils the conditions I have indicated. The object of
+this book is, by meeting these conditions, to offer a fairly
+probable explanation of the priesthood of Nemi.
+
+I begin by setting forth the few facts and legends which have come
+down to us on the subject. According to one story the worship of
+Diana at Nemi was instituted by Orestes, who, after killing Thoas,
+King of the Tauric Chersonese (the Crimea), fled with his sister to
+Italy, bringing with him the image of the Tauric Diana hidden in a
+faggot of sticks. After his death his bones were transported from
+Aricia to Rome and buried in front of the temple of Saturn, on the
+Capitoline slope, beside the temple of Concord. The bloody ritual
+which legend ascribed to the Tauric Diana is familiar to classical
+readers; it is said that every stranger who landed on the shore was
+sacrificed on her altar. But transported to Italy, the rite assumed
+a milder form. Within the sanctuary at Nemi grew a certain tree of
+which no branch might be broken. Only a runaway slave was allowed to
+break off, if he could, one of its boughs. Success in the attempt
+entitled him to fight the priest in single combat, and if he slew
+him he reigned in his stead with the title of King of the Wood (_Rex
+Nemorensis_). According to the public opinion of the ancients the
+fateful branch was that Golden Bough which, at the Sibyl's bidding,
+Aeneas plucked before he essayed the perilous journey to the world
+of the dead. The flight of the slave represented, it was said, the
+flight of Orestes; his combat with the priest was a reminiscence of
+the human sacrifices once offered to the Tauric Diana. This rule of
+succession by the sword was observed down to imperial times; for
+amongst his other freaks Caligula, thinking that the priest of Nemi
+had held office too long, hired a more stalwart ruffian to slay him;
+and a Greek traveller, who visited Italy in the age of the
+Antonines, remarks that down to his time the priesthood was still
+the prize of victory in a single combat.
+
+Of the worship of Diana at Nemi some leading features can still be
+made out. From the votive offerings which have been found on the
+site, it appears that she was conceived of especially as a huntress,
+and further as blessing men and women with offspring, and granting
+expectant mothers an easy delivery. Again, fire seems to have played
+a foremost part in her ritual. For during her annual festival, held
+on the thirteenth of August, at the hottest time of the year, her
+grove shone with a multitude of torches, whose ruddy glare was
+reflected by the lake; and throughout the length and breadth of
+Italy the day was kept with holy rites at every domestic hearth.
+Bronze statuettes found in her precinct represent the goddess
+herself holding a torch in her raised right hand; and women whose
+prayers had been heard by her came crowned with wreaths and bearing
+lighted torches to the sanctuary in fulfilment of their vows. Some
+one unknown dedicated a perpetually burning lamp in a little shrine
+at Nemi for the safety of the Emperor Claudius and his family. The
+terra-cotta lamps which have been discovered in the grove may
+perhaps have served a like purpose for humbler persons. If so, the
+analogy of the custom to the Catholic practice of dedicating holy
+candles in churches would be obvious. Further, the title of Vesta
+borne by Diana at Nemi points clearly to the maintenance of a
+perpetual holy fire in her sanctuary. A large circular basement at
+the north-east corner of the temple, raised on three steps and
+bearing traces of a mosaic pavement, probably supported a round
+temple of Diana in her character of Vesta, like the round temple of
+Vesta in the Roman Forum. Here the sacred fire would seem to have
+been tended by Vestal Virgins, for the head of a Vestal in
+terra-cotta was found on the spot, and the worship of a perpetual
+fire, cared for by holy maidens, appears to have been common in
+Latium from the earliest to the latest times. Further, at the annual
+festival of the goddess, hunting dogs were crowned and wild beasts
+were not molested; young people went through a purificatory ceremony
+in her honour; wine was brought forth, and the feast consisted of a
+kid cakes served piping hot on plates of leaves, and apples still
+hanging in clusters on the boughs.
+
+But Diana did not reign alone in her grove at Nemi. Two lesser
+divinities shared her forest sanctuary. One was Egeria, the nymph of
+the clear water which, bubbling from the basaltic rocks, used to
+fall in graceful cascades into the lake at the place called Le Mole,
+because here were established the mills of the modern village of
+Nemi. The purling of the stream as it ran over the pebbles is
+mentioned by Ovid, who tells us that he had often drunk of its
+water. Women with child used to sacrifice to Egeria, because she was
+believed, like Diana, to be able to grant them an easy delivery.
+Tradition ran that the nymph had been the wife or mistress of the
+wise king Numa, that he had consorted with her in the secrecy of the
+sacred grove, and that the laws which he gave the Romans had been
+inspired by communion with her divinity. Plutarch compares the
+legend with other tales of the loves of goddesses for mortal men,
+such as the love of Cybele and the Moon for the fair youths Attis
+and Endymion. According to some, the trysting-place of the lovers
+was not in the woods of Nemi but in a grove outside the dripping
+Porta Capena at Rome, where another sacred spring of Egeria gushed
+from a dark cavern. Every day the Roman Vestals fetched water from
+this spring to wash the temple of Vesta, carrying it in earthenware
+pitchers on their heads. In Juvenal's time the natural rock had been
+encased in marble, and the hallowed spot was profaned by gangs of
+poor Jews, who were suffered to squat, like gypsies, in the grove.
+We may suppose that the spring which fell into the lake of Nemi was
+the true original Egeria, and that when the first settlers moved
+down from the Alban hills to the banks of the Tiber they brought the
+nymph with them and found a new home for her in a grove outside the
+gates. The remains of baths which have been discovered within the
+sacred precinct, together with many terra-cotta models of various
+parts of the human body, suggest that the waters of Egeria were used
+to heal the sick, who may have signified their hopes or testified
+their gratitude by dedicating likenesses of the diseased members to
+the goddess, in accordance with a custom which is still observed in
+many parts of Europe. To this day it would seem that the spring
+retains medicinal virtues.
+
+The other of the minor deities at Nemi was Virbius. Legend had it
+that Virbius was the young Greek hero Hippolytus, chaste and fair,
+who learned the art of venery from the centaur Chiron, and spent all
+his days in the greenwood chasing wild beasts with the virgin
+huntress Artemis (the Greek counterpart of Diana) for his only
+comrade. Proud of her divine society, he spurned the love of women,
+and this proved his bane. For Aphrodite, stung by his scorn,
+inspired his stepmother Phaedra with love of him; and when he
+disdained her wicked advances she falsely accused him to his father
+Theseus. The slander was believed, and Theseus prayed to his sire
+Poseidon to avenge the imagined wrong. So while Hippolytus drove in
+a chariot by the shore of the Saronic Gulf, the sea-god sent a
+fierce bull forth from the waves. The terrified horses bolted, threw
+Hippolytus from the chariot, and dragged him at their hoofs to
+death. But Diana, for the love she bore Hippolytus, persuaded the
+leech Aesculapius to bring her fair young hunter back to life by his
+simples. Jupiter, indignant that a mortal man should return from the
+gates of death, thrust down the meddling leech himself to Hades. But
+Diana hid her favourite from the angry god in a thick cloud,
+disguised his features by adding years to his life, and then bore
+him far away to the dells of Nemi, where she entrusted him to the
+nymph Egeria, to live there, unknown and solitary, under the name of
+Virbius, in the depth of the Italian forest. There he reigned a
+king, and there he dedicated a precinct to Diana. He had a comely
+son, Virbius, who, undaunted by his father's fate, drove a team of
+fiery steeds to join the Latins in the war against Aeneas and the
+Trojans. Virbius was worshipped as a god not only at Nemi but
+elsewhere; for in Campania we hear of a special priest devoted to
+his service. Horses were excluded from the Arician grove and
+sanctuary because horses had killed Hippolytus. It was unlawful to
+touch his image. Some thought that he was the sun. "But the truth
+is," says Servius, "that he is a deity associated with Diana, as
+Attis is associated with the Mother of the Gods, and Erichthonius
+with Minerva, and Adonis with Venus." What the nature of that
+association was we shall enquire presently. Here it is worth
+observing that in his long and chequered career this mythical
+personage has displayed a remarkable tenacity of life. For we can
+hardly doubt that the Saint Hippolytus of the Roman calendar, who
+was dragged by horses to death on the thirteenth of August, Diana's
+own day, is no other than the Greek hero of the same name, who,
+after dying twice over as a heathen sinner, has been happily
+resuscitated as a Christian saint.
+
+It needs no elaborate demonstration to convince us that the stories
+told to account for Diana's worship at Nemi are unhistorical.
+Clearly they belong to that large class of myths which are made up
+to explain the origin of a religious ritual and have no other
+foundation than the resemblance, real or imaginary, which may be
+traced between it and some foreign ritual. The incongruity of these
+Nemi myths is indeed transparent, since the foundation of the
+worship is traced now to Orestes and now to Hippolytus, according as
+this or that feature of the ritual has to be accounted for. The real
+value of such tales is that they serve to illustrate the nature of
+the worship by providing a standard with which to compare it; and
+further, that they bear witness indirectly to its venerable age by
+showing that the true origin was lost in the mists of a fabulous
+antiquity. In the latter respect these Nemi legends are probably
+more to be trusted than the apparently historical tradition, vouched
+for by Cato the Elder, that the sacred grove was dedicated to Diana
+by a certain Egerius Baebius or Laevius of Tusculum, a Latin
+dictator, on behalf of the peoples of Tusculum, Aricia, Lanuvium,
+Laurentum, Cora, Tibur, Pometia, and Ardea. This tradition indeed
+speaks for the great age of the sanctuary, since it seems to date
+its foundation sometime before 495 B.C., the year in which Pometia
+was sacked by the Romans and disappears from history. But we cannot
+suppose that so barbarous a rule as that of the Arician priesthood
+was deliberately instituted by a league of civilised communities,
+such as the Latin cities undoubtedly were. It must have been handed
+down from a time beyond the memory of man, when Italy was still in a
+far ruder state than any known to us in the historical period. The
+credit of the tradition is rather shaken than confirmed by another
+story which ascribes the foundation of the sanctuary to a certain
+Manius Egerius, who gave rise to the saying, "There are many Manii
+at Aricia." This proverb some explained by alleging that Manius
+Egerius was the ancestor of a long and distinguished line, whereas
+others thought it meant that there were many ugly and deformed
+people at Aricia, and they derived the name Manius from _Mania,_ a
+bogey or bugbear to frighten children. A Roman satirist uses the
+name Manius as typical of the beggars who lay in wait for pilgrims
+on the Arician slopes. These differences of opinion, together with
+the discrepancy between Manius Egerius of Aricia and Egerius Laevius
+of Tusculum, as well as the resemblance of both names to the
+mythical Egeria, excite our suspicion. Yet the tradition recorded by
+Cato seems too circumstantial, and its sponsor too respectable, to
+allow us to dismiss it as an idle fiction. Rather we may suppose
+that it refers to some ancient restoration or reconstruction of the
+sanctuary, which was actually carried out by the confederate states.
+At any rate it testifies to a belief that the grove had been from
+early times a common place of worship for many of the oldest cities
+of the country, if not for the whole Latin confederacy.
+
+
+
+2. Artemis and Hippolytus
+
+I HAVE said that the Arician legends of Orestes and Hippolytus,
+though worthless as history, have a certain value in so far as they
+may help us to understand the worship at Nemi better by comparing it
+with the ritual and myths of other sanctuaries. We must ask
+ourselves, Why did the author of these legends pitch upon Orestes
+and Hippolytus in order to explain Virbius and the King of the Wood?
+In regard to Orestes, the answer is obvious. He and the image of the
+Tauric Diana, which could only be appeased with human blood, were
+dragged in to render intelligible the murderous rule of succession
+to the Arician priesthood. In regard to Hippolytus the case is not
+so plain. The manner of his death suggests readily enough a reason
+for the exclusion of horses from the grove; but this by itself seems
+hardly enough to account for the identification. We must try to
+probe deeper by examining the worship as well as the legend or myth
+of Hippolytus.
+
+He had a famous sanctuary at his ancestral home of Troezen, situated
+on that beautiful, almost landlocked bay, where groves of oranges
+and lemons, with tall cypresses soaring like dark spires above the
+garden of Hesperides, now clothe the strip of fertile shore at the
+foot of the rugged mountains. Across the blue water of the tranquil
+bay, which it shelters from the open sea, rises Poseidon's sacred
+island, its peaks veiled in the sombre green of the pines. On this
+fair coast Hippolytus was worshipped. Within his sanctuary stood a
+temple with an ancient image. His service was performed by a priest
+who held office for life; every year a sacrificial festival was held
+in his honour; and his untimely fate was yearly mourned, with
+weeping and doleful chants, by unwedded maids. Youths and maidens
+dedicated locks of their hair in his temple before marriage. His
+grave existed at Troezen, though the people would not show it. It
+has been suggested, with great plausibility, that in the handsome
+Hippolytus, beloved of Artemis, cut off in his youthful prime, and
+yearly mourned by damsels, we have one of those mortal lovers of a
+goddess who appear so often in ancient religion, and of whom Adonis
+is the most familiar type. The rivalry of Artemis and Phaedra for
+the affection of Hippolytus reproduces, it is said, under different
+names, the rivalry of Aphrodite and Proserpine for the love of
+Adonis, for Phaedra is merely a double of Aphrodite. The theory
+probably does no injustice either to Hippolytus or to Artemis. For
+Artemis was originally a great goddess of fertility, and, on the
+principles of early religion, she who fertilises nature must herself
+be fertile, and to be that she must necessarily have a male consort.
+On this view, Hippolytus was the consort of Artemis at Troezen, and
+the shorn tresses offered to him by the Troezenian youths and
+maidens before marriage were designed to strengthen his union with
+the goddess, and so to promote the fruitfulness of the earth, of
+cattle, and of mankind. It is some confirmation of this view that
+within the precinct of Hippolytus at Troezen there were worshipped
+two female powers named Damia and Auxesia, whose connexion with the
+fertility of the ground is unquestionable. When Epidaurus suffered
+from a dearth, the people, in obedience to an oracle, carved images
+of Damia and Auxesia out of sacred olive wood, and no sooner had
+they done so and set them up than the earth bore fruit again.
+Moreover, at Troezen itself, and apparently within the precinct of
+Hippolytus, a curious festival of stone-throwing was held in honour
+of these maidens, as the Troezenians called them; and it is easy to
+show that similar customs have been practised in many lands for the
+express purpose of ensuring good crops. In the story of the tragic
+death of the youthful Hippolytus we may discern an analogy with
+similar tales of other fair but mortal youths who paid with their
+lives for the brief rapture of the love of an immortal goddess.
+These hapless lovers were probably not always mere myths, and the
+legends which traced their spilt blood in the purple bloom of the
+violet, the scarlet stain of the anemone, or the crimson flush of
+the rose were no idle poetic emblems of youth and beauty fleeting as
+the summer flowers. Such fables contain a deeper philosophy of the
+relation of the life of man to the life of nature--a sad philosophy
+which gave birth to a tragic practice. What that philosophy and that
+practice were, we shall learn later on.
+
+
+
+3. Recapitulation
+
+WE can now perhaps understand why the ancients identified
+Hippolytus, the consort of Artemis, with Virbius, who, according to
+Servius, stood to Diana as Adonis to Venus, or Attis to the Mother
+of the Gods. For Diana, like Artemis, was a goddess of fertility in
+general, and of childbirth in particular. As such she, like her
+Greek counterpart, needed a male partner. That partner, if Servius
+is right, was Virbius. In his character of the founder of the sacred
+grove and first king of Nemi, Virbius is clearly the mythical
+predecessor or archetype of the line of priests who served Diana
+under the title of Kings of the Wood, and who came, like him, one
+after the other, to a violent end. It is natural, therefore, to
+conjecture that they stood to the goddess of the grove in the same
+relation in which Virbius stood to her; in short, that the mortal
+King of the Wood had for his queen the woodland Diana herself. If
+the sacred tree which he guarded with his life was supposed, as
+seems probable, to be her special embodiment, her priest may not
+only have worshipped it as his goddess but embraced it as his wife.
+There is at least nothing absurd in the supposition, since even in
+the time of Pliny a noble Roman used thus to treat a beautiful
+beech-tree in another sacred grove of Diana on the Alban hills. He
+embraced it, he kissed it, he lay under its shadow, he poured wine
+on its trunk. Apparently he took the tree for the goddess. The
+custom of physically marrying men and women to trees is still
+practised in India and other parts of the East. Why should it not
+have obtained in ancient Latium?
+
+Reviewing the evidence as a whole, we may conclude that the worship
+of Diana in her sacred grove at Nemi was of great importance and
+immemorial antiquity; that she was revered as the goddess of
+woodlands and of wild creatures, probably also of domestic cattle
+and of the fruits of the earth; that she was believed to bless men
+and women with offspring and to aid mothers in childbed; that her
+holy fire, tended by chaste virgins, burned perpetually in a round
+temple within the precinct; that associated with her was a
+water-nymph Egeria who discharged one of Diana's own functions by
+succouring women in travail, and who was popularly supposed to have
+mated with an old Roman king in the sacred grove; further, that
+Diana of the Wood herself had a male companion Virbius by name, who
+was to her what Adonis was to Venus, or Attis to Cybele; and,
+lastly, that this mythical Virbius was represented in historical
+times by a line of priests known as Kings of the Wood, who regularly
+perished by the swords of their successors, and whose lives were in
+a manner bound up with a certain tree in the grove, because so long
+as that tree was uninjured they were safe from attack.
+
+Clearly these conclusions do not of themselves suffice to explain
+the peculiar rule of succession to the priesthood. But perhaps the
+survey of a wider field may lead us to think that they contain in
+germ the solution of the problem. To that wider survey we must now
+address ourselves. It will be long and laborious, but may possess
+something of the interest and charm of a voyage of discovery, in
+which we shall visit many strange foreign lands, with strange
+foreign peoples, and still stranger customs. The wind is in the
+shrouds: we shake out our sails to it, and leave the coast of Italy
+behind us for a time.
+
+
+
+
+II. Priestly Kings
+
+THE questions which we have set ourselves to answer are mainly two:
+first, why had Diana's priest at Nemi, the King of the Wood, to slay
+his predecessor? second, why before doing so had he to pluck the
+branch of a certain tree which the public opinion of the ancients
+identified with Virgil's Golden Bough?
+
+The first point on which we fasten is the priest's title. Why was he
+called the King of the Wood? Why was his office spoken of as a
+kingdom?
+
+The union of a royal title with priestly duties was common in
+ancient Italy and Greece. At Rome and in other cities of Latium
+there was a priest called the Sacrificial King or King of the Sacred
+Rites, and his wife bore the title of Queen of the Sacred Rites. In
+republican Athens the second annual magistrate of the state was
+called the King, and his wife the Queen; the functions of both were
+religious. Many other Greek democracies had titular kings, whose
+duties, so far as they are known, seem to have been priestly, and to
+have centered round the Common Hearth of the state. Some Greek
+states had several of these titular kings, who held office
+simultaneously. At Rome the tradition was that the Sacrificial King
+had been appointed after the abolition of the monarchy in order to
+offer the sacrifices which before had been offered by the kings. A
+similar view as to the origin of the priestly kings appears to have
+prevailed in Greece. In itself the opinion is not improbable, and it
+is borne out by the example of Sparta, almost the only purely Greek
+state which retained the kingly form of government in historical
+times. For in Sparta all state sacrifices were offered by the kings
+as descendants of the god. One of the two Spartan kings held the
+priesthood of Zeus Lacedaemon, the other the priesthood of Heavenly
+Zeus.
+
+This combination of priestly functions with royal authority is
+familiar to every one. Asia Minor, for example, was the seat of
+various great religious capitals peopled by thousands of sacred
+slaves, and ruled by pontiffs who wielded at once temporal and
+spiritual authority, like the popes of mediaeval Rome. Such
+priest-ridden cities were Zela and Pessinus. Teutonic kings, again,
+in the old heathen days seem to have stood in the position, and to
+have exercised the powers, of high priests. The Emperors of China
+offered public sacrifices, the details of which were regulated by
+the ritual books. The King of Madagascar was high-priest of the
+realm. At the great festival of the new year, when a bullock was
+sacrificed for the good of the kingdom, the king stood over the
+sacrifice to offer prayer and thanksgiving, while his attendants
+slaughtered the animal. In the monarchical states which still
+maintain their independence among the Gallas of Eastern Africa, the
+king sacrifices on the mountain tops and regulates the immolation of
+human victims; and the dim light of tradition reveals a similar
+union of temporal and spiritual power, of royal and priestly duties,
+in the kings of that delightful region of Central America whose
+ancient capital, now buried under the rank growth of the tropical
+forest, is marked by the stately and mysterious ruins of Palenque.
+
+When we have said that the ancient kings were commonly priests also,
+we are far from having exhausted the religious aspect of their
+office. In those days the divinity that hedges a king was no empty
+form of speech, but the expression of a sober belief. Kings were
+revered, in many cases not merely as priests, that is, as
+intercessors between man and god, but as themselves gods, able to
+bestow upon their subjects and worshippers those blessings which are
+commonly supposed to be beyond the reach of mortals, and are sought,
+if at all, only by prayer and sacrifice offered to superhuman and
+invisible beings. Thus kings are often expected to give rain and
+sunshine in due season, to make the crops grow, and so on. Strange
+as this expectation appears to us, it is quite of a piece with early
+modes of thought. A savage hardly conceives the distinction commonly
+drawn by more advanced peoples between the natural and the
+supernatural. To him the world is to a great extent worked by
+supernatural agents, that is, by personal beings acting on impulses
+and motives like his own, liable like him to be moved by appeals to
+their pity, their hopes, and their fears. In a world so conceived he
+sees no limit to his power of influencing the course of nature to
+his own advantage. Prayers, promises, or threats may secure him fine
+weather and an abundant crop from the gods; and if a god should
+happen, as he sometimes believes, to become incarnate in his own
+person, then he need appeal to no higher being; he, the savage,
+possesses in himself all the powers necessary to further his own
+well-being and that of his fellow-men.
+
+This is one way in which the idea of a man-god is reached. But there
+is another. Along with the view of the world as pervaded by
+spiritual forces, savage man has a different, and probably still
+older, conception in which we may detect a germ of the modern notion
+of natural law or the view of nature as a series of events occurring
+in an invariable order without the intervention of personal agency.
+The germ of which I speak is involved in that sympathetic magic, as
+it may be called, which plays a large part in most systems of
+superstition. In early society the king is frequently a magician as
+well as a priest; indeed he appears to have often attained to power
+by virtue of his supposed proficiency in the black or white art.
+Hence in order to understand the evolution of the kingship and the
+sacred character with which the office has commonly been invested in
+the eyes of savage or barbarous peoples, it is essential to have
+some acquaintance with the principles of magic and to form some
+conception of the extraordinary hold which that ancient system of
+superstition has had on the human mind in all ages and all
+countries. Accordingly I propose to consider the subject in some
+detail.
+
+
+
+III. Sympathetic Magic
+
+
+1. The Principles of Magic
+
+IF we analyse the principles of thought on which magic is based,
+they will probably be found to resolve themselves into two: first,
+that like produces like, or that an effect resembles its cause;
+and, second, that things which have once been in contact with each
+other continue to act on each other at a distance after the
+physical contact has been severed. The former principle may be
+called the Law of Similarity, the latter the Law of Contact or
+Contagion. From the first of these principles, namely the Law of
+Similarity, the magician infers that he can produce any effect he
+desires merely by imitating it: from the second he infers that
+whatever he does to a material object will affect equally the
+person with whom the object was once in contact, whether it formed
+part of his body or not. Charms based on the Law of Similarity may
+be called Homoeopathic or Imitative Magic. Charms based on the Law
+of Contact or Contagion may be called Contagious Magic. To denote
+the first of these branches of magic the term Homoeopathic is
+perhaps preferable, for the alternative term Imitative or Mimetic
+suggests, if it does not imply, a conscious agent who imitates,
+thereby limiting the scope of magic too narrowly. For the same
+principles which the magician applies in the practice of his art
+are implicitly believed by him to regulate the operations of
+inanimate nature; in other words, he tacitly assumes that the Laws
+of Similarity and Contact are of universal application and are not
+limited to human actions. In short, magic is a spurious system of
+natural law as well as a fallacious guide of conduct; it is a false
+science as well as an abortive art. Regarded as a system of natural
+law, that is, as a statement of the rules which determine the
+sequence of events throughout the world, it may be called
+Theoretical Magic: regarded as a set of precepts which human beings
+observe in order to compass their ends, it may be called Practical
+Magic. At the same time it is to be borne in mind that the
+primitive magician knows magic only on its practical side; he never
+analyses the mental processes on which his practice is based, never
+reflects on the abstract principles involved in his actions. With
+him, as with the vast majority of men, logic is implicit, not
+explicit: he reasons just as he digests his food in complete
+ignorance of the intellectual and physiological processes which are
+essential to the one operation and to the other. In short, to him
+magic is always an art, never a science; the very idea of science
+is lacking in his undeveloped mind. It is for the philosophic
+student to trace the train of thought which underlies the
+magician's practice; to draw out the few simple threads of
+whic

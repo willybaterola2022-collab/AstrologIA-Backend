@@ -1,0 +1,1079 @@
+# Clavicula Salomonis
+Author: S.L. MacGregor Mathers
+Category: 03_kabbalah
+Source: Gutenberg #46977
+Downloaded: 2026-03-08T14:19:12.094256
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+E-text prepared by Chris Curnow, David M, and the Online Distributed
+Proofreading Team (http://www.pgdp.net) from page images generously made
+available by (Internet Archive (https://archive.org)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustrations.
+      See 46977-h.htm or 46977-h.zip:
+      (http://www.gutenberg.org/files/46977/46977-h/46977-h.htm)
+      or
+      (http://www.gutenberg.org/files/46977/46977-h.zip)
+
+
+      Images of the original pages are available through
+      Internet Archive. See
+      https://archive.org/details/rationalwagessys00atkirich
+
+
+
+
+
+A RATIONAL WAGES SYSTEM
+
+Some Notes on the Method of Paying the Worker a Reward
+for Efficiency in Addition to Wages
+
+by
+
+HENRY ATKINSON
+
+Member of the Institution of Mechanical Engineers:
+Engineer Expert to the Mixed Tribunal, Cairo
+
+
+
+
+
+
+
+
+London
+G. Bell and Sons, Ltd.
+1917
+
+
+
+
+                                PREFACE
+
+
+The question of scientific management, or the replacement of guesswork
+by a common-sense study of the principles in economical and efficient
+production, has not received the consideration it deserves in this
+country; but one effect of the war has been to show the possibilities
+of increasing production by a scientific study of factory methods.
+
+I believe that a much greater amount of interest will be taken in
+the subject in future, and the fact that co-operation between the
+management and the workers is the first essential to success cannot be
+too strongly emphasised.
+
+From my own personal experience of its installation in England, I
+can only say that, when approached broad-mindedly by both sides, the
+workers have nothing to fear and, indeed, everything to gain by it.
+
+This description by Mr. Atkinson should prove very useful in bringing
+the principles of one branch of scientific management, that branch
+which most nearly affects the workers, to the notice of all concerned
+in efficiency methods, and it is to be hoped that it will prepare the
+way for a better understanding between employer and worker.
+
+                                           H. W. ALLINGHAM, M.I.MECH.E.
+
+
+
+
+                             INTRODUCTORY
+
+
+It is universally admitted that the war will bring about great changes
+in industry. The readjustment of financial affairs, the greatly
+increased taxation, the displacement of labour due to the employment
+of men now at the front, the dilution of labour by the employment
+of women, the development of new industries and the modification of
+present ones in order to meet new markets, changes in the old methods
+of manufacturing and trading, will all add to the difficulties of the
+situation.
+
+Some of the greatest of these difficulties will be in connection with
+Labour, and the trade-unions will be faced with problems the solution
+of which will tax their ingenuity and statecraft to the utmost.
+
+Already one predominant assertion is being made, and will be made
+with greater insistence when the war is over--namely, that it will be
+necessary to make wealth as quickly as possible in order to make good
+the disastrous losses incurred by the war, and that this can only be
+done by increased production with low labour costs.
+
+This haste to make wealth will induce many employers to endeavour to
+retain war conditions when there is no longer any need for them. They
+will try to "dilute" Labour permanently by employing women; they will
+endeavour to lower permanently the age at which children may leave
+school; they will lower wages where possible; and they will refuse to
+carry out their promises to reinstate the men who volunteered at the
+beginning of the war.
+
+Everything, indeed, points to a renewal of the old wage war with all
+its absurdities, tyrannies, and slanders, its starvation and misery,
+its strikes and lockouts, its waste and blundering. Anything that _can_
+be done to avoid or to ameliorate this state of things _should_ be
+done; and if it can be shown that a method exists for keeping up wages
+while at the same time lowering the labour costs, serious attention
+should be given to it, and its advantages and defects should be
+carefully studied.
+
+Low wages are not the same thing as low labour costs, for a greater
+production with low labour costs may be obtained by paying high rather
+than low wages if proper management and organisation be exercised.
+The Reward System described herein is part of a method (that part
+which affects the worker) whereby this result has been obtained. It is
+based on paying the worker for efficient workmanship, and during the
+past twenty years it has been adopted in a large number of American
+factories and in a few (a very few) British ones. It has such a sound
+basis that it should meet with the favour of both worker and employer,
+and the writer is of opinion that some of the more serious difficulties
+between Capital and Labour may be solved by its adoption.
+
+Many papers have been read on the subject in America, and some books
+have been written about it; but, so far as the writer knows, no simple
+description has been attempted, and certainly none that appeals to the
+person chiefly concerned, the worker himself.
+
+The subject may be considered from the point of view of the nation,
+the employer, the trade-union, or the worker. The following is an
+attempt to show the worker how it affects him and how he benefits by it.
+
+
+
+
+                               CONTENTS
+
+
+                                                             PAGE
+
+PREFACE                                                         v
+
+INTRODUCTORY                                                  vii
+
+
+                                PART I
+
+                          GENERAL PRINCIPLES
+
+CHAPTER
+
+  I. DIFFERENT METHODS OF PAYMENT OF WAGES                      1
+
+     (_a_) Day Work                                             2
+
+     (_b_) Piece Work                                           6
+
+     (_c_) Profit Sharing                                       8
+
+     (_d_) Co-partnership                                      11
+
+     (_e_) Co-operation                                        13
+
+     (_f_) Bonus Systems                                       15
+
+     (_g_) The Reward System                                   16
+
+
+ II. WAGES AND EFFICIENCY REWARD                               18
+
+     (_a_) The Reward System                                   18
+
+     (_b_) The Basis of Reward Payment                         24
+
+     (_c_) Special Reward for High Efficiency                  30
+
+     (_d_) The Classification of Work                          31
+
+     (_e_) Reward derived from Increased Production            32
+
+     (_f_) Safeguards                                          33
+
+     (_g_) Attention to Service Details                        35
+
+     (_h_) Loss of Skill due to the Reward System              40
+
+
+III. WAGES AND PROGRESS                                        43
+
+     (_a_) Antagonism between Employer and Worker              43
+
+     (_b_) Trade-Unions and the Reward System                  45
+
+     (_c_) Scientific Management and the Reward System         47
+
+     (_d_) The Future of Labour                                50
+
+     (_e_) The Actual and the Ideal                            56
+
+
+                                PART II
+
+                 AN APPLICATION OF THE PRINCIPLES TO A
+                            PARTICULAR CASE
+
+
+ IV. WORK AND REWARD                                           67
+
+     (_a_) Routing the Work                                    68
+
+     (_b_) The Time Study                                      70
+
+     (_c_) Fixing Standard Time                                73
+
+     (_d_) The Instruction Card                                79
+
+     (_e_) Spoiled Work                                        79
+
+     (_f_) Allowances                                          81
+
+     (_g_) Efficiency Calculation                              83
+
+
+                               PART III
+
+                    EXPLANATION OF DIAGRAMS SHOWING
+                  DIFFERENT METHODS OF REWARD PAYMENT
+
+
+  V. REWARD AND EFFICIENCY                                     86
+
+     (_a_) Reward System No. 1                                 90
+
+     (_b_) Reward System No. 2                                 92
+
+     (_c_) Reward System No. 3                                 94
+
+     (_d_) Reward System No. 4                                 96
+
+     (_e_) The Taylor System                                   98
+
+     (_f_) The Gantt System                                   100
+
+     (_g_) The Emerson System                                 102
+
+     (_h_) The Rowan System                                   104
+
+     (_i_) Day Rate                                           107
+
+     (_j_) Piece Work                                         107
+
+     (_k_) The Ford System                                    109
+
+Appendix: A FLOATING WAGE RATE                                111
+
+
+
+
+                           A RATIONAL WAGES
+                                SYSTEM
+
+
+
+
+                                PART I
+
+                          GENERAL PRINCIPLES
+
+
+
+
+                               CHAPTER I
+
+                     DIFFERENT METHODS OF PAYMENT
+                               OF WAGES
+
+
+The war has brought the question of efficiency and efficiency methods
+to the front very prominently, and there is a consensus of opinion that
+it will be necessary to adopt them very widely if we are to retain our
+present commercial and national position in the world.
+
+The object of such methods is to obtain increased production. It is
+well known that the worker can produce far more than he does, but from
+his point of view there is no particular reason why he should attempt
+to do so under ordinary working conditions.
+
+The circumstances are altered entirely if increased production results
+in higher wages with better conditions of work, and if the worker does
+not get too tired or suffer any injury to his health in the process.
+
+The Reward System described herein satisfies these conditions, but
+before giving the description it will be well to examine briefly the
+existing methods of wage payment and point out their advantages and
+disadvantages.
+
+
+(_a_) DAY WORK.
+
+This is the commonest method of wage payment in the United Kingdom at
+the present time.
+
+For every hour worked, the worker gets so many pence--10d., 11d., 1s.
+an hour, or whatever it may be. As wages are paid weekly, it is usual
+to reckon them at so many shillings per week.
+
+In any factory, nearly all the men who work at the same kind and class
+of labour get approximately the same wage. In union shops they do all
+get exactly the same wage.
+
+Before the days of the trade-unions each man was paid according to his
+skill, as nearly as possible; a good workman received more wages than a
+poor one. But the trade-unions have stopped that as far as they can. In
+any one trade all workers, good, bad, and indifferent, are now paid the
+same wages.
+
+The day work system, although in a great many cases it cannot be
+avoided, is extremely unsatisfactory.
+
+On the one hand, the employer endeavours to get all he can out of the
+worker while paying him the least possible wages. Speaking generally,
+the employer looks upon the worker as a necessary evil, and treats him
+accordingly. The worker must produce as much as possible and receive
+as low wages as possible. No consideration is given to the question of
+what wages will buy.
+
+On the other hand, the worker retaliates by doing just as much work as
+will enable him to keep his job, and no more. Many workers spend as
+much energy and time in avoiding work as they do in executing it, and
+it is absolutely necessary for the employer to have a foreman hustling
+round all the time to see that a reasonable amount of work is done.
+
+In order to equalise the conditions for all workers, the unions
+have fixed a standard rate of wages for all men working at any one
+particular trade. This means that both good and bad workers receive the
+same rate of pay.
+
+Such an arrangement is quite unfair both to the good worker and to the
+employer, and it gives the employer a very sound reason for opposing
+the unions on all possible occasions.
+
+But it is worse for the good worker than for the employer, because it
+affects him in several ways. When two workers are at work side by side,
+one a good worker and the other a slacker, it is galling for the good
+man to know that the slacker gets the same wages as himself. It tends
+to make the good man indifferent to his work, and it needs a good deal
+of moral courage and great force of character for a man to keep on
+doing his best under such circumstances, especially when one remembers
+the great excess of slackers over good men, and how easy it is to find
+a good excuse for slacking.
+
+The extraordinary thing is that a man's union compels him to slack
+even if he has no desire to do so. His fellow-unionists keep a watchful
+eye on a good man, and if he is producing more than a certain quantity
+he is told to ease up. There is no possible excuse for this attitude,
+and it has done more to discredit the unions than any other thing. It
+saps the good worker's morality, and reduces the whole ethics of Labour
+and wage payment to the lowest possible standard.
+
+Apart from the question of antagonism between the employer and the
+worker, there is one factor missing, a factor that is all-important
+even in the best type of day work and under the best conditions. It is
+that the best method of doing the work is never known.
+
+One man has one idea, another man has another; one man has his own
+method, another man has a different method; one man has a certain knack
+of using the special tools required for a particular job, another man
+has only a general knowledge of their use; one man has done the job
+many times and knows the short-cuts, another man is new to the job
+and goes slowly; one man tackles the job haphazard, another spends
+time in considering the best way of doing it; one man believes that
+one form of tool is the best for certain metals, another man believes
+in a different form; one man thinks a job should be done in this way,
+another man thinks it should be done that way; one shop practice is to
+do a job in such a manner and on such machines, another shop will do it
+in a different way on a different type of machine.
+
+And so it goes on....
+
+All the time the foreman is hovering around, urging the men, praising
+one man for his speed in order to get him to work quickly all the time,
+but more generally bullying the slow man into working a bit faster. And
+he settles all matters in an arbitrary manner, which means the job must
+be done his way, right or wrong!
+
+It cannot be helped. When a worker starts a job, he does not know just
+what speed his machine must run at for that job. True, experience is a
+good guide, but it means trying a speed before he can be certain. And
+trying a speed means a certain amount of care and watchfulness; then
+it probably means making adjustments of speed and tool. This means
+stoppages, readjustments, retrials, and an all-round loss of time and
+efficiency.
+
+Now, is the man a better workman for all this? If it proved eventually
+that all men became of the same opinion as regards speeds, forms of
+tools, and methods of working, and if all men became highly efficient,
+one could at least say that the result justified the method, in spite
+of the enormous waste of time and talk and temper. But, as a matter of
+fact, one rarely gets two workmen of the same opinion or of the same
+proficiency, and a man never turns out as much work as he is capable of.
+
+Added to all this is the deadening monotony of the daily round of toil
+with no variation, no release from the fixed hours, no inducement to
+do one's best, no chance of getting any extra pay unless by occasional
+overtime.
+
+Theoretically, day work is the fairest method, because if a man does
+his best he ought to get the same wages as any other man, no matter
+what his production may be; but in practice this is impossible, hence
+one is driven to the conclusion that day work, as it is practised at
+present, stands condemned, and ought to be limited to such jobs and
+working conditions where it is impossible to apply other methods.
+
+
+(_b_) PIECE WORK.
+
+Piece work has one great advantage over day work--namely, the worker is
+paid in exact proportion to his production.
+
+But that is the only advantage. If work could be correctly priced
+according to the amount which a conscientious average man could do,
+and that price always held good, piece work would have the additional
+advantages that both worker and employer would know the conditions were
+fair, and the worker would work diligently and be paid proportionally
+to his skill and production.
+
+Under ordinary piece work conditions, however, such an arrangement is
+impossible, and the objections to piece work are, if anything, greater
+than the objections to day work, because of the necessary dishonesty on
+the part of both worker and employer.
+
+The average employer will not believe what an enormous difference
+there is in the quantity of work which different men are capable of
+producing. He is under the impression that, within small limits, any
+man can produce the same amount of work as any other man in a given
+time. This is entirely wrong. Investigations have proved that some good
+men can produce three times as much as an average man, the quality of
+work being quite as good.
+
+Applying this fact to piece work, one sees at once how serious
+differences may arise. A job is priced at, say, 1s. An average man
+whose rate is 40s. a week will earn about 50s. a week on that job by
+diligent work. Then a really first-class man comes along and earns 80s.
+What follows? "If Smith can earn 80s., it is evident that the price
+is too high and the other workers are slacking!" That is the natural
+argument of the employer, and down comes the rate.
+
+Cutting rates is one of the most frequent sources of trouble on piece
+work, but it cannot be avoided. The worker knows that the rates will
+be cut, and therefore two methods of defence are open to him: First,
+he always works slowly on a job until it has been priced. In this way
+a good price is obtained, a price which enables the slowest worker to
+earn his wages--and a bit above--easily. Second, the worker takes care
+not to earn too much. It is arranged between the men how much each
+ought to take on a certain job, and the arrangement made is carried
+out. This is, of course, dishonest, but it is necessary.
+
+For suppose a good worker comes on the job and does his best, the
+price comes down to everybody, and the average man cannot earn his
+wages. The good man is therefore compelled to be dishonest to his
+employer or unfair to his fellow-worker. And, again, in piece work
+all prices are arbitrary. Even if one shop gives a reasonable price,
+other shops in the same line of business find it out, and put on a
+lower price in order to reduce works costs and thereby lower prices to
+customers, which means snatching the trade from the good shop.
+
+Thus, the circumstances of the old-fashioned piece work method and
+the dishonesty of both parties to it lead to misunderstandings and
+dissatisfaction.
+
+
+(_c_) PROFIT SHARING.
+
+There are various methods of increasing earnings by profit sharing. The
+employer, from motives which may be good or bad from the standpoint of
+the worker, desires to present the worker with a certain proportion of
+the net profit.
+
+In some cases the motive is entirely for the worker's good; in others
+it is for the purpose of getting the worker to stay with the firm, and
+to make his interest so large that he dare not be independent in case
+he should lose his profit. This means that the employer is no longer
+troubled with strikes and labour disturbances.
+
+However, it is the effects that concern us here, and not the motives.
+
+Under profit sharing the profit is paid out or credited to the worker
+every six or twelve months, and one must be employed for a certain
+length of time before one comes under the scheme. So that it holds
+out little incentive to efficiency until the worker has been with the
+firm for some years; until then his interest is so small that only the
+naturally thrifty workers are interested in it.
+
+All profit-sharing firms base their hopes of increased efficiency on
+the incentive given to the worker by an anticipation of profit; the
+payment of wages is by day work or piece work, and these have the
+defects already mentioned. There is no direct and immediate incentive.
+The slacker gets the same reward as the good man, and there is nothing
+to prevent piece rates being cut just as in an ordinary shop.
+
+Profit sharing is undoubtedly a splendid thing in principle, but
+it tends to make a man drop his trade-union and takes away his
+independence. It also means a rigid selection of workers, only the
+ones who look ahead being automatically chosen. Already they must be
+men of thrifty disposition, men who look forward to being employed
+in one factory all their lives, otherwise they would not be chosen.
+They are not necessarily the best men; indeed, they cannot be the best
+men because only a wide experience of different factories and methods
+produces the best men. But they are essentially steady men, and this
+is the kind of man most employers prefer, because they are the least
+likely to cause trouble when rates are cut or wages reduced. It is
+usually pointed out that, if a rate has to be cut, the worker gets it
+back again in the form of profit.
+
+This system certainly tends to get rid of the slacker--the worst form
+of slacker, that is--and there are circumstances under which it would
+prove of great value.
+
+The fact of there being so few profit-sharing firms tends to show that
+profit sharing is not a method which appeals generally to both employer
+and worker.
+
+The following is a profit-sharing scheme adopted by a large firm of
+engineers in March, 1916, and therefore embodies the most modern
+conditions:
+
+ "1. Before any profits are divided with the employees, the
+ shareholders shall receive 8 per cent. per annum.
+
+ "2. When the above 8 per cent. has been paid to the shareholders in
+ any calendar year, all cash dividends subsequently declared in that
+ year will be divided between the shareholders on the amount of their
+ stock interest and the employees on the amount of the salary or wages
+ received by them during the twelve months ending June 30 of that year,
+ as follows: (A) Employees who have been continuously in the service
+ of the company for at least two years prior to July 1 will receive
+ dividends at the same rate as the shareholders. (B) Employees who have
+ been continuously in the service of the company for more than one year
+ and less than two years prior to July 1 will get three-quarters of
+ that rate. (C) Employees who have served continuously for less than
+ one year will get one-half the rate of the shareholders. (D) Dividends
+ that have accrued will be distributed to employees once a year in
+ December.
+
+ "3. No person will be entitled to a share of these dividends unless a
+ _bona-fide_ employee of the company at the time of their distribution,
+ except that employees laid off owing to lack of work or sickness will
+ be entitled to the dividends accruing in any year on the wages earned
+ by them during the twelve months prior to June 30 of that year.
+
+ "4. Employees voluntarily leaving the service of the company or dismissed
+ or discharged will forfeit their right to any accrued dividends.
+
+ "5. Any employee who may receive a commission from the company or
+ any share in profits other than the profits shared in this plan,
+ except through dividends of stock, if a shareholder, shall thereby be
+ rendered ineligible to receive dividends under this plan.
+
+ "6. All employees except those entered in the three preceding sections
+ shall be eligible to share in the profits under this plan.
+
+ "7. The above plan for division of profit is absolutely voluntary on
+ the part of the company, and is in no sense a contract. The right is
+ therefore reserved by the directors to make at any time such changes
+ in the plan as they may consider desirable for the best interests
+ of the organisation. The fact that any employee is receiving the
+ dividends in this profit-sharing plan shall not deprive the company of
+ the right at any time to discharge the employee, and thereby terminate
+ his participation under the plan, nor shall any employee acquire any
+ right thereunder to any accounting by the company concerning its
+ business or profits."
+
+
+(_d_) CO-PARTNERSHIP.
+
+This is another method of inducing the worker to become more efficient.
+It is frequently allied to profit sharing.
+
+The firm allows its workers to subscribe for shares, and the workers
+thereby have a direct interest in the success of the firm. The idea
+is that the harder they work the more profit there will be, and the
+more dividend on the shares which they hold.
+
+Of course, no worker, especially if he has a family, can subscribe for
+shares out of his wages. What usually happens is that the firm sets
+aside a certain portion of its profit, after paying a dividend on its
+shares, and allows the worker to share this profit. But he gets no
+money, the profit being paid in shares. For instance, if a worker's
+share of the profit at the end of twelve months be L10, he gets L10
+worth of shares. Then, when the next dividend is declared, he gets
+the dividend on his L10 worth of shares. If there is a 5 per cent.
+dividend, he gets 10s. as his interest for the year or whatever the
+period of time may be.
+
+He is not allowed to subscribe for shares until he has been with the
+firm a certain length of time, and, in some cases, if he leaves he
+loses his shares. If he dies, his widow gets the dividend on the shares
+until she dies, when the shares go back to the firm.
+
+In other cases the shares bear a fixed rate of interest, say 4 per
+cent., and also an additional dividend if there is any profit after
+dividends on other classes of shares reach a certain percentage.
+
+In yet other cases a worker becomes absolute owner of his shares, and
+can dispose of them by will or if he leaves the firm, but such cases
+are rare.
+
+Of course, where shares are purchased by deducting the price of the
+shares from wages they are the absolute property of the worker.
+
+The objections to profit sharing may be applied to co-partnership,
+together with the additional one that the worker does not get profit,
+but only interest on shares; and as he can never become a large
+shareholder, the extra benefit is not very great. He is rendered quite
+dependent on the firm--even more so than the profit sharer--and can
+exert no pressure if conditions are unsatisfactory. The fact that
+conditions are usually satisfactory in places where co-partnership is
+practised does not make the principle a good one.
+
+Certainly, sometimes the shareholding workers have the option of
+electing a director, and this places some responsibility on the worker,
+which is a good thing and gives him a real interest in the affairs
+of the firm; but such cases are uncommon, and even then there are so
+many other directors that the workers' representative has no voice
+in determining the policy of the firm; he only voices the workers'
+interests.
+
+
+(_e_) CO-OPERATION.
+
+Co-operation hardly comes into methods of wage payment, but we will
+just glance at it.
+
+It means that a number of workers unite to buy in large quantities the
+commodities they require, and to distribute them at the least expense.
+By these means they buy cheaply, and there is no non-productive middle
+man to make a profit.
+
+The great success of co-operative methods has resulted in the
+co-operative societies manufacturing certain commodities for
+themselves, as well as buying and selling. Having amassed a large
+capital, and being certain of their market, they have every opportunity
+of putting their workers under excellent working conditions.
+
+As employers, however, the co-operative societies are exactly on the
+level of other employees--no better and no worse. They do not even
+adopt bonus or profit-sharing schemes except in one instance, and the
+same labour disadvantages occur here as in the case of any ordinary
+private firm.
+
+Co-operation is strictly limited in its field of action. The buying
+power of the society's members enables the society to know just what
+goods and what quantity of goods are necessary, and they can go ahead
+with certainty.
+
+But a co-operative engineering works where all the capital is
+subscribed by the workers is a practical impossibility. In the
+first place, the number of workers in proportion to the amount of
+capital required in an engineering works is very small, and no group
+of ordinary workers could subscribe to start a factory and keep it
+going. In the second place, even if a factory could be started, the
+competition of the open market would throttle it in its birth. The
+keen buying and selling and manufacturing need highly educated and
+highly skilled men. Capable men are to be found in the ranks of the
+workers, but men with the necessary technical and commercial knowledge
+to run a large competitive engineering concern are extremely rare among
+them. Outside men would have to be engaged for such work and for the
+theoretical side of the business. This means high salaries, which the
+worker capitalist would object to; and it also takes the management out
+of the hands of the worker, and thereby destroys the whole basis of
+co-operation.
+
+It would be quite easy for an engineering business to grow out of a
+co-operative society's need of machinery of various kinds, but it is
+quite a different thing when one enters the open market.
+
+In the two or three cases where co-operation, apart from the large
+co-operative societies, is in practice, it will be found that the
+business has in the first place been built up privately, and the
+capital has afterwards been gradually transferred to the workers. There
+is no instance of workers getting together and clubbing their savings,
+and so starting a competitive business and earning their living thereby.
+
+
+(_f_) BONUS SYSTEMS.
+
+There are many bonus systems, and here again the advantages depend
+largely on the moral principles of the employer who adopts them. It
+does not follow that because an employer gives a bonus on work done
+that the conditions of work in his factory are good. Even with the best
+bonus system prices may be cut and conditions may become unbearable.
+Indeed, the adoption of a bonus system is often an excuse for driving
+and tyranny.
+
+They have one advantage over profit sharing and co-partnership: they
+do not interfere with the independence of the worker. I refer, of
+course, to those systems which have no connection with profit sharing
+or co-partnership, but where the bonus consists of a weekly payment for
+excess production above a specified minimum.
+
+A bonus system is based on a piece price or on individual or collective
+output in a certain time. It is therefore an offshoot of piece work,
+but it has a guaranteed minimum wage attached to it. Whatever happens,
+the worker gets his guaranteed minimum, and if he produces more work
+than is allowed for in that minimum he gets a fixed bonus at the end of
+the week or month. It differs from profit sharing in that it depends on
+quantity of work done and not on profit made.
+
+Bonus is often given to men working under a subcontractor. The
+subcontractor guarantees to turn out a certain job in a certain time,
+and in order to induce the men to accomplish this result he offers a
+bonus if the job is done to time.
+
+There is no protection whatever against cutting times or rates, and
+conditions generally are the same as those already mentioned.
+
+
+(_g_) THE REWARD SYSTEM.
+
+The Reward System (this is the name given to the system for the purpose
+of this description) is different to all the foregoing methods.
+
+The worker is paid the ordinary standard rate of wages for his
+attendance at the factory, and this attendance implies the production
+of a certain minimum quantity of work. If he produces more than that
+quantity, he is paid additional wages in proportion to the work done.
+If a certain standard quantity of work be produced, the standard being
+considerably in excess of the minimum, the proportionate additional
+wages, or reward, amounts to at least 25 per cent. of the day
+rate--that is, of the trade-union rate. Also, an equal opportunity of
+reaching the standard quantity is given to all workers, inasmuch as the
+work is carefully studied, standardised, and recorded, and instructions
+are given to the worker showing him just how to produce the standard
+quantity. The standard quantity is within the reach of all diligent
+workers.
+
+This system is described in the following pages.
+
+
+
+
+                              CHAPTER II
+
+                      WAGES AND EFFICIENCY REWARD
+
+
+(_a_) THE REWARD SYSTEM.
+
+The rational study of work and the worker shows the following
+principles to be essential when general and continuous efficiency is
+the end in view:
+
+1. The greatest efficiency is obtained when the worker is most
+contented.
+
+2. There is a limit to endurance, and efficiency cannot be maintained
+if this limit be exceeded.
+
+3. The working environment must be agreeable.
+
+4. The nature of the work must be considered in determining the working
+hours and conditions.
+
+5. There must be no penalties or price cutting.
+
+6. Suggestions must be encouraged and suitable rewards given for those
+which are acted upon.
+
+7. There must be an incentive to efficiency, which should take the
+form of an addition to wages when a certain minimum of production is
+exceeded.
+
+8. Work must be carefully studied in detail so as to discover
+conditions which give every worker the same opportunity of reaching a
+high efficiency.
+
+9. Earnings in excess of the day rate should be in proportion to
+efficiency.
+
+10. The generally accepted day rate of wages must be absolutely
+guaranteed to the worker, no matter what his efficiency.
+
+All this is not pampering the worker or making concessions to him. The
+hard fact remains that it is only by adopting these principles that
+the greatest efficiency can be obtained--viz., greater production of a
+better quality of work for the same or less expenditure in wages and
+works costs. That it also gives the worker more income, better health,
+less fatigue, greater contentment, are happy circumstances that make
+for a rational and equable understanding between employer and worker
+with a maximum of benefit to both sides, that entail no sacrifice of
+principle on either side, and enable us to look forward to a national
+efficiency which will be the achievement and the pride of every class
+of which the State is composed.
+
+But under what circumstances can these principles be put into practice?
+
+As they evolved out of the methodical and patient study of production
+and the application of common-sense ideas to labour and its ways,
+we have not far to seek. The recorded results have been unified into
+a system which has been and which may be applied to all sorts and
+conditions of labour; this system, so far as it directly affects the
+worker, is denoted herein by the short expression, the Reward System.
+
+It is a method whereby a worker is paid according to his efficiency.
+There is a guaranteed minimum which is equal to his ordinary wage;
+after that, the greater his efficiency the more he is paid.
+
+In order that he may have every opportunity of reaching a high
+efficiency without undue strain or discomfort during his work, every
+detail of the work, the machines, and the conditions, receives
+consideration.
+
+He is not left to do the job in the best way he can think of, with any
+tools he may consider suitable. Before he starts any job under the
+Reward System, both the job and the machine on which it must be done
+have been studied and timed; the best tools for the purpose have been
+selected; the right speeds have been chosen; the correct depth and
+speed of cut have been decided upon, and so on. Also the comfort of the
+worker has received attention, and if he can do the work better sitting
+than standing, a chair is provided.
+
+All this means that, as far as possible, the job is equalised for every
+worker who is put on it, and every job is put on a time and condition
+basis, which results in every worker having an equal opportunity.
+
+It is therefore quite clear that, as conditions are the same for every
+worker, the amount of work done, and in consequence the amount of
+reward earned, depends entirely on the energy and ability of the worker
+himself.
+
+The above is, of course, only a statement, and the worker will want to
+know just how the right times and conditions are arrived at, and what
+assurance he has that conditions will not be altered once they are
+fixed.
+
+Here we will consider the general principles; an example with fuller
+detail is given in Part II.
+
+First, all the details of the work to be done, the material of which it
+is to be made, the method of manufacture, are carefully considered by
+the design and planning departments of the factory.
+
+The particulars of the job, together with a drawing, if necessary, are
+handed to the time study engineer in order that he may see the finished
+and unfinished sizes, the quality of material, the machine and tools to
+be used, etc.
+
+The position of time study engineer is one of the most onerous and
+responsible in the whole field of the scientific study of work and the
+worker. He should be a man of considerable skill and experience; he
+must be thoroughly practical, and should have had a shop training in
+addition to his scientific studies; he should be able to divide the
+work up into elements suitable for the machine on which the work has
+to be done, and to suggest improvements in the methods of performing
+it; he must be able to see that the work is carried out in the most
+expeditious way; he should be well educated apart from his engineering
+training, and should have a knowledge of hygiene, physiology, and
+psychology, in order that he may understand the effect of work on
+different workers, the causes and prevention of fatigue, and what
+surroundings are best for the health and happiness of the worker.
+
+Such a man should be chosen with the greatest care, as so much depends
+on his engineering ability, his sympathetic judgment, and his broad
+outlook on the question of production from the point of view of both
+worker and employer.
+
+And, in consequence, his standing in the firm should be correspondingly
+high, if he is to fulfil his duties satisfactorily to himself and to
+those with whom he is associated--worker, trade-union, and employer.
+
+When the job goes into the shops, a few of the articles are passed
+through each operation in order that the worker may become familiar
+with it. This also enables the time study engineer to see that tools
+and speeds are satisfactory and to cut out useless motions.
+
+A special time study is then made of each detail or element of the
+work from the time it comes to the worker to the time it leaves him.
+Every change that occurs--for instance, when the machine is stopped or
+another tool is brought into position--is the end of one element and
+the beginning of another, and each element is timed and recorded. For
+this work a good average worker is chosen, and he is paid time and a
+quarter during the study.
+
+The reason for this separation into elements and the careful timing
+of each is in order to find out exactly what time each element should
+take. These are averaged out when a certain number have been timed, and
+the average is assumed to be the correct time for each element. Then
+the average times of all the elements are added, and this gives the
+time of the operation which that particular worker is engaged upon.
+
+In this manner the best method is found, and one that puts all workers
+on exactly the same basis, which is the essence of the system.
+
+It is not claimed that the time study is perfect and that the records
+obtained are absolutely exact. Even with the greatest care errors
+will creep in and the times will be incorrect. This especially is the
+case with hand work. Again, the skill of the worker increases very
+considerably, and he himself finds quicker methods of doing the work.
+All that is claimed for the time study method is that the dividing
+up of the operation into elements, and timing them as carefully as
+possible and eliminating all unnecessary movements, gives the nearest
+approach to perfection of rate setting yet discovered; there is a
+bed-rock character about it that is not found in any other system.
+
+The time thus obtained is considered to be the fastest time in which
+the operation can be done. Actually, it is not the fastest time for
+two reasons, one being that any time so obtained may be improved on
+when the worker becomes thoroughly used to the job, and the other
+being that a good _average_ worker is chosen for the time study, and
+therefore a first-class man can improve on the time obtained. But it
+is _considered_ to be the fastest time, and we will call it the "base
+time."
+
+It is quite evident that this cannot be reached regularly by every
+worker, and this is taken into consideration when determining the
+standard time.
+
+To obtain the standard time--namely, the time in which the work is
+_expected_ to be done--an allowance is made on the base time. This
+allowance depends on the nature of the work, greater allowances being
+made for jobs that necessitate a good deal of handling than for jobs
+that are nearly all cutting, because cutting is independent of the
+worker.
+
+
+(_b_) THE BASIS OF REWARD PAYMENT.
+
+This standard time is the basis of the Reward System, and is therefore
+the most important time. It is so fixed in relation to base time that
+every worker put on that work should be able to reach it. If he does
+so, he is said to have reached an efficiency of 100 per cent.
+
+A worker who reaches continuously 100 per cent. is a high efficiency
+man.
+
+This efficiency should always be reached by a worker who follows the
+instructions and works diligently.
+
+Reward begins, however, considerably before this point is reached,
+because it may be necessary for a worker to be on a job some time
+before he reaches a high efficiency. Again, sometimes one worker is
+naturally slower than another, and although his work is good he can
+reach 100 per cent. efficiency only by special effort. There would
+be little encouragement if reward did not begin until the worker had
+reached the 100 per cent. point.
+
+For these reasons, and as an incentive to every man to become as highly
+efficient as possible, reward begins when the worker reaches 75 per
+cent. efficiency.
+
+(This particular figure of 75 per cent. is taken to illustrate the
+method, and because it is frequently used as the reward point. Any
+percentage may be used, and several methods are given in Part III.)
+
+This means that a time addition of 33-1/3 per cent. is made to the
+standard time or standard production in order to obtain a new figure,
+which is called "reward time" or "reward production," because it is the
+point where reward begins.
+
+The following are three brief examples showing the working out of the
+reward earned:
+
+                                              I.                   II.
+  Base time                               12    hours           8    hours
+  Standard time (= base + 25%)            15      "            10     "
+  Reward time (= standard + 33-1/3%)      20      "            13.3   "
+  Time taken                              16-1/2  "             8.5   "
+  Time saved                               3-1/2  "             4.8   "
+  Rate per hour                                  9d.                  9d.
+  Reward                        3-1/2 x 9 = 2s.  8d.   4.8 x 9 = 3s.  7d.
+  Reward, week of 48 hours                  7s.  9d.            20s.  2d.
+  Weekly day wage                          36s.  0d.            36s.  0d.
+  Total earnings                           43s.  9d.            56s.  2d.
+  Efficiency                                 91%                 117.5%
+
+                                            III.
+  Base quantity                           40 per hour
+  Standard quantity (= base - 10%)        36    "
+  Reward quantity (= standard - 25%)      27    "
+  Time worked                             6 hours
+  Quantity produced                       220
+  Reward quantity for 6 hours             162
+  Excess quantity                          58
+  Reward at 27 for 6d.                     1s.
+  Reward for week of 48 hours              8s.
+  Weekly day wage                         24s.
+  Total earnings                          32s.
+  Efficiency                              102%
+
+The two first examples are on a time basis, and the third on a quantity
+basis. These are worked out in detail in Part II.
+
+The first thing that strikes one when these figures are examined is
+that wages are considerably increased. In view of this increase the
+worker will want to know more about the conditions under which the
+work is done, and whether such earnings can be maintained continuously
+without special effort.
+
+The reply is that such earnings not only can be, but are being, made
+regularly, and the workers have a greater degree of comfort in their
+work than they have under usual working conditions.
+
+This is because of the time study method. Every detail of the work is
+carefully studied, as has been explained, and everything that will
+aid the worker to increase his output has been provided. The work is
+brought to the machine and taken away by labourers, the tools are all
+specially designed and exactly suited to the work. Instruction cards
+are given to the worker, so that he can see exactly what he has to do,
+how he has to do it, and the time he should do it in. If he can do the
+work sitting better than standing, a chair or stool is provided.
+
+In fact, everything is done to assist the worker to reach a high
+efficiency, as this means greater production besides greater reward.
+
+The Reward System is, clearly, far better than either day work or
+piece work. The time study shows what is the best time in which a
+good average worker can do the job. A trustworthy worker and one who
+appreciates the time study principle must be selected for the study. If
+this were not done, a false time might be obtained, and this would lead
+to doubts as to whether the times of other jobs were correct. This is a
+difficulty that hardly ever arises, because the worker knows that he is
+being fairly dealt with, and there is nothing to be gained by getting a
+false time.
+
+Times once obtained are never altered so long as the conditions remain
+the same.
+
+Some exceptionally good workmen can make large rewards every week, and
+it is to the firm's benefit that they should do so. Suppose the price
+was lowered because of this high reward. The general efficiency of
+all the workers would fall immediately, and the dissatisfaction with
+the alteration in price and with the firm's attitude would result in
+serious loss to all concerned.
+
+The following is an example of what happens under an ordinary bonus
+scheme when times are reduced:
+
+ -------------+---------+-------+-------+-------+--------------------------
+              |         |       |       |       | _Works Costs at 2s.
+              |         |       |       |       | per Hour, including
+              |_Time    |_Time  |_Time  |_Reward| Labour._
+              |allowed._|taken._|saved._|  at   |
+              |         |       |       | 10d._ +--------------------------
+              |         |       |       |       |_Cost._|_Reward._|_Total._
+              +---------+-------+-------+-------+-------+---------+--------
+              | Hours.  | Hours.| Hours.| s. d. |  s. d.|  s. d.  |  s. d.
+ Original time|  5      |   4   | 1     |    10 |  8  0 |     10  |  8  10
+ Cut to       |  4      | 3-1/2 |   1/2 |     5 |  7  0 |      5  |  7   5
+    "         |  3-1/2  | 3     |   1/2 |     5 |  6  0 |      5  |  6   5
+    "         |  3      | 7     |  --   |  --   | 14  0 |    --   | 14   0
+ Increased to |  4      | 7     |  --   |  --   | 14  0 |    --   | 14   0
+    "     "   |  5      | 3-1/2 | 1-1/2 | 1   3 |  7  0 |  1   3  |  8   3
+ Cut to       |  4-1/2  | 7     |  --   |  --   | 14  0 |    --   | 14   0
+ -------------+---------+-------+-------+-------+-------+---------+--------
+
+In this case the original piece time allowed for the work was five
+hours, this being an estimate based on the time taken when working
+under day work. The men were paid at the rate of 10d. per hour, and the
+works costs, including labour, amounted to 2s. per hour. Bonus was paid
+on the time saved.
+
+The workers completed the job in four hours, a reduction of one hour
+on the time set, and thereby earned a bonus of 10d. The time was cut
+to four hours, and the work was done in three and a half hours, the
+workers earning a bonus of 5d. It was then cut to three and half hours,
+and the

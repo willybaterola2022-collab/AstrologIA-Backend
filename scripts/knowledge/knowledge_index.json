@@ -1,0 +1,1346 @@
+{
+  "created": "2026-03-08T14:16:00.950486",
+  "total": 134,
+  "results": [
+    {
+      "id": "A001",
+      "title": "Astronomica",
+      "author": "Marcus Manilius",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A001_Astronomica.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:16:05.753770"
+    },
+    {
+      "id": "A002",
+      "title": "Tetrabiblos",
+      "author": "Claudius Ptolemy",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A002_Tetrabiblos.txt",
+      "status": "downloaded",
+      "size_chars": 49972,
+      "downloaded_at": "2026-03-08T14:16:09.729149"
+    },
+    {
+      "id": "A003",
+      "title": "Christian Astrology vol 1",
+      "author": "William Lilly",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A003_Christian_Astrology_vol_1.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A004",
+      "title": "Astrology for All",
+      "author": "Alan Leo",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A004_Astrology_for_All.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A005",
+      "title": "The Astrologer's Magazine Collection",
+      "author": "Alan Leo",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A005_The_Astrologers_Magazine_Collection.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A006",
+      "title": "The Art of Synthesis",
+      "author": "Alan Leo",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A006_The_Art_of_Synthesis.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A007",
+      "title": "Esoteric Astrology",
+      "author": "Alice Bailey",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A007_Esoteric_Astrology.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A008",
+      "title": "A Treatise on Cosmic Fire",
+      "author": "Alice Bailey",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A008_A_Treatise_on_Cosmic_Fire.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A009",
+      "title": "The Planets and Human Behavior",
+      "author": "Jeff Mayo",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A009_The_Planets_and_Human_Behavior.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A010",
+      "title": "Astrology of Personality",
+      "author": "Dane Rudhyar",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A010_Astrology_of_Personality.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A011",
+      "title": "The Practice of Astrology",
+      "author": "Dane Rudhyar",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A011_The_Practice_of_Astrology.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A012",
+      "title": "Person-Centered Astrology",
+      "author": "Dane Rudhyar",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A012_Person-Centered_Astrology.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A013",
+      "title": "Sepharial Manual of Astrology",
+      "author": "Sepharial",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A013_Sepharial_Manual_of_Astrology.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A014",
+      "title": "The Kabala of Numbers",
+      "author": "Sepharial",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A014_The_Kabala_of_Numbers.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:17:18.936947"
+    },
+    {
+      "id": "A015",
+      "title": "New Dictionary of Astrology",
+      "author": "Sepharial",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A015_New_Dictionary_of_Astrology.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A016",
+      "title": "Primum Mobile",
+      "author": "Placido de Titis",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A016_Primum_Mobile.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A017",
+      "title": "The Message of the Stars",
+      "author": "Max Heindel",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A017_The_Message_of_the_Stars.txt",
+      "status": "downloaded",
+      "size_chars": 49996,
+      "downloaded_at": "2026-03-08T14:17:34.288814"
+    },
+    {
+      "id": "A018",
+      "title": "Simplified Scientific Astrology",
+      "author": "Max Heindel",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A018_Simplified_Scientific_Astrology.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:17:37.361671"
+    },
+    {
+      "id": "A019",
+      "title": "Astrology and the Modern Psyche",
+      "author": "Dane Rudhyar",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A019_Astrology_and_the_Modern_Psyche.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "A020",
+      "title": "The Lunation Cycle",
+      "author": "Dane Rudhyar",
+      "category": "01_astrologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/01_astrologia/A020_The_Lunation_Cycle.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "N001",
+      "title": "Cheiro's Book of Numbers",
+      "author": "Cheiro (W.J. Warner)",
+      "category": "02_numerologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/02_numerologia/N001_Cheiros_Book_of_Numbers.txt",
+      "status": "downloaded",
+      "size_chars": 41698,
+      "downloaded_at": "2026-03-08T14:17:53.924703"
+    },
+    {
+      "id": "N002",
+      "title": "Cheiro's Language of the Hand",
+      "author": "Cheiro",
+      "category": "02_numerologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/02_numerologia/N002_Cheiros_Language_of_the_Hand.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:17:56.633509"
+    },
+    {
+      "id": "N003",
+      "title": "Cheiro's Palmistry for All",
+      "author": "Cheiro",
+      "category": "02_numerologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/02_numerologia/N003_Cheiros_Palmistry_for_All.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:17:59.444012"
+    },
+    {
+      "id": "N004",
+      "title": "The Kabala of Numbers vol 1",
+      "author": "Sepharial",
+      "category": "02_numerologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/02_numerologia/N004_The_Kabala_of_Numbers_vol_1.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:18:01.998183"
+    },
+    {
+      "id": "N005",
+      "title": "The Kabala of Numbers vol 2",
+      "author": "Sepharial",
+      "category": "02_numerologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/02_numerologia/N005_The_Kabala_of_Numbers_vol_2.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:18:05.033793"
+    },
+    {
+      "id": "N006",
+      "title": "Numbers: Their Occult Power and Mystic Virtues",
+      "author": "W.W. Westcott",
+      "category": "02_numerologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/02_numerologia/N006_Numbers_Their_Occult_Power_and_Mystic_Virtues.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:18:08.136997"
+    },
+    {
+      "id": "N007",
+      "title": "The Romance in Your Name",
+      "author": "Juno Jordan",
+      "category": "02_numerologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/02_numerologia/N007_The_Romance_in_Your_Name.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K001",
+      "title": "The Kabbalah Unveiled",
+      "author": "S.L. MacGregor Mathers",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K001_The_Kabbalah_Unveiled.txt",
+      "status": "downloaded",
+      "size_chars": 49995,
+      "downloaded_at": "2026-03-08T14:18:17.130135"
+    },
+    {
+      "id": "K002",
+      "title": "The Holy Kabbalah",
+      "author": "A.E. Waite",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K002_The_Holy_Kabbalah.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K003",
+      "title": "The Mystical Qabalah",
+      "author": "Dion Fortune",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K003_The_Mystical_Qabalah.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K004",
+      "title": "777 and Other Qabalistic Writings",
+      "author": "Aleister Crowley",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K004_777_and_Other_Qabalistic_Writings.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K005",
+      "title": "Liber 777",
+      "author": "Aleister Crowley",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K005_Liber_777.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K006",
+      "title": "Sefer Yetzirah (Saadia Gaon version)",
+      "author": "Anónimo",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K006_Sefer_Yetzirah_Saadia_Gaon_version.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K007",
+      "title": "Introduction to the Study of the Kabalah",
+      "author": "W.W. Westcott",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K007_Introduction_to_the_Study_of_the_Kabalah.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:18:52.337882"
+    },
+    {
+      "id": "K008",
+      "title": "The Qabalah of Aleister Crowley",
+      "author": "Aleister Crowley",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K008_The_Qabalah_of_Aleister_Crowley.txt",
+      "status": "downloaded",
+      "size_chars": 49999,
+      "downloaded_at": "2026-03-08T14:18:56.636727"
+    },
+    {
+      "id": "K009",
+      "title": "A Garden of Pomegranates",
+      "author": "Israel Regardie",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K009_A_Garden_of_Pomegranates.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K010",
+      "title": "The Tree of Life",
+      "author": "Israel Regardie",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K010_The_Tree_of_Life.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "K011",
+      "title": "Clavicula Salomonis",
+      "author": "S.L. MacGregor Mathers",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K011_Clavicula_Salomonis.txt",
+      "status": "downloaded",
+      "size_chars": 49995,
+      "downloaded_at": "2026-03-08T14:19:12.094658"
+    },
+    {
+      "id": "K012",
+      "title": "The Book of the Sacred Magic of Abramelin",
+      "author": "Abraham von Worms",
+      "category": "03_kabbalah",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/03_kabbalah/K012_The_Book_of_the_Sacred_Magic_of_Abramelin.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:19:15.600927"
+    },
+    {
+      "id": "H001",
+      "title": "Corpus Hermeticum",
+      "author": "Hermes Trismegistus",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H001_Corpus_Hermeticum.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:19:17.977684"
+    },
+    {
+      "id": "H002",
+      "title": "The Kybalion",
+      "author": "Three Initiates",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H002_The_Kybalion.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:19:20.499465"
+    },
+    {
+      "id": "H003",
+      "title": "Dogma and Ritual of High Magic",
+      "author": "Eliphas Levi",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H003_Dogma_and_Ritual_of_High_Magic.txt",
+      "status": "downloaded",
+      "size_chars": 25324,
+      "downloaded_at": "2026-03-08T14:19:22.596279"
+    },
+    {
+      "id": "H004",
+      "title": "Transcendental Magic",
+      "author": "Eliphas Levi",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H004_Transcendental_Magic.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:19:26.538778"
+    },
+    {
+      "id": "H005",
+      "title": "The History of Magic",
+      "author": "Eliphas Levi",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H005_The_History_of_Magic.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:19:28.992399"
+    },
+    {
+      "id": "H006",
+      "title": "The Magus",
+      "author": "Francis Barrett",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H006_The_Magus.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:19:31.309293"
+    },
+    {
+      "id": "H007",
+      "title": "Occult Science in India",
+      "author": "Louis Jacolliot",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H007_Occult_Science_in_India.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:19:34.389272"
+    },
+    {
+      "id": "H008",
+      "title": "The Secret of the Golden Flower",
+      "author": "Wilhelm/Jung",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H008_The_Secret_of_the_Golden_Flower.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "H009",
+      "title": "The Emerald Tablet of Hermes",
+      "author": "Anónimo",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H009_The_Emerald_Tablet_of_Hermes.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:19:45.105971"
+    },
+    {
+      "id": "H010",
+      "title": "Three Books of Occult Philosophy",
+      "author": "Henry Cornelius Agrippa",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H010_Three_Books_of_Occult_Philosophy.txt",
+      "status": "downloaded",
+      "size_chars": 7312,
+      "downloaded_at": "2026-03-08T14:19:47.825913"
+    },
+    {
+      "id": "H011",
+      "title": "The Fourth Book of Occult Philosophy",
+      "author": "Henry Cornelius Agrippa",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H011_The_Fourth_Book_of_Occult_Philosophy.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "H012",
+      "title": "The Rosicrucian Cosmo-Conception",
+      "author": "Max Heindel",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H012_The_Rosicrucian_Cosmo-Conception.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:19:56.943180"
+    },
+    {
+      "id": "H013",
+      "title": "Fama Fraternitatis (Rosicrucian Manifesto)",
+      "author": "Anónimo",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H013_Fama_Fraternitatis_Rosicrucian_Manifesto.txt",
+      "status": "downloaded",
+      "size_chars": 49990,
+      "downloaded_at": "2026-03-08T14:19:59.252183"
+    },
+    {
+      "id": "H014",
+      "title": "Magic — White and Black",
+      "author": "Franz Hartmann",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H014_Magic__White_and_Black.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:20:02.215240"
+    },
+    {
+      "id": "H015",
+      "title": "Paracelsus and his Work",
+      "author": "Franz Hartmann",
+      "category": "04_hermetismo",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/04_hermetismo/H015_Paracelsus_and_his_Work.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:20:05.424372"
+    },
+    {
+      "id": "P001",
+      "title": "The Interpretation of Dreams",
+      "author": "Sigmund Freud",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P001_The_Interpretation_of_Dreams.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:20:07.713514"
+    },
+    {
+      "id": "P002",
+      "title": "A General Introduction to Psychoanalysis",
+      "author": "Sigmund Freud",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P002_A_General_Introduction_to_Psychoanalysis.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:20:10.403262"
+    },
+    {
+      "id": "P003",
+      "title": "Three Contributions to Sexual Theory",
+      "author": "Sigmund Freud",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P003_Three_Contributions_to_Sexual_Theory.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:20:13.325035"
+    },
+    {
+      "id": "P004",
+      "title": "The Ego and the Id",
+      "author": "Sigmund Freud",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P004_The_Ego_and_the_Id.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:20:15.839930"
+    },
+    {
+      "id": "P005",
+      "title": "The Varieties of Religious Experience",
+      "author": "William James",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P005_The_Varieties_of_Religious_Experience.txt",
+      "status": "downloaded",
+      "size_chars": 49972,
+      "downloaded_at": "2026-03-08T14:20:18.641967"
+    },
+    {
+      "id": "P006",
+      "title": "The Principles of Psychology",
+      "author": "William James",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P006_The_Principles_of_Psychology.txt",
+      "status": "downloaded",
+      "size_chars": 49996,
+      "downloaded_at": "2026-03-08T14:20:21.402791"
+    },
+    {
+      "id": "P007",
+      "title": "Psychology and Alchemy",
+      "author": "C.G. Jung",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P007_Psychology_and_Alchemy.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "P008",
+      "title": "The Secret of the Golden Flower (Jung commentary)",
+      "author": "C.G. Jung",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P008_The_Secret_of_the_Golden_Flower_Jung_commentary.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "P009",
+      "title": "Psychology of the Unconscious",
+      "author": "C.G. Jung",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P009_Psychology_of_the_Unconscious.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "P010",
+      "title": "Individuation: A Study of the Depth Psychology of Carl Gustav Jung",
+      "author": "Jolande Jacobi",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P010_Individuation_A_Study_of_the_Depth_Psychology_of_Carl_Gustav.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "P011",
+      "title": "The Archetypes and the Collective Unconscious",
+      "author": "C.G. Jung",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P011_The_Archetypes_and_the_Collective_Unconscious.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "P012",
+      "title": "Civilization and Its Discontents",
+      "author": "Sigmund Freud",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P012_Civilization_and_Its_Discontents.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:20:58.682932"
+    },
+    {
+      "id": "P013",
+      "title": "Beyond the Pleasure Principle",
+      "author": "Sigmund Freud",
+      "category": "05_psicologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/05_psicologia/P013_Beyond_the_Pleasure_Principle.txt",
+      "status": "downloaded",
+      "size_chars": 49996,
+      "downloaded_at": "2026-03-08T14:21:03.384403"
+    },
+    {
+      "id": "F001",
+      "title": "The Republic",
+      "author": "Plato",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F001_The_Republic.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:21:08.285961"
+    },
+    {
+      "id": "F002",
+      "title": "The Symposium",
+      "author": "Plato",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F002_The_Symposium.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:21:15.525694"
+    },
+    {
+      "id": "F003",
+      "title": "Timaeus",
+      "author": "Plato",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F003_Timaeus.txt",
+      "status": "downloaded",
+      "size_chars": 49982,
+      "downloaded_at": "2026-03-08T14:21:21.983920"
+    },
+    {
+      "id": "F004",
+      "title": "Phaedrus",
+      "author": "Plato",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F004_Phaedrus.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:21:27.279502"
+    },
+    {
+      "id": "F005",
+      "title": "Thus Spoke Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F005_Thus_Spoke_Zarathustra.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:21:32.315743"
+    },
+    {
+      "id": "F006",
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F006_Beyond_Good_and_Evil.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:21:38.447971"
+    },
+    {
+      "id": "F007",
+      "title": "The Birth of Tragedy",
+      "author": "Friedrich Nietzsche",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F007_The_Birth_of_Tragedy.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:21:41.227828"
+    },
+    {
+      "id": "F008",
+      "title": "Human, All Too Human",
+      "author": "Friedrich Nietzsche",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F008_Human_All_Too_Human.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:21:44.498493"
+    },
+    {
+      "id": "F009",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F009_Meditations.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:21:47.478193"
+    },
+    {
+      "id": "F010",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F010_The_Art_of_War.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:21:50.039706"
+    },
+    {
+      "id": "F011",
+      "title": "Tao Te Ching",
+      "author": "Laozi",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F011_Tao_Te_Ching.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:21:53.186755"
+    },
+    {
+      "id": "F012",
+      "title": "The Enneads",
+      "author": "Plotinus",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F012_The_Enneads.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:21:55.991700"
+    },
+    {
+      "id": "F013",
+      "title": "The Philosophy of Plotinus",
+      "author": "William Ralph Inge",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F013_The_Philosophy_of_Plotinus.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "F014",
+      "title": "Enchiridion",
+      "author": "Epictetus",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F014_Enchiridion.txt",
+      "status": "downloaded",
+      "size_chars": 49975,
+      "downloaded_at": "2026-03-08T14:22:04.552344"
+    },
+    {
+      "id": "F015",
+      "title": "The Discourses of Epictetus",
+      "author": "Epictetus",
+      "category": "06_filosofia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/06_filosofia/F015_The_Discourses_of_Epictetus.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:22:07.452350"
+    },
+    {
+      "id": "M001",
+      "title": "Metamorphoses",
+      "author": "Ovid",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M001_Metamorphoses.txt",
+      "status": "downloaded",
+      "size_chars": 49990,
+      "downloaded_at": "2026-03-08T14:22:10.616012"
+    },
+    {
+      "id": "M002",
+      "title": "Theogony and Works and Days",
+      "author": "Hesiod",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M002_Theogony_and_Works_and_Days.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:13.681084"
+    },
+    {
+      "id": "M003",
+      "title": "The Golden Bough",
+      "author": "James George Frazer",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M003_The_Golden_Bough.txt",
+      "status": "downloaded",
+      "size_chars": 49996,
+      "downloaded_at": "2026-03-08T14:22:16.894227"
+    },
+    {
+      "id": "M004",
+      "title": "The Hero with a Thousand Faces",
+      "author": "Joseph Campbell",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M004_The_Hero_with_a_Thousand_Faces.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:22:22.270740"
+    },
+    {
+      "id": "M005",
+      "title": "Egyptian Book of the Dead",
+      "author": "E.A. Wallis Budge (trans)",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M005_Egyptian_Book_of_the_Dead.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:25.264077"
+    },
+    {
+      "id": "M006",
+      "title": "Myths and Legends of Ancient Greece and Rome",
+      "author": "E.M. Berens",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M006_Myths_and_Legends_of_Ancient_Greece_and_Rome.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:28.971750"
+    },
+    {
+      "id": "M007",
+      "title": "Bulfinch's Mythology",
+      "author": "Thomas Bulfinch",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M007_Bulfinchs_Mythology.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:22:32.527048"
+    },
+    {
+      "id": "M008",
+      "title": "The Prose Edda (Norse Mythology)",
+      "author": "Snorri Sturluson",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M008_The_Prose_Edda_Norse_Mythology.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:36.009165"
+    },
+    {
+      "id": "M009",
+      "title": "The Poetic Edda",
+      "author": "Anónimo",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M009_The_Poetic_Edda.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:22:38.357945"
+    },
+    {
+      "id": "M010",
+      "title": "Celtic Myth and Legend",
+      "author": "Charles Squire",
+      "category": "07_mitologia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/07_mitologia/M010_Celtic_Myth_and_Legend.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:41.120103"
+    },
+    {
+      "id": "E001",
+      "title": "The Secret Doctrine vol I",
+      "author": "H.P. Blavatsky",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E001_The_Secret_Doctrine_vol_I.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:44.031302"
+    },
+    {
+      "id": "E002",
+      "title": "The Secret Doctrine vol II",
+      "author": "H.P. Blavatsky",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E002_The_Secret_Doctrine_vol_II.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:22:47.063344"
+    },
+    {
+      "id": "E003",
+      "title": "Isis Unveiled vol I",
+      "author": "H.P. Blavatsky",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E003_Isis_Unveiled_vol_I.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:22:50.119736"
+    },
+    {
+      "id": "E004",
+      "title": "Isis Unveiled vol II",
+      "author": "H.P. Blavatsky",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E004_Isis_Unveiled_vol_II.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:53.717493"
+    },
+    {
+      "id": "E005",
+      "title": "The Key to Theosophy",
+      "author": "H.P. Blavatsky",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E005_The_Key_to_Theosophy.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:22:56.351571"
+    },
+    {
+      "id": "E006",
+      "title": "The Voice of the Silence",
+      "author": "H.P. Blavatsky",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E006_The_Voice_of_the_Silence.txt",
+      "status": "downloaded",
+      "size_chars": 49990,
+      "downloaded_at": "2026-03-08T14:22:59.797556"
+    },
+    {
+      "id": "E007",
+      "title": "Light on the Path",
+      "author": "Mabel Collins",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E007_Light_on_the_Path.txt",
+      "status": "downloaded",
+      "size_chars": 49974,
+      "downloaded_at": "2026-03-08T14:23:02.307299"
+    },
+    {
+      "id": "E008",
+      "title": "The Spiritual Guide",
+      "author": "Miguel de Molinos",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E008_The_Spiritual_Guide.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:23:05.263460"
+    },
+    {
+      "id": "E009",
+      "title": "The Masnavi (Book of Rumi)",
+      "author": "Jalal ud-Din Muhammad Rumi",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E009_The_Masnavi_Book_of_Rumi.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:23:07.877537"
+    },
+    {
+      "id": "E010",
+      "title": "The Interior Castle",
+      "author": "St. Teresa of Avila",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E010_The_Interior_Castle.txt",
+      "status": "downloaded",
+      "size_chars": 42763,
+      "downloaded_at": "2026-03-08T14:23:10.018431"
+    },
+    {
+      "id": "E011",
+      "title": "The Dark Night of the Soul",
+      "author": "St. John of the Cross",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E011_The_Dark_Night_of_the_Soul.txt",
+      "status": "downloaded",
+      "size_chars": 41763,
+      "downloaded_at": "2026-03-08T14:23:12.911989"
+    },
+    {
+      "id": "E012",
+      "title": "The Upanishads (F. Max Müller trans)",
+      "author": "Anónimo",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E012_The_Upanishads_F_Max_Müller_trans.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:23:15.821771"
+    },
+    {
+      "id": "E013",
+      "title": "The Bhagavad Gita",
+      "author": "Anónimo (Edwin Arnold trans)",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E013_The_Bhagavad_Gita.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:23:18.811463"
+    },
+    {
+      "id": "E014",
+      "title": "The Gospel of Buddha",
+      "author": "Paul Carus",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E014_The_Gospel_of_Buddha.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:23:21.057203"
+    },
+    {
+      "id": "E015",
+      "title": "Raja Yoga",
+      "author": "Swami Vivekananda",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E015_Raja_Yoga.txt",
+      "status": "downloaded",
+      "size_chars": 49974,
+      "downloaded_at": "2026-03-08T14:23:24.115311"
+    },
+    {
+      "id": "E016",
+      "title": "Jnana Yoga",
+      "author": "Swami Vivekananda",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E016_Jnana_Yoga.txt",
+      "status": "downloaded",
+      "size_chars": 49994,
+      "downloaded_at": "2026-03-08T14:23:27.191679"
+    },
+    {
+      "id": "E017",
+      "title": "The Secret Teachings of All Ages",
+      "author": "Manly P. Hall",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E017_The_Secret_Teachings_of_All_Ages.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "E018",
+      "title": "The Aquarian Gospel of Jesus the Christ",
+      "author": "Levi H. Dowling",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E018_The_Aquarian_Gospel_of_Jesus_the_Christ.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:23:36.232718"
+    },
+    {
+      "id": "E019",
+      "title": "The Book of Dzyan",
+      "author": "Anónimo (Blavatsky)",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E019_The_Book_of_Dzyan.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "E020",
+      "title": "Letters That Have Helped Me",
+      "author": "William Quan Judge",
+      "category": "08_espiritualidad",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/08_espiritualidad/E020_Letters_That_Have_Helped_Me.txt",
+      "status": "downloaded",
+      "size_chars": 49997,
+      "downloaded_at": "2026-03-08T14:23:44.962691"
+    },
+    {
+      "id": "T001",
+      "title": "The Pictorial Key to the Tarot",
+      "author": "A.E. Waite",
+      "category": "09_tarot",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/09_tarot/T001_The_Pictorial_Key_to_the_Tarot.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:23:47.683446"
+    },
+    {
+      "id": "T002",
+      "title": "The Tarot of the Bohemians",
+      "author": "Papus (Gérard Encausse)",
+      "category": "09_tarot",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/09_tarot/T002_The_Tarot_of_the_Bohemians.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:23:51.524165"
+    },
+    {
+      "id": "T003",
+      "title": "The Book of Thoth",
+      "author": "Aleister Crowley",
+      "category": "09_tarot",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/09_tarot/T003_The_Book_of_Thoth.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "T004",
+      "title": "General Book of the Tarot",
+      "author": "A.E. Thierens",
+      "category": "09_tarot",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/09_tarot/T004_General_Book_of_the_Tarot.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:24:00.807090"
+    },
+    {
+      "id": "T005",
+      "title": "The Symbolism of the Tarot",
+      "author": "P.D. Ouspensky",
+      "category": "09_tarot",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/09_tarot/T005_The_Symbolism_of_the_Tarot.txt",
+      "status": "downloaded",
+      "size_chars": 49998,
+      "downloaded_at": "2026-03-08T14:24:03.653639"
+    },
+    {
+      "id": "D001",
+      "title": "The I Ching or Book of Changes",
+      "author": "Richard Wilhelm (trans)",
+      "category": "10_sistemas_div",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/10_sistemas_div/D001_The_I_Ching_or_Book_of_Changes.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "D002",
+      "title": "Sacred Book of the East — I Ching (Legge)",
+      "author": "James Legge",
+      "category": "10_sistemas_div",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/10_sistemas_div/D002_Sacred_Book_of_the_East__I_Ching_Legge.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:24:12.771570"
+    },
+    {
+      "id": "D003",
+      "title": "The Rune Primer",
+      "author": "Sweyn Plowright",
+      "category": "10_sistemas_div",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/10_sistemas_div/D003_The_Rune_Primer.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "D004",
+      "title": "Geomancy (The Art of)",
+      "author": "Franz Hartmann",
+      "category": "10_sistemas_div",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/10_sistemas_div/D004_Geomancy_The_Art_of.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:24:22.378464"
+    },
+    {
+      "id": "S001",
+      "title": "As a Man Thinketh",
+      "author": "James Allen",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S001_As_a_Man_Thinketh.txt",
+      "status": "downloaded",
+      "size_chars": 45887,
+      "downloaded_at": "2026-03-08T14:24:25.228618"
+    },
+    {
+      "id": "S002",
+      "title": "The Science of Getting Rich",
+      "author": "Wallace D. Wattles",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S002_The_Science_of_Getting_Rich.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:24:27.702591"
+    },
+    {
+      "id": "S003",
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S003_Think_and_Grow_Rich.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "S004",
+      "title": "The Power of Your Subconscious Mind",
+      "author": "Joseph Murphy",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S004_The_Power_of_Your_Subconscious_Mind.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:24:38.178099"
+    },
+    {
+      "id": "S005",
+      "title": "The Game of Life and How to Play It",
+      "author": "Florence Scovel Shinn",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S005_The_Game_of_Life_and_How_to_Play_It.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:24:43.730130"
+    },
+    {
+      "id": "S006",
+      "title": "The Secret (excerpts context)",
+      "author": "Wallace D. Wattles",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S006_The_Secret_excerpts_context.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:24:46.414687"
+    },
+    {
+      "id": "S007",
+      "title": "Creative Visualization",
+      "author": "Shakti Gawain",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S007_Creative_Visualization.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:24:51.362570"
+    },
+    {
+      "id": "S008",
+      "title": "Self-Reliance",
+      "author": "Ralph Waldo Emerson",
+      "category": "11_autoayuda",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/11_autoayuda/S008_Self-Reliance.txt",
+      "status": "downloaded",
+      "size_chars": 49960,
+      "downloaded_at": "2026-03-08T14:24:54.049972"
+    },
+    {
+      "id": "C001",
+      "title": "The Tao of Physics",
+      "author": "Fritjof Capra",
+      "category": "12_ciencia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/12_ciencia/C001_The_Tao_of_Physics.txt",
+      "status": "failed",
+      "size_chars": 0,
+      "downloaded_at": null
+    },
+    {
+      "id": "C002",
+      "title": "Space, Time and Deity",
+      "author": "Samuel Alexander",
+      "category": "12_ciencia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/12_ciencia/C002_Space_Time_and_Deity.txt",
+      "status": "downloaded",
+      "size_chars": 49992,
+      "downloaded_at": "2026-03-08T14:25:07.066656"
+    },
+    {
+      "id": "C003",
+      "title": "The Phenomenon of Man",
+      "author": "Teilhard de Chardin",
+      "category": "12_ciencia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/12_ciencia/C003_The_Phenomenon_of_Man.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:25:11.944489"
+    },
+    {
+      "id": "C004",
+      "title": "A New Science of Life",
+      "author": "Rupert Sheldrake",
+      "category": "12_ciencia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/12_ciencia/C004_A_New_Science_of_Life.txt",
+      "status": "downloaded",
+      "size_chars": 50000,
+      "downloaded_at": "2026-03-08T14:25:16.674930"
+    },
+    {
+      "id": "C005",
+      "title": "Mathematical Principles of Natural Philosophy",
+      "author": "Isaac Newton",
+      "category": "12_ciencia",
+      "file": "/Users/barbara/.gemini/antigravity/playground/AstrologIA-Backend/scripts/knowledge/raw/12_ciencia/C005_Mathematical_Principles_of_Natural_Philosophy.txt",
+      "status": "downloaded",
+      "size_chars": 49991,
+      "downloaded_at": "2026-03-08T14:25:24.745511"
+    }
+  ]
+}

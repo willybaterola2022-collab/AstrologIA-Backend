@@ -1,0 +1,1165 @@
+# The Prose Edda (Norse Mythology)
+Author: Snorri Sturluson
+Category: 07_mitologia
+Source: Gutenberg #33660
+Downloaded: 2026-03-08T14:22:36.008552
+AstrologIA Knowledge Base — K2 Sprint
+============================================================
+
+Produced by Greg Weeks, Roger L. Holda, Mary Meehan and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                      The Year When Stardust Fell
+
+                       _A Science Fiction Novel_
+
+                          By Raymond F. Jones
+
+[Transcriber note: Extensive research did not uncover any evidence that
+the U.S. copyright on this publication was renewed.]
+
+
+Jacket Design by James Heugh
+Endpaper Design by Alex Schomburg
+
+_Cecile Matschat, Editor
+Carl Carmer, Consulting Editor_
+
+THE JOHN C. WINSTON COMPANY
+Philadelphia, Toronto
+
+Copyright, 1958
+By Raymond F. Jones
+
+FIRST EDITION
+
+_Made in the United States of America_
+
+_To Laura Lee_
+
+
+
+
+Contents
+
+
+_Of Men of Science_
+
+1. _The Comet_
+
+2. _Breakdown_
+
+3. _Power Failure_
+
+4. _Disaster Spreads_
+
+5. _Thief_
+
+6. _The Scientist_
+
+7. _Dust from the Stars_
+
+8. _Attack_
+
+9. _Judgment_
+
+10. _Victory of the Dust_
+
+11. _The Animals Are Sick_
+
+12. _Decontamination_
+
+13. _Stay Out of Town!_
+
+14. _Mobilization_
+
+15. _Battle_
+
+16. _Black Victory_
+
+17. _Balance of Nature_
+
+18. _Witchcraft_
+
+19. _Conquest of the Comet_
+
+20. _Reconstruction_
+
+_About the Author_
+
+
+
+
+_Of Men of Science_
+
+
+The story of man is the story--endlessly repeated--of a struggle:
+between light and darkness, between knowledge and ignorance, between
+good and evil, between men who would build and men who would destroy. It
+is no more complicated than this.
+
+That light, knowledge, good, and constructive men have had a small edge
+in this struggle is attested to by our slow rise over the long millennia
+of time. In taking stock of our successes, however, it is easy to assume
+the victory has been won. Nothing could be further from the truth. This
+is a contest that is never ended, nor can it be, as long as men are upon
+the Earth.
+
+While man has free choice, the elements of darkness, ignorance, evil and
+destruction are available for him to choose, and there are times when
+these seem the best alternatives.
+
+At the end of the 18th century one of the greatest minds of all time was
+destroyed by one stroke of a guillotine blade. The judge who presided at
+the trial of the great French chemist Lavoisier is reported to have
+said, "The Republic has no need of men of science."
+
+Choices like this have often been made by the society of man. A turnoff
+to darkness has been deliberately taken, superstition has been embraced
+while knowledge has been destroyed.
+
+When times are placid we assume such choices could result only from some
+great insanity; that the men who made them had themselves known more
+pleasant days. The truth is that there are extremes of circumstance
+which could force almost any man to abandon that which he has always
+held to be right and good, and only the very giants could stand up and
+prove themselves unmoved.
+
+Such giants may seem, in ordinary life, rather obscure. Illustrating
+this are the people in this story: a somewhat pompous little mayor; a
+professor of chemistry in a small-town college in the mountain west; a
+minister of the gospel, who would be lost with a big-city congregation;
+a sheriff who doesn't care what happens to him personally as long as he
+sticks to the kind of rightness that has always worked; and a
+high-school boy who learns what it means to do a man's work.
+
+Such people are important, the most important people alive today. They
+are the ones whose hands hold all that our culture has achieved when
+catastrophe overtakes us.
+
+The illusion of security is a vicious one. With physical comforts around
+us, the abyss that is just beyond our walls is forgotten: the abyss of
+outer space, beyond the paper-thin atmosphere shielding us; of the fires
+in the earth beneath; of the hurricane winds beyond the horizon; of the
+evil and insanity in the minds of many men.
+
+The caveman dared not forget these abysses, nor the frontiersman, nor
+the scientist who fought the witch hunters to bring forth a new truth of
+Nature. But when we believe we are secure we do forget them.
+
+In catastrophe, the most recent achievements of the race are the first
+to go. When war comes, or mobs attack, or hurricanes strike, our science
+and our arts are abandoned first. Necessity of survival seems to insist
+that we cannot fool with things of the mind and of the soul when
+destruction threatens the body. And so, "The Republic has no need of men
+of science."
+
+Emergency can take any form. Here is a story in which the mechanical
+foundation of our culture is threatened. Whether the means of this
+threat, as I have pictured it, could possibly occur, I do not know. I
+know of no reason why it could not, if circumstances were right.
+
+But more important, this is what happens to a small, college town caught
+up in such disaster. How quickly do its people dispense with their men
+of science and turn to superstition and mob rule for hope of survival?
+
+It is perhaps not so apparent to those of us who have grown up with it,
+but we have witnessed in our own time, under threat of calamity, the
+decline of science before a blight of crash-priority engineering
+technology. Today, we hear it faintly whispered, "The Republic has no
+need of men of science."
+
+Insofar as he represents the achievements of our race over the great
+reaches of time, the scientist will always be needed if we are to retain
+the foothold we have gained over Nature. The witch doctors and the
+fortunetellers clamor for his niche and will gladly extend their
+services if we wish to change our allegiance.
+
+The story of THE YEAR WHEN STARDUST FELL is not a story of the distant
+future or of the remote past. It is not a story of a never-never land
+where fantastic happenings take place daily. It is a story of my town
+and yours, of people like you and me and the mayor in townhall, his
+sheriff on the corner, and the professor in the university--a story that
+happens no later than tomorrow.
+
+R. F. J.
+
+
+
+
+Chapter 1. _The Comet_
+
+
+The comet was the only thing in the whole sky. All the stars were
+smothered by the light of its copper-yellow flame, and, although the sun
+had set two hours ago, the Earth was lit as with the glow of a
+thunderous dawn.
+
+In Mayfield, Ken Maddox walked slowly along Main Street, avoiding
+collisions with other people whose eyes were fixed on the object in the
+sky. Ken had spent scores of hours observing the comet carefully, both
+by naked eye and with his 12-inch reflecting telescope. Still he could
+not keep from watching it as he picked his way along the street toward
+the post office.
+
+The comet had been approaching Earth for months, growing steadily to
+bigger proportions in the sky, but tonight was a very special night, and
+Mayfield was watching with increased awe and half-dread--as were
+hundreds of thousands of other communities around the world.
+
+Tonight, the Earth entered the comet's tail, and during the coming
+winter would be swept continuously by its million-mile spread.
+
+There was no visible change. The astronomers had cautioned that none was
+to be expected. The Earth had passed through the tails of comets
+before, although briefly, and none of the inhabitants had been
+physically aware of the event.
+
+This time there was a difference. As intangible as a mere suspicion, it
+could yet be felt, and there was the expectancy of the unknown in the
+air.
+
+Ken prided himself on a scientific attitude, but it was hard not to
+share the feelings of those around him that something momentous and
+mysterious was taking place this night. There would be no quick passage
+this time. Earth would lie within the tail for a period of over four
+months as they both made their way about the sun.
+
+Such close-lying orbits had never occurred before in the known history
+of the world.
+
+"It's frightening, isn't it?"
+
+Ken was aware that he had stopped at the edge of a crowd in front of
+Billings Drugstore, and beside him Maria Larsen was staring intently
+upward as she spoke.
+
+She was a small, blonde girl with intense blue eyes. Ken smiled
+confidently and looked down at her. "No," he said. "It's a beautiful
+thing. It's a kind of miracle that we should be alive when it happened.
+No human beings have ever seen such a sight before."
+
+Maria shivered faintly. "I wish I could feel that way. Do you think it
+will get any bigger?"
+
+"Yes. It will not reach its closest approach for over three months, yet.
+Its approach is very slow so we won't notice much change."
+
+"It is beautiful," Maria agreed slowly, "but, still, it's frightening.
+I'll be glad when it's gone."
+
+Ken laughed and tucked the girl's arm in his. There was something so
+disturbingly serious about the Swedish girl, who was spending a year in
+Mayfield with her parents. Her father, Dr. Larsen, was a visiting
+professor of chemistry, engaged to teach this season at the State
+Agricultural College in Mayfield. Ken's own father was head of the
+chemistry department there.
+
+"Come down to the post office with me to get some stamps," Ken said.
+"Then I'll drive you home."
+
+"It's closed. You can't get any stamps tonight."
+
+"Maybe the boys in gray haven't been too busy watching the comet to
+stock the stamp machine. Look out!" He pulled her back quickly as she
+stepped from the curb. A wheezy car moved past, its driver completely
+intent on his observation of the comet.
+
+"Old Dad Martin's been trying to wrap that thing around a pole for 25
+years," Ken said unhappily. "It looks like he's going to make it
+tonight!"
+
+Along the street, bystanders whistled at the aged driver, and
+pedestrians yelled at one another to get out of the way. The car's
+progress broke, for a moment, the sense of ominous concern that spread
+over Main Street.
+
+At the post office, Ken found Maria's prediction was right. The stamp
+machine was empty.
+
+"I have some at home," the girl said. "You're welcome to them."
+
+"I need a lot. Mother's sending out some invitations."
+
+"I'm sure I have enough. Papa says I'm supporting the postal department
+with all the letters I write to everyone at home in Sweden."
+
+"All right, I'll take you up on it. I'll get skinned if I don't get
+them. I was supposed to pick them up this afternoon and I forgot all
+about it."
+
+"I thought I learned good English in the schools in Sweden," said Maria
+wistfully, "but I don't seem to understand half what you say. This
+'skinned'--what does that mean?"
+
+"Nothing you need to worry about," Ken laughed. "If you would teach me
+English the way you learned it, Miss Rymer would give me a lot better
+marks in her class."
+
+"Now I think you're making fun of me," said Maria.
+
+"Not me. Believe me, I'm not! Hey, look what's coming down the street!
+That's old Granny Wicks. I thought she had died a long time ago."
+
+In front of the post office, an ancient white horse drew a light,
+ramshackle wagon to a halt. From the seat, a small, wizened, old woman
+looked at the crowd on the street. She dropped the reins in front of
+her. Her eyes, set deeply in her wrinkled face, were bright and sharp as
+a bird's, and moved with the same snapping motions.
+
+From both sides of the street the bystanders watched her. Granny Wicks
+was known to everyone in Mayfield. She was said to have been the first
+white child born in the valley, almost a hundred years ago. At one time,
+her horse and wagon were familiar, everyday sights on the streets, but
+she seldom came to town any more.
+
+Many people, like Ken, had had the vague impression that she was dead.
+
+She appeared lively enough now as she scrambled down from the wagon seat
+and moved across the sidewalk to the post office steps. She climbed
+these and stood in front of the doors. Curiously, the crowd watched her.
+
+"Listen to me, you!" she exclaimed suddenly. Her voice was high and
+shrill, reminding Ken of an angry bird's. Maria looked at him
+wonderingly, and he shrugged his shoulders.
+
+"Don't ask me what she's up to. She's pulled some corkers in her time."
+
+Granny Wicks looked over the gathering crowd. Then she pointed a bony
+arm at the glowing comet. "You know what it means," she exclaimed
+shrilly. "You feel it in your bones, and your hearts quiver with fear.
+There's death in the sky, and an omen to all the inhabitants of the
+Earth that destruction awaits men."
+
+She stopped and glared. The laughter that had first greeted her gave
+way to uneasiness as people glanced at their neighbors, then hastily at
+the comet, and back to Granny Wicks. Some began moving away in
+discomfort.
+
+"You're scared to listen, eh?" Granny shrilled at them. "You're afraid
+to know what's in store! Turn your backs then! Close your ears! You
+can't change the signs in the heavens!"
+
+A movement in the crowd caught Ken's eye. He saw the stout figure of
+Sheriff Johnson moving toward the steps. The law officer stepped out in
+front and approached Granny Wicks.
+
+"Come on now, Granny," said Sheriff Johnson. "You wouldn't want to scare
+folks out of a good night's sleep, would you?"
+
+"You let me alone, Sam Johnson! I'm saying what I have to say, and
+nobody's going to stop me. Listen to me, all of you! There's death in
+Mayfield in the winter that's coming, and spring won't see one man in
+ten left alive. Remember what I say. The stars have sent their
+messenger...."
+
+"Okay, Granny, let's go," said the Sheriff. "You've said your piece and
+scared the daylights out of everybody. You'd better be getting on out to
+your place before it gets dark. The comet won't light things up all
+night. How's your supply of wood and coal for the winter, Granny? The
+boys been getting it in for you?"
+
+"I got plenty, Sam Johnson. More'n I'll need for this winter. Come
+spring, I won't be around to be needing anything else from anybody.
+Neither will you!"
+
+The Sheriff watched as the old woman climbed to her wagon seat again.
+Those standing nearby helped her gently. She took the reins and snapped
+them at the weary horse.
+
+"Take care of yourself, Granny!" someone called.
+
+Sheriff Johnson stood silently on the steps until the wagon passed out
+of sight around the corner of the block. Then he moved slowly by Ken and
+Maria. He smiled grimly at Ken.
+
+"It's bad enough to have that thing hanging up there in the sky without
+that kind of talk." He glanced up for a moment. "It gives you the
+willies. Sometimes I wonder, myself, if Granny isn't half-right."
+
+There was a stillness in the street as the people slowly dispersed ahead
+of the Sheriff. Voices were low, and the banter was gone. The yellow
+light from the sky cast weird, bobbing shadows on the pavement and
+against the buildings.
+
+"Shall we go?" Maria asked. "This is giving me--what do you say?--the
+creeps."
+
+"It's crazy!" Ken exclaimed with a burst of feeling. "It shows what
+ignorance of something new and strange can do. One feebleminded, old
+woman can infect a whole crowd with her crazy superstitions, just
+because they don't know any more about this thing than she does!"
+
+"It's more than that," said Maria quietly. "It's the feeling that people
+have always had about the world they find themselves in. It doesn't
+matter how much you know about the ocean and the winds and the tides,
+there is always a feeling of wonder and fear when you stand on the shore
+and watch enormous waves pounding the rocks.
+
+"Even if you know what makes the thunder and the lightning, you can't
+watch a great storm without feeling very small and puny."
+
+"Of course not," Ken said. "Astronomers feel all that when they look a
+couple of billion light-years into space. Physicists know it when they
+discover a new particle of matter. But _they_ don't go around muttering
+about omens and signs. You can feel the strength of natural forces
+without being scared to death.
+
+"Maybe that's what marks the only real difference between witches and
+scientists, after all! The first scientist was the guy who saw fire come
+down from the sky and decided that was the answer to some of his
+problems. The witch doctor was too scared of both the problem and the
+answer to believe the problem could ever have a solution. So he
+manufactured delusions to make himself and others think the problem
+would just quietly go away. There are a lot of witch doctors still
+operating and they're not all as easy to recognize as Granny Wicks!"
+
+They reached Ken's car, and he held the door open for Maria. As he
+climbed in his own side he said, "How about coming over to my place and
+having a look at the comet through my telescope? You'll see something
+really awe-inspiring then."
+
+"I'd love to. Right now?"
+
+"Sure." Ken started the car and swung away from the curb, keeping a
+careful eye on the road, watching for any others like Dad Martin.
+
+"Sometimes I think there will be a great many things I'll miss when we
+go back to Sweden," Maria said thoughtfully, as she settled back in the
+seat, enjoying the smooth, powerful ride of Ken's souped-up car.
+
+Ken shot a quick glance at her. He felt a sudden sense of loss, as if he
+had not realized before that their acquaintance was strictly temporary.
+"I guess a lot of people here will miss the Larsens, too," he said
+quietly. "What will you miss most of all?"
+
+"The bigness of everything," said Maria. "The hundreds and hundreds of
+miles of open country. The schoolboys with cars to cover the distance.
+At home, a grown man is fortunate to have one. Papa had a very hard time
+owning one."
+
+"Why don't you persuade him to stay here? Mayfield's a darn good place
+to live."
+
+"I've tried already, but he says that when a man is grown he has too
+many things to hold him to the place he's always known. He has promised,
+however, to let me come back if I want to, after I finish the university
+at home."
+
+"That would be nice." Ken turned away, keeping his eyes intently on the
+road. There was nothing else he could say.
+
+He drove slowly up the long grade of College Avenue. His family lived in
+an older house a block below the brow of College Hill. It gave a
+pleasant view of the entire expanse of the valley in which Mayfield was
+situated. The houses of the town ranged themselves in neat, orderly rows
+below, and spread out on the other side of the business section. In the
+distance, north and south, were the small farms where hay and dairy
+stock and truck crops had been raised since pioneer times.
+
+"I'll miss this, too," said Maria. "It's beautiful."
+
+Ken wasn't listening to her, however. The car had begun to sputter
+painfully as it took the curve leading off the avenue to Linwood Street
+where Ken lived. He glanced at the heat indicator. The needle was almost
+at the boiling point.
+
+"For Pete's sake! The water must have leaked out of the radiator."
+
+Ken pulled the car to the curb in front of the house and got out,
+leaving the engine idling. He raised the hood and cautiously turned the
+radiator cap with his handkerchief. A cloud of steam shot out, but when
+he lifted the cap the water was not quite boiling, and there was plenty
+of it.
+
+Maria came up beside him. "Is something wrong?"
+
+"You've got me there. The radiator's clean. The pump isn't more than two
+months old. I checked the timing last Saturday. Something's gone sour to
+make her heat up like that."
+
+From across the street, his neighbor, Mr. Wilkins, approached with a
+grin. "Looks like the same thing hit us both. Mine started boiling as I
+came up the hill tonight. It's got me stumped."
+
+"The circulation must be clogged," said Ken. "Either that or the timing
+has slipped off. That's all it could be."
+
+"Those were my ideas, too. Both wrong in my case. Let me know if you get
+any other bright ones." He moved off with a pleasant wave of his hand.
+
+"It will cool," said Ken to Maria. "By the time you're ready to leave
+I'll be able to drive you home."
+
+"I wouldn't want you to damage your car. I can walk."
+
+"We'll see."
+
+He led her around the house. In the center of the backyard loomed the
+high, round dome of his amateur observatory. It was Ken's personal
+pride, as well as that of the members of the Mayfield High Science Club,
+who had helped build the shell and the mountings. The club used it every
+Thursday night when the seeing was good.
+
+Ken had ground the precision mirror alone. He had ground his first one,
+a 4-inch glass, when he was a Boy Scout. Three years later he had
+tackled the tremendous job of producing a 12-inch one. Professor Douglas
+of the physics department at the college had pronounced it perfect.
+
+Ken opened the door and switched on the light inside the dome. "Don't
+mind the mess," he said. "I've been taking photographs of the comet for
+the last month."
+
+To Maria, who was used to the clutter of a laboratory, there was no
+mess. She admired the beauty of the instrument Ken and his friends had
+built. "Our university telescope isn't any better," she said.
+
+"You can't tell by the plumbing," Ken laughed. "Better take a look at
+the image before you pass judgment."
+
+Skilfully, he swung the long tube around to the direction of the comet.
+With the fine controls he centered the cross hairs of the eyepiece on
+the blazing object in the sky.
+
+"It's moving too fast to stay in range very long," he said.
+
+Maria stepped to the observer's position. She gasped suddenly at the
+image of the fiery monster hovering in the sky. Viewing the comet along
+the axis of the tail, as the Earth lay at the edge of it, an observer's
+vision was like that of a miniature, flaming sun with an offcenter halo
+of pulsing, golden light.
+
+To Maria, the comet seemed like something living. Slow, almost
+imperceptible ripples in the glowing scarves of light made them sway as
+if before some mighty, cosmic wind in space.
+
+"It's beautiful," Maria murmured, "but it's terrible, too. No wonder the
+ancients believed comets brought evil and death upon the Earth. I could
+almost believe it, myself!"
+
+
+
+
+Chapter 2. _Breakdown_
+
+
+Ken Maddox could not remember a time when he had not wanted to become a
+scientist. Maybe it started when his father first invited him to look
+through a microscope. That was when he was a very small boy, but he
+could still remember the revelation of that experience. He remembered
+how it had seemed, on looking away from the lens, that the whole world
+of normal vision was only a fragment of that which was hidden behind
+curtains and shrouds and locked doors. Only men, like his father, with
+special instruments and wisdom and knowledge, could ever hope to
+understand the world of the unknown, which the ordinary person did not
+even suspect.
+
+Now, at sixteen, Ken was tall, with black hair that had an annoying curl
+to it. He was husky enough to be the main asset of the football squad of
+Mayfield High School in his senior year. He knew exactly where he was
+going and what he was going to do. He would be one of those men who
+lived beyond the mere surface of the world, and who would seek to
+understand its deep and hidden meanings.
+
+Ken thought of this as he watched Maria at the telescope. What a
+difference between knowing the comet as this instrument showed it, and
+with the knowledge revealed by modern astronomy, and knowing it as the
+average person in Mayfield did.
+
+Ken and Maria stayed in the observatory until the comet had almost
+disappeared below the horizon. Mrs. Maddox brought a snack of sandwiches
+and punch.
+
+"I always do this when I see the observatory dome open," she said,
+smiling. "I never know when Ken's going to quit his stargazing and come
+in for the night."
+
+"We're about through, Mom. I'll drive Maria over to her place and be
+back in a little while."
+
+"I'm going to loan him the stamps," Maria said.
+
+Mrs. Maddox looked at Ken in mock severity. "You mean you forgot
+_again_?"
+
+"No--I remembered," Ken said lamely. "After the post office closed, that
+is. Anyhow, Maria has plenty."
+
+"Well," said Mrs. Maddox, "I know who's going to have to mail my
+invitations if they're ever to get out in time for the party!"
+
+After he and Maria had finished the snack, Ken started his car again.
+The engine had cooled to normal temperature, but he watched the
+indicator closely as he drove. Nothing seemed right about the action of
+the car. The engine had turned over sluggishly when he pressed the
+starter button, as if the battery were almost dead. Now it lugged
+heavily, even when going downhill.
+
+"The whole thing's haywire," Ken said irritably. "It acts like the
+crankcase is full of sand or something."
+
+"Let me walk the rest of the way," said Maria. "You take the car back,
+and I'll bring the stamps over on my way to school in the morning."
+
+"No, we're almost there. Nothing much more could go wrong than already
+has."
+
+When they reached Maria's place they found Professor and Mrs. Larsen
+sitting on the porch.
+
+"We've been watching the comet," Maria said excitedly. "Ken let me look
+at it through his telescope."
+
+"A remarkable event," said Professor Larsen. "I feel very fortunate to
+be alive to witness it. My generation hasn't had this kind of privilege
+before. I was a child when Halley's comet appeared."
+
+"I've been trying to tell Maria what a lucky break this is, but she
+agrees with Granny Wicks," said Ken.
+
+"Oh, I do not!" Maria snapped.
+
+"Granny Wicks?" Professor Larsen inquired. "Your grandmother?"
+
+"No." Ken tried to cover the professor's lack of familiarity with
+American idioms. "She's just the town's oldest citizen. Everybody likes
+her and calls her Granny, but her mind belongs to the Middle Ages."
+
+"You hear that, Papa?" cried Maria. "Her mind belongs to the Middle
+Ages, and he says I'm like Granny Wicks!"
+
+Maria's mother laughed gently. "I'm sure Ken didn't mean your mind is of
+the Middle Ages, too, dear."
+
+Ken flushed. "Of course not. What I mean is that Granny Wicks thinks the
+comet is something mysterious and full of omens, and Maria says she sort
+of thinks the same about it."
+
+"I didn't say anything about omens and signs!"
+
+"Well, except for that...."
+
+"Except for that, I suppose we are all in agreement," said Professor
+Larsen slowly. He drew on his pipe and it glowed brightly in the
+darkness. "The whole universe is a terrible place that barely tolerates
+living organisms. Almost without exception it is filled with great suns
+that are flaming, atomic furnaces, or dead cinders of planets to which a
+scrap of poisonous atmosphere may cling. Yes, it is indeed a great
+miracle that here in this corner of the universe conditions exist where
+living things have found a foothold. We may be glad that this is so, but
+it does not pay man to ever forget the fierceness of the home in which
+he lives. Earth is merely one room of that home, on the pleasant, sunny
+side of the house. But the whole universe is his home."
+
+"That's the thing I've been trying to say," Ken answered. "We can know
+this without being afraid."
+
+Maria's father nodded. "Yes. Fear is of no use to anyone. Awe, respect,
+admiration, wonder, humility--these are all necessary. But not fear."
+
+Maria turned from the group. "I'll bring the stamps, Ken," she said.
+
+"Won't you come in and have some cake?" Mrs. Larsen asked.
+
+"No, thanks. Mother fed us before we left my place. I'm afraid I
+couldn't eat any more."
+
+In a moment Maria was back. "Here are two whole sheets," she said. "I
+hope that will be enough."
+
+"Plenty. I'll see you get repaid tomorrow. Good night, everybody."
+
+"Good night, Ken."
+
+He moved down the walk toward his car and got in. When he pressed die
+starter button the engine groaned for a few seconds and came to a
+complete stop. He tried again; there was only a momentary, protesting
+grind.
+
+Ken got out and raised the hood and leaned over the engine in disgusted
+contemplation. There was no visible clue to the cause of the trouble.
+
+"Is your battery dead?" Professor Larsen called.
+
+"No. It's something else." Ken slammed the hood harder than he had
+intended. "I'll have to leave it here overnight and pick it up in the
+morning."
+
+"I can push you home with my car, or at least give you a ride."
+
+"No, please don't bother," Ken said. "I'll tow it home with Dad's car
+tomorrow. I'd just as soon walk, now. It's only a few blocks."
+
+"As you wish. Good night, Ken."
+
+"Good night, Professor."
+
+       *       *       *       *       *
+
+Ken's clock radio woke him the next morning. He reached over to shut off
+the newscast it carried. There was only one item any commentator talked
+about now, the comet. Ken wondered how they could get away with a
+repetition of the same thing, over and over, but they seemed able to get
+an audience as long as they kept the proper tone of semi-hysteria in
+their voices.
+
+As his hand touched the dial to switch it off, something new caught
+Ken's attention. "A curious story is coming in from all parts of the
+country this morning," the announcer said. "Auto mechanics are reporting
+a sudden, unusually brisk business. No one knows the reason, but there
+seems to be a virtual epidemic of car breakdowns. Some garagemen are
+said to be blaming new additives in gasoline and lubricating oil. It is
+reported that one major oil company is undertaking an investigation of
+these charges, but, in the meantime, no one really seems to have a good
+answer.
+
+"In connection with the comet, however, from widely scattered areas
+comes the report that people are even blaming these engine failures on
+our poor, old comet. In the Middle Ages they blamed comets for
+everything from soured cream to fallen kingdoms. Maybe this modern age
+isn't so different, after all. At any rate, this comet will no doubt be
+happy to get back into open space, where there are no Earthmen to blame
+it for all their accidents and shortcomings!"
+
+Ken switched off the radio and lay back on the pillow. That was a real
+choice one--blaming the comet for car breakdowns! Page Granny Wicks!
+
+The breakdowns were curious, however. There was no good reason why there
+should be a sudden rash of them. He wondered if they had actually
+occurred, or if the story was just the work of some reporter trying to
+make something out of his own inability to get into a couple of garages
+that were swamped by the usual weekend rush. This was most likely the
+case.
+
+However it didn't explain why his own car had suddenly conked out, Ken
+thought irritably. He'd have to get it over to Art Matthews' garage as
+soon as school was out.
+
+At school that morning there was little talk of anything but the comet.
+After physics class, Ken was met by Joe Walton and three other members
+of the science club, of which Ken was president.
+
+"We want a special meeting," said Joe. "We've just had the most
+brilliant brainstorm of our brief careers."
+
+"It had better be more brilliant than the last one," said Ken. "That
+drained the club treasury of its last peso."
+
+"I was watching the comet last night, and I began to smell the dust of
+its tail as the Earth moved into it...."
+
+"You must have been smelling something a lot more powerful than comet
+dust."
+
+"I said to myself--why don't we collect some of that stuff and bottle it
+and see what it's made of? What do you think?" Joe asked eagerly.
+
+Ken scowled. "Just how many molecules of material from the comet's tail
+do you think there are in the atmosphere over Mayfield right now?"
+
+"How do I know? Six--maybe eight."
+
+Ken laughed. "You're crazy, anyway. What have you got in mind?"
+
+"I'm not sure," Joe answered seriously. "We know the comet's tail is so
+rarefied that it resembles a pretty fair vacuum, but it _is_ composed of
+something. As it mixes with the atmosphere we ought to be able to
+determine the changing makeup of the air and get a pretty good idea of
+the composition of the comet's tail. This is a chance nobody's ever had
+before--and maybe never will again, until we go right out there in
+spaceships--being right inside a comet's tail long enough to analyze
+it!"
+
+"It sounds like a terrific project," Ken admitted. "The universities
+will all be doing it, of course, but it would still be a neat trick if
+we could bring it off. Maybe Dad and Professor Larsen will have ideas on
+how we could do it."
+
+"We ought to be able to make most of the equipment," said Joe, "so it
+shouldn't be too expensive. Anyway, we'll have a meeting then, right
+after school?"
+
+"Yes--no, wait. The engine in my car conked out. I've got to go over to
+Art's with it this afternoon. You go ahead without me. Kick the idea
+around and let me know what's decided. I'll go along with anything short
+of mortgaging the football field."
+
+"Okay," said Joe. "I don't see why you don't just sell that hunk of junk
+and get a real automobile. You've got a good excuse now. This breakdown
+is a good omen!"
+
+"Don't talk to me about omens!"
+
+       *       *       *       *       *
+
+Art Matthews had the best equipped garage in town, and was a sort of
+unofficial godfather to all the hot-rodders in the county. He helped
+them plane the heads of their cars. He got their special cams and
+carburetor and manifold assemblies wholesale, and he gave them fatherly
+advice about using their heads when they were behind the wheel.
+
+Ken called him at noon. "I've got troubles, Art," he said. "Can I bring
+the car over after school?"
+
+"I'm afraid I can't do a thing for you today," Art Matthews said. "I
+don't know what's happened, but I've had tow calls all day. Right now
+the shop is full and they're stacked four-high outside. I'm going to do
+a couple of highway patrol cars and Doc Adams'. I figured they ought to
+have priority."
+
+Ken felt a sudden, uneasy sense of recognition. This was the same kind
+of thing he had heard about on the radio that morning! A rash of car
+breakdowns all over the country. Now, the same thing in Mayfield!
+
+"What's wrong with them?" he asked the mechanic. "Why is everybody
+coming in with trouble at the same time?"
+
+"They're not coming in," said Art. "I'm having to go out after them. I
+don't know yet what's wrong. They heat up and stall. It's the craziest
+thing I've run into in 30 years of garage work."
+
+"Mine acted the same way," Ken said.
+
+"Yeah? Well, you're in good company. Listen, why don't you and maybe Joe
+and Al come down and give me a hand after school? I'll never get on top
+here without some help. After we get these police and other priority
+cars out of the way, maybe we can get a quick look at what's wrong with
+yours."
+
+"It's a deal."
+
+Joe Walton wasn't much in favor of spending that afternoon and an
+unknown number of others in Art's garage; he was too overwhelmed by the
+idea of analyzing the material of the comet's tail. However Art had done
+all of them too many favors in the past to ignore his call for help.
+
+"The trouble with this town," Joe said, "is that three-fourths of the
+so-called automobiles running around the streets belong down at
+Thompson's Auto Wrecking."
+
+Al Miner agreed to come, too. When they reached the garage after school
+they saw Art had not been exaggerating. His place was surrounded by
+stalled cars, and the street outside was lined with them in both
+directions. Ken borrowed the tow truck and brought his own car back from
+the Larsens'. By that time the other two boys were at work.
+
+"Batteries are all okay," Art told him. "Some of these engines will turn
+over, but most of them won't budge. I've jerked a couple of heads, but
+I can't see anything. I want you to take the pans off and take down the
+bearings to see if they're frozen. That's what they act like. When
+that's done, we'll take it from there."
+
+Ken hoisted the front end of one of the police cars and slid under it on
+a creeper. Art's electric impact wrenches were all in use, so he began
+the laborious removal of the pan bolts by hand. He had scarcely started
+when he heard a yell from Joe who was beneath the other police car.
+
+"What's the matter?" Art called.
+
+"Come here! Look at this!"
+
+The others crowded around, peering under the car. Joe banged and pried
+at one of the bearings, still clinging to the crankshaft after the cap
+had been removed.
+
+"Don't do that!" Art shouted at him. "You'll jimmy up the crankshaft!"
+
+"Mr. Matthews," Joe said solemnly, "this here crankshaft has been
+jimmied up just as much as it's ever going to get jimmied. These
+bearings are welded solid. They'll have to be machined off!"
+
+"Nothing could freeze them to the shaft that hard," Art exclaimed.
+
+Joe moved out of the way. Art crawled under and tapped the bearing. He
+pried at it with a chisel. Then he applied a cold chisel and pounded.
+The bearing metal came away chip by chip, but the bulk of it clung to
+the shaft as if welded.
+
+"I've never seen anything like that before in my life!" Art came out
+from beneath the car.
+
+"What do you think could cause it?" Joe asked.
+
+"Gas!" said Art vehemently. "The awful gas they're putting out these
+days. They put everything into it except sulphur and molasses, and they
+expect an engine to run. Additives, they call 'em! Detergents! Why can't
+they sell us plain old gasoline?"
+
+Ken watched from a distance behind the group. He looked at the silent,
+motionless cars in uneasy speculation. He recalled again the radio
+announcement of that morning. Maybe it _could_ be something they were
+adding to the gas or oil, as Art said. It couldn't, however, happen so
+suddenly--not all over the country. Not in New York, Montgomery,
+Alabama, San Francisco, and Mayfield. Not all at the same time.
+
+Art turned up the shop lights. Outside, as the sun lowered in the sky,
+the glow of the comet began turning the landscape a copper-yellow hue.
+Its light came through the broad doors of the garage and spread over the
+half-dismantled cars.
+
+"All right, let's go," said Art. His voice held a kind of false
+cheeriness, as if something far beyond his comprehension had passed
+before him and he was at a loss to meet it or even understand it.
+
+"Let's go," he said again. "Loosen all those connecting rods and get the
+shafts out. We'll see what happens when we try to pull the pistons."
+
+
+
+
+Chapter 3. _Power Failure_
+
+
+The news broadcasts the following morning were less hysterical than
+previously. Because the news itself was far more serious, the announcers
+found it unnecessary to inject artificial notes of urgency.
+
+Ken listened to his bedside radio as he watched the first tint of dawn
+above the hills east of the valley. "The flurry of mechanical failures,
+which was reported yesterday, has reached alarming proportions," the
+announcer said. "During the past 24 hours garages in every section of
+the nation have been flooded with calls. From the other side of the
+Atlantic reports indicate the existence of a similar situation in Europe
+and in the British Isles.
+
+"Automobile breakdowns are not the most serious accidents that are
+taking place. Other forms of machinery are also being affected. A crack
+train of the Southern Pacific came to a halt last night in the Arizona
+desert. All efforts of the crew to repair the stalled engine were
+fruitless. A new one had to be brought up in order for the passengers to
+continue on their way early this morning.
+
+"From Las Vegas comes word that one of the huge generators at Hoover Dam
+has been taken out of service because of mechanical failure. Three other
+large municipalities have had similar service interruptions. These are
+Rochester, New York, Clinton, Missouri, and Bakersfield, California.
+
+"Attempts have been made to find some authoritative comment on the
+situation from scientists and Government officials. So far, no one has
+been willing to commit himself to an opinion as to the cause of this
+unexplained and dangerously growing phenomenon.
+
+"Yesterday it was jokingly whispered that the comet was responsible.
+Today, although no authority can be found to verify it, the rumor
+persists that leading scientists are seriously considering the
+possibility that the comet may actually have something to do with the
+breakdowns."
+
+Ken turned off the radio and lay back with his hands beneath his head,
+staring at the ceiling. His first impulse was to ridicule again this
+fantastic idea about the comet. Yet, there had to be _some_ explanation.
+
+He had seen enough of the engines in Art's garage last night to know
+they had suffered no ordinary mechanical disorder. Something had
+happened to them that had never happened to engines before, as far as he
+knew. The crankshafts were immovable in their bearings. The pistons had
+been frozen tight in the cylinders when they tried to remove some of
+them. Every moving part was welded to its mating piece as solidly as if
+the whole engine had been heated to the very edge of melting and then
+allowed to cool.
+
+Apparently something similar was happening to engines in every part of
+the world. It could only mean that some common factor was at work in
+London, and Paris, and Cairo, and Mayfield. The only such factor newly
+invading the environment of every city on the globe was the comet.
+
+It would almost require a belief in witchcraft to admit the comet might
+be responsible!
+
+Ken arose and dressed slowly. By the time he was finished he heard his
+father's call to breakfast from downstairs.
+
+Professor Maddox was already seated when Ken entered the dining room. He
+was a tall, spare man with an appearance of intense absorption in
+everything about him.
+
+He glanced up and nodded a pleasant good morning as Ken approached. "I
+hear you worked overtime as an auto mechanic last night," he said.
+"Isn't that a bit rough, along with the load you're carrying at school?"
+
+"Art asked us to do him a favor. Haven't you seen what's been happening
+around town?"
+
+"I noticed an unusual number of cars around the garage, and I wondered
+about it. Has everyone decided to take care of their winter repairs at
+the same time?"
+
+"Haven't you heard the radio, either, Dad?"
+
+"No. I've been working on my new paper for the _Chemical Journal_ until
+midnight for the last week. What has the radio got to do with your work
+as a mechanic?"
+
+Quickly, Ken outlined to his father the events he had heard reported the
+past two days. "It's not only automobiles, but trains, power plants,
+ships, everything--"
+
+Professor Maddox looked as if he could scarcely believe Ken was not
+joking. "That would certainly be a strange set of coincidences," he said
+finally, "provided the reports are true, of course."
+
+"It's true, all right," said Ken. "It's not a matter of coincidence.
+Something is causing it to happen!"
+
+"What could that possibly be?"
+
+"There's talk about the comet having something to do with it."
+
+Professor Maddox almost choked on his spoonful of cereal. "Ken," he
+laughed finally, "I thought you were such a stickler for rigid,
+scientific methods and hypotheses! What's happened to all your rigor?"
+
+Ken looked down at the tablecloth. "I know it sounds ridiculous, like
+something out of the dim past, when they blamed comets for corns, and
+broken legs, and lost battles. Maybe this time it isn't so crazy when
+you stop to think about it, and it's absolutely the only new factor
+which could have some worldwide effect."
+
+"How could it have any effect at all--worldwide or otherwise?" Professor
+Maddox demanded.
+
+"The whole world is immersed in its tail."
+
+"And that tail is so tenuous that our senses do not even detect the
+fact!"
+
+"That doesn't mean it couldn't have some kind of effect."
+
+"Such as stopping engines? Well, you're a pretty good mechanic. Just
+what did the comet do to all these stalled pieces of machinery?"
+
+Ken felt his father was being unfair, yet he could scarcely blame him
+for not taking the hypothesis seriously. "I don't know what the comet
+did--or could do--" he said in a low voice. "I just know I've never seen
+any engines like those we took apart last night."
+
+In detail, he described to his father the appearance of the engine parts
+they had dismantled. "I brought home some samples of metal we cut from
+the engine blocks with a torch. Would you take them up to the laboratory
+at the college and have them examined under the electron microscope?"
+
+"I wouldn't have time to run any such tests for several days. If you are
+intent on pursuing this thing, however, I'll tell you what I'll do. You
+and your science club friends can come up and use the equipment
+yourselves."
+
+"We don't know how!"
+
+"I'll arrange for one of the teaching fellows to show you how to prepare
+metallic samples and operate the electron microscope."
+
+Ken's eyes lighted. "Gee, that would be great if you would do that, Dad!
+Will you, really?"
+
+"Come around after school today. I'll see that someone is there to help
+you."
+
+Art Matthews was disappointed when Ken called and said none of the
+science club members would be around that afternoon. He couldn't keep
+from showing in his voice that he felt they were letting him down.
+
+"It's not any use trying to get those engines running," Ken said. "The
+pistons would never come out of most of them without being drilled out.
+We're not equipped for that. Even if we got things loosened up and
+running again, what would keep the same thing from happening again?
+That's what we've got to find out."
+
+Art was unable to accept this point of view. He held a bewildered but
+insistent belief that something ought to be done about the mounting pile
+of disabled cars outside his garage. "We can get some of them going,
+Ken. You fellows have got to lend a hand. I can't tackle it without
+help."
+
+"I'm sorry," Ken said. "We're convinced there's got to be another way to
+get at the problem."
+
+"All right. You guys do whatever you figure you've got to do. I can
+probably round up some other help."
+
+Ken hung up, wishing he had been able to make Art understand, but the
+mechanic would probably be the last person in Mayfield to accept that
+the comet could have any possible connection with the frozen engines.
+
+As Ken walked to school that morning he estimated that at least 25
+percent of the cars in Mayfield must be out of commission. Some of the
+men in his neighborhood were in their driveways futilely punching their
+starters while their engines moaned protestingly or refused to turn over
+at all. Others were peering under the hoods, shaking their heads, and
+calling across the yards to their neighbors.
+
+In the street, some cars were lugging with great difficulty, but others
+moved swiftly along without any evidence of trouble. Ken wondered how
+there could be such a difference, and if some might prove immune, so to
+speak, to the effect.
+
+He had called a meeting of the club in the chemistry laboratory for an
+hour before the first class. All of the members were there when he
+arrived.
+
+Ken called the meeting to order at once. "I guess you've all heard the
+news broadcasts, and you know what's happening here in town," he said.
+"Yesterday you talked about the possibility of collecting samples and
+analyzing the material of the comet's tail. I don't know what you
+decided. You can fill me in later on that. The problem is a lot more
+important now than it was yesterday.
+
+"It's beginning to seem as if the presence of the comet may actually be
+responsible for the wave of mechanical failures. Finding out how and why
+is just about the biggest problem in the whole world right now."
+
+A babble of exclamations and protests arose immediately from the other
+members of the group. Al Miner and Dave Whitaker were on their feet. Ted
+Watkins waved a hand and shouted, "Don't tell us you're swallowing that
+superstitious junk!"
+
+Ken held up a hand. "One at a time. We haven't got all day, and there's
+a lot of ground to cover. Ted, what's your comment?"
+
+"My comment is that anybody's got a screw loose if he believes the
+comet's got anything to do with all those cars being in Art's garage.
+That stuff went out of fashion after the days of old Salem."
+
+Several of the others nodded vigorously as Ted spoke.
+
+"I guess we do need to bring some of you up to date on the background
+material," said Ken. "Joe, tell them what we found last night."
+
+Briefly, Joe Walton described the engines they had dismantled.
+"Something had happened to them," he said, "which had never happened to
+an engine since Ford drove his first horseless carriage down Main
+Street."
+
+"It doesn't mean anything!" exclaimed Ted. "No matter what it is, we
+haven't any basis for tying it to the comet."
+
+"Can you name any other universal factor that could account for it?" Ken
+asked. "We have an effect that appears suddenly in Mayfield, Chicago,
+Paris, and Cairo. Some people say it's the additives in gasoline, but
+you don't get them showing up simultaneously in all parts of the world.
+There is no other factor common to every locality where the mechanical
+failures have occurred, except the comet.
+
+"So I called this meeting to suggest that we expand our project beyond
+anything we previously had in mind. I suggest we try to determine the
+exact relationship between the breakdowns and the appearance of the
+comet."
+
+Big Dave Whitaker, sitting at the edge of the room, rose slowly in his
+seat. "You've got the cart before the horse," he said. "You've got a
+nice theory all set up and you want us to beat our brains out trying to
+prove it. Now, take me. I've got a theory that little green men from
+Mars have landed and are being sucked into the air intake of the
+engines. Prove my theory first, why don't you?"
+
+Ken grinned good-naturedly. "I stand corrected, but I won't back down
+very far. I won't suggest we try to prove the connection with the comet,
+but I do propose to set up some experiments to disc
